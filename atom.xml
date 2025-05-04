@@ -70,9 +70,9 @@
     
     <category term="Semiconductor Manufacturing" scheme="http://example.com/tags/Semiconductor-Manufacturing/"/>
     
-    <category term="Research" scheme="http://example.com/tags/Research/"/>
-    
     <category term="Market Trends" scheme="http://example.com/tags/Market-Trends/"/>
+    
+    <category term="Research" scheme="http://example.com/tags/Research/"/>
     
     <category term="Technology" scheme="http://example.com/tags/Technology/"/>
     
@@ -100,11 +100,11 @@
     
     <category term="AI" scheme="http://example.com/tags/AI/"/>
     
-    <category term="Market Trends" scheme="http://example.com/tags/Market-Trends/"/>
-    
     <category term="Semiconductor Technology" scheme="http://example.com/tags/Semiconductor-Technology/"/>
     
     <category term="Chip Design" scheme="http://example.com/tags/Chip-Design/"/>
+    
+    <category term="Market Trends" scheme="http://example.com/tags/Market-Trends/"/>
     
   </entry>
   
@@ -184,9 +184,9 @@
     <category term="Semiconductor" scheme="http://example.com/categories/Semiconductor/"/>
     
     
-    <category term="packaging" scheme="http://example.com/tags/packaging/"/>
-    
     <category term="AI" scheme="http://example.com/tags/AI/"/>
+    
+    <category term="packaging" scheme="http://example.com/tags/packaging/"/>
     
     <category term="semiconductor technology" scheme="http://example.com/tags/semiconductor-technology/"/>
     
