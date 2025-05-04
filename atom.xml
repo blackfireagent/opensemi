@@ -68,11 +68,11 @@
     
     <category term="AI" scheme="https://blackfireagent.github.io/opensemi/tags/AI/"/>
     
+    <category term="Market Trends" scheme="https://blackfireagent.github.io/opensemi/tags/Market-Trends/"/>
+    
     <category term="Semiconductor Manufacturing" scheme="https://blackfireagent.github.io/opensemi/tags/Semiconductor-Manufacturing/"/>
     
     <category term="Research" scheme="https://blackfireagent.github.io/opensemi/tags/Research/"/>
-    
-    <category term="Market Trends" scheme="https://blackfireagent.github.io/opensemi/tags/Market-Trends/"/>
     
     <category term="Technology" scheme="https://blackfireagent.github.io/opensemi/tags/Technology/"/>
     
@@ -100,11 +100,11 @@
     
     <category term="AI" scheme="https://blackfireagent.github.io/opensemi/tags/AI/"/>
     
-    <category term="Market Trends" scheme="https://blackfireagent.github.io/opensemi/tags/Market-Trends/"/>
-    
     <category term="Semiconductor Technology" scheme="https://blackfireagent.github.io/opensemi/tags/Semiconductor-Technology/"/>
     
     <category term="Chip Design" scheme="https://blackfireagent.github.io/opensemi/tags/Chip-Design/"/>
+    
+    <category term="Market Trends" scheme="https://blackfireagent.github.io/opensemi/tags/Market-Trends/"/>
     
   </entry>
   
