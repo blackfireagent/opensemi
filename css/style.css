@@ -475,7 +475,7 @@ body {
   font-weight: bold;
   color: #555;
   line-height: 1.3;
-  font-size: 1.8em;
+  font-size: 1.6em;
   margin-bottom: 0.5em;
   -webkit-transition: color 0.2s;
   -moz-transition: color 0.2s;
@@ -1101,7 +1101,7 @@ a.article-title:hover {
     max-width: 95%;
   }
   .article-title {
-    font-size: 1.8em;
+    font-size: 1.6em;
   }
   .article-entry blockquote {
     padding: 0.8em 1.2em;

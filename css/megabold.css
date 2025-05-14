@@ -1283,7 +1283,8 @@ ul.recent-posts-page{
 
 .post-title-recent{
 	position: absolute;
-	bottom:30px;
+	/*bottom:30px;*/
+	bottom:0px;
 	left:10px;
 	color:white;
 	font-family: 'Roboto',sans-serif;
@@ -1291,7 +1292,7 @@ ul.recent-posts-page{
 	width: 100%;
 	font-weight:700;
 	text-align: center;
-	mix-blend-mode: difference;
+	/*mix-blend-mode: difference;*/
 }
 /*
 .article-header h1{
