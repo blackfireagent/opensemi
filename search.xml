@@ -4,6 +4,39 @@
   
     
     <entry>
+      <title>Aware Programming in ReRAM- Evaluating and Optimizing Write Termination</title>
+      <link href="/opensemi/20250603_Aware-Programming-in-ReRAM--Evaluating-and-Optimizing-Write-Termination/"/>
+      <url>/opensemi/20250603_Aware-Programming-in-ReRAM--Evaluating-and-Optimizing-Write-Termination/</url>
+      
+        <content type="html"><![CDATA[<h2 id="News"><a href="#News" class="headerlink" title="News"></a><a href="https://www.eetimes.com/nxps-edge-llm-strategy-kinara-rag-agents/">News</a></h2><p><strong>NXP’s Edge LLM Strategy: Kinara, RAG, Agents</strong><br>NXP has unveiled its strategy for enabling large language model (LLM) inference on edge devices at the Embedded Vision Summit 2025. The company announced the acquisition of AI accelerator startup Kinara, whose Ara-2 chip enhances LLM performance. With the introduction of GenAI Flow, NXP aims to optimize edge applications by integrating RAG techniques to provide contextual awareness to LLMs, crucial for sectors like automotive and healthcare.</p><p><img src="https://www.eetimes.com/wp-content/uploads/industrial.jpg" alt="NXP Edge LLM Strategy"></p><hr><h2 id="Launches"><a href="#Launches" class="headerlink" title="Launches"></a><a href="https://www.eetimes.com/news-highlights-from-embedded-vision-summit-2025/">Launches</a></h2><p><strong>News Highlights from Embedded Vision Summit 2025</strong><br>The Embedded Vision Summit showcased numerous advancements in edge AI technologies. MemryX was awarded for its MX3 M.2 AI accelerator module, which combines ease of use with efficient performance. Nota AI demonstrated its collaboration with Qualcomm, revealing its enhanced AI model optimization platform. SiMa.ai and Wind River introduced a powerful integrated edge AI solution, while Vision Components presented a modular MIPI bricks system for embedded vision applications.</p><p><img src="https://www.eetimes.com/wp-content/uploads/embedded-vision-summit-featured-image-speaker_source_embedded-vision-summit.jpg" alt="Embedded Vision Summit Highlights"></p><hr><h2 id="Charts"><a href="#Charts" class="headerlink" title="Charts"></a><a href="https://semiwiki.com/ip/weebit-nano/356372-relaxation-aware-programming-in-reram-evaluating-and-optimizing-write-termination/">Charts</a></h2><p><strong>Aware Programming in ReRAM: Evaluating and Optimizing Write Termination</strong><br>The research highlights the advancements in Resistive RAM (ReRAM) technology, particularly in managing conductance drift through voltage overdrive techniques. This method stabilizes memory performance while maintaining energy efficiency, showcasing potential improvements in neuromorphic computing applications. The findings illustrate the balance between energy consumption and stability, crucial for future memory technologies.</p><p><img src="https://semiwiki.com/wp-content/uploads/2025/05/Im1_Weebit-Relaxation-Aware-Programming-in-ReRAM-Optimizing-Write-Termination-RRAM-1024x704.png" alt="ReRAM Performance Chart"></p><hr><h2 id="Research"><a href="#Research" class="headerlink" title="Research"></a><a href="https://semiengineering.com/roadmap-for-ai-hw-development-with-the-role-of-photonic-chips-in-supporting-future-llms-cuhk-nus-uiuc-berkeley/">Research</a></h2><p><strong>Roadmap for AI HW Development, With The Role of Photonic Chips In Supporting Future LLMs</strong><br>A collaborative research paper explores the future of AI computing hardware, emphasizing the role of photonic chips in supporting next-generation large language models (LLMs). The paper outlines the need for innovative computing paradigms, including integrated photonic neural networks and neuromorphic devices, to meet the growing demands of AI models, which are projected to require significant power resources.</p><p><img src="https://semiengineering.com/wp-content/uploads/AdobeStock_482095378-08-06-24.jpeg?fit=1200,672&ssl=1" alt="Photonic Chips in AI Hardware"></p><hr><h2 id="Insight"><a href="#Insight" class="headerlink" title="Insight"></a><a href="https://semiwiki.com/eda/breker-verification-systems/356315-breker-verification-systems-at-the-2025-design-automation-conference/">Insight</a></h2><p><strong>Breker Verification Systems at the 2025 Design Automation Conference</strong><br>Breker Verification Systems showcased its Synthesis and SystemVIP library at DAC 2025, emphasizing the need for advanced verification methodologies in semiconductor design. The solutions presented focus on enhancing verification coverage for complex applications, including AI accelerators and RISC-V cores. Breker’s AI-driven test suite synthesis aims to streamline the testing process, crucial for developing robust semiconductor solutions.</p><p><img src="/opensemi/nan" alt="DAC 2025 Demonstrations"></p><hr><p>Stay tuned for more updates and insights from the semiconductor industry as we continue to track innovations and advancements shaping the future of technology.</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> Device </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> AI </tag>
+            
+            <tag> photonics </tag>
+            
+            <tag> semiconductors </tag>
+            
+            <tag> memory technology </tag>
+            
+            <tag> edge computing </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>VLSI Technology Symposium – Intel Describes i3 Process</title>
       <link href="/opensemi/20250601_VLSI-Technology-Symposium-%E2%80%93-Intel-Describes-i3-Process/"/>
       <url>/opensemi/20250601_VLSI-Technology-Symposium-%E2%80%93-Intel-Describes-i3-Process/</url>
@@ -86,9 +119,9 @@
       
         <tags>
             
-            <tag> Semiconductor Technology </tag>
-            
             <tag> Market Trends </tag>
+            
+            <tag> Semiconductor Technology </tag>
             
             <tag> EUV Lithography </tag>
             
@@ -691,9 +724,9 @@
             
             <tag> Semiconductor Manufacturing </tag>
             
-            <tag> Market Trends </tag>
-            
             <tag> Research </tag>
+            
+            <tag> Market Trends </tag>
             
             <tag> Technology </tag>
             
@@ -722,11 +755,11 @@
             
             <tag> AI </tag>
             
+            <tag> Market Trends </tag>
+            
             <tag> Semiconductor Technology </tag>
             
             <tag> Chip Design </tag>
-            
-            <tag> Market Trends </tag>
             
         </tags>
       
