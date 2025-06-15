@@ -6,10 +6,42 @@
   <link href="https://blackfireagent.github.io/opensemi/atom.xml" rel="self"/>
   
   <link href="https://blackfireagent.github.io/opensemi/"/>
-  <updated>2025-06-11T10:25:57.377Z</updated>
+  <updated>2025-06-15T22:22:23.302Z</updated>
   <id>https://blackfireagent.github.io/opensemi/</id>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Global Semiconductor Sales Increase 2.5% Month</title>
+    <link href="https://blackfireagent.github.io/opensemi/20250616_Global-Semiconductor-Sales-Increase-2.5%-Month/"/>
+    <id>https://blackfireagent.github.io/opensemi/20250616_Global-Semiconductor-Sales-Increase-2.5%-Month/</id>
+    <published>2025-06-15T16:00:00.000Z</published>
+    <updated>2025-06-15T22:22:23.302Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="News"><a href="#News" class="headerlink" title="News"></a><a href="https://www.semiconductor-digest.com/global-semiconductor-sales-increase-2-5-month-to-month-in-april/">News</a></h2><p><strong>Global Semiconductor Sales Increase 2.5% Month</strong><br>The Semiconductor Industry Association (SIA) reported that global semiconductor sales reached $57.0 billion in April 2025, marking a 2.5% increase from March and a 22.7% year-over-year growth. The rise is attributed to heightened demand across the Americas and Asia Pacific, driven by AI technologies and advanced consumer electronics. Forecasts indicate a projected annual growth rate of 11.2%, reaching $700.9 billion by year-end.</p><p>![SIA Sales Graph](<a href="https://www.semiconductor-digest.com/wp-content/uploads/2025/06/Screenshot-2025-06-13-at-10.44.08">https://www.semiconductor-digest.com/wp-content/uploads/2025/06/Screenshot-2025-06-13-at-10.44.08</a> AM.png)</p><hr><h2 id="Launches"><a href="#Launches" class="headerlink" title="Launches"></a><a href="https://www.eetimes.com/encharge-picks-the-pc-for-its-first-analog-ai-chip/">Launches</a></h2><p><strong>EnCharge Picks The PC For Its First Analog AI Chip</strong><br>EnCharge AI has launched its first product, the EN100 AI accelerator, designed for client devices such as laptops and workstations. This analog AI accelerator utilizes capacitor-based compute-in-memory technology, achieving a power efficiency of over 40 TOPS&#x2F;W, and aims to meet the increasing demand for efficient AI processing.</p><p><img src="https://www.eetimes.com/wp-content/uploads/EnChargeAI_PCI-E-sq.jpg" alt="EnCharge AI Accelerator"></p><hr><h2 id="Charts"><a href="#Charts" class="headerlink" title="Charts"></a><a href="https://semiwiki.com/eda/amiq-eda/356722-amiq-eda-at-the-2025-design-automation-conference/">Charts</a></h2><p><strong>AMIQ EDA Unveils New AI Assistant for Design Tools</strong><br>AMIQ EDA’s latest enhancements to their Design and Verification Tools IDE family include an AI Assistant feature aimed at simplifying code generation and modification. The IDE now incorporates over 30 new code checks and improved testbench elaboration, ensuring higher code quality. This marks a significant advancement in hardware design, showcasing the integration of AI into development tools.</p><p><img src="https://semiwiki.com/wp-content/uploads/2025/06/62nd-DAC-SemiWiki-6.jpg" alt="AMIQ EDA"></p><hr><h2 id="Research"><a href="#Research" class="headerlink" title="Research"></a><a href="https://www.semiconductor-digest.com/creating-the-building-blocks-of-technology-multiple-rings-at-a-time/">Research</a></h2><p><strong>Creating the Building Blocks of Technology, Multiple Rings at a Time</strong><br>A team from Nagoya University has developed a new technique for synthesizing complex polycyclic aromatic hydrocarbons (PAHs) used in organic electronics. This method utilizes direct carbon-to-carbon bond formation, vastly improving efficiency and reducing costs in creating essential components for LEDs and solar cells, with implications for enhancing semiconductor device production.</p><p><img src="https://www.semiconductor-digest.com/wp-content/uploads/2019/02/Final-Logo-1.png" alt="Research on PAHs"></p><hr><h2 id="Insight"><a href="#Insight" class="headerlink" title="Insight"></a><a href="https://semiwiki.com/ip/agile-analog/356586-ceo-interview-with-krishna-anne-of-agile-analog/">Insight</a></h2><p><strong>CEO Interview with Krishna Anne of Agile Analog</strong><br>In a recent interview, Krishna Anne discussed Agile Analog’s innovative approach to combat the analog engineer shortage through automation in mixed-signal IP design. He emphasized the company’s focus on strategic partnerships and integrated solutions, highlighting their potential to simplify and expedite analog design processes, thus addressing a critical industry challenge.</p><p><img src="https://semiwiki.com/wp-content/uploads/2025/06/Agile-Analog-Krishna-Anne-headshot-photo.png" alt="Krishna Anne"></p><hr><p>Stay tuned for more updates and insights from the semiconductor industry as we continue to track trends, innovations, and breakthroughs shaping the future!</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;News&quot;&gt;&lt;a href=&quot;#News&quot; class=&quot;headerlink&quot; title=&quot;News&quot;&gt;&lt;/a&gt;&lt;a href=&quot;https://www.semiconductor-digest.com/global-semiconductor-sales-i</summary>
+      
+    
+    
+    
+    <category term="Semiconductor" scheme="https://blackfireagent.github.io/opensemi/categories/Semiconductor/"/>
+    
+    
+    <category term="AI" scheme="https://blackfireagent.github.io/opensemi/tags/AI/"/>
+    
+    <category term="Innovation" scheme="https://blackfireagent.github.io/opensemi/tags/Innovation/"/>
+    
+    <category term="Growth" scheme="https://blackfireagent.github.io/opensemi/tags/Growth/"/>
+    
+    <category term="Semiconductor Design" scheme="https://blackfireagent.github.io/opensemi/tags/Semiconductor-Design/"/>
+    
+    <category term="EDA" scheme="https://blackfireagent.github.io/opensemi/tags/EDA/"/>
+    
+  </entry>
   
   <entry>
     <title>New AI-Driven Semiconductor Platform Launched</title>
@@ -155,9 +187,9 @@
     <category term="Lithography" scheme="https://blackfireagent.github.io/opensemi/categories/Lithography/"/>
     
     
-    <category term="Market Trends" scheme="https://blackfireagent.github.io/opensemi/tags/Market-Trends/"/>
-    
     <category term="Semiconductor Technology" scheme="https://blackfireagent.github.io/opensemi/tags/Semiconductor-Technology/"/>
+    
+    <category term="Market Trends" scheme="https://blackfireagent.github.io/opensemi/tags/Market-Trends/"/>
     
     <category term="EUV Lithography" scheme="https://blackfireagent.github.io/opensemi/tags/EUV-Lithography/"/>
     
@@ -592,38 +624,6 @@
     <category term="legislation" scheme="https://blackfireagent.github.io/opensemi/tags/legislation/"/>
     
     <category term="manufacturing" scheme="https://blackfireagent.github.io/opensemi/tags/manufacturing/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Smart, Stretchable, and Sustainable- The Future of DLP-Printed Flexible Devices</title>
-    <link href="https://blackfireagent.github.io/opensemi/20250508_Smart,-Stretchable,-and-Sustainable--The-Future-of-DLP-Printed-Flexible-Devices/"/>
-    <id>https://blackfireagent.github.io/opensemi/20250508_Smart,-Stretchable,-and-Sustainable--The-Future-of-DLP-Printed-Flexible-Devices/</id>
-    <published>2025-05-07T16:00:00.000Z</published>
-    <updated>2025-05-31T11:10:36.891Z</updated>
-    
-    <content type="html"><![CDATA[<h2 id="News"><a href="#News" class="headerlink" title="News"></a><a href="https://semiconductor-digest.com/vapor-deposited-perovskite-semiconductors-power-next-generation-circuits/">News</a></h2><p><strong>Deposited Perovskite Semiconductors Power Next Generation Circuits</strong><br>A research team from POSTECH has developed a breakthrough technology using tin-based perovskites that revolutionizes transistor efficiency and performance. By applying thermal evaporation for producing high-quality semiconductor layers, they have achieved high hole mobility and an impressive on&#x2F;off current ratio, making this technology compatible with existing OLED production methods.</p><p><img src="https://www.semiconductor-digest.com/wp-content/uploads/2019/02/Final-Logo-1.png" alt="Deposited Perovskite Semiconductors"></p><hr><h2 id="Launches"><a href="#Launches" class="headerlink" title="Launches"></a><a href="https://techxplore.com/news/2025-05-smart-stretchable-sustainable-future-dlp.html">Launches</a></h2><p><strong>Smart, Stretchable, and Sustainable: The Future of DLP-Printed Flexible Devices</strong><br>Researchers are advancing digital light processing (DLP) 3D printing for flexible electronics, enabling the creation of high-performance, customizable devices. This technology promises innovations in wearables and energy systems, highlighting the shift towards environmentally-friendly and versatile production methods.</p><p><img src="https://scx2.b-cdn.net/gfx/news/hires/2025/smart-stretchable-and.jpg" alt="DLP-Printed Flexible Devices"></p><hr><h2 id="Charts"><a href="#Charts" class="headerlink" title="Charts"></a><a href="https://techxplore.com/news/2025-05-dielectric-materials-database-faster-path.html">Charts</a></h2><p><strong>Dielectric Materials Database Promises Faster Path to Smarter Electronic Devices</strong><br>Researchers have developed a comprehensive database of dielectric material properties from over 20,000 samples, significantly enhancing material discovery for electronics. This database will accelerate innovation and improve the development of next-generation electronic materials.</p><p><img src="https://scx2.b-cdn.net/gfx/news/2025/new-database-of-materi.jpg" alt="Dielectric Materials Database"></p><hr><h2 id="Research"><a href="#Research" class="headerlink" title="Research"></a><a href="https://semiwiki.com/artificial-intelligence/355746-beyond-the-memory-wall-unleashing-bandwidth-and-crushing-latency/">Research</a></h2><p><strong>Beyond the Memory Wall: Unleashing Bandwidth and Crushing Latency</strong><br>VSORA’s new architecture features reconfigurable compute tiles and a tightly-coupled-memory system, enhancing efficiency for AI applications. This innovative design addresses the latency and bandwidth challenges faced by traditional computing architectures, paving the way for faster processing in edge devices.</p><p><img src="https://semiwiki.com/wp-content/uploads/2025/05/Figure-1-1200x840.jpg" alt="VSORA Architecture"></p><hr><h2 id="Insight"><a href="#Insight" class="headerlink" title="Insight"></a><a href="https://semiwiki.com/general/355578-speculative-execution-rethinking-the-approach-to-cpu-scheduling/">Insight</a></h2><p><strong>Speculative Execution: Rethinking the Approach to CPU Scheduling</strong><br>Dr. Thang Tran discusses the inefficiencies associated with speculative execution in modern CPUs and proposes a shift towards predictive execution models. This new model promises enhanced efficiency and reduced power consumption, critical for future computing architectures.</p><p><img src="https://semiwiki.com/wp-content/uploads/2025/04/SemiWiki-block.png" alt="Speculative Execution"></p><hr><p>Stay tuned with us for the latest updates in semiconductor innovations and advancements shaping the future of technology!</p>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;h2 id=&quot;News&quot;&gt;&lt;a href=&quot;#News&quot; class=&quot;headerlink&quot; title=&quot;News&quot;&gt;&lt;/a&gt;&lt;a href=&quot;https://semiconductor-digest.com/vapor-deposited-perovskite-semic</summary>
-      
-    
-    
-    
-    <category term="Semiconductor" scheme="https://blackfireagent.github.io/opensemi/categories/Semiconductor/"/>
-    
-    
-    <category term="AI" scheme="https://blackfireagent.github.io/opensemi/tags/AI/"/>
-    
-    <category term="semiconductor" scheme="https://blackfireagent.github.io/opensemi/tags/semiconductor/"/>
-    
-    <category term="DLP printing" scheme="https://blackfireagent.github.io/opensemi/tags/DLP-printing/"/>
-    
-    <category term="chip design" scheme="https://blackfireagent.github.io/opensemi/tags/chip-design/"/>
-    
-    <category term="photonics" scheme="https://blackfireagent.github.io/opensemi/tags/photonics/"/>
     
   </entry>
   
