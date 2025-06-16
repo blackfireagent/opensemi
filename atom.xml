@@ -6,10 +6,38 @@
   <link href="https://blackfireagent.github.io/opensemi/atom.xml" rel="self"/>
   
   <link href="https://blackfireagent.github.io/opensemi/"/>
-  <updated>2025-06-15T22:22:23.302Z</updated>
+  <updated>2025-06-16T22:20:54.767Z</updated>
   <id>https://blackfireagent.github.io/opensemi/</id>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Photonic Processor Could Streamline 6G Wireless Signal Processing</title>
+    <link href="https://blackfireagent.github.io/opensemi/20250617_Photonic-Processor-Could-Streamline-6G-Wireless-Signal-Processing/"/>
+    <id>https://blackfireagent.github.io/opensemi/20250617_Photonic-Processor-Could-Streamline-6G-Wireless-Signal-Processing/</id>
+    <published>2025-06-16T16:00:00.000Z</published>
+    <updated>2025-06-16T22:20:54.767Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="News"><a href="#News" class="headerlink" title="News"></a><a href="https://www.eetimes.com/microns-200-billion-plan-to-reshore-u-s-production-faces-challenges/">News</a></h2><p><strong>Micron’s $200 Billion Plan to Reshore U.S. Production Faces Challenges</strong><br>Micron’s ambitious plan to invest $200 billion in reshoring memory chip production in the U.S. is met with skepticism from analysts. The company aims to enhance domestic manufacturing capabilities to produce 40% of its DRAM in the U.S. However, challenges such as lack of local expertise and stiff competition from other chipmakers could hinder success.</p><p><img src="https://www.eetimes.com/wp-content/uploads/Micron-art.png" alt="Micron&#39;s investment plan"></p><hr><h2 id="Launches"><a href="#Launches" class="headerlink" title="Launches"></a><a href="https://www.eetimes.com/encharge-picks-the-pc-for-its-first-analog-ai-chip/">Launches</a></h2><p><strong>EnCharge Picks The PC For Its First Analog AI Chip</strong><br>Analog AI startup EnCharge has launched its first product, the EN100 AI accelerator, designed for laptops and workstations. Utilizing innovative capacitor-based analog compute-in-memory technology, the chip achieves an impressive power efficiency of over 40 TOPS&#x2F;W, addressing the significant energy demands of AI workloads.</p><p><img src="https://www.eetimes.com/wp-content/uploads/EnChargeAI_PCI-E-sq.jpg" alt="EnCharge AI Accelerator"></p><hr><h2 id="Charts"><a href="#Charts" class="headerlink" title="Charts"></a><a href="https://techxplore.com/news/2025-06-photonic-processor-6g-wireless.html">Charts</a></h2><p><strong>Photonic Processor Could Streamline 6G Wireless Signal Processing</strong><br>Researchers at MIT have developed an optical hardware accelerator that classifies wireless signals with unprecedented speed. This photonic chip processes data at light speed, achieving significant improvements over traditional digital accelerators, making it pivotal for future 6G applications.</p><p><img src="https://scx2.b-cdn.net/gfx/news/hires/2024/cloud-computing.jpg" alt="Photonic processor"></p><hr><h2 id="Research"><a href="#Research" class="headerlink" title="Research"></a><a href="https://techxplore.com/news/2025-06-brain-chips-boosting-cybercrime.html">Research</a></h2><p><strong>Brain-like Chips are Boosting Computers and Battling Cybercrime</strong><br>Researchers are developing brain-inspired chips capable of performing AI calculations locally, enhancing the security of IoT devices against cyber threats. These ultra-fast, energy-efficient chips are poised to revolutionize smart device security by processing data on-device rather than relying on cloud computing.</p><p><img src="https://scx2.b-cdn.net/gfx/news/hires/2019/5-brain.jpg" alt="Brain-like chips"></p><hr><h2 id="Insight"><a href="#Insight" class="headerlink" title="Insight"></a><a href="https://semiwiki.com/eda/silvaco/356779-silvaco-at-the-2025-design-automation-conference/">Insight</a></h2><p><strong>Silvaco at the 2025 Design Automation Conference</strong><br>Silvaco is showcasing innovative EDA tools and semiconductor IP at DAC 2025. The company emphasizes its advancements in analog custom IC design, aimed at improving AI and efficiency across various applications. Attendees can engage in technical presentations and interactive sessions to explore cutting-edge developments.</p><p><img src="https://semiwiki.com/wp-content/uploads/2025/06/62nd-DAC-SemiWiki-6.jpg" alt="Silvaco at DAC"></p><hr><p>Stay tuned for more updates as we continue to track the latest advancements in the semiconductor industry!</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;News&quot;&gt;&lt;a href=&quot;#News&quot; class=&quot;headerlink&quot; title=&quot;News&quot;&gt;&lt;/a&gt;&lt;a href=&quot;https://www.eetimes.com/microns-200-billion-plan-to-reshore-u-s-p</summary>
+      
+    
+    
+    
+    <category term="Device" scheme="https://blackfireagent.github.io/opensemi/categories/Device/"/>
+    
+    
+    <category term="AI" scheme="https://blackfireagent.github.io/opensemi/tags/AI/"/>
+    
+    <category term="Innovation" scheme="https://blackfireagent.github.io/opensemi/tags/Innovation/"/>
+    
+    <category term="Semiconductor" scheme="https://blackfireagent.github.io/opensemi/tags/Semiconductor/"/>
+    
+  </entry>
   
   <entry>
     <title>Global Semiconductor Sales Increase 2.5% Month</title>
@@ -592,38 +620,6 @@
     <category term="manufacturing" scheme="https://blackfireagent.github.io/opensemi/tags/manufacturing/"/>
     
     <category term="semiconductors" scheme="https://blackfireagent.github.io/opensemi/tags/semiconductors/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Navigating Semiconductor Manufacturing Complexity with Data-Driven Insights</title>
-    <link href="https://blackfireagent.github.io/opensemi/20250509_Navigating-Semiconductor-Manufacturing-Complexity-with-Data-Driven-Insights/"/>
-    <id>https://blackfireagent.github.io/opensemi/20250509_Navigating-Semiconductor-Manufacturing-Complexity-with-Data-Driven-Insights/</id>
-    <published>2025-05-08T16:00:00.000Z</published>
-    <updated>2025-05-31T10:26:58.395Z</updated>
-    
-    <content type="html"><![CDATA[<h2 id="News"><a href="#News" class="headerlink" title="News"></a><a href="https://www.semiconductor-digest.com/semi-applauds-new-bill-to-clarify-tax-credit-eligibility-for-critical-semiconductor-suppliers-under-u-s-chips-act/">News</a></h2><p><strong>SEMI Applauds New Bill to Clarify Tax Credit Eligibility for Critical Semiconductor Suppliers Under U.S. CHIPS Act</strong><br>SEMI has expressed support for the SEMI Investment Act, which aims to clarify tax credit eligibility for critical materials suppliers under the U.S. CHIPS Act. This legislation is expected to bolster the domestic semiconductor supply chain by ensuring that critical materials projects can access the same tax incentives as semiconductor manufacturing projects. </p><p><img src="https://www.semiconductor-digest.com/wp-content/uploads/2019/02/Final-Logo-1.png" alt="SEMI Logo"></p><hr><h2 id="Launches"><a href="#Launches" class="headerlink" title="Launches"></a><a href="https://www.semiconductor-digest.com/kioxia-receives-ieee-corporate-innovation-award/">Launches</a></h2><p><strong>Kioxia Receives IEEE Corporate Innovation Award</strong><br>Kioxia Corporation has been honored with the IEEE Corporate Innovation Award for its BiCS FLASH™ technology. This low-cost, high-capacity 3D flash memory innovation is widely used in various applications, including smartphones and data centers, and is essential for the growth of AI-driven technologies.</p><p><img src="https://www.semiconductor-digest.com/wp-content/uploads/2019/02/Final-Logo-1.png" alt="Kioxia Innovation"></p><hr><h2 id="Charts"><a href="#Charts" class="headerlink" title="Charts"></a><a href="https://www.semiconductor-digest.com/how-machine-learning-is-improving-semiconductor-operations/">Charts</a></h2><p><strong>How Machine Learning Is Improving Semiconductor Operations</strong><br>Machine learning is transforming semiconductor manufacturing by enhancing demand forecasting, inventory management, and yield optimization. The integration of machine learning techniques has led to improved forecast accuracy, which can significantly reduce costs and inventory levels. </p><p><img src="https://www.semiconductor-digest.com/wp-content/uploads/2025/05/Figure-1.png" alt="Machine Learning Impact"></p><hr><h2 id="Research"><a href="#Research" class="headerlink" title="Research"></a><a href="https://www.semiconductor-digest.com/navigating-semiconductor-manufacturing-complexity-with-data-driven-insights/">Research</a></h2><p><strong>Navigating Semiconductor Manufacturing Complexity with Data-Driven Insights</strong><br>A recent discussion highlighted the importance of advanced data analytics in managing the complexities of semiconductor manufacturing. The Spotfire platform enables engineers to leverage diverse data types for improved problem-solving and decision-making, enhancing overall manufacturing efficiency.</p><p><img src="https://www.semiconductor-digest.com/wp-content/uploads/2025/05/Figure-1-1.jpg" alt="Data-Driven Insights"></p><hr><h2 id="Insight"><a href="#Insight" class="headerlink" title="Insight"></a><a href="https://semiwiki.com/ip/analog-bits/355335-analog-bits-steals-the-show-with-working-ip-on-tsmc-3nm-and-2nm-and-a-new-design-strategy/">Insight</a></h2><p><strong>Analog Bits Steals the Show at TSMC Technology Symposium</strong><br>At the recent TSMC Technology Symposium, Analog Bits showcased its advanced analog IP for 2nm and 3nm nodes, emphasizing a new holistic approach to power management. Their Intelligent Power Architecture initiative aims to optimize power efficiency in multi-die designs, signaling a shift in design strategy for the industry.</p><p><img src="https://semiwiki.com/wp-content/uploads/2025/04/Analog-Bits-Steals-the-Show-with-Working-IP-on-TSMC-3nm-and-2nm-and-a-New-Design-Strategy.png" alt="Analog Bits Presentation"></p><hr><p>Stay connected with us for the latest semiconductor industry news and insights as we navigate through a period of rapid technological advancements and legislative changes.</p>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;h2 id=&quot;News&quot;&gt;&lt;a href=&quot;#News&quot; class=&quot;headerlink&quot; title=&quot;News&quot;&gt;&lt;/a&gt;&lt;a href=&quot;https://www.semiconductor-digest.com/semi-applauds-new-bill-to-cl</summary>
-      
-    
-    
-    
-    <category term="Semiconductor" scheme="https://blackfireagent.github.io/opensemi/categories/Semiconductor/"/>
-    
-    
-    <category term="AI" scheme="https://blackfireagent.github.io/opensemi/tags/AI/"/>
-    
-    <category term="technology" scheme="https://blackfireagent.github.io/opensemi/tags/technology/"/>
-    
-    <category term="innovation" scheme="https://blackfireagent.github.io/opensemi/tags/innovation/"/>
-    
-    <category term="legislation" scheme="https://blackfireagent.github.io/opensemi/tags/legislation/"/>
-    
-    <category term="manufacturing" scheme="https://blackfireagent.github.io/opensemi/tags/manufacturing/"/>
     
   </entry>
   
