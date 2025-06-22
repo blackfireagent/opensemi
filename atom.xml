@@ -6,10 +6,40 @@
   <link href="https://blackfireagent.github.io/opensemi/atom.xml" rel="self"/>
   
   <link href="https://blackfireagent.github.io/opensemi/"/>
-  <updated>2025-06-17T22:19:48.714Z</updated>
+  <updated>2025-06-22T22:22:49.739Z</updated>
   <id>https://blackfireagent.github.io/opensemi/</id>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Novel Technologies to Advance Next</title>
+    <link href="https://blackfireagent.github.io/opensemi/20250623_Novel-Technologies-to-Advance-Next/"/>
+    <id>https://blackfireagent.github.io/opensemi/20250623_Novel-Technologies-to-Advance-Next/</id>
+    <published>2025-06-22T16:00:00.000Z</published>
+    <updated>2025-06-22T22:22:49.739Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="News"><a href="#News" class="headerlink" title="News"></a><a href="https://www.semiconductor-digest.com/novel-technologies-to-advance-next-generation-semiconductor-packaging/">News</a></h2><p><strong>Novel Technologies to Advance Next</strong><br>A team of researchers from the Institute of Science Tokyo has unveiled a groundbreaking power supply technology for 3D-integrated chips called BBCube™, aimed at high-performance computing applications. This innovation leverages a three-dimensionally stacked architecture, enabling high memory bandwidth and low power consumption. Their findings were shared at the recent IEEE Electronic Components and Technology Conference, showcasing advancements in chip integration through novel bonding techniques and adhesive materials.</p><p><img src="https://www.semiconductor-digest.com/wp-content/uploads/2019/02/Final-Logo-1.png" alt="Novel Technologies"></p><hr><h2 id="Launches"><a href="#Launches" class="headerlink" title="Launches"></a><a href="https://semiwiki.com/semiconductor-services/aion-silicon/356734-the-sondrel-transformation-to-aion-silicon/">Launches</a></h2><p><strong>The Sondrel transformation to Aion Silicon!</strong><br>Sondrel has rebranded itself as Aion Silicon, signifying a strategic pivot towards high-performance AI-centric silicon solutions. The company is expanding its service offerings to include tighter program management and architectural assistance, focusing on sectors such as data-center AI and automotive ADAS. CEO Oliver Jones emphasizes a commitment to becoming a leading design partner in custom silicon, enhancing their capacity to meet the evolving demands of the semiconductor market.</p><p><img src="https://semiwiki.com/wp-content/uploads/2025/06/1747740149443.jpg" alt="Aion Silicon"></p><hr><h2 id="Charts"><a href="#Charts" class="headerlink" title="Charts"></a><a href="https://www.semiconductor-digest.com/techcet-predicts-semiconductor-ald-cvd-precursor-market-outlook-highlights-growth/">Charts</a></h2><p><strong>TECHCET Predicts Semiconductor ALD&#x2F;CVD Precursor Market Outlook, Highlights Growth</strong><br>According to TECHCET’s report, the global semiconductor precursor market is set to grow at a CAGR of 10.4% through 2029, driven by advancements in sub-3nm logic and increasing demands in AI and high-performance computing. In 2024, the market is anticipated to rebound to $1.7 billion, showcasing a significant recovery in NAND and DRAM sectors and emphasizing the importance of sustainability in procurement practices.</p><p><img src="https://www.semiconductor-digest.com/wp-content/uploads/2025/06/image1.png" alt="Market Outlook"></p><hr><h2 id="Research"><a href="#Research" class="headerlink" title="Research"></a><a href="https://techxplore.com/news/2025-06-3d-chip-stacking-method-traditional.html">Research</a></h2><p><strong>3D chip stacking method created to overcome traditional semiconductor limitations</strong><br>Researchers from the Institute of Science Tokyo have developed an innovative 3D chip stacking method that addresses conventional semiconductor limitations. This method enhances power integrity and reduces energy requirements for data transmission, showcasing significant advancements in chip integration technologies that could transform future computing architectures.</p><p><img src="https://scx2.b-cdn.net/gfx/news/hires/2025/novel-technologies-to.jpg" alt="3D Chip Stacking"></p><hr><h2 id="Insight"><a href="#Insight" class="headerlink" title="Insight"></a><a href="https://www.eetimes.com/want-a-smart-factory-its-all-about-the-data/">Insight</a></h2><p><strong>Want A Smart Factory? It’s All About the Data</strong><br>At the recent MES &amp; Industry 4.0 conference, industry leaders emphasized the critical role of data in achieving smart manufacturing. Insights from executives at Infineon and other major players highlighted the importance of data integrity and real-time decision-making facilitated by AI. The conference showcased how advanced manufacturing execution systems (MES) are evolving to become more intelligent, ultimately driving efficiency across semiconductor manufacturing processes.</p><p><img src="https://www.eetimes.com/wp-content/uploads/Porto-MESI-Industry-4-0-Infineon_image_sq_Nitin-Dahad.jpg" alt="Smart Factory"></p><hr><p>Stay tuned for more updates and insights in the world of semiconductors as we continue to explore innovations and market trends shaping the industry.</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;News&quot;&gt;&lt;a href=&quot;#News&quot; class=&quot;headerlink&quot; title=&quot;News&quot;&gt;&lt;/a&gt;&lt;a href=&quot;https://www.semiconductor-digest.com/novel-technologies-to-advanc</summary>
+      
+    
+    
+    
+    <category term="Semiconductor" scheme="https://blackfireagent.github.io/opensemi/categories/Semiconductor/"/>
+    
+    
+    <category term="AI" scheme="https://blackfireagent.github.io/opensemi/tags/AI/"/>
+    
+    <category term="technology" scheme="https://blackfireagent.github.io/opensemi/tags/technology/"/>
+    
+    <category term="semiconductor" scheme="https://blackfireagent.github.io/opensemi/tags/semiconductor/"/>
+    
+    <category term="smart manufacturing" scheme="https://blackfireagent.github.io/opensemi/tags/smart-manufacturing/"/>
+    
+  </entry>
   
   <entry>
     <title>EUV Tech Debuts Enhanced FALCON Photoresist Flood Exposure Tool</title>
@@ -594,36 +624,6 @@
     <category term="Neuromorphic" scheme="https://blackfireagent.github.io/opensemi/tags/Neuromorphic/"/>
     
     <category term="Display Technology" scheme="https://blackfireagent.github.io/opensemi/tags/Display-Technology/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Automated microscope tracks directional heat flow in thermoelectric materials for green energy</title>
-    <link href="https://blackfireagent.github.io/opensemi/20250511_Automated-microscope-tracks-directional-heat-flow-in-thermoelectric-materials-for-green-energy/"/>
-    <id>https://blackfireagent.github.io/opensemi/20250511_Automated-microscope-tracks-directional-heat-flow-in-thermoelectric-materials-for-green-energy/</id>
-    <published>2025-05-10T16:00:00.000Z</published>
-    <updated>2025-05-31T10:26:58.395Z</updated>
-    
-    <content type="html"><![CDATA[<h2 id="News"><a href="#News" class="headerlink" title="News"></a><a href="https://techxplore.com/news/2025-05-vapor-deposited-perovskite-semiconductors-power.html">News</a></h2><p><strong>Vapor-deposited perovskite semiconductors power next-generation circuits</strong><br>Researchers from POSTECH and UESTC have developed a breakthrough p-type semiconductor material that can revolutionize device fabrication for displays and electronics. Using thermal evaporation, the team created high-quality cesium-tin-iodide layers that exhibit excellent performance metrics for transistors, paving the way for flexible displays and efficient circuits.</p><p><img src="https://scx2.b-cdn.net/gfx/news/hires/2025/vapour-deposited-perov.jpg" alt="Vapor-deposited perovskite semiconductors"></p><hr><h2 id="Launches"><a href="#Launches" class="headerlink" title="Launches"></a><a href="https://www.eetimes.com/amd-rides-ai-wave-to-strong-q1-navigates-headwinds/">Launches</a></h2><p><strong>AMD Rides AI Wave to Strong Q1, Navigates Headwinds</strong><br>AMD reported a robust Q1 with a 36% revenue increase, largely driven by AI accelerators and data center products. The company’s strategic focus on AI, particularly with its Instinct GPU and EPYC CPU lines, reflects a significant growth trajectory, despite facing challenges from U.S. export controls and competition.</p><p><img src="https://www.eetimes.com/wp-content/uploads/AMD-Austin.jpg" alt="AMD&#39;s Q1 Performance"></p><hr><h2 id="Charts"><a href="#Charts" class="headerlink" title="Charts"></a><a href="https://www.semiconductor-digest.com/expanding-access-to-advanced-chip-design-capabilities-launch-of-the-eu-chips-design-platform/">Charts</a></h2><p><strong>EU Chips Design Platform Launch</strong><br>The EU Chips Design Platform is set to enhance access to semiconductor design resources for startups and SMEs, facilitating innovation in Europe. With a cloud-based environment offering electronic design automation tools and financial support, this initiative aims to boost the European semiconductor ecosystem, as it prepares to onboard its first clients by 2026.</p><p><img src="https://www.semiconductor-digest.com/wp-content/uploads/2025/05/imec-consortium.jpg" alt="EU Chips Design Platform"></p><hr><h2 id="Research"><a href="#Research" class="headerlink" title="Research"></a><a href="https://techxplore.com/news/2025-05-automated-microscope-tracks-thermoelectric-materials.html">Research</a></h2><p><strong>Automated microscope tracks directional heat flow in thermoelectric materials for green energy</strong><br>A new thermal diffusivity microscope developed by researchers at DTU and other institutions allows for high-resolution measurements of heat flow in materials vital for thermoelectric applications. This innovation could significantly impact the design and efficiency of future energy systems and electronic devices.</p><p><img src="https://scx2.b-cdn.net/gfx/news/hires/2025/new-microscope-reveals.jpg" alt="Thermal diffusivity microscope"></p><hr><h2 id="Insight"><a href="#Insight" class="headerlink" title="Insight"></a><a href="https://semiengineering.com/e-beam-inspection-proves-essential-for-advanced-nodes/">Insight</a></h2><p><strong>E-Beam Inspection Proves Essential For Advanced Nodes</strong><br>As semiconductor features shrink below 5nm, e-beam inspection technology becomes critical for detecting defects that traditional methods miss. This article discusses the challenges and advancements in e-beam inspection technology, highlighting the need for integration with other inspection modalities to maintain yield and reliability in advanced manufacturing processes.</p><p>![E-Beam Inspection](<a href="https://semiengineering.com/wp-content/uploads/Screenshot-2025-04-16-at-3.16.44">https://semiengineering.com/wp-content/uploads/Screenshot-2025-04-16-at-3.16.44</a> PM.png)</p><hr><p>Thank you for staying with us for the latest news in the semiconductor industry! We will continue to bring you the most relevant updates and insights as the field evolves.</p>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;h2 id=&quot;News&quot;&gt;&lt;a href=&quot;#News&quot; class=&quot;headerlink&quot; title=&quot;News&quot;&gt;&lt;/a&gt;&lt;a href=&quot;https://techxplore.com/news/2025-05-vapor-deposited-perovskite-se</summary>
-      
-    
-    
-    
-    <category term="Semiconductor" scheme="https://blackfireagent.github.io/opensemi/categories/Semiconductor/"/>
-    
-    
-    <category term="AI" scheme="https://blackfireagent.github.io/opensemi/tags/AI/"/>
-    
-    <category term="technology" scheme="https://blackfireagent.github.io/opensemi/tags/technology/"/>
-    
-    <category term="innovation" scheme="https://blackfireagent.github.io/opensemi/tags/innovation/"/>
-    
-    <category term="semiconductor industry" scheme="https://blackfireagent.github.io/opensemi/tags/semiconductor-industry/"/>
     
   </entry>
   
