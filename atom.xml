@@ -6,10 +6,40 @@
   <link href="https://blackfireagent.github.io/opensemi/atom.xml" rel="self"/>
   
   <link href="https://blackfireagent.github.io/opensemi/"/>
-  <updated>2025-06-22T22:22:49.739Z</updated>
+  <updated>2025-06-23T22:21:34.476Z</updated>
   <id>https://blackfireagent.github.io/opensemi/</id>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>STMicro Advances PiezoMEMS Development in Singapore</title>
+    <link href="https://blackfireagent.github.io/opensemi/20250624_STMicro-Advances-PiezoMEMS-Development-in-Singapore/"/>
+    <id>https://blackfireagent.github.io/opensemi/20250624_STMicro-Advances-PiezoMEMS-Development-in-Singapore/</id>
+    <published>2025-06-23T16:00:00.000Z</published>
+    <updated>2025-06-23T22:21:34.476Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="News"><a href="#News" class="headerlink" title="News"></a><a href="https://www.eetimes.com/stmicro-advances-piezomems-development-in-singapore/">News</a></h2><p><strong>STMicro Advances PiezoMEMS Development in Singapore</strong><br>STMicroelectronics, in collaboration with A*STAR and ULVAC, has launched Lab-in-Fab 2.0 at its Ang Mo Kio campus, focusing on lead-free piezoelectric MEMS. This initiative accelerates the transition from prototyping to manufacturing, aiming to achieve a sustainable alternative to lead-based materials by 2027. The Lab-in-Fab model enables seamless integration of research and production, enhancing time to market for MEMS applications in consumer electronics and medical devices.</p><p><img src="https://www.eetimes.com/wp-content/uploads/7669543_AI4I0453_Engineer-preparing-wafer-for-analysis.png" alt="STMicro Lab-in-Fab"></p><hr><h2 id="Launches"><a href="#Launches" class="headerlink" title="Launches"></a><a href="https://techxplore.com/news/2025-06-3d-chip-stacking-method-traditional.html">Launches</a></h2><p><strong>3D Chip Stacking Method Created to Overcome Traditional Semiconductor Limitations</strong><br>Researchers from the Institute of Science Tokyo have developed a novel 3D chip integration method named BBCube, which employs advanced bonding techniques to enhance memory bandwidth and reduce power consumption in high-performance computing applications. This innovative approach addresses traditional semiconductor limitations by stacking processing units directly above DRAM, significantly improving power supply integrity and efficiency.</p><p><img src="https://scx2.b-cdn.net/gfx/news/hires/2025/novel-technologies-to.jpg" alt="3D Chip Stacking"></p><hr><h2 id="Charts"><a href="#Charts" class="headerlink" title="Charts"></a><a href="https://www.eetimes.com/want-a-smart-factory-its-all-about-the-data/">Charts</a></h2><p><strong>Smart Factories Need Intelligent Components</strong><br>At the MES &amp; Industry 4.0 conference, industry leaders discussed the pivotal role of data in the evolution of smart factories. Key insights highlighted that achieving data integrity is critical for manufacturing efficiency. Notable advancements in AI integration into manufacturing execution systems (MES) were presented, demonstrating the trend towards intelligent factories capable of real-time data-driven decision-making.</p><p><img src="https://www.eetimes.com/wp-content/uploads/Porto-MESI-Industry-4-0-Infineon_image_sq_Nitin-Dahad.jpg" alt="Smart Factory Data"></p><hr><h2 id="Research"><a href="#Research" class="headerlink" title="Research"></a><a href="https://semiengineering.com/machine-intelligence-on-wireless-edge-networks-with-rf-analog-architecture-mit-duke/">Research</a></h2><p><strong>Machine Intelligence on Wireless Edge Networks with RF Analog Architecture</strong><br>A groundbreaking study from MIT and Duke University introduces MIWEN, an RF analog architecture that facilitates deep neural network inference on power-constrained edge devices. By eliminating local weight memory, this innovation significantly reduces energy consumption and enhances real-time inference capabilities in low-power environments, paving the way for more efficient edge computing solutions.</p><p><img src="https://semiengineering.com/wp-content/uploads/AdobeStock_184389409-06-19-24-scaled.jpeg" alt="RF Analog Architecture"></p><hr><h2 id="Insight"><a href="#Insight" class="headerlink" title="Insight"></a><a href="https://www.eetimes.com/sambanova-shifts-to-inference-but-leaves-cloud-to-customers/">Insight</a></h2><p><strong>SambaNova Shifts To Inference, Courts Cloud Customers</strong><br>In an exclusive interview, SambaNova’s CEO Rodrigo Liang discussed the company’s strategic pivot towards inference workloads amidst a shifting market landscape. With a focus on open-source models and a robust cloud deployment strategy, SambaNova aims to support enterprises in leveraging AI for enhanced operational efficiency. Liang emphasized the importance of customization in AI models to deliver superior value and performance.</p><p><img src="https://www.eetimes.com/wp-content/uploads/SambaNova-SoftBank-1.jpg" alt="SambaNova"></p><hr><p>Stay tuned for more updates as we continue to bring you the latest in semiconductor innovations and trends!</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;News&quot;&gt;&lt;a href=&quot;#News&quot; class=&quot;headerlink&quot; title=&quot;News&quot;&gt;&lt;/a&gt;&lt;a href=&quot;https://www.eetimes.com/stmicro-advances-piezomems-development-in</summary>
+      
+    
+    
+    
+    <category term="Device" scheme="https://blackfireagent.github.io/opensemi/categories/Device/"/>
+    
+    
+    <category term="AI" scheme="https://blackfireagent.github.io/opensemi/tags/AI/"/>
+    
+    <category term="innovation" scheme="https://blackfireagent.github.io/opensemi/tags/innovation/"/>
+    
+    <category term="semiconductors" scheme="https://blackfireagent.github.io/opensemi/tags/semiconductors/"/>
+    
+    <category term="MEMS" scheme="https://blackfireagent.github.io/opensemi/tags/MEMS/"/>
+    
+  </entry>
   
   <entry>
     <title>Novel Technologies to Advance Next</title>
@@ -279,9 +309,9 @@
     <category term="Lithography" scheme="https://blackfireagent.github.io/opensemi/categories/Lithography/"/>
     
     
-    <category term="Semiconductor Technology" scheme="https://blackfireagent.github.io/opensemi/tags/Semiconductor-Technology/"/>
-    
     <category term="Market Trends" scheme="https://blackfireagent.github.io/opensemi/tags/Market-Trends/"/>
+    
+    <category term="Semiconductor Technology" scheme="https://blackfireagent.github.io/opensemi/tags/Semiconductor-Technology/"/>
     
     <category term="EUV Lithography" scheme="https://blackfireagent.github.io/opensemi/tags/EUV-Lithography/"/>
     
@@ -592,38 +622,6 @@
     <category term="Manufacturing" scheme="https://blackfireagent.github.io/opensemi/tags/Manufacturing/"/>
     
     <category term="Security" scheme="https://blackfireagent.github.io/opensemi/tags/Security/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Driven Revenue to Exceed License Revenue by 2027</title>
-    <link href="https://blackfireagent.github.io/opensemi/20250513_Driven-Revenue-to-Exceed-License-Revenue-by-2027/"/>
-    <id>https://blackfireagent.github.io/opensemi/20250513_Driven-Revenue-to-Exceed-License-Revenue-by-2027/</id>
-    <published>2025-05-12T16:00:00.000Z</published>
-    <updated>2025-05-31T10:26:58.395Z</updated>
-    
-    <content type="html"><![CDATA[<h2 id="News"><a href="#News" class="headerlink" title="News"></a><a href="https://www.eetimes.com/risc-v-royalty-driven-revenue-to-exceed-license-revenue-by-2027/">News</a></h2><p><strong>Driven Revenue to Exceed License Revenue by 2027</strong><br>At the Andes Technology RISC-V Con event, it was announced that the company’s revenue model is shifting from license-driven to royalty-driven, particularly with the growing demand for RISC-V technology. Andes Technology achieved a record revenue of $42 million, with AI driving a significant portion of their growth. This change highlights the increasing acceptance and integration of RISC-V in data centers and automotive sectors.</p><p><img src="https://www.eetimes.com/wp-content/uploads/Andes-founders-Image_Andes-Technology.jpg" alt="Andes Technology"></p><hr><h2 id="Launches"><a href="#Launches" class="headerlink" title="Launches"></a><a href="https://www.semiconductor-digest.com/aledia-to-showcase-flexinova-at-display-week-2025/">Launches</a></h2><p><strong>Aledia to Showcase FlexiNova at Display Week 2025</strong><br>Aledia is set to unveil FlexiNova, a platform designed for scalable production of microLED displays. This new technology promises to revolutionize display manufacturing by enabling chip customization while remaining compatible with high-volume manufacturing ecosystems, targeting various applications from smartwatches to luxury TVs.</p><p><img src="https://www.semiconductor-digest.com/wp-content/uploads/2019/02/Final-Logo-1.png" alt="Aledia FlexiNova"></p><hr><h2 id="Charts"><a href="#Charts" class="headerlink" title="Charts"></a><a href="https://semiwiki.com/eda/355779-metal-fill-extraction-breaking-the-speed-accuracy-tradeoff/">Charts</a></h2><p><strong>Metal Fill Extraction: Breaking the Speed</strong><br>This article discusses the significance of metal fill in semiconductor manufacturing. It presents statistical analyses showing how traditional methods struggle with balancing accuracy and computational efficiency, leading to delays in projects. The new adaptive extraction technique dramatically improves runtime without sacrificing accuracy, suggesting a trend towards smarter design processes in semiconductor technology.</p><p><img src="https://semiwiki.com/wp-content/uploads/2025/05/fig1-metal-fill.jpg" alt="Metal Fill Extraction"></p><hr><h2 id="Research"><a href="#Research" class="headerlink" title="Research"></a><a href="https://techxplore.com/news/2025-05-tiny-device-movement-real-visual.html">Research</a></h2><p><strong>Tiny Device Processes Hand Movement in Real Time, Storing Visual Memories with Brain-like Efficiency</strong><br>Researchers at RMIT University have developed a neuromorphic device that mimics brain processes to detect hand movements and store visual memories efficiently. This breakthrough could lead to advancements in autonomous vehicles and robotics, focusing on energy efficiency and real-time decision-making capabilities.</p><p><img src="https://scx2.b-cdn.net/gfx/news/2025/tiny-device-promises-n.jpg" alt="Neuromorphic Device"></p><hr><h2 id="Insight"><a href="#Insight" class="headerlink" title="Insight"></a><a href="https://semiwiki.com/ceo-interviews/354732-ceo-interview-with-ido-bukspan-of-pilops/">Insight</a></h2><p><strong>CEO Interview with Ido Bukspan of Pliops</strong><br>In an interview, Ido Bukspan discusses Pliops’ innovations in accelerating GenAI infrastructure performance, claiming data access speeds up to 50 times faster. Pliops is addressing the increasing power demands of AI applications while enhancing GPU efficiency, highlighting the pressing need for sustainable solutions in the rapidly evolving AI landscape.</p><p><img src="https://semiwiki.com/wp-content/uploads/2025/05/slide-cover-v10_register-now_400x400-1.png" alt="Ido Bukspan, Pliops"></p><hr><p>Stay with us for the latest news and insights in the semiconductor industry as we continue to explore technological advancements and their implications for the future!</p>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;h2 id=&quot;News&quot;&gt;&lt;a href=&quot;#News&quot; class=&quot;headerlink&quot; title=&quot;News&quot;&gt;&lt;/a&gt;&lt;a href=&quot;https://www.eetimes.com/risc-v-royalty-driven-revenue-to-exceed-l</summary>
-      
-    
-    
-    
-    <category term="Semiconductor" scheme="https://blackfireagent.github.io/opensemi/categories/Semiconductor/"/>
-    
-    
-    <category term="AI" scheme="https://blackfireagent.github.io/opensemi/tags/AI/"/>
-    
-    <category term="RISC-V" scheme="https://blackfireagent.github.io/opensemi/tags/RISC-V/"/>
-    
-    <category term="microLED" scheme="https://blackfireagent.github.io/opensemi/tags/microLED/"/>
-    
-    <category term="Neuromorphic" scheme="https://blackfireagent.github.io/opensemi/tags/Neuromorphic/"/>
-    
-    <category term="Display Technology" scheme="https://blackfireagent.github.io/opensemi/tags/Display-Technology/"/>
     
   </entry>
   
