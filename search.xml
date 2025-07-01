@@ -4,6 +4,39 @@
   
     
     <entry>
+      <title>Hardware Security Tech Can Hide and Reveal Encryption Keys on Demand</title>
+      <link href="/opensemi/20250701_Hardware-Security-Tech-Can-Hide-and-Reveal-Encryption-Keys-on-Demand/"/>
+      <url>/opensemi/20250701_Hardware-Security-Tech-Can-Hide-and-Reveal-Encryption-Keys-on-Demand/</url>
+      
+        <content type="html"><![CDATA[<h2 id="News"><a href="#News" class="headerlink" title="News"></a><a href="https://www.eetimes.com/ai-clusters-spur-optical-connectivity/">News</a></h2><p><strong>AI Clusters Spur Optical Connectivity</strong><br>Broadcom has announced its third-generation 200G&#x2F;lane co-packaged optics (CPO) product line, aimed at supporting the growing optical bandwidth requirements driven by AI workloads. With advancements in laser technology, Broadcom is integrating optical components into higher-density siliconized devices to enhance performance and reduce power consumption, responding to the demands of AI clusters and data centers.</p><p><img src="https://www.eetimes.com/wp-content/uploads/broadcomSTM-covercarousel.png" alt="AI Clusters"></p><hr><h2 id="Launches"><a href="#Launches" class="headerlink" title="Launches"></a><a href="https://www.eetimes.com/rapidus-siemens-join-2-nm-alliance-targeting-2027-production/">Launches</a></h2><p><strong>nm Alliance Targeting 2027 Production</strong><br>Rapidus has formed an alliance with Siemens to achieve 2-nm wafer production by 2027. This partnership aims to leverage IBM’s technology and create a reference flow for design verification and manufacturing, enhancing Japan’s semiconductor capabilities and reducing reliance on China.</p><p><img src="https://www.eetimes.com/wp-content/uploads/Rapidus-fab-under-construction.png" alt="Rapidus and Siemens"></p><hr><h2 id="Charts"><a href="#Charts" class="headerlink" title="Charts"></a><a href="https://www.eetimes.com/arm-chiplets-cant-deliver-on-tco-without-an-ecosystem/">Charts</a></h2><p><strong>Arm: Chiplets Can’t Deliver on TCO Without an Ecosystem</strong><br>Arm emphasizes the need for a robust ecosystem and standards in the chiplet marketplace to ensure economic viability. The current semi-custom chiplet designs can inflate overall costs, and a true marketplace approach is essential for maximizing total cost of ownership (TCO) and promoting chiplet reuse.</p><p><img src="https://www.eetimes.com/wp-content/uploads/Eddie-Ramirez-presenting.jpg" alt="Chiplet Ecosystem"></p><hr><h2 id="Research"><a href="#Research" class="headerlink" title="Research"></a><a href="https://techxplore.com/news/2025-06-hardware-tech-reveal-encryption-keys.html">Research</a></h2><p><strong>Hardware Security Tech Can Hide and Reveal Encryption Keys on Demand</strong><br>Researchers at Seoul National University have developed a new hardware security technology using 3D NAND flash memory that can conceal security keys until needed. This innovation enhances data security without requiring changes to existing memory structures, making it applicable for various devices, including smartphones and IoT.</p><p><img src="https://scx2.b-cdn.net/gfx/news/hires/2025/snu-researchers-develo-27.jpg" alt="Hardware Security"></p><hr><h2 id="Insight"><a href="#Insight" class="headerlink" title="Insight"></a><a href="https://semiwiki.com/ceo-interviews/356423-ceo-interview-with-yannick-bedin-of-eumetrys/">Insight</a></h2><p><strong>CEO Interview with Yannick Bedin of Eumetrys</strong><br>Yannick Bedin discusses EUMETRYS’s role in semiconductor manufacturing, focusing on quality control and inspection solutions that combat the $10-20 billion annual losses due to defective silicon wafers. He emphasizes the importance of a one-stop-shop approach to streamline processes and enhance manufacturing efficiency.</p><p><img src="https://semiwiki.com/wp-content/uploads/2025/05/Yannick-Bedin-CEO-Eumetrys.jpg" alt="Yannick Bedin"></p><hr><p>Stay tuned for more updates as we continue to explore the latest advancements in the semiconductor industry!</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> Device </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> AI </tag>
+            
+            <tag> semiconductor </tag>
+            
+            <tag> chip design </tag>
+            
+            <tag> optical interconnects </tag>
+            
+            <tag> quantum technology </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>Expert Insights on EUV Lithography and Stochastic Behavior</title>
       <link href="/opensemi/20250625_Expert-Insights-on-EUV-Lithography-and-Stochastic-Behavior/"/>
       <url>/opensemi/20250625_Expert-Insights-on-EUV-Lithography-and-Stochastic-Behavior/</url>
@@ -186,35 +219,6 @@
             <tag> Semiconductor Design </tag>
             
             <tag> EDA </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>New AI-Driven Semiconductor Platform Launched</title>
-      <link href="/opensemi/20250611_New-AI-Driven-Semiconductor-Platform-Launched/"/>
-      <url>/opensemi/20250611_New-AI-Driven-Semiconductor-Platform-Launched/</url>
-      
-        <content type="html"><![CDATA[<h2 id="News"><a href="#News" class="headerlink" title="News"></a><a href="https://semiengineering.com/determinants-of-bond-wave-speed-in-wafer-bonding-yokohama-tel/">News</a></h2><p><strong>Determinants Of Bond Wave Speed In Wafer Bonding</strong><br>A recent study conducted by researchers from Yokohama National University and Tokyo Electron Kyushu Limited explores the critical factors influencing bond wave speed in wafer bonding. This research is pivotal for advancing 3D architectures used in logic, memory, and CMOS image sensors, emphasizing the importance of minimizing wafer distortion for precise subsequent processes. The study highlights that while plasma activation enhances bond wave speed through increased Si–OH groups on the surface, excessive high-power plasma can negatively affect speed due to adsorbed water. </p><p><img src="https://semiengineering.com/wp-content/uploads/AdobeStock_482095378-08-06-24.jpeg" alt="Wafer Bonding"></p><hr><h2 id="Launches"><a href="#Launches" class="headerlink" title="Launches"></a><a href="http://www.semiconductor-today.com/news_items/2025/june/semiconductors-110625.shtml">Launches</a></h2><p><strong>New AI-Driven Semiconductor Platform Launched</strong><br>A leading semiconductor company has unveiled a groundbreaking AI-driven semiconductor design platform that promises to optimize chip performance and reduce time-to-market. This innovative platform utilizes machine learning algorithms to predict performance outcomes based on design parameters, significantly enhancing development efficiency for engineers. </p><p><img src="http://www.semiconductor-today.com/images/semiconductors/ai_platform.jpg" alt="AI Semiconductor Platform"></p><hr><h2 id="Charts"><a href="#Charts" class="headerlink" title="Charts"></a><a href="https://www.icinsights.com/news/bulletins/2025-ic-market-forecast/">Charts</a></h2><p><strong>2025 IC Market Forecast: Growth Projections</strong><br>According to the latest report by IC Insights, the global integrated circuit (IC) market is projected to grow by 10% in 2025, driven by increased demand for AI and IoT applications. The report includes detailed charts depicting market share across various segments, illustrating significant growth in memory and logic devices.</p><p><img src="https://www.icinsights.com/images/charts/ic_market_growth_2025.jpg" alt="IC Market Growth"></p><hr><h2 id="Research"><a href="#Research" class="headerlink" title="Research"></a><a href="https://www.sciencedaily.com/releases/2025/06/250611103602.htm">Research</a></h2><p><strong>Innovative Research on Quantum Dots for Enhanced Semiconductor Functionality</strong><br>A recent publication details the development of quantum dot technology that could revolutionize semiconductor applications. Researchers have identified methods to improve the efficiency of quantum dots, making them viable for next-generation devices. This breakthrough has the potential to significantly reduce power consumption in various applications.</p><p><img src="https://www.sciencedaily.com/images/quantum_dots_research.jpg" alt="Quantum Dots Research"></p><hr><h2 id="Insight"><a href="#Insight" class="headerlink" title="Insight"></a><a href="https://www.forbes.com/sites/forbestechcouncil/2025/06/11/the-future-of-semiconductor-innovation/">Insight</a></h2><p><strong>The Future of Semiconductor Innovation: Insights from Industry Leaders</strong><br>In a recent interview, industry leaders discussed the transformative trends shaping the semiconductor landscape. They emphasized the importance of collaboration across sectors to address supply chain challenges and the need for sustainable practices to future-proof the industry. Their insights shed light on how strategic innovations can drive growth and resilience in the semiconductor market.</p><p><img src="https://www.forbes.com/images/industry_leaders.jpg" alt="Industry Leaders Insight"></p><hr><p>Stay tuned for more updates and insights on semiconductor advancements as we continue to explore the latest trends and breakthroughs in the industry!</p>]]></content>
-      
-      
-      <categories>
-          
-          <category> Lithography </category>
-          
-      </categories>
-      
-      
-        <tags>
-            
-            <tag> wafer bonding </tag>
-            
-            <tag> semiconductor research </tag>
-            
-            <tag> 3D architectures </tag>
             
         </tags>
       
@@ -530,9 +534,9 @@
             
             <tag> innovation </tag>
             
-            <tag> semiconductors </tag>
-            
             <tag> manufacturing </tag>
+            
+            <tag> semiconductors </tag>
             
         </tags>
       
@@ -594,9 +598,9 @@
             
             <tag> innovation </tag>
             
-            <tag> semiconductors </tag>
-            
             <tag> manufacturing </tag>
+            
+            <tag> semiconductors </tag>
             
             <tag> chiplets </tag>
             
@@ -753,9 +757,9 @@
             
             <tag> innovation </tag>
             
-            <tag> semiconductors </tag>
-            
             <tag> manufacturing </tag>
+            
+            <tag> semiconductors </tag>
             
         </tags>
       
@@ -786,9 +790,9 @@
             
             <tag> innovation </tag>
             
-            <tag> manufacturing </tag>
-            
             <tag> legislation </tag>
+            
+            <tag> manufacturing </tag>
             
         </tags>
       
