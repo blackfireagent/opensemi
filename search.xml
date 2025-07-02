@@ -4,6 +4,39 @@
   
     
     <entry>
+      <title>Gowri Kamarthy Explains Akara’s Essential Role in the Era of 3D Chipmaking</title>
+      <link href="/opensemi/20250703_Gowri-Kamarthy-Explains-Akara%E2%80%99s-Essential-Role-in-the-Era-of-3D-Chipmaking/"/>
+      <url>/opensemi/20250703_Gowri-Kamarthy-Explains-Akara%E2%80%99s-Essential-Role-in-the-Era-of-3D-Chipmaking/</url>
+      
+        <content type="html"><![CDATA[<h2 id="News"><a href="#News" class="headerlink" title="News"></a><a href="https://www.semiconductor-digest.com/3d-printing-breakthrough-paves-way-for-next-gen-medical-devices-and-stretchable-electronics/">News</a></h2><p><strong>Gen Medical Devices and Stretchable Electronics</strong><br>Researchers at The University of Texas at Austin have developed an innovative 3D printing method that allows for the seamless integration of soft and hard materials. This technique could revolutionize the creation of prosthetics and flexible medical devices, enabling them to mimic the natural movement of human joints. The new process uses a dual-light printing system to cure a custom resin into materials of varying hardness, enhancing design possibilities and production efficiency in additive manufacturing.</p><p><img src="https://www.semiconductor-digest.com/wp-content/uploads/2019/02/Final-Logo-1.png" alt="3D Printing Breakthrough"></p><hr><h2 id="Launches"><a href="#Launches" class="headerlink" title="Launches"></a><a href="https://newsroom.lamresearch.com/gowri-kamarthy-explains-akaras-essential-role-in-the-era-of-3d-chipmaking-counterpoint?blog=true">Launches</a></h2><p><strong>Gowri Kamarthy Explains Akara’s Essential Role in the Era of 3D Chipmaking</strong><br>Lam Research has introduced the Akara tool, which employs advanced technologies to enhance plasma etching precision for high aspect ratio devices. This innovation is crucial for the manufacturing of next-generation memory and logic architectures as the industry approaches the 2 nm threshold. Akara promises atomic-level control over ion energy, significantly reducing defects and improving manufacturing outcomes for complex semiconductor structures.</p><p><img src="https://newsroom.lamresearch.com/image/Figure+1+-+Embracing+Semiverse%E2%84%A2+Solutions+Semiconductor+Virtual+Fabrication+and+Its+Applications.png" alt="Akara"></p><hr><h2 id="Charts"><a href="#Charts" class="headerlink" title="Charts"></a><a href="https://www.eetimes.com/dac-2025-agentic-ai-in-eda-is-just-getting-started-and-chiplets-are-all-the-rage/">Charts</a></h2><p><strong>DAC 2025: Agentic AI In EDA</strong><br>At DAC 2025, discussions highlighted the increasing role of agentic AI in chip design, focusing on its potential to manage the complexities of modern semiconductor design. The conference shed light on the necessity of human oversight in AI-driven design processes and the need for a clear monetization strategy for AI services. The integration of AI into design workflows is expected to evolve significantly over the next year as the industry grapples with talent shortages and rising design volumes.</p><p><img src="https://www.eetimes.com/wp-content/uploads/DAC-2025-registration_source_DAC_sq.jpg" alt="DAC 2025 Conference"></p><hr><h2 id="Research"><a href="#Research" class="headerlink" title="Research"></a><a href="https://www.eetimes.com/quantum-sun-rises-japan-gambit-for-leadership/">Research</a></h2><p><strong>Quantum Sun Rises, Japan Gambit for Leadership</strong><br>Japan has announced a landmark investment of ¥1.05 trillion ($7.4 billion) in quantum technology, marking a strategic shift towards leading the global quantum industry. This initiative aims to transition from basic research to commercialization, fostering a robust ecosystem for quantum startups and enhancing Japan’s competitiveness in technology. The strategy highlights the importance of collaboration between government and industry to achieve significant advancements in quantum computing and applications.</p><p><img src="https://www.eetimes.com/wp-content/uploads/international-2693231_1280.jpg" alt="Japan&#39;s Quantum Strategy"></p><hr><h2 id="Insight"><a href="#Insight" class="headerlink" title="Insight"></a><a href="https://www.eetimes.com/dac-2025-agentic-ai-in-eda-is-just-getting-started-and-chiplets-are-all-the-rage/">Insight</a></h2><p><strong>DAC 2025 Insights on AI and Chiplets</strong><br>Mile Ellow, CEO of Siemens EDA, shared insights at DAC 2025 regarding the future of AI in chip design, emphasizing the need for increased trust in AI tools among engineers. He anticipates that in the coming year, AI will play a more significant role in streamlining design processes, while discussions around chiplets highlighted their potential as new building blocks for computing. The conference showcased a growing interest in standardization and interoperability in the chiplet marketplace.</p><p><img src="https://www.eetimes.com/wp-content/uploads/DAC-2025-registration_source_DAC_sq.jpg" alt="DAC Insights"></p><hr><p>Stay tuned for more updates and insights from the semiconductor industry as we continue to explore innovations and trends shaping the future of technology!</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> Etch </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> AI </tag>
+            
+            <tag> chip design </tag>
+            
+            <tag> semiconductors </tag>
+            
+            <tag> 3D printing </tag>
+            
+            <tag> quantum technology </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>Hardware Security Tech Can Hide and Reveal Encryption Keys on Demand</title>
       <link href="/opensemi/20250701_Hardware-Security-Tech-Can-Hide-and-Reveal-Encryption-Keys-on-Demand/"/>
       <url>/opensemi/20250701_Hardware-Security-Tech-Can-Hide-and-Reveal-Encryption-Keys-on-Demand/</url>
@@ -26,9 +59,9 @@
             
             <tag> chip design </tag>
             
-            <tag> optical interconnects </tag>
-            
             <tag> quantum technology </tag>
+            
+            <tag> optical interconnects </tag>
             
         </tags>
       
@@ -945,9 +978,9 @@
             
             <tag> AI </tag>
             
-            <tag> Market Trends </tag>
-            
             <tag> Semiconductor Manufacturing </tag>
+            
+            <tag> Market Trends </tag>
             
             <tag> Research </tag>
             
@@ -1065,9 +1098,9 @@
       
         <tags>
             
-            <tag> packaging </tag>
-            
             <tag> AI </tag>
+            
+            <tag> packaging </tag>
             
             <tag> semiconductor technology </tag>
             
