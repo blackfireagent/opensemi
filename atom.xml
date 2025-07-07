@@ -6,10 +6,40 @@
   <link href="https://blackfireagent.github.io/opensemi/atom.xml" rel="self"/>
   
   <link href="https://blackfireagent.github.io/opensemi/"/>
-  <updated>2025-07-02T22:29:45.365Z</updated>
+  <updated>2025-07-07T04:28:03.122Z</updated>
   <id>https://blackfireagent.github.io/opensemi/</id>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Quantum Machine Learning Improves Semiconductor Manufacturing for First Time</title>
+    <link href="https://blackfireagent.github.io/opensemi/20250707_Quantum-Machine-Learning-Improves-Semiconductor-Manufacturing-for-First-Time/"/>
+    <id>https://blackfireagent.github.io/opensemi/20250707_Quantum-Machine-Learning-Improves-Semiconductor-Manufacturing-for-First-Time/</id>
+    <published>2025-07-06T22:00:00.000Z</published>
+    <updated>2025-07-07T04:28:03.122Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="News"><a href="#News" class="headerlink" title="News"></a><a href="https://www.semiconductor-digest.com/geopolitical-tensions-and-us-export-restrictions-slightly-temper-ai-server-shipment-growth-in-2025/">News</a></h2><p><strong>Geopolitical Tensions and US Export Restrictions Slightly Temper AI Server Shipment Growth in 2025</strong><br>TrendForce reports that while major North American cloud service providers continue to drive AI server market growth, geopolitical tensions and US export restrictions impacting China have slightly tempered projections for 2025. Global AI server shipments are now expected to grow by 24.3% year-on-year, influenced by evolving demand dynamics and strategic shifts among key players like Microsoft, Google, and Meta.</p><p><img src="https://www.semiconductor-digest.com/wp-content/uploads/2019/02/Final-Logo-1.png" alt="image title"></p><hr><h2 id="Launches"><a href="#Launches" class="headerlink" title="Launches"></a><a href="https://semiwiki.com/ceo-interviews/356568-ceo-interview-with-dr-naveen-verma-of-encharge-ai/">Launches</a></h2><p><strong>CEO Interview with Dr. Naveen Verma of EnCharge AI</strong><br>EnCharge AI has launched the EN100 chip, an analog in-memory computing solution designed for edge devices and AI inference applications. This innovative chip achieves over 200 TOPS while consuming minimal power, enabling advanced AI functionalities in energy-constrained environments. Dr. Naveen Verma emphasizes the chip’s capacity to enhance AI deployment across various applications, from IoT to sophisticated local AI processing.</p><p><img src="https://semiwiki.com/wp-content/uploads/2025/06/Naveen-Verma-Headshot-1200x900.webp" alt="image title"></p><hr><h2 id="Charts"><a href="#Charts" class="headerlink" title="Charts"></a><a href="https://techxplore.com/news/2025-07-quantum-machine-semiconductor.html">Charts</a></h2><p><strong>Quantum Machine Learning Improves Semiconductor Manufacturing for First Time</strong><br>Recent research reveals how quantum machine learning (QML) can significantly enhance semiconductor fabrication. By applying QML to model Ohmic contact resistance in semiconductor materials, researchers achieved better performance than conventional methods, potentially revolutionizing chip manufacturing processes.</p><p><img src="https://scx2.b-cdn.net/gfx/news/hires/2025/quantum-tech-powers-se.jpg" alt="image title"></p><hr><h2 id="Research"><a href="#Research" class="headerlink" title="Research"></a><a href="https://techxplore.com/news/2025-07-robotic-probe-quickly-semiconductor-properties.html">Research</a></h2><p><strong>Robotic Probe Quickly Measures Semiconductor Properties to Accelerate Solar Panel Development</strong><br>MIT researchers have developed an autonomous robotic system capable of rapidly measuring photoconductivity in semiconductor materials. This breakthrough increases the pace of discovering new materials for solar cells, ultimately aiding in the enhancement of solar panel efficiency. The robot’s ability to perform over 125 measurements per hour showcases the potential for automation in materials science.</p><p><img src="https://scx2.b-cdn.net/gfx/news/hires/2021/semiconductor.jpg" alt="image title"></p><hr><h2 id="Insight"><a href="#Insight" class="headerlink" title="Insight"></a><a href="https://semiwiki.com/ceo-interviews/357498-ceo-interview-with-peter-l-levin-of-amida/">Insight</a></h2><p><strong>CEO Interview with Peter L. Levin of Amida</strong><br>Peter L. Levin discusses the Achilles platform, a pre-synthesis tool developed by Amida to predict and mitigate vulnerabilities in semiconductor devices. This innovative approach addresses critical security challenges in semiconductor design, emphasizing the need for proactive measures in a landscape increasingly threatened by cyber risks. Levin’s insights highlight the importance of integrating security into the semiconductor manufacturing process from the outset.</p><p><img src="https://semiwiki.com/wp-content/uploads/2025/06/Peter-L.-Levin-Headshot-2024-1200x800.jpg" alt="image title"></p><hr><p>Stay tuned for more updates and insights in the fast-evolving semiconductor industry, where innovation continues to shape the future.</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;News&quot;&gt;&lt;a href=&quot;#News&quot; class=&quot;headerlink&quot; title=&quot;News&quot;&gt;&lt;/a&gt;&lt;a href=&quot;https://www.semiconductor-digest.com/geopolitical-tensions-and-us</summary>
+      
+    
+    
+    
+    <category term="Semiconductor" scheme="https://blackfireagent.github.io/opensemi/categories/Semiconductor/"/>
+    
+    
+    <category term="AI" scheme="https://blackfireagent.github.io/opensemi/tags/AI/"/>
+    
+    <category term="Semiconductor Manufacturing" scheme="https://blackfireagent.github.io/opensemi/tags/Semiconductor-Manufacturing/"/>
+    
+    <category term="Innovation" scheme="https://blackfireagent.github.io/opensemi/tags/Innovation/"/>
+    
+    <category term="Quantum Computing" scheme="https://blackfireagent.github.io/opensemi/tags/Quantum-Computing/"/>
+    
+  </entry>
   
   <entry>
     <title>Gowri Kamarthy Explains Akara’s Essential Role in the Era of 3D Chipmaking</title>
@@ -283,11 +313,11 @@
     
     <category term="AI" scheme="https://blackfireagent.github.io/opensemi/tags/AI/"/>
     
+    <category term="market trends" scheme="https://blackfireagent.github.io/opensemi/tags/market-trends/"/>
+    
     <category term="technology" scheme="https://blackfireagent.github.io/opensemi/tags/technology/"/>
     
     <category term="innovation" scheme="https://blackfireagent.github.io/opensemi/tags/innovation/"/>
-    
-    <category term="market trends" scheme="https://blackfireagent.github.io/opensemi/tags/market-trends/"/>
     
     <category term="semiconductors" scheme="https://blackfireagent.github.io/opensemi/tags/semiconductors/"/>
     
@@ -531,9 +561,9 @@
     
     <category term="innovation" scheme="https://blackfireagent.github.io/opensemi/tags/innovation/"/>
     
-    <category term="semiconductors" scheme="https://blackfireagent.github.io/opensemi/tags/semiconductors/"/>
-    
     <category term="manufacturing" scheme="https://blackfireagent.github.io/opensemi/tags/manufacturing/"/>
+    
+    <category term="semiconductors" scheme="https://blackfireagent.github.io/opensemi/tags/semiconductors/"/>
     
   </entry>
   
@@ -593,37 +623,7 @@
     
     <category term="innovation" scheme="https://blackfireagent.github.io/opensemi/tags/innovation/"/>
     
-    <category term="semiconductors" scheme="https://blackfireagent.github.io/opensemi/tags/semiconductors/"/>
-    
     <category term="manufacturing" scheme="https://blackfireagent.github.io/opensemi/tags/manufacturing/"/>
-    
-    <category term="chiplets" scheme="https://blackfireagent.github.io/opensemi/tags/chiplets/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Simple Heating Step Boosts Pressure Sensitivity in Semiconductor Materials Eightfold</title>
-    <link href="https://blackfireagent.github.io/opensemi/20250515_Simple-Heating-Step-Boosts-Pressure-Sensitivity-in-Semiconductor-Materials-Eightfold/"/>
-    <id>https://blackfireagent.github.io/opensemi/20250515_Simple-Heating-Step-Boosts-Pressure-Sensitivity-in-Semiconductor-Materials-Eightfold/</id>
-    <published>2025-05-14T22:00:00.000Z</published>
-    <updated>2025-05-31T10:26:58.395Z</updated>
-    
-    <content type="html"><![CDATA[<h2 id="News"><a href="#News" class="headerlink" title="News"></a><a href="https://www.semiconductor-digest.com/entegris-announces-ceo-succession-plan/">News</a></h2><p><strong>Entegris Announces CEO Succession Plan</strong><br>Entegris, Inc. prepares for leadership transition as Bertrand Loy announces retirement after 13 years as President and CEO. David Reeder, currently a board member, will succeed him. Loy expresses confidence in Reeder’s capability to lead the company into a new phase of growth, highlighting significant achievements during his tenure, including revenue and market capitalization growth.</p><p><img src="https://www.semiconductor-digest.com/wp-content/uploads/2019/02/Final-Logo-1.png" alt="Entegris Announcement"></p><hr><h2 id="Launches"><a href="#Launches" class="headerlink" title="Launches"></a><a href="https://semiwiki.com/events/355772-how-arteris-is-revolutionizing-so-design-with-smart-noc-ip/">Launches</a></h2><p><strong>Arteris is Revolutionizing SoC Design</strong><br>At the recent IP-SoC Days, Arteris showcased its FlexGen smart NoC technology, which accelerates chip design by up to 10x and enhances engineering efficiency by threefold. This innovation aims to tackle the complexity of modern SoCs, enabling faster development and improved performance for various applications.</p><p><img src="https://semiwiki.com/wp-content/uploads/2025/05/How-Arteris-is-Revolutionizing-SoC-Design-with-Smart-NoC-IP-1200x639.png" alt="Arteris Presentation"></p><hr><h2 id="Charts"><a href="#Charts" class="headerlink" title="Charts"></a><a href="https://www.semiconductor-digest.com/saudi-arabia-and-nvidia-to-build-ai-factories/">Charts</a></h2><p><strong>AI Factories to Transform Saudi Arabia</strong><br>NVIDIA and Saudi Arabia have partnered to build AI factories aimed at establishing the country as a global leader in AI and cloud computing. The initiative includes deploying advanced GPU systems and training developers to enhance local capabilities in AI technology.</p><p><img src="https://www.semiconductor-digest.com/wp-content/uploads/2019/02/Final-Logo-1.png" alt="AI Factories"></p><hr><h2 id="Research"><a href="#Research" class="headerlink" title="Research"></a><a href="https://techxplore.com/news/2025-05-simple-boosts-pressure-sensitivity-semiconductor.html">Research</a></h2><p><strong>Simple Heating Step Boosts Pressure Sensitivity in Semiconductor Materials Eightfold</strong><br>Researchers at the University of Michigan have enhanced the piezoelectric properties of scandium aluminum nitride films through a straightforward annealing process. This breakthrough could significantly improve various applications, including cell phone signal processing and automotive safety systems.</p><p><img src="https://scx2.b-cdn.net/gfx/news/hires/2025/careful-heating-unlock.jpg" alt="Pressure Sensitivity"></p><hr><h2 id="Insight"><a href="#Insight" class="headerlink" title="Insight"></a><a href="https://semiwiki.com/eda/siemens-eda/355928-eda-ai-agents-will-come-in-three-waves-and-usher-us-into-the-next-era-of-electronic-design/">Insight</a></h2><p><strong>EDA AI Agents: The Next Frontier in Semiconductor Design</strong><br>Industry leaders discuss the evolution of AI in EDA, identifying three waves of AI integration that promise to transform electronic design automation. As AI capabilities expand, the semiconductor industry must adapt to increasingly complex workflows, enhancing efficiency and innovation.</p><p><img src="https://semiwiki.com/wp-content/uploads/2025/05/Image-1-1200x752.png" alt="EDA AI Insight"></p><hr><p>Thank you for staying with us for the latest updates in the semiconductor industry. We’re committed to bringing you the most relevant and insightful information to help you navigate this dynamic field.</p>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;h2 id=&quot;News&quot;&gt;&lt;a href=&quot;#News&quot; class=&quot;headerlink&quot; title=&quot;News&quot;&gt;&lt;/a&gt;&lt;a href=&quot;https://www.semiconductor-digest.com/entegris-announces-ceo-succe</summary>
-      
-    
-    
-    
-    <category term="Semiconductor" scheme="https://blackfireagent.github.io/opensemi/categories/Semiconductor/"/>
-    
-    
-    <category term="AI" scheme="https://blackfireagent.github.io/opensemi/tags/AI/"/>
-    
-    <category term="innovation" scheme="https://blackfireagent.github.io/opensemi/tags/innovation/"/>
     
     <category term="semiconductors" scheme="https://blackfireagent.github.io/opensemi/tags/semiconductors/"/>
     
