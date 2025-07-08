@@ -6,10 +6,42 @@
   <link href="https://blackfireagent.github.io/opensemi/atom.xml" rel="self"/>
   
   <link href="https://blackfireagent.github.io/opensemi/"/>
-  <updated>2025-07-07T04:28:03.122Z</updated>
+  <updated>2025-07-08T04:13:25.388Z</updated>
   <id>https://blackfireagent.github.io/opensemi/</id>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>DAC 2025- Towards Multi-Agent Systems</title>
+    <link href="https://blackfireagent.github.io/opensemi/20250708_DAC-2025--Towards-Multi-Agent-Systems/"/>
+    <id>https://blackfireagent.github.io/opensemi/20250708_DAC-2025--Towards-Multi-Agent-Systems/</id>
+    <published>2025-07-07T22:00:00.000Z</published>
+    <updated>2025-07-08T04:13:25.388Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="News"><a href="#News" class="headerlink" title="News"></a><a href="https://www.eetimes.com/ai-startup-esperanto-winds-down-silicon-business/">News</a></h2><p><strong>AI Startup Esperanto Winds Down Silicon Business</strong><br>The AI chip startup Esperanto has announced the winding down of its silicon business, seeking buyers or licensing for its technology. CEO Art Swift cited fierce competition for talent and resources as a key reason for the closure. Despite a strong initial pipeline, the company struggled to sell its energy-efficient RISC-V chips amidst a market that prioritized other attributes. The company’s future roadmap included advanced chips that are now uncertain.</p><p><img src="https://www.eetimes.com/wp-content/uploads/ET-SoC-1-Chip-Stacked-Perspective-1.png" alt="Esperanto Chip"></p><hr><h2 id="Launches"><a href="#Launches" class="headerlink" title="Launches"></a><a href="https://techxplore.com/news/2025-07-ai-cloud-infrastructure-faster-greener.html">Launches</a></h2><p><strong>AI Cloud Infrastructure Gets Faster and Greener: NPU Core Improves Inference Performance by Over 60%</strong><br>Researchers from KAIST have developed a new NPU core technology that enhances the performance of generative AI models while significantly reducing power consumption. This advancement allows AI cloud infrastructures to operate more efficiently, addressing the growing demands of AI applications like ChatGPT. The new design integrates quantization techniques for memory optimization, promising a transformative impact on AI cloud services.</p><p><img src="https://scx2.b-cdn.net/gfx/news/2025/core-neural-processing.jpg" alt="NPU Core Technology"></p><hr><h2 id="Charts"><a href="#Charts" class="headerlink" title="Charts"></a><a href="https://www.eetimes.com/dac-2025-towards-multi-agent-systems-in-eda/">Charts</a></h2><p><strong>DAC 2025: Towards Multi-Agent Systems</strong><br>At the recent DAC conference, advancements in multi-agent systems for EDA workflows were discussed. These systems improve the efficiency and effectiveness of chip design processes, showcasing a significant trend towards automation in the semiconductor industry. The discussions highlighted the need for integrating human oversight with advanced AI-driven design tools, which could reshape how semiconductor companies approach development.</p><p><img src="https://www.eetimes.com/wp-content/uploads/Chappell.jpg" alt="DAC Conference"></p><hr><h2 id="Research"><a href="#Research" class="headerlink" title="Research"></a><a href="https://semiengineering.com/nvidia-gpu-confidential-computing-threat-model-and-security-insights-ibm-research-ohio-state/">Research</a></h2><p><strong>NVIDIA GPU Confidential Computing: Threat Model and Security Insights</strong><br>A new paper from IBM Research delves into NVIDIA’s GPU Confidential Computing, outlining its architecture and potential security vulnerabilities. The research emphasizes the importance of transparency in proprietary systems and explores how GPUs can securely process sensitive AI workloads. This work has significant implications for security in AI applications, crucial for the semiconductor landscape.</p><p><img src="https://semiengineering.com/wp-content/uploads/AdobeStock_488222178-feb-20-2024-scaled.jpeg" alt="NVIDIA Confidential Computing"></p><hr><h2 id="Insight"><a href="#Insight" class="headerlink" title="Insight"></a><a href="https://semiwiki.com/semiconductor-services/344572-intel-high-na-adoption/">Insight</a></h2><p><strong>Intel High NA Adoption</strong><br>Intel’s adoption of High NA EUV technology marks a pivotal shift in semiconductor manufacturing capabilities. This move is set to enhance their process densities and simplify production workflows, with the first High NA tool already integrated into their Oregon fab. The insights from Intel’s strategy reflect broader trends in the industry as companies strive for technological advancements amid increasing competition.</p><p><img src="https://semiwiki.com/wp-content/uploads/2024/04/High-NA-EUV-Final-Pre-Briefing-Deck-4.15.24-embargoed-til-4.18-at-7am-PT-1_Page_07-1200x675.jpg" alt="Intel High NA"></p><hr><p>Stay tuned with us for the latest news and insights from the semiconductor industry as we continue to track these transformative developments.</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;News&quot;&gt;&lt;a href=&quot;#News&quot; class=&quot;headerlink&quot; title=&quot;News&quot;&gt;&lt;/a&gt;&lt;a href=&quot;https://www.eetimes.com/ai-startup-esperanto-winds-down-silicon-b</summary>
+      
+    
+    
+    
+    <category term="Device" scheme="https://blackfireagent.github.io/opensemi/categories/Device/"/>
+    
+    
+    <category term="AI" scheme="https://blackfireagent.github.io/opensemi/tags/AI/"/>
+    
+    <category term="innovation" scheme="https://blackfireagent.github.io/opensemi/tags/innovation/"/>
+    
+    <category term="sustainability" scheme="https://blackfireagent.github.io/opensemi/tags/sustainability/"/>
+    
+    <category term="semiconductors" scheme="https://blackfireagent.github.io/opensemi/tags/semiconductors/"/>
+    
+    <category term="investment" scheme="https://blackfireagent.github.io/opensemi/tags/investment/"/>
+    
+  </entry>
   
   <entry>
     <title>Quantum Machine Learning Improves Semiconductor Manufacturing for First Time</title>
@@ -596,38 +628,6 @@
     <category term="Chiplets" scheme="https://blackfireagent.github.io/opensemi/tags/Chiplets/"/>
     
     <category term="Innovation" scheme="https://blackfireagent.github.io/opensemi/tags/Innovation/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>POET Appoints Ghazi Chaoui as Senior Vice President</title>
-    <link href="https://blackfireagent.github.io/opensemi/20250516_POET-Appoints-Ghazi-Chaoui-as-Senior-Vice-President/"/>
-    <id>https://blackfireagent.github.io/opensemi/20250516_POET-Appoints-Ghazi-Chaoui-as-Senior-Vice-President/</id>
-    <published>2025-05-15T22:00:00.000Z</published>
-    <updated>2025-05-31T10:26:58.395Z</updated>
-    
-    <content type="html"><![CDATA[<h2 id="News"><a href="#News" class="headerlink" title="News"></a><a href="https://www.semiconductor-digest.com/centrotherm-clean-solutions-becomes-pfeiffer-vacuumfab-solutions/">News</a></h2><p><strong>Centrotherm Clean Solutions Becomes Pfeiffer Vacuum+Fab Solutions</strong><br>The Busch Group consolidates its gas abatement systems for the semiconductor industry under the Pfeiffer brand, streamlining offerings to enhance customer service in vacuum solutions. This strategic integration aims to leverage the strengths of both brands to deliver comprehensive solutions to semiconductor manufacturers and related sectors.</p><p><img src="https://www.semiconductor-digest.com/wp-content/uploads/2019/02/Final-Logo-1.png" alt="Centrotherm Clean Solutions"></p><hr><h2 id="Launches"><a href="#Launches" class="headerlink" title="Launches"></a><a href="https://www.semiconductor-digest.com/poet-appoints-ghazi-chaoui-phd-as-senior-vice-president-global-manufacturing-and-digital-transformation/">Launches</a></h2><p><strong>POET Appoints Ghazi Chaoui as Senior Vice President</strong><br>POET Technologies Inc. announces the appointment of Dr. Ghazi Chaoui to lead global manufacturing and digital transformation efforts in Penang, Malaysia. His extensive experience will support the ramp-up of production for high-performance optical engines, crucial for meeting the demands of AI and hyperscale data centers.</p><p><img src="https://www.semiconductor-digest.com/wp-content/uploads/2019/02/Final-Logo-1.png" alt="POET Technologies"></p><hr><h2 id="Charts"><a href="#Charts" class="headerlink" title="Charts"></a><a href="https://semiwiki.com/artificial-intelligence/355714-the-journey-of-interface-protocols-the-evolution-of-interface-protocols-part-1-of-2/">Charts</a></h2><p><strong>The Evolution of Interface Protocols</strong><br>This report outlines the significant evolution of interface protocols in semiconductor design, driven by the rise of AI and increased data demands. The ongoing advancements in protocols like PCIe and Ethernet highlight the industry’s shift towards higher performance and capacity, essential for supporting modern AI workloads.</p><p><img src="https://semiwiki.com/wp-content/uploads/2025/05/The-journey-of-interface-protocols-part-1-table-1.png" alt="Evolution of Interface Protocols"></p><hr><h2 id="Research"><a href="#Research" class="headerlink" title="Research"></a><a href="https://www.imec-int.com/en/press/imec-and-feinstein-unveil-novel-concept-neuromodulation-intermittent-interferential-current">Research</a></h2><p><strong>Novel Concept for Neuromodulation</strong><br>Imec and the Feinstein Institutes have developed a new method for activating neural tissue using intermittent interferential current stimulation (i²CS). This approach enhances the precision and efficacy of vagus nerve stimulation, which could transform treatment options for various chronic diseases, showcasing the potential impact of semiconductor innovations in medicine.</p><p><img src="https://www.imec-int.com/sites/default/files/2025-04/image%20%282%29.png" alt="Neuromodulation"></p><hr><h2 id="Insight"><a href="#Insight" class="headerlink" title="Insight"></a><a href="https://www.eetimes.com/menlo-micro-within-three-months-of-delivering-millionth-device/">Insight</a></h2><p><strong>Menlo Micro’s Journey to Millionth Device</strong><br>CEO Russ Garcia discusses Menlo Micro’s progress towards delivering its millionth MEMS-based “Ideal” switch. This technology significantly enhances energy efficiency in various applications, positioning the company as a key player in the semiconductor industry, especially in the context of emerging AI technologies.</p><p><img src="https://www.eetimes.com/wp-content/uploads/Russ-Garcia_CEO_Menlo-Micros_image-source_Nitin-Dahad.jpg" alt="Menlo Micro"></p><hr><p>Stay tuned with us for the latest insights and developments in the semiconductor industry!</p>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;h2 id=&quot;News&quot;&gt;&lt;a href=&quot;#News&quot; class=&quot;headerlink&quot; title=&quot;News&quot;&gt;&lt;/a&gt;&lt;a href=&quot;https://www.semiconductor-digest.com/centrotherm-clean-solutions-</summary>
-      
-    
-    
-    
-    <category term="Semiconductor" scheme="https://blackfireagent.github.io/opensemi/categories/Semiconductor/"/>
-    
-    
-    <category term="AI" scheme="https://blackfireagent.github.io/opensemi/tags/AI/"/>
-    
-    <category term="innovation" scheme="https://blackfireagent.github.io/opensemi/tags/innovation/"/>
-    
-    <category term="manufacturing" scheme="https://blackfireagent.github.io/opensemi/tags/manufacturing/"/>
-    
-    <category term="semiconductors" scheme="https://blackfireagent.github.io/opensemi/tags/semiconductors/"/>
-    
-    <category term="chiplets" scheme="https://blackfireagent.github.io/opensemi/tags/chiplets/"/>
     
   </entry>
   
