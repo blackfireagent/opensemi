@@ -4,6 +4,39 @@
   
     
     <entry>
+      <title>Tenstorrent Acquires Blue Cheetah, Opens Chiplet Spec</title>
+      <link href="/opensemi/20250715_Tenstorrent-Acquires-Blue-Cheetah,-Opens-Chiplet-Spec/"/>
+      <url>/opensemi/20250715_Tenstorrent-Acquires-Blue-Cheetah,-Opens-Chiplet-Spec/</url>
+      
+        <content type="html"><![CDATA[<h2 id="News"><a href="#News" class="headerlink" title="News"></a><a href="https://www.eetimes.com/risc-v-solidifies-presence-in-china-as-global-momentum-builds/">News</a></h2><p><strong>V Solidifies Presence in China as Global Momentum Builds</strong><br>The RISC-V instruction set architecture is witnessing significant growth globally, with China emerging as a key player. The upcoming RISC-V Summit China 2025 in Shanghai highlights China’s contributions to the ecosystem, where major companies are investing heavily in RISC-V tools and development, showcasing a unified global maturity in its adoption.</p><p><img src="https://www.eetimes.com/wp-content/uploads/risc-v-china.jpg" alt="RISC-V Growth"></p><hr><h2 id="Launches"><a href="#Launches" class="headerlink" title="Launches"></a><a href="https://www.eetimes.com/tenstorrent-acquires-blue-cheetah-opens-chiplet-spec/">Launches</a></h2><p><strong>Tenstorrent Acquires Blue Cheetah, Opens Chiplet Spec</strong><br>Tenstorrent has made a strategic acquisition of Blue Cheetah to enhance its chiplet design capabilities. The newly opened Open Chiplet Architecture (OCA) aims to foster a diverse chiplet ecosystem, allowing for significant cost reductions in custom SoC designs and encouraging collaboration across the industry.</p><p><img src="https://www.eetimes.com/wp-content/uploads/chiplet-jigsaw-sq.jpg" alt="Chiplet Innovation"></p><hr><h2 id="Charts"><a href="#Charts" class="headerlink" title="Charts"></a><a href="https://www.eetimes.com/delivering-energy-for-abundant-ai-will-require-new-playbook/">Charts</a></h2><p><strong>Delivering Energy for Abundant AI Will Require New Playbook</strong><br>A new report from Applied Materials outlines the projected electricity demand increase due to AI and data centers, emphasizing the necessity for a coordinated approach to energy efficiency and grid modernization. The report highlights that AI could consume approximately 12% of global electricity by 2030, necessitating significant industry-wide collaboration.</p><p><img src="https://www.eetimes.com/wp-content/uploads/Applied-Materials_delivering-sustainable-energy-ai-era-sq.jpg" alt="Energy Demand"></p><hr><h2 id="Research"><a href="#Research" class="headerlink" title="Research"></a><a href="https://semiengineering.com/photonic-sram-facilitating-electro-optic-data-storage-for-ultra-fast-imc-uw-madison-usc/">Research</a></h2><p><strong>Photonic SRAM Facilitating Electro-Optic Data Storage For Ultra-Fast IMC</strong><br>Researchers at UW-Madison and USC have developed a differential photonic SRAM (X-pSRAM) that enables ultra-fast in-memory computing. This advancement addresses the limitations of traditional architectures by facilitating high-speed data operations entirely within the optical domain, thus significantly enhancing computational efficiency for AI applications.</p><p><img src="https://semiengineering.com/wp-content/uploads/AdobeStock_184389409-06-19-24-scaled.jpeg" alt="Photonic SRAM"></p><hr><h2 id="Insight"><a href="#Insight" class="headerlink" title="Insight"></a><a href="https://semiwiki.com/ceo-interviews/357846-ceo-interview-with-darin-davis-of-silicet/">Insight</a></h2><p><strong>CEO Interview with Darin Davis of SILICET</strong><br>In an insightful interview, Darin Davis discusses SILICET’s innovative LDMOS architecture designed to revolutionize semiconductor IP licensing. He highlights how their scalable designs enhance performance while minimizing costs, and addresses industry challenges such as parasitic effects, demonstrating SILICET’s commitment to advancing semiconductor technologies.</p><p><img src="https://semiwiki.com/wp-content/uploads/2025/07/Davis-Silicet.jpeg" alt="Darin Davis"></p><hr><p>Stay connected with us for the latest updates and innovations in the semiconductor industry!</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> Device </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> AI </tag>
+            
+            <tag> innovation </tag>
+            
+            <tag> semiconductors </tag>
+            
+            <tag> partnerships </tag>
+            
+            <tag> energy </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>CEO Interview with Darin Davis of SILICET</title>
       <link href="/opensemi/20250714_CEO-Interview-with-Darin-Davis-of-SILICET/"/>
       <url>/opensemi/20250714_CEO-Interview-with-Darin-Davis-of-SILICET/</url>
@@ -1228,9 +1261,9 @@
       
         <tags>
             
-            <tag> AI </tag>
-            
             <tag> packaging </tag>
+            
+            <tag> AI </tag>
             
             <tag> semiconductor technology </tag>
             
