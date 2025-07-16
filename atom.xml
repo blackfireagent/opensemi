@@ -6,10 +6,42 @@
   <link href="https://blackfireagent.github.io/opensemi/atom.xml" rel="self"/>
   
   <link href="https://blackfireagent.github.io/opensemi/"/>
-  <updated>2025-07-15T04:13:13.266Z</updated>
+  <updated>2025-07-16T04:18:28.156Z</updated>
   <id>https://blackfireagent.github.io/opensemi/</id>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Photonics Aids the March of Moore’s Law</title>
+    <link href="https://blackfireagent.github.io/opensemi/20250716_Photonics-Aids-the-March-of-Moore%E2%80%99s-Law/"/>
+    <id>https://blackfireagent.github.io/opensemi/20250716_Photonics-Aids-the-March-of-Moore%E2%80%99s-Law/</id>
+    <published>2025-07-15T22:00:00.000Z</published>
+    <updated>2025-07-16T04:18:28.156Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="News"><a href="#News" class="headerlink" title="News"></a><a href="https://spectrum.ieee.org/intel-says-its-manufacturing-tech-will-lead-the-world-by-2025">News</a></h2><p><strong>Intel: Back on Top by 2025?</strong><br>Intel has revealed an ambitious roadmap that aims to reclaim its leadership in semiconductor manufacturing by 2025. The company will discontinue the use of “nanometer” terminology, introducing new node names like Intel 7, Intel 4, and the groundbreaking Intel 20A, which will feature the innovative RibbonFET architecture for improved transistor performance and efficiency. The PowerVia technology will also enhance power delivery, promising significant advancements in the semiconductor landscape.</p><p><img src="https://spectrum.ieee.org/media-library/3-side-by-side-blue-and-gold-illustrations-of-intel-s-powervia-backside-power-delivery-network-implementation.jpg?id=27084815&width=1200&height=831" alt="Intel Technology"></p><hr><h2 id="Launches"><a href="#Launches" class="headerlink" title="Launches"></a><a href="https://spie.org/news/ais-impact-three-examples">Launches</a></h2><p><strong>AI’s Impact: Three Examples</strong><br>At the 2025 SPIE Advanced Lithography + Patterning conference, advancements in lithography systems and AI applications were showcased. ASML unveiled new lithography solutions that promise enhanced stability and measurement capabilities, while imec’s research on extreme ultraviolet lithography (EUVL) aims to improve chip yield through innovative assist features. These technologies are crucial for meeting the escalating demands driven by AI applications.</p><p><img src="https://spie.org/images/Graphics/Newsroom/2025articles/AL25_Lithography_artificial%20intelligence_920.jpg" alt="AI in Lithography"></p><hr><h2 id="Charts"><a href="#Charts" class="headerlink" title="Charts"></a><a href="https://spie.org/news/photonics-focus/marchapril-2025/aiding-the-march-of-moores-law">Charts</a></h2><p><strong>Photonics Aids the March of Moore’s Law</strong><br>The importance of photonics in sustaining Moore’s Law is emphasized as TSMC aims for products with over one trillion transistors by 2030. The article discusses the evolution of technology nodes from 20 µm in 1968 to 2 nm today, highlighting how photonics advancements and chiplet technology are essential for achieving higher transistor densities while maintaining performance improvements.</p><p><img src="https://spie.org/images/Graphics/Photonics%20Focus/V6_iss2/Fab14-920.jpg" alt="Moore&#39;s Law Chart"></p><hr><h2 id="Research"><a href="#Research" class="headerlink" title="Research"></a><a href="https://techxplore.com/news/2022-06-3d-electronics.html">Research</a></h2><p><strong>Research Allows for 3D Printing of ‘Organic Electronics’</strong><br>Researchers at the University of Houston have developed a process for 3D printing organic semiconductor devices using multiphoton lithography. This technology enables the fabrication of flexible electronic circuits, biosensors, and bioelectronics with enhanced conductivity, paving the way for applications in biomedical fields and next-generation electronics.</p><p><img src="https://scx2.b-cdn.net/gfx/news/2022/research-allows-for-3d.jpg" alt="3D Printed Electronics"></p><hr><h2 id="Insight"><a href="#Insight" class="headerlink" title="Insight"></a><a href="https://semiwiki.com/ceo-interviews/353842-ceo-interview-with-jonas-sundqvist-of-alixlabs/">Insight</a></h2><p><strong>CEO Interview with Jonas Sundqvist of AlixLabs</strong><br>Jonas Sundqvist discusses the innovative Atomic Layer Etch (ALE) technology developed by AlixLabs, which aims to reduce costs and improve yields in semiconductor manufacturing. He highlights how their APS (ALE Pitch Splitting) process provides a sustainable alternative to traditional multi-patterning techniques, addressing key challenges in the semiconductor industry as it scales down feature sizes.</p><p><img src="https://semiwiki.com/wp-content/uploads/2025/03/04_AlixLabs_portrait_211116-1200x800.jpg" alt="Jonas Sundqvist"></p><hr><p>Stay tuned for more updates as we continue to explore the latest trends and innovations in the semiconductor industry!</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;News&quot;&gt;&lt;a href=&quot;#News&quot; class=&quot;headerlink&quot; title=&quot;News&quot;&gt;&lt;/a&gt;&lt;a href=&quot;https://spectrum.ieee.org/intel-says-its-manufacturing-tech-will-</summary>
+      
+    
+    
+    
+    <category term="Lithography" scheme="https://blackfireagent.github.io/opensemi/categories/Lithography/"/>
+    
+    
+    <category term="AI" scheme="https://blackfireagent.github.io/opensemi/tags/AI/"/>
+    
+    <category term="innovation" scheme="https://blackfireagent.github.io/opensemi/tags/innovation/"/>
+    
+    <category term="sustainability" scheme="https://blackfireagent.github.io/opensemi/tags/sustainability/"/>
+    
+    <category term="semiconductors" scheme="https://blackfireagent.github.io/opensemi/tags/semiconductors/"/>
+    
+    <category term="lithography" scheme="https://blackfireagent.github.io/opensemi/tags/lithography/"/>
+    
+  </entry>
   
   <entry>
     <title>Tenstorrent Acquires Blue Cheetah, Opens Chiplet Spec</title>
@@ -65,9 +97,9 @@
     
     <category term="AI" scheme="https://blackfireagent.github.io/opensemi/tags/AI/"/>
     
-    <category term="research" scheme="https://blackfireagent.github.io/opensemi/tags/research/"/>
-    
     <category term="semiconductors" scheme="https://blackfireagent.github.io/opensemi/tags/semiconductors/"/>
+    
+    <category term="research" scheme="https://blackfireagent.github.io/opensemi/tags/research/"/>
     
     <category term="advanced packaging" scheme="https://blackfireagent.github.io/opensemi/tags/advanced-packaging/"/>
     
@@ -225,9 +257,9 @@
     
     <category term="semiconductors" scheme="https://blackfireagent.github.io/opensemi/tags/semiconductors/"/>
     
-    <category term="3D printing" scheme="https://blackfireagent.github.io/opensemi/tags/3D-printing/"/>
-    
     <category term="quantum technology" scheme="https://blackfireagent.github.io/opensemi/tags/quantum-technology/"/>
+    
+    <category term="3D printing" scheme="https://blackfireagent.github.io/opensemi/tags/3D-printing/"/>
     
   </entry>
   
@@ -257,9 +289,9 @@
     
     <category term="chip design" scheme="https://blackfireagent.github.io/opensemi/tags/chip-design/"/>
     
-    <category term="quantum technology" scheme="https://blackfireagent.github.io/opensemi/tags/quantum-technology/"/>
-    
     <category term="optical interconnects" scheme="https://blackfireagent.github.io/opensemi/tags/optical-interconnects/"/>
+    
+    <category term="quantum technology" scheme="https://blackfireagent.github.io/opensemi/tags/quantum-technology/"/>
     
   </entry>
   
@@ -533,9 +565,9 @@
     <category term="Lithography" scheme="https://blackfireagent.github.io/opensemi/categories/Lithography/"/>
     
     
-    <category term="Market Trends" scheme="https://blackfireagent.github.io/opensemi/tags/Market-Trends/"/>
-    
     <category term="Semiconductor Technology" scheme="https://blackfireagent.github.io/opensemi/tags/Semiconductor-Technology/"/>
+    
+    <category term="Market Trends" scheme="https://blackfireagent.github.io/opensemi/tags/Market-Trends/"/>
     
     <category term="EUV Lithography" scheme="https://blackfireagent.github.io/opensemi/tags/EUV-Lithography/"/>
     
@@ -600,36 +632,6 @@
     <category term="workforce" scheme="https://blackfireagent.github.io/opensemi/tags/workforce/"/>
     
     <category term="quantum computing" scheme="https://blackfireagent.github.io/opensemi/tags/quantum-computing/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>SEMI Reports Typical Q1 2025 Semiconductor Seasonality with Potential for Atypical Shifts Due to Tariff Uncertainty</title>
-    <link href="https://blackfireagent.github.io/opensemi/20250521_SEMI-Reports-Typical-Q1-2025-Semiconductor-Seasonality-with-Potential-for-Atypical-Shifts-Due-to-Tariff-Uncertainty/"/>
-    <id>https://blackfireagent.github.io/opensemi/20250521_SEMI-Reports-Typical-Q1-2025-Semiconductor-Seasonality-with-Potential-for-Atypical-Shifts-Due-to-Tariff-Uncertainty/</id>
-    <published>2025-05-20T22:00:00.000Z</published>
-    <updated>2025-05-31T10:26:58.411Z</updated>
-    
-    <content type="html"><![CDATA[<h2 id="News"><a href="#News" class="headerlink" title="News"></a><a href="https://semiwiki.com/semiconductor-manufacturers/intel/355988-intel-foundry-is-a-low-risk-aternative-to-tsmc/">News</a></h2><p><strong>Intel Foundry is a Low Risk Alternative to TSMC</strong><br>Intel has positioned itself as a strategic alternative to TSMC in the foundry market, emphasizing a partnership approach and a focus on execution. CFO Dave Zinsner noted that while Intel’s 18A technology is not fully developed as a foundry process, the company aims to leverage its design and foundry services for competitive advantage. The foundry market is expected to be a critical growth area for Intel, with a breakeven target set for 2027.  </p><p><img src="https://semiwiki.com/wp-content/uploads/2025/05/Dave-Zinsner-Foundry-Hat-SemiWIki.png" alt="Intel Foundry"></p><hr><h2 id="Launches"><a href="#Launches" class="headerlink" title="Launches"></a><a href="https://www.semiconductor-digest.com/cea-leti-reports-co-integration-of-gan-microled-and-organic-photodetectors-for-multifunctional-display-applications/">Launches</a></h2><p><strong>CEA-Leti Reports Co-Integration of GaN MicroLED and Organic Photodetectors for Multifunctional Display Applications</strong><br>CEA-Leti has successfully demonstrated the co-integration of GaN microLED technology and organic photodetectors, paving the way for multifunctional display applications. This integration enables advanced functionalities such as fingerprint sensing and bio-monitoring, addressing the growing demand for interactive displays in consumer electronics.  </p><p><img src="https://www.semiconductor-digest.com/wp-content/uploads/2025/05/image002.jpg" alt="GaN MicroLED"></p><hr><h2 id="Charts"><a href="#Charts" class="headerlink" title="Charts"></a><a href="https://www.semiconductor-digest.com/semi-reports-typical-q1-2025-semiconductor-seasonality-with-potential-for-atypical-shifts-due-to-tariff-uncertainty/">Charts</a></h2><p><strong>SEMI Reports Typical Q1 2025 Semiconductor Seasonality with Potential for Atypical Shifts Due to Tariff Uncertainty</strong><br>SEMI’s Q1 2025 Semiconductor Manufacturing Monitor highlights typical seasonal patterns in semiconductor sales, while also noting potential disruptions caused by global trade policies. The report emphasizes a significant year-over-year increase in capital expenditures, especially in AI and high-performance computing sectors.  </p><p><img src="https://www.semiconductor-digest.com/wp-content/uploads/2025/05/vcsPRAsset_3390533_117249_eb5bd3fd-0ad2-477b-9573-a0ec71ebcf78_0.png" alt="SEMI Report"></p><hr><h2 id="Research"><a href="#Research" class="headerlink" title="Research"></a><a href="https://techxplore.com/news/2025-05-positioning-microdevices-circularly-polarized-luminescence.html">Research</a></h2><p><strong>Self-Positioning Microdevices with Circularly Polarized Luminescence Enable Adaptable 3D Display</strong><br>Researchers have developed a novel 3D display technology utilizing circularly polarized luminescence, which allows for interactive manipulation through hand movements. This advancement could revolutionize human-computer interaction, significantly improving applications in medical and aerospace systems.  </p><p><img src="https://scx2.b-cdn.net/gfx/news/2025/ustc-develops-self-pos.jpg" alt="3D Display"></p><hr><h2 id="Insight"><a href="#Insight" class="headerlink" title="Insight"></a><a href="https://semiwiki.com/semiconductor-services/356050-alchips-technology-and-global-talent-strategy-deliver-record-growth/">Insight</a></h2><p><strong>Alchip’s Technology and Global Talent Strategy Deliver Record Growth</strong><br>Alchip Technologies is making strides in 2nm and 3nm technology advancements, with a focus on expanding its engineering resources globally. The company’s CEO Johnny Shen highlights the importance of innovative packaging solutions and the strategic shift towards locations like Taiwan and Southeast Asia to tap into local talent and enhance semiconductor capabilities.  </p><p><img src="https://semiwiki.com/wp-content/uploads/2025/05/Alchip-TSMC-2nm-N2-1200x634.jpg" alt="Alchip Technology"></p><hr><p>Stay tuned for more insights and updates from the semiconductor industry as we continue to explore how innovation and strategic partnerships shape the future.</p>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;h2 id=&quot;News&quot;&gt;&lt;a href=&quot;#News&quot; class=&quot;headerlink&quot; title=&quot;News&quot;&gt;&lt;/a&gt;&lt;a href=&quot;https://semiwiki.com/semiconductor-manufacturers/intel/355988-int</summary>
-      
-    
-    
-    
-    <category term="Lithography" scheme="https://blackfireagent.github.io/opensemi/categories/Lithography/"/>
-    
-    
-    <category term="technology" scheme="https://blackfireagent.github.io/opensemi/tags/technology/"/>
-    
-    <category term="innovation" scheme="https://blackfireagent.github.io/opensemi/tags/innovation/"/>
-    
-    <category term="semiconductors" scheme="https://blackfireagent.github.io/opensemi/tags/semiconductors/"/>
-    
-    <category term="partnerships" scheme="https://blackfireagent.github.io/opensemi/tags/partnerships/"/>
     
   </entry>
   
