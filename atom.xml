@@ -6,10 +6,42 @@
   <link href="https://blackfireagent.github.io/opensemi/atom.xml" rel="self"/>
   
   <link href="https://blackfireagent.github.io/opensemi/"/>
-  <updated>2025-07-16T04:18:28.156Z</updated>
+  <updated>2025-07-17T04:10:43.504Z</updated>
   <id>https://blackfireagent.github.io/opensemi/</id>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Search for new semiconductors heats up with gallium oxide</title>
+    <link href="https://blackfireagent.github.io/opensemi/20250717_Search-for-new-semiconductors-heats-up-with-gallium-oxide/"/>
+    <id>https://blackfireagent.github.io/opensemi/20250717_Search-for-new-semiconductors-heats-up-with-gallium-oxide/</id>
+    <published>2025-07-16T22:00:00.000Z</published>
+    <updated>2025-07-17T04:10:43.504Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="News"><a href="#News" class="headerlink" title="News"></a><a href="https://www.semiconductor-digest.com/north-carolina-state-university-orders-ion-beam-etching-equipment-from-scia-systems/">News</a></h2><p><strong>North Carolina State University Orders Ion Beam Etching Equipment from scia Systems</strong><br>scia Systems GmbH announced that North Carolina State University has purchased a scia Mill 200 system for processing wide bandgap semiconductor materials such as Silicon Carbide and Gallium Nitride. This system will enable the university to enhance capabilities in developing power electronic devices that operate efficiently at high voltages and temperatures, and it will be installed in their new hub for wide bandgap semiconductor innovation.</p><p><img src="https://www.semiconductor-digest.com/wp-content/uploads/2019/02/Final-Logo-1.png" alt="image title"></p><hr><h2 id="Launches"><a href="#Launches" class="headerlink" title="Launches"></a><a href="https://www.eetimes.com/radar-vision-fusion-hits-indian-expressway-with-bitsensings-timos/">Launches</a></h2><p><strong>Radar–Vision Fusion with bitsensing’s TIMOS</strong><br>IKIO Technologies has partnered with bitsensing to deploy TIMOS, an AI-powered traffic monitoring technology in India. This innovative sensor merges radar and vision data to improve traffic management and safety. The pilot project will begin on the Delhi-Mumbai Expressway, aiming to enhance urban traffic analysis and support advanced driver assistance systems in the future.</p><p><img src="https://www.eetimes.com/wp-content/uploads/verona.jpg" alt="image title"></p><hr><h2 id="Charts"><a href="#Charts" class="headerlink" title="Charts"></a><a href="https://www.eetimes.com/silicon-100-2025-edition/">Charts</a></h2><p><strong>Silicon 100: Startups to Watch in 2025</strong><br>The latest edition of EE Times’ Silicon 100 highlights emerging startups in the semiconductor industry, showcasing innovations in data center AI, edge AI, and quantum computing. This year’s list reflects how geopolitical factors are shaping venture capital’s global reach and emphasizes the critical link between technology advancement and market relevance.</p><p><img src="https://www.eetimes.com/wp-content/uploads/Cover-Silicon100-2025-16-9.jpg" alt="image title"></p><hr><h2 id="Research"><a href="#Research" class="headerlink" title="Research"></a><a href="https://phys.org/news/2019-07-semiconductors-gallium-oxide.html">Research</a></h2><p><strong>Search for new semiconductors heats up with gallium oxide</strong><br>University of Illinois researchers have made significant strides in fabricating beta-gallium oxide, a promising material for high-power semiconductor applications. Using a novel etching technique, they have successfully created 3D fin structures, which enhance power handling capabilities. This research could pave the way for more efficient semiconductor devices, though challenges remain in etching speed and thermal conductivity.</p><p><img src="https://scx2.b-cdn.net/gfx/news/2019/searchfornew.jpg" alt="image title"></p><hr><h2 id="Insight"><a href="#Insight" class="headerlink" title="Insight"></a><a href="https://www.eetimes.com/xconn-shows-off-first-cxl-switch/">Insight</a></h2><p><strong>Xconn Shows Off First CXL Switch</strong><br>Xconn Technologies has unveiled its Apollo CXL switch, enabling dynamic memory pooling across various systems. This innovation, showcased at DevCon 2025, is designed for AI and high-performance computing applications, addressing the memory limitations that often hinder performance. The switch supports terabyte-scale memory expansion, crucial for advancing AI technologies and optimizing resource use.</p><p><img src="https://www.eetimes.com/wp-content/uploads/clx.jpg" alt="image title"></p><hr><p>Stay tuned for more updates and insights into the semiconductor industry as we continue to bring you the latest news and innovations shaping the future.</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;News&quot;&gt;&lt;a href=&quot;#News&quot; class=&quot;headerlink&quot; title=&quot;News&quot;&gt;&lt;/a&gt;&lt;a href=&quot;https://www.semiconductor-digest.com/north-carolina-state-univers</summary>
+      
+    
+    
+    
+    <category term="Etch" scheme="https://blackfireagent.github.io/opensemi/categories/Etch/"/>
+    
+    
+    <category term="technology" scheme="https://blackfireagent.github.io/opensemi/tags/technology/"/>
+    
+    <category term="innovation" scheme="https://blackfireagent.github.io/opensemi/tags/innovation/"/>
+    
+    <category term="semiconductor" scheme="https://blackfireagent.github.io/opensemi/tags/semiconductor/"/>
+    
+    <category term="partnerships" scheme="https://blackfireagent.github.io/opensemi/tags/partnerships/"/>
+    
+    <category term="materials" scheme="https://blackfireagent.github.io/opensemi/tags/materials/"/>
+    
+  </entry>
   
   <entry>
     <title>Photonics Aids the March of Moore’s Law</title>
@@ -97,9 +129,9 @@
     
     <category term="AI" scheme="https://blackfireagent.github.io/opensemi/tags/AI/"/>
     
-    <category term="semiconductors" scheme="https://blackfireagent.github.io/opensemi/tags/semiconductors/"/>
-    
     <category term="research" scheme="https://blackfireagent.github.io/opensemi/tags/research/"/>
+    
+    <category term="semiconductors" scheme="https://blackfireagent.github.io/opensemi/tags/semiconductors/"/>
     
     <category term="advanced packaging" scheme="https://blackfireagent.github.io/opensemi/tags/advanced-packaging/"/>
     
@@ -600,38 +632,6 @@
     <category term="Lithography" scheme="https://blackfireagent.github.io/opensemi/tags/Lithography/"/>
     
     <category term="Semiconductor Sustainability" scheme="https://blackfireagent.github.io/opensemi/tags/Semiconductor-Sustainability/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>CEO Interview with Mohan Iyer, Vice President and General Manager, Semiconductor Business Unit at Thermo Fisher Scientific</title>
-    <link href="https://blackfireagent.github.io/opensemi/20250526_CEO-Interview-with-Mohan-Iyer,-Vice-President-and-General-Manager,-Semiconductor-Business-Unit-at-Thermo-Fisher-Scientific/"/>
-    <id>https://blackfireagent.github.io/opensemi/20250526_CEO-Interview-with-Mohan-Iyer,-Vice-President-and-General-Manager,-Semiconductor-Business-Unit-at-Thermo-Fisher-Scientific/</id>
-    <published>2025-05-25T22:00:00.000Z</published>
-    <updated>2025-05-31T10:26:58.411Z</updated>
-    
-    <content type="html"><![CDATA[<h2 id="News"><a href="#News" class="headerlink" title="News"></a><a href="https://www.semiconductor-digest.com/kla-invests-in-operations-in-wales-with-the-opening-of-a-138-million-rd-and-manufacturing-facility/">News</a></h2><p><strong>KLA Invests in Operations in Wales with the Opening of a $138 Million R&amp;D and Manufacturing Facility</strong><br>KLA Corporation has inaugurated a new $138 million R&amp;D and manufacturing facility in Newport, Wales, enhancing its product lines and capacity to meet the growing demand for advanced semiconductor technologies. The facility includes extensive R&amp;D clean rooms and manufacturing spaces, aiming to support innovations across sectors like AI, power devices, and photonics. This investment reaffirms KLA’s commitment to the region and the semiconductor industry’s future.</p><p><img src="https://www.semiconductor-digest.com/wp-content/uploads/2019/02/Final-Logo-1.png" alt="KLA Facility"></p><hr><h2 id="Launches"><a href="#Launches" class="headerlink" title="Launches"></a><a href="https://www.semiconductor-digest.com/efficiency-upgrade-for-oled-screens-a-route-to-blue-pholed-longevity/">Launches</a></h2><p><strong>Efficiency Upgrade for OLED Screens: A Route to Blue PHOLED Longevity</strong><br>Researchers at the University of Michigan have developed a method to enhance the longevity of blue phosphorescent OLEDs, bringing them up to par with the more durable green counterparts. This innovation could revolutionize OLED technology, improving energy efficiency and display performance in smartphones and televisions by integrating advanced coatings that facilitate faster energy conversion.</p><p><img src="https://www.semiconductor-digest.com/wp-content/uploads/2019/02/Final-Logo-1.png" alt="OLED Technology"></p><hr><h2 id="Charts"><a href="#Charts" class="headerlink" title="Charts"></a><a href="https://www.eetimes.com/canada-needs-a-multi-faceted-strategy-to-scale-chip-talent/">Charts</a></h2><p><strong>Faceted Strategy to Scale Chip Talent</strong><br>The Canadian semiconductor industry is facing a critical shortage of talent, with estimates indicating a need for 1.5 million engineers globally in the next few years. This landscape requires innovative workforce development strategies to attract and cultivate talent, as highlighted in discussions at the CHIPS NORTH Executive Summit. The need for an integrated approach between industry and academia is emphasized to address the skills gap.</p><p><img src="https://www.eetimes.com/wp-content/uploads/chipsnorthtalent-covercarousel.jpg" alt="Talent Strategy"></p><hr><h2 id="Research"><a href="#Research" class="headerlink" title="Research"></a><a href="https://www.semiconductor-digest.com/rice-method-refines-ultrapure-diamond-film-fabrication-for-quantum-and-electronic-applications/">Research</a></h2><p><strong>Rice Method Refines Ultrapure Diamond Film Fabrication for Quantum and Electronic Applications</strong><br>Researchers at Rice University have made significant advancements in diamond film fabrication, creating ultrapure layers suitable for quantum and electronic technologies without the need for high-temperature annealing. This streamlined method has the potential to enhance the quality and efficiency of diamond-based devices, paving the way for innovations in the semiconductor industry.</p><p><img src="https://www.semiconductor-digest.com/wp-content/uploads/2019/02/Final-Logo-1.png" alt="Diamond Fabrication"></p><hr><h2 id="Insight"><a href="#Insight" class="headerlink" title="Insight"></a><a href="https://semiwiki.com/ceo-interviews/355982-executive-interview-with-mohan-iyer-vice-president-and-general-manager-semiconductor-business-unit-thermo-fisher-scientific/">Insight</a></h2><p><strong>CEO Interview with Mohan Iyer, Vice President and General Manager, Semiconductor Business Unit at Thermo Fisher Scientific</strong><br>Mohan Iyer discusses Thermo Fisher’s commitment to advancing semiconductor manufacturing through innovative solutions in R&amp;D, yield management, and defect analysis. He emphasizes the importance of automated workflows and advanced metrology for enhancing manufacturing efficiency and product quality in a rapidly evolving industry.</p><p><img src="https://semiwiki.com/wp-content/uploads/2025/05/MohanPicWorkday_11302021-1042x1200.jpg" alt="Mohan Iyer"></p><hr><p>Stay tuned for more updates and insights from the semiconductor industry as we continue to explore the latest innovations and trends shaping the future of technology.</p>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;h2 id=&quot;News&quot;&gt;&lt;a href=&quot;#News&quot; class=&quot;headerlink&quot; title=&quot;News&quot;&gt;&lt;/a&gt;&lt;a href=&quot;https://www.semiconductor-digest.com/kla-invests-in-operations-in</summary>
-      
-    
-    
-    
-    <category term="Semiconductor" scheme="https://blackfireagent.github.io/opensemi/categories/Semiconductor/"/>
-    
-    
-    <category term="technology" scheme="https://blackfireagent.github.io/opensemi/tags/technology/"/>
-    
-    <category term="innovation" scheme="https://blackfireagent.github.io/opensemi/tags/innovation/"/>
-    
-    <category term="investment" scheme="https://blackfireagent.github.io/opensemi/tags/investment/"/>
-    
-    <category term="workforce" scheme="https://blackfireagent.github.io/opensemi/tags/workforce/"/>
-    
-    <category term="quantum computing" scheme="https://blackfireagent.github.io/opensemi/tags/quantum-computing/"/>
     
   </entry>
   
