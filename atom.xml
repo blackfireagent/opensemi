@@ -6,10 +6,42 @@
   <link href="https://blackfireagent.github.io/opensemi/atom.xml" rel="self"/>
   
   <link href="https://blackfireagent.github.io/opensemi/"/>
-  <updated>2025-07-17T04:10:43.504Z</updated>
+  <updated>2025-07-18T04:12:47.367Z</updated>
   <id>https://blackfireagent.github.io/opensemi/</id>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Rowhammer Attack On NVIDIA GPUs With GDDR6 DRAM</title>
+    <link href="https://blackfireagent.github.io/opensemi/20250718_Rowhammer-Attack-On-NVIDIA-GPUs-With-GDDR6-DRAM/"/>
+    <id>https://blackfireagent.github.io/opensemi/20250718_Rowhammer-Attack-On-NVIDIA-GPUs-With-GDDR6-DRAM/</id>
+    <published>2025-07-17T22:00:00.000Z</published>
+    <updated>2025-07-18T04:12:47.367Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="News"><a href="#News" class="headerlink" title="News"></a><a href="https://semiengineering.com/rowhammer-attack-on-nvidia-gpus-with-gddr6-dram-university-of-toronto/">News</a></h2><p><strong>Rowhammer Attack On NVIDIA GPUs With GDDR6 DRAM</strong><br>Researchers from the University of Toronto have unveiled a groundbreaking paper detailing the first successful Rowhammer attack on NVIDIA GPUs utilizing GDDR6 DRAM. This attack compromises the security and reliability of machine learning models by demonstrating how bit-flips can be induced in memory, resulting in accuracy drops of up to 80%. The study highlights the urgent need for enhanced security measures in GPU architectures.</p><p><img src="https://semiengineering.com/wp-content/uploads/AdobeStock_209584560-04-16-24.jpeg" alt="Rowhammer Attack"></p><hr><h2 id="Launches"><a href="#Launches" class="headerlink" title="Launches"></a><a href="https://semiengineering.com/examination-of-thermal-issues-related-to-hybrid-bonding-of-3d-stacked-hbm/">Launches</a></h2><p><strong>Examination Of Thermal Issues Related to Hybrid Bonding of 3D-Stacked HBM</strong><br>A new technical paper from Chungbuk National University explores thermal challenges in High-Bandwidth Memory (HBM) systems. By optimizing hybrid bonding techniques, researchers aim to reduce thermal resistance, improve thermal conductivity, and enhance the reliability of 3D-stacked HBM solutions. This work is essential for advancing AI and high-performance computing applications.</p><p><img src="https://semiengineering.com/wp-content/uploads/iStock-1441278907-11-29-23.jpeg?fit=1365,768&ssl=1" alt="Hybrid Bonding"></p><hr><h2 id="Charts"><a href="#Charts" class="headerlink" title="Charts"></a><a href="https://semiengineering.com/volatile-and-non-volatile-nem-switches-fabricated-in-a-cmos-compatible-soi-foundry-platform-kth-u-of-bristol-epfl-imec/">Charts</a></h2><p><strong>Volatile And Non-Volatile NEM Switches Fabricated In A CMOS-Compatible SOI Foundry Platform</strong><br>A new study reveals the capabilities of nano-electromechanical (NEM) switches fabricated in a CMOS-compatible environment, showcasing their potential for high-density applications. The research highlights the performance metrics of these switches, including actuation voltage and integration density, providing insights into the future of energy-efficient digital computing circuits.</p><p><img src="https://semiengineering.com/wp-content/uploads/AdobeStock_322557739-01-29-25-scaled.jpeg" alt="NEM Switches"></p><hr><h2 id="Research"><a href="#Research" class="headerlink" title="Research"></a><a href="https://semiengineering.com/photonic-sram-facilitating-electro-optic-data-storage-for-ultra-fast-imc-uw-madison-usc/">Research</a></h2><p><strong>Photonic SRAM Facilitating Electro-Optic Data Storage For Ultra-Fast IMC</strong><br>Researchers at the University of Wisconsin–Madison and USC have introduced an innovative photonic SRAM capable of ultra-fast in-memory computing. This technology leverages optical data propagation to minimize latency and energy consumption, marking a significant step towards next-generation computing architectures. The study emphasizes the importance of integrating optical components in modern data processing.</p><p><img src="https://semiengineering.com/wp-content/uploads/AdobeStock_184389409-06-19-24-scaled.jpeg" alt="Photonic SRAM"></p><hr><h2 id="Insight"><a href="#Insight" class="headerlink" title="Insight"></a><a href="https://semiwiki.com/events/357491-ceo-interview-with-dr-maksym-plakhotnyuk-of-atlant-3d/">Insight</a></h2><p><strong>CEO Interview with Dr. Maksym Plakhotnyuk of ATLANT 3D</strong><br>In an insightful interview, Dr. Maksym Plakhotnyuk discusses ATLANT 3D’s pioneering work in atomic-scale manufacturing technology. The company’s DALP® technology revolutionizes semiconductor fabrication by allowing materials to be printed atom by atom, significantly reducing waste and accelerating materials discovery for applications in AI, space exploration, and more. This innovative approach is set to reshape the future of semiconductor manufacturing.</p><p><img src="https://semiwiki.com/wp-content/uploads/2025/06/Maksym-Plakhotnyuk-1.jpg" alt="Dr. Maksym Plakhotnyuk"></p><hr><p>Stay tuned with us for more updates and insights into the ever-evolving semiconductor industry, as we continue to bring you the latest news and innovations!</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;News&quot;&gt;&lt;a href=&quot;#News&quot; class=&quot;headerlink&quot; title=&quot;News&quot;&gt;&lt;/a&gt;&lt;a href=&quot;https://semiengineering.com/rowhammer-attack-on-nvidia-gpus-with-</summary>
+      
+    
+    
+    
+    <category term="Machinelearning" scheme="https://blackfireagent.github.io/opensemi/categories/Machinelearning/"/>
+    
+    
+    <category term="AI" scheme="https://blackfireagent.github.io/opensemi/tags/AI/"/>
+    
+    <category term="technology" scheme="https://blackfireagent.github.io/opensemi/tags/technology/"/>
+    
+    <category term="innovation" scheme="https://blackfireagent.github.io/opensemi/tags/innovation/"/>
+    
+    <category term="research" scheme="https://blackfireagent.github.io/opensemi/tags/research/"/>
+    
+    <category term="semiconductors" scheme="https://blackfireagent.github.io/opensemi/tags/semiconductors/"/>
+    
+  </entry>
   
   <entry>
     <title>Search for new semiconductors heats up with gallium oxide</title>
@@ -604,34 +636,6 @@
     <category term="EUV Lithography" scheme="https://blackfireagent.github.io/opensemi/tags/EUV-Lithography/"/>
     
     <category term="Photoresists" scheme="https://blackfireagent.github.io/opensemi/tags/Photoresists/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Demonstration Of EUV Scatterometry On A 2D Periodic Interconnect</title>
-    <link href="https://blackfireagent.github.io/opensemi/20250528_Demonstration-Of-EUV-Scatterometry-On-A-2D-Periodic-Interconnect/"/>
-    <id>https://blackfireagent.github.io/opensemi/20250528_Demonstration-Of-EUV-Scatterometry-On-A-2D-Periodic-Interconnect/</id>
-    <published>2025-05-27T22:00:00.000Z</published>
-    <updated>2025-05-31T10:26:58.411Z</updated>
-    
-    <content type="html"><![CDATA[<h2 id="News"><a href="#News" class="headerlink" title="News"></a><a href="https://spie.org/news/other-lithography-approaches-offer-alternatives">News</a></h2><p><strong>Other lithography approaches offer alternatives</strong><br>At the 2025 SPIE Advanced Lithography + Patterning conference, semiconductor manufacturers are exploring alternative lithography methods to enhance performance and reduce costs. Notable presentations included Micron Technology’s Tomohiro Iwaki discussing challenges in nanoimprint technology and Intel’s Florian Gstrein highlighting directed self-assembly techniques. These innovations aim to improve defect rates and boost yields, particularly relevant for logic and memory chips.</p><p><img src="https://spie.org/images/Graphics/Newsroom/2025articles/AL25_Nanoimprint_920.jpg" alt="Nanoimprint Technology"></p><hr><h2 id="Launches"><a href="#Launches" class="headerlink" title="Launches"></a><a href="https://spie.org/news/getting-pfas-out-of-lithography-materials">Launches</a></h2><p><strong>Getting PFAS out of lithography materials</strong><br>Central Glass Co. is pioneering PFAS-free materials for 193-nm immersion lithography, addressing long-term environmental and health concerns associated with traditional photoresist components. Their new formulations, which include a PFAS-free photo acid generator and immersion barrier polymer, have shown promising results in maintaining performance while reducing harmful substances.</p><p><img src="https://spie.org/images/Graphics/Newsroom/2025articles/AL25_PFAS_Litho_920.jpg" alt="PFAS-Free Materials"></p><hr><h2 id="Charts"><a href="#Charts" class="headerlink" title="Charts"></a><a href="https://spie.org/news/chips-and-lithography-head-up-and-down">Charts</a></h2><p><strong>Chips – and lithography – head up and down</strong><br>The latest insights from the 2025 SPIE conference emphasized the shift towards 3D semiconductor architectures to overcome scaling limitations. Presentations discussed how backside power delivery can alleviate power bottlenecks, enabling denser and more efficient chip designs. This transition is pivotal for sustaining Moore’s Law in an era of complex circuitry.</p><p><img src="https://spie.org/images/Graphics/Newsroom/2025articles/AL25_Backside%20Patterning_920.jpg" alt="3D Chip Design"></p><hr><h2 id="Research"><a href="#Research" class="headerlink" title="Research"></a><a href="https://semiengineering.com/demonstration-of-euv-scatterometry-on-a-2d-periodic-interconnect/">Research</a></h2><p><strong>Demonstration Of EUV Scatterometry On A 2D Periodic Interconnect</strong><br>A research collaboration involving the University of Colorado, NIST, and Samsung has revealed advancements in EUV scatterometry, a metrology technique vital for measuring periodic nanostructured materials. The study demonstrates enhanced sensitivity and the potential for deep sub-nanometer precision, marking a significant step forward for semiconductor manufacturing.</p><p><img src="https://semiengineering.com/wp-content/uploads/AdobeStock_517438105-04-16-24.jpeg" alt="EUV Scatterometry"></p><hr><h2 id="Insight"><a href="#Insight" class="headerlink" title="Insight"></a><a href="https://www.tel.com/news/topics/2025/20250526_001.html">Insight</a></h2><p><strong>Tokyo Electron Receives Renewal of DX-certified Business Operator Status from the Ministry of Economy, Trade and Industry</strong><br>Tokyo Electron’s recent renewal of its DX-certified Business Operator status marks a significant achievement in its digital transformation initiatives. This renewed status emphasizes TEL’s commitment to leveraging digital technologies to enhance corporate value and adapt to the rapidly evolving semiconductor market, which is projected to approach $1 trillion by 2030.</p><p><img src="https://www.tel.com/news/topics/2025/ms68nt00000000dt-img/ms68nt00000000fu.png" alt="Digital Transformation"></p><hr><p>Thank you for staying with us for the latest news in the semiconductor industry. We look forward to bringing you more updates on innovations and advancements in lithography and sustainability efforts.</p>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;h2 id=&quot;News&quot;&gt;&lt;a href=&quot;#News&quot; class=&quot;headerlink&quot; title=&quot;News&quot;&gt;&lt;/a&gt;&lt;a href=&quot;https://spie.org/news/other-lithography-approaches-offer-alternat</summary>
-      
-    
-    
-    
-    <category term="Lithography" scheme="https://blackfireagent.github.io/opensemi/categories/Lithography/"/>
-    
-    
-    <category term="EUV" scheme="https://blackfireagent.github.io/opensemi/tags/EUV/"/>
-    
-    <category term="Lithography" scheme="https://blackfireagent.github.io/opensemi/tags/Lithography/"/>
-    
-    <category term="Semiconductor Sustainability" scheme="https://blackfireagent.github.io/opensemi/tags/Semiconductor-Sustainability/"/>
     
   </entry>
   

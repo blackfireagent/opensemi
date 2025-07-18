@@ -4,6 +4,39 @@
   
     
     <entry>
+      <title>Rowhammer Attack On NVIDIA GPUs With GDDR6 DRAM</title>
+      <link href="/opensemi/20250718_Rowhammer-Attack-On-NVIDIA-GPUs-With-GDDR6-DRAM/"/>
+      <url>/opensemi/20250718_Rowhammer-Attack-On-NVIDIA-GPUs-With-GDDR6-DRAM/</url>
+      
+        <content type="html"><![CDATA[<h2 id="News"><a href="#News" class="headerlink" title="News"></a><a href="https://semiengineering.com/rowhammer-attack-on-nvidia-gpus-with-gddr6-dram-university-of-toronto/">News</a></h2><p><strong>Rowhammer Attack On NVIDIA GPUs With GDDR6 DRAM</strong><br>Researchers from the University of Toronto have unveiled a groundbreaking paper detailing the first successful Rowhammer attack on NVIDIA GPUs utilizing GDDR6 DRAM. This attack compromises the security and reliability of machine learning models by demonstrating how bit-flips can be induced in memory, resulting in accuracy drops of up to 80%. The study highlights the urgent need for enhanced security measures in GPU architectures.</p><p><img src="https://semiengineering.com/wp-content/uploads/AdobeStock_209584560-04-16-24.jpeg" alt="Rowhammer Attack"></p><hr><h2 id="Launches"><a href="#Launches" class="headerlink" title="Launches"></a><a href="https://semiengineering.com/examination-of-thermal-issues-related-to-hybrid-bonding-of-3d-stacked-hbm/">Launches</a></h2><p><strong>Examination Of Thermal Issues Related to Hybrid Bonding of 3D-Stacked HBM</strong><br>A new technical paper from Chungbuk National University explores thermal challenges in High-Bandwidth Memory (HBM) systems. By optimizing hybrid bonding techniques, researchers aim to reduce thermal resistance, improve thermal conductivity, and enhance the reliability of 3D-stacked HBM solutions. This work is essential for advancing AI and high-performance computing applications.</p><p><img src="https://semiengineering.com/wp-content/uploads/iStock-1441278907-11-29-23.jpeg?fit=1365,768&ssl=1" alt="Hybrid Bonding"></p><hr><h2 id="Charts"><a href="#Charts" class="headerlink" title="Charts"></a><a href="https://semiengineering.com/volatile-and-non-volatile-nem-switches-fabricated-in-a-cmos-compatible-soi-foundry-platform-kth-u-of-bristol-epfl-imec/">Charts</a></h2><p><strong>Volatile And Non-Volatile NEM Switches Fabricated In A CMOS-Compatible SOI Foundry Platform</strong><br>A new study reveals the capabilities of nano-electromechanical (NEM) switches fabricated in a CMOS-compatible environment, showcasing their potential for high-density applications. The research highlights the performance metrics of these switches, including actuation voltage and integration density, providing insights into the future of energy-efficient digital computing circuits.</p><p><img src="https://semiengineering.com/wp-content/uploads/AdobeStock_322557739-01-29-25-scaled.jpeg" alt="NEM Switches"></p><hr><h2 id="Research"><a href="#Research" class="headerlink" title="Research"></a><a href="https://semiengineering.com/photonic-sram-facilitating-electro-optic-data-storage-for-ultra-fast-imc-uw-madison-usc/">Research</a></h2><p><strong>Photonic SRAM Facilitating Electro-Optic Data Storage For Ultra-Fast IMC</strong><br>Researchers at the University of Wisconsin–Madison and USC have introduced an innovative photonic SRAM capable of ultra-fast in-memory computing. This technology leverages optical data propagation to minimize latency and energy consumption, marking a significant step towards next-generation computing architectures. The study emphasizes the importance of integrating optical components in modern data processing.</p><p><img src="https://semiengineering.com/wp-content/uploads/AdobeStock_184389409-06-19-24-scaled.jpeg" alt="Photonic SRAM"></p><hr><h2 id="Insight"><a href="#Insight" class="headerlink" title="Insight"></a><a href="https://semiwiki.com/events/357491-ceo-interview-with-dr-maksym-plakhotnyuk-of-atlant-3d/">Insight</a></h2><p><strong>CEO Interview with Dr. Maksym Plakhotnyuk of ATLANT 3D</strong><br>In an insightful interview, Dr. Maksym Plakhotnyuk discusses ATLANT 3D’s pioneering work in atomic-scale manufacturing technology. The company’s DALP® technology revolutionizes semiconductor fabrication by allowing materials to be printed atom by atom, significantly reducing waste and accelerating materials discovery for applications in AI, space exploration, and more. This innovative approach is set to reshape the future of semiconductor manufacturing.</p><p><img src="https://semiwiki.com/wp-content/uploads/2025/06/Maksym-Plakhotnyuk-1.jpg" alt="Dr. Maksym Plakhotnyuk"></p><hr><p>Stay tuned with us for more updates and insights into the ever-evolving semiconductor industry, as we continue to bring you the latest news and innovations!</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> Machinelearning </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> AI </tag>
+            
+            <tag> technology </tag>
+            
+            <tag> innovation </tag>
+            
+            <tag> research </tag>
+            
+            <tag> semiconductors </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>Search for new semiconductors heats up with gallium oxide</title>
       <link href="/opensemi/20250717_Search-for-new-semiconductors-heats-up-with-gallium-oxide/"/>
       <url>/opensemi/20250717_Search-for-new-semiconductors-heats-up-with-gallium-oxide/</url>
@@ -796,9 +829,9 @@
             
             <tag> innovation </tag>
             
-            <tag> manufacturing </tag>
-            
             <tag> semiconductors </tag>
+            
+            <tag> manufacturing </tag>
             
         </tags>
       
@@ -860,9 +893,9 @@
             
             <tag> innovation </tag>
             
-            <tag> manufacturing </tag>
-            
             <tag> semiconductors </tag>
+            
+            <tag> manufacturing </tag>
             
             <tag> chiplets </tag>
             
@@ -1019,9 +1052,9 @@
             
             <tag> innovation </tag>
             
-            <tag> manufacturing </tag>
-            
             <tag> semiconductors </tag>
+            
+            <tag> manufacturing </tag>
             
         </tags>
       
@@ -1052,9 +1085,9 @@
             
             <tag> innovation </tag>
             
-            <tag> legislation </tag>
-            
             <tag> manufacturing </tag>
+            
+            <tag> legislation </tag>
             
         </tags>
       
@@ -1207,9 +1240,9 @@
             
             <tag> AI </tag>
             
-            <tag> Market Trends </tag>
-            
             <tag> Semiconductor Manufacturing </tag>
+            
+            <tag> Market Trends </tag>
             
             <tag> Research </tag>
             
@@ -1327,9 +1360,9 @@
       
         <tags>
             
-            <tag> packaging </tag>
-            
             <tag> AI </tag>
+            
+            <tag> packaging </tag>
             
             <tag> semiconductor technology </tag>
             
