@@ -6,10 +6,38 @@
   <link href="https://blackfireagent.github.io/opensemi/atom.xml" rel="self"/>
   
   <link href="https://blackfireagent.github.io/opensemi/"/>
-  <updated>2025-07-18T04:12:47.367Z</updated>
+  <updated>2025-07-21T04:18:07.194Z</updated>
   <id>https://blackfireagent.github.io/opensemi/</id>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Natcast Celebrates Grand Opening of NSTC EUV Accelerator at NY CREATES’ Albany NanoTech Complex</title>
+    <link href="https://blackfireagent.github.io/opensemi/20250721_Natcast-Celebrates-Grand-Opening-of-NSTC-EUV-Accelerator-at-NY-CREATES%E2%80%99-Albany-NanoTech-Complex/"/>
+    <id>https://blackfireagent.github.io/opensemi/20250721_Natcast-Celebrates-Grand-Opening-of-NSTC-EUV-Accelerator-at-NY-CREATES%E2%80%99-Albany-NanoTech-Complex/</id>
+    <published>2025-07-20T22:00:00.000Z</published>
+    <updated>2025-07-21T04:18:07.194Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="News"><a href="#News" class="headerlink" title="News"></a><a href="https://www.semiconductor-digest.com/natcast-celebrates-grand-opening-of-nstc-euv-accelerator-at-ny-creates-albany-nanotech-complex/">News</a></h2><p><strong>Natcast Celebrates Grand Opening of NSTC EUV Accelerator at NY CREATES’ Albany NanoTech Complex</strong><br>The National Semiconductor Technology Center (NSTC) marked a significant milestone with the grand opening of its Extreme Ultraviolet (EUV) Accelerator. This facility aims to propel U.S. semiconductor innovation and provide essential resources for research and commercialization of next-generation technologies in light of the CHIPS and Science Act.</p><p><img src="https://www.semiconductor-digest.com/wp-content/uploads/2019/02/Final-Logo-1.png" alt="NSTC EUV Accelerator"></p><hr><h2 id="Launches"><a href="#Launches" class="headerlink" title="Launches"></a><a href="https://www.semiconductor-digest.com/researchers-demonstrate-a-new-material-to-reduce-power-consumption-of-electronics/">Launches</a></h2><p><strong>Researchers Demonstrate a New Material to Reduce Power Consumption of Electronics</strong><br>A team from the University of Minnesota unveiled a novel material, Ni₄W, which can significantly decrease power consumption in electronic devices. This material enables efficient control of magnetization, potentially revolutionizing computer memory technology and creating more sustainable electronics.</p><p><img src="https://www.semiconductor-digest.com/wp-content/uploads/2025/07/Low-Res_ComputerMemory_900x600.jpg" alt="Ni4W Material"></p><hr><h2 id="Charts"><a href="#Charts" class="headerlink" title="Charts"></a><a href="https://techxplore.com/news/2025-07-u-s-imports-shifting.html">Charts</a></h2><p><strong>U.S. Imports Shifting</strong><br>Recent data reveals a dramatic shift in U.S. electronics imports, including a 94% drop in smartphone imports from China and a significant increase in imports from India and Vietnam. This chart illustrates the evolving landscape of semiconductor supply chains amid geopolitical tensions.</p><p><img src="https://semiconductor-digest.com/wp-content/uploads/2025/07/US-Smartphone-Imports-2025-SemiWiki.png" alt="U.S. Imports"></p><hr><h2 id="Research"><a href="#Research" class="headerlink" title="Research"></a><a href="https://techxplore.com/news/2025-07-dual-mode-mems-sensor-wide.html">Research</a></h2><p><strong>Researchers Develop Novel Dual-Mode MEMS Sensor for Wide-Range Vacuum Pressure Detection</strong><br>A team from the Chinese Academy of Sciences has developed a MEMS pressure sensor that operates across six orders of magnitude, enhancing both measurement range and accuracy. This innovation is crucial for processes in the semiconductor industry, promising improved control in manufacturing environments.</p><p><img src="https://scx2.b-cdn.net/gfx/news/hires/2025/researchers-develop-no-12.jpg" alt="MEMS Sensor"></p><hr><h2 id="Insight"><a href="#Insight" class="headerlink" title="Insight"></a><a href="https://semiengineering.com/ai-in-chip-design-tight-control-required/">Insight</a></h2><p><strong>AI In Chip Design: Tight Control Required</strong><br>In a discussion with industry experts, the potential of AI to enhance multi-dimensional chip design was explored. The panel emphasized the importance of integrating AI into the design cycle to bridge gaps in engineering expertise and facilitate collaboration across disciplines. Key insights include the need for rigorous validation of AI outputs to build trust in its applications.</p><p><img src="https://semiengineering.com/wp-content/uploads/IMG_3225-2.jpg" alt="AI in Chip Design"></p><hr><p>Stay tuned for more updates as we continue to cover the latest advancements and trends in the semiconductor industry. Your source for the most crucial insights!</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;News&quot;&gt;&lt;a href=&quot;#News&quot; class=&quot;headerlink&quot; title=&quot;News&quot;&gt;&lt;/a&gt;&lt;a href=&quot;https://www.semiconductor-digest.com/natcast-celebrates-grand-ope</summary>
+      
+    
+    
+    
+    <category term="Semiconductor" scheme="https://blackfireagent.github.io/opensemi/categories/Semiconductor/"/>
+    
+    
+    <category term="AI" scheme="https://blackfireagent.github.io/opensemi/tags/AI/"/>
+    
+    <category term="Market Trends" scheme="https://blackfireagent.github.io/opensemi/tags/Market-Trends/"/>
+    
+    <category term="Semiconductor Innovation" scheme="https://blackfireagent.github.io/opensemi/tags/Semiconductor-Innovation/"/>
+    
+  </entry>
   
   <entry>
     <title>Rowhammer Attack On NVIDIA GPUs With GDDR6 DRAM</title>
@@ -606,36 +634,6 @@
     <category term="semiconductors" scheme="https://blackfireagent.github.io/opensemi/tags/semiconductors/"/>
     
     <category term="supply chain" scheme="https://blackfireagent.github.io/opensemi/tags/supply-chain/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Resist Loss Model for the EUV Stochastic Defectivity Cliffs</title>
-    <link href="https://blackfireagent.github.io/opensemi/20250530_Resist-Loss-Model-for-the-EUV-Stochastic-Defectivity-Cliffs/"/>
-    <id>https://blackfireagent.github.io/opensemi/20250530_Resist-Loss-Model-for-the-EUV-Stochastic-Defectivity-Cliffs/</id>
-    <published>2025-05-29T22:00:00.000Z</published>
-    <updated>2025-05-31T07:17:11.042Z</updated>
-    
-    <content type="html"><![CDATA[<h2 id="News"><a href="#News" class="headerlink" title="News"></a><a href="https://techxplore.com/news/2023-11-photoresist-materials-pave-smaller-high.html">News</a></h2><p><strong>Innovative photoresist materials pave the way for smaller, high performance semiconductor chips</strong><br>Researchers at the Center for Functional Nanomaterials have developed a new hybrid photoresist material that enhances patterning for extreme ultraviolet (EUV) lithography. This advancement is crucial as the industry approaches the challenge of producing chips with features just a few nanometers in size. The new material combines organic and inorganic components to improve sensitivity, allowing for faster and more efficient chip manufacturing.</p><p><img src="https://scx2.b-cdn.net/gfx/news/hires/2023/a-bright-future-for-ex.jpg" alt="Innovative Materials"></p><hr><h2 id="Launches"><a href="#Launches" class="headerlink" title="Launches"></a><a href="https://www.semiconductor-digest.com/lam-research-establishes-28nm-pitch-in-high-resolution-patterning-through-dry-photoresist-technology/">Launches</a></h2><p><strong>Lam Research Unveils Dry Photoresist Technology for Advanced Logic</strong><br>Lam Research’s new dry photoresist technology has been officially qualified for direct-print 28nm pitch back end of line (BEOL) logic at 2nm and below by imec. This technology promises to enhance resolution and yield while reducing costs and raw material usage in semiconductor manufacturing.</p><p><img src="https://www.semiconductor-digest.com/wp-content/uploads/2019/02/Final-Logo-1.png" alt="Lam Research"></p><hr><h2 id="Charts"><a href="#Charts" class="headerlink" title="Charts"></a><a href="https://www.semiconductor-digest.com/2024-photoresist-market-forecasted-to-rise/">Charts</a></h2><p><strong>2024 Photoresist Market Forecasted to Rise</strong><br>The photoresist market is expected to rebound in 2024, with a projected growth of 7% to reach $2.57 billion. This growth is driven by the increasing demand for EUV and KrF products, essential for the latest semiconductor technologies. The report highlights significant trends in the market, including the shift towards negative tone EUV photoresists.</p><p><img src="https://www.semiconductor-digest.com/wp-content/uploads/2023/08/image1.png" alt="Market Trends"></p><hr><h2 id="Research"><a href="#Research" class="headerlink" title="Research"></a><a href="https://semiwiki.com/lithography/352503-resist-loss-model-for-the-euv-stochastic-defectivity-cliffs/">Research</a></h2><p><strong>Resist Loss Model for the EUV Stochastic Defectivity Cliffs</strong><br>A new research paper explores stochastic defectivity in EUV lithography, proposing a model to address resist loss issues that affect yield and pattern fidelity. This study aims to enhance the reliability of EUV processes in semiconductor manufacturing and is crucial for future technology nodes.</p><p><img src="https://semiwiki.com/wp-content/uploads/2025/01/Exposing-EUV-1.png" alt="EUV Research"></p><hr><h2 id="Insight"><a href="#Insight" class="headerlink" title="Insight"></a><a href="https://semiwiki.com/ceo-interviews/353829-ceo-interview-with-dinesh-bettadapur-of-irresistible-materials/">Insight</a></h2><p><strong>CEO Interview with Dinesh Bettadapur of Irresistible Materials</strong><br>In an insightful interview, Dinesh Bettadapur discusses the challenges and innovations in the semiconductor materials sector, focusing on the importance of advanced photoresist solutions in meeting industry demands. He emphasizes the role of collaboration and innovation in driving the next wave of semiconductor advancements.</p><p><img src="https://semiwiki.com/wp-content/uploads/2025/03/D.-Bettadapur_photo_IM-960x1200.jpg" alt="Dinesh Bettadapur"></p><hr><p>Stay tuned for the latest updates and breakthroughs in the semiconductor industry as we continue to bring you valuable insights and news.</p>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;h2 id=&quot;News&quot;&gt;&lt;a href=&quot;#News&quot; class=&quot;headerlink&quot; title=&quot;News&quot;&gt;&lt;/a&gt;&lt;a href=&quot;https://techxplore.com/news/2023-11-photoresist-materials-pave-sm</summary>
-      
-    
-    
-    
-    <category term="Lithography" scheme="https://blackfireagent.github.io/opensemi/categories/Lithography/"/>
-    
-    
-    <category term="Semiconductor Technology" scheme="https://blackfireagent.github.io/opensemi/tags/Semiconductor-Technology/"/>
-    
-    <category term="Market Trends" scheme="https://blackfireagent.github.io/opensemi/tags/Market-Trends/"/>
-    
-    <category term="EUV Lithography" scheme="https://blackfireagent.github.io/opensemi/tags/EUV-Lithography/"/>
-    
-    <category term="Photoresists" scheme="https://blackfireagent.github.io/opensemi/tags/Photoresists/"/>
     
   </entry>
   
