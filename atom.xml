@@ -6,10 +6,42 @@
   <link href="https://blackfireagent.github.io/opensemi/atom.xml" rel="self"/>
   
   <link href="https://blackfireagent.github.io/opensemi/"/>
-  <updated>2025-07-21T04:18:07.194Z</updated>
+  <updated>2025-07-22T04:08:59.258Z</updated>
   <id>https://blackfireagent.github.io/opensemi/</id>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Agile Analog&#39;s Composa Tool Revolutionizes Analog IP Design</title>
+    <link href="https://blackfireagent.github.io/opensemi/20250722_Agile-Analog&#39;s-Composa-Tool-Revolutionizes-Analog-IP-Design/"/>
+    <id>https://blackfireagent.github.io/opensemi/20250722_Agile-Analog&#39;s-Composa-Tool-Revolutionizes-Analog-IP-Design/</id>
+    <published>2025-07-21T22:00:00.000Z</published>
+    <updated>2025-07-22T04:08:59.258Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="News"><a href="#News" class="headerlink" title="News"></a><a href="https://www.eetimes.com/and-finally-synopsys-closes-35bn-purchase-of-ansys/">News</a></h2><p><strong>Synopsys Completes $35 Billion Acquisition of Ansys</strong><br>In a significant development, Synopsys has finalized its acquisition of Ansys for $35 billion, overcoming various regulatory hurdles amid trade tensions. This merger aims to deepen the integration of electronic design automation (EDA) with physics-based simulation tools, enhancing design capabilities for increasingly complex intelligent systems.</p><p><img src="https://www.eetimes.com/wp-content/uploads/Synopsys_headquarters-1.jpg" alt="Synopsys headquarters"></p><hr><h2 id="Launches"><a href="#Launches" class="headerlink" title="Launches"></a><a href="https://techxplore.com/news/2025-07-scalable-enables-device-large-language.html">Launches</a></h2><p><strong>New Scalable Transformer Accelerator Unit to Enable On-Device Execution of Large Language Models</strong><br>Researchers from Sejong University have unveiled the Scalable Transformer Accelerator Unit (STAU), a breakthrough designed for efficiently executing large language models directly on embedded systems. This innovation significantly reduces reliance on cloud infrastructure, enhancing the accessibility of AI capabilities on devices.</p><p><img src="https://scx2.b-cdn.net/gfx/news/hires/2025/scalable-transformer-a.jpg" alt="Scalable Transformer Accelerator"></p><hr><h2 id="Charts"><a href="#Charts" class="headerlink" title="Charts"></a><a href="https://semiwiki.com/eda/358463-new-cooling-strategies-for-future-computing/">Charts</a></h2><p><strong>Chip Power Densities and Cooling Challenges</strong><br>A recent panel at DAC 2025 highlighted the alarming increase in chip power densities, rising from 50-100 W&#x2F;cm² in 2010 to 200 W&#x2F;cm² in 2020. Various cooling strategies have been proposed to tackle these challenges, including circuit design adjustments, liquid cooling solutions, and innovative materials.</p><p><img src="https://semiwiki.com/wp-content/uploads/2025/07/thermal-panel-dac-min.jpg" alt="Cooling strategies"></p><hr><h2 id="Research"><a href="#Research" class="headerlink" title="Research"></a><a href="https://www.eetimes.com/rapidus-prototypes-2-nm-transistors-for-2027-ramp/">Research</a></h2><p><strong>Advancements in 2-Nanometer Transistor Technology</strong><br>Japanese startup Rapidus has begun prototyping 2-nanometer gate-all-around transistors, marking a crucial step towards its 2027 production timeline. This initiative, supported by IBM and imec, aims to place Rapidus in direct competition with industry giants like TSMC and Samsung.</p><p><img src="https://www.eetimes.com/wp-content/uploads/Rapidus-Wafer-Photo.webp" alt="2-nanometer wafer"></p><hr><h2 id="Insight"><a href="#Insight" class="headerlink" title="Insight"></a><a href="https://semiwiki.com/ip/358507-agile-analog-update-at-62dac/">Insight</a></h2><p><strong>Agile Analog’s Composa Tool Revolutionizes Analog IP Design</strong><br>At DAC 2025, Agile Analog’s VP of Product Marketing, Chris Morrison, discussed their innovative Composa tool, which automates analog IP design. This tool addresses the shortage of analog designers and accelerates the design process from days to mere minutes, demonstrating a significant advancement in the analog design landscape.</p><p><img src="https://semiwiki.com/wp-content/uploads/2025/07/agile-analog-min.jpeg" alt="Agile Analog Update"></p><hr><p>Stay tuned with us for the latest updates and innovations in the semiconductor industry as we continue to explore the technology shaping our future!</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;News&quot;&gt;&lt;a href=&quot;#News&quot; class=&quot;headerlink&quot; title=&quot;News&quot;&gt;&lt;/a&gt;&lt;a href=&quot;https://www.eetimes.com/and-finally-synopsys-closes-35bn-purchase</summary>
+      
+    
+    
+    
+    <category term="Device" scheme="https://blackfireagent.github.io/opensemi/categories/Device/"/>
+    
+    
+    <category term="AI" scheme="https://blackfireagent.github.io/opensemi/tags/AI/"/>
+    
+    <category term="innovation" scheme="https://blackfireagent.github.io/opensemi/tags/innovation/"/>
+    
+    <category term="technology" scheme="https://blackfireagent.github.io/opensemi/tags/technology/"/>
+    
+    <category term="semiconductors" scheme="https://blackfireagent.github.io/opensemi/tags/semiconductors/"/>
+    
+    <category term="cooling" scheme="https://blackfireagent.github.io/opensemi/tags/cooling/"/>
+    
+  </entry>
   
   <entry>
     <title>Natcast Celebrates Grand Opening of NSTC EUV Accelerator at NY CREATES’ Albany NanoTech Complex</title>
@@ -61,9 +93,9 @@
     
     <category term="AI" scheme="https://blackfireagent.github.io/opensemi/tags/AI/"/>
     
-    <category term="technology" scheme="https://blackfireagent.github.io/opensemi/tags/technology/"/>
-    
     <category term="innovation" scheme="https://blackfireagent.github.io/opensemi/tags/innovation/"/>
+    
+    <category term="technology" scheme="https://blackfireagent.github.io/opensemi/tags/technology/"/>
     
     <category term="research" scheme="https://blackfireagent.github.io/opensemi/tags/research/"/>
     
@@ -91,9 +123,9 @@
     <category term="Etch" scheme="https://blackfireagent.github.io/opensemi/categories/Etch/"/>
     
     
-    <category term="technology" scheme="https://blackfireagent.github.io/opensemi/tags/technology/"/>
-    
     <category term="innovation" scheme="https://blackfireagent.github.io/opensemi/tags/innovation/"/>
+    
+    <category term="technology" scheme="https://blackfireagent.github.io/opensemi/tags/technology/"/>
     
     <category term="semiconductor" scheme="https://blackfireagent.github.io/opensemi/tags/semiconductor/"/>
     
@@ -225,9 +257,9 @@
     
     <category term="semiconductors" scheme="https://blackfireagent.github.io/opensemi/tags/semiconductors/"/>
     
-    <category term="memory technology" scheme="https://blackfireagent.github.io/opensemi/tags/memory-technology/"/>
-    
     <category term="EDA" scheme="https://blackfireagent.github.io/opensemi/tags/EDA/"/>
+    
+    <category term="memory technology" scheme="https://blackfireagent.github.io/opensemi/tags/memory-technology/"/>
     
   </entry>
   
@@ -251,9 +283,9 @@
     <category term="Lithography" scheme="https://blackfireagent.github.io/opensemi/categories/Lithography/"/>
     
     
-    <category term="technology" scheme="https://blackfireagent.github.io/opensemi/tags/technology/"/>
-    
     <category term="innovation" scheme="https://blackfireagent.github.io/opensemi/tags/innovation/"/>
+    
+    <category term="technology" scheme="https://blackfireagent.github.io/opensemi/tags/technology/"/>
     
     <category term="semiconductors" scheme="https://blackfireagent.github.io/opensemi/tags/semiconductors/"/>
     
@@ -349,9 +381,9 @@
     
     <category term="semiconductors" scheme="https://blackfireagent.github.io/opensemi/tags/semiconductors/"/>
     
-    <category term="quantum technology" scheme="https://blackfireagent.github.io/opensemi/tags/quantum-technology/"/>
-    
     <category term="3D printing" scheme="https://blackfireagent.github.io/opensemi/tags/3D-printing/"/>
+    
+    <category term="quantum technology" scheme="https://blackfireagent.github.io/opensemi/tags/quantum-technology/"/>
     
   </entry>
   
@@ -381,9 +413,9 @@
     
     <category term="chip design" scheme="https://blackfireagent.github.io/opensemi/tags/chip-design/"/>
     
-    <category term="optical interconnects" scheme="https://blackfireagent.github.io/opensemi/tags/optical-interconnects/"/>
-    
     <category term="quantum technology" scheme="https://blackfireagent.github.io/opensemi/tags/quantum-technology/"/>
+    
+    <category term="optical interconnects" scheme="https://blackfireagent.github.io/opensemi/tags/optical-interconnects/"/>
     
   </entry>
   
@@ -597,43 +629,11 @@
     
     <category term="market trends" scheme="https://blackfireagent.github.io/opensemi/tags/market-trends/"/>
     
+    <category term="innovation" scheme="https://blackfireagent.github.io/opensemi/tags/innovation/"/>
+    
     <category term="technology" scheme="https://blackfireagent.github.io/opensemi/tags/technology/"/>
     
-    <category term="innovation" scheme="https://blackfireagent.github.io/opensemi/tags/innovation/"/>
-    
     <category term="semiconductors" scheme="https://blackfireagent.github.io/opensemi/tags/semiconductors/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>World&#39;s Lowest Write Power Operation for High-Speed SOT-MRAM Cell Achieved</title>
-    <link href="https://blackfireagent.github.io/opensemi/20250531_World&#39;s-Lowest-Write-Power-Operation-for-High-Speed-SOT-MRAM-Cell-Achieved/"/>
-    <id>https://blackfireagent.github.io/opensemi/20250531_World&#39;s-Lowest-Write-Power-Operation-for-High-Speed-SOT-MRAM-Cell-Achieved/</id>
-    <published>2025-05-30T22:00:00.000Z</published>
-    <updated>2025-05-31T11:59:05.939Z</updated>
-    
-    <content type="html"><![CDATA[<h2 id="News"><a href="#News" class="headerlink" title="News"></a><a href="https://www.eetimes.com/supply-chain-uncertainty-hits-canadas-chip-sector/">News</a></h2><p><strong>Supply Chain Uncertainty Hits Canada’s Chip Sector</strong><br>Canada’s semiconductor industry faces significant challenges within a complex global supply chain. Experts at the CHIPS NORTH Executive Summit discussed maintaining manufacturing capabilities and the importance of flexibility in supplier networks. Recent investments by the Canadian government aim to bolster chip packaging capacities, while industry leaders emphasize the necessity of adapting to both technological and geopolitical disruptions.</p><p><img src="https://www.eetimes.com/wp-content/uploads/chipsnorthsupplychain-covercarousel.jpg" alt="Supply Chain"></p><hr><h2 id="Launches"><a href="#Launches" class="headerlink" title="Launches"></a><a href="https://www.eetimes.com/indian-startup-engineers-economical-evtols/">Launches</a></h2><p><strong>Indian Startup Engineers Economical eVTOLs</strong><br>The Indian startup ePlane Co. is pioneering electric vertical take-off and landing (eVTOL) aircraft, focusing on efficient, compact designs for urban transport. With its unique architecture promising reduced costs and the ability to operate from rooftops, ePlane aims to address the limitations of current battery technology while preparing for certification and commercial launches by 2027.</p><p><img src="https://www.eetimes.com/wp-content/uploads/AdobeStock_647367286.jpeg" alt="eVTOL"></p><hr><h2 id="Charts"><a href="#Charts" class="headerlink" title="Charts"></a><a href="https://techxplore.com/news/2025-05-world-lowest-power-high-sot.html">Charts</a></h2><p><strong>World’s Lowest Write Power Operation for High-Speed SOT-MRAM Cell Achieved</strong><br>Researchers at Tohoku University have set a new record for the lowest write power in SOT-MRAM technology, achieving an energy efficiency of just 156 fJ. This advancement is expected to propel the use of SOT-MRAM in future high-performance electronic devices, providing a greener alternative to existing memory technologies.</p><p><img src="https://scx2.b-cdn.net/gfx/news/2025/worlds-lowest-write-po.jpg" alt="SOT-MRAM"></p><hr><h2 id="Research"><a href="#Research" class="headerlink" title="Research"></a><a href="https://techxplore.com/news/2025-05-ai-chip-decentralized-cloud.html">Research</a></h2><p><strong>AI Chip Developed for Decentralized Use Without the Cloud</strong><br>A neuromorphic AI chip from the Technical University of Munich operates without cloud connections, mimicking human brain functions for energy-efficient on-site calculations. This chip demonstrates significant advancements in processing efficiency, paving the way for customized AI solutions that enhance security and reduce reliance on cloud computing.</p><p><img src="https://scx2.b-cdn.net/gfx/news/hires/2025/ai-chip-developed-for-1.jpg" alt="AI Chip"></p><hr><h2 id="Insight"><a href="#Insight" class="headerlink" title="Insight"></a><a href="https://techxplore.com/news/2025-05-scientists-vulnerability-intel-processors.html">Insight</a></h2><p><strong>Computer Scientists Discover New Security Vulnerability in Intel Processors</strong><br>Researchers from ETH Zurich have identified a new class of vulnerabilities in Intel processors that exploit speculative execution to gain unauthorized access to data. This discovery raises concerns about data security in multi-user environments and highlights the need for robust security measures in future processor designs.</p><p><img src="https://scx2.b-cdn.net/gfx/news/hires/2025/researchers-discover-n-15.jpg" alt="Intel Vulnerability"></p><hr><p>Stay tuned for more updates and insights from the semiconductor industry as we continue to monitor these exciting developments and challenges.</p>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;h2 id=&quot;News&quot;&gt;&lt;a href=&quot;#News&quot; class=&quot;headerlink&quot; title=&quot;News&quot;&gt;&lt;/a&gt;&lt;a href=&quot;https://www.eetimes.com/supply-chain-uncertainty-hits-canadas-chi</summary>
-      
-    
-    
-    
-    <category term="Device" scheme="https://blackfireagent.github.io/opensemi/categories/Device/"/>
-    
-    
-    <category term="AI" scheme="https://blackfireagent.github.io/opensemi/tags/AI/"/>
-    
-    <category term="innovation" scheme="https://blackfireagent.github.io/opensemi/tags/innovation/"/>
-    
-    <category term="chip design" scheme="https://blackfireagent.github.io/opensemi/tags/chip-design/"/>
-    
-    <category term="semiconductors" scheme="https://blackfireagent.github.io/opensemi/tags/semiconductors/"/>
-    
-    <category term="supply chain" scheme="https://blackfireagent.github.io/opensemi/tags/supply-chain/"/>
     
   </entry>
   
