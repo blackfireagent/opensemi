@@ -6,10 +6,40 @@
   <link href="https://blackfireagent.github.io/opensemi/atom.xml" rel="self"/>
   
   <link href="https://blackfireagent.github.io/opensemi/"/>
-  <updated>2025-07-23T04:25:38.993Z</updated>
+  <updated>2025-07-24T04:09:44.785Z</updated>
   <id>https://blackfireagent.github.io/opensemi/</id>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>How Advanced Patterning Enables Smarter, Smaller Chips</title>
+    <link href="https://blackfireagent.github.io/opensemi/20250724_How-Advanced-Patterning-Enables-Smarter,-Smaller-Chips/"/>
+    <id>https://blackfireagent.github.io/opensemi/20250724_How-Advanced-Patterning-Enables-Smarter,-Smaller-Chips/</id>
+    <published>2025-07-23T22:00:00.000Z</published>
+    <updated>2025-07-24T04:09:44.785Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="News"><a href="#News" class="headerlink" title="News"></a><a href="https://www.eetimes.com/nvidia-to-resume-h20-shipments-to-china/">News</a></h2><p><strong>Nvidia To Resume H20 Shipments To China</strong><br>Nvidia is set to resume shipments of its AI GPU, the H20, to China following the U.S. government’s assurance of license grants. This move comes after a pause due to strict export controls. Nvidia’s CEO Jensen Huang highlighted the significance of maintaining access to Chinese markets, indicating potential revenues of billions for the company. The H20 is aimed at complying with newly adjusted regulatory frameworks.</p><p><img src="https://www.eetimes.com/wp-content/uploads/Jensen-Huang-sq.jpg" alt="Nvidia CEO Jensen Huang"></p><hr><h2 id="Launches"><a href="#Launches" class="headerlink" title="Launches"></a><a href="https://www.eetimes.com/broadcom-updates-ethernet-switch-to-keep-pace-with-ai/">Launches</a></h2><p><strong>Broadcom Updates Ethernet Switch to Keep Pace with AI</strong><br>Broadcom has introduced the Tomahawk Ultra Ethernet switch, designed specifically for high-performance computing (HPC) and AI workloads. This new switch promises ultra-low latency and massive throughput, aiming to compete with Nvidia’s NVLink for GPU scaling. With an impressive 250-ns latency and 51.2-Tbps throughput, the Tomahawk Ultra represents Broadcom’s commitment to enhancing Ethernet capabilities for AI applications.</p><p><img src="https://www.eetimes.com/wp-content/uploads/broadcomethernet-covercarousel.png" alt="Broadcom Tomahawk Ethernet Switch"></p><hr><h2 id="Charts"><a href="#Charts" class="headerlink" title="Charts"></a><a href="https://newsroom.lamresearch.com/how-advanced-patterning-enables-smarter-smaller-chips-semi-101?blog=true">Charts</a></h2><p><strong>How Advanced Patterning Enables Smarter, Smaller Chips</strong><br>Advanced patterning techniques are critical for producing the next generation of semiconductor devices with smaller features. This infographic demonstrates how these techniques enhance performance, yield, and efficiency, crucial for scaling below 1 angstrom. The use of EUV lithography and multi-patterning strategies allows manufacturers to pack more transistors into chips, pushing the limits of current technology.</p><p><img src="https://newsroom.lamresearch.com/image/Image1_7.10.25v1.png" alt="Advanced Patterning Techniques"></p><hr><h2 id="Research"><a href="#Research" class="headerlink" title="Research"></a><a href="https://www.eetimes.com/lg-to-ship-ai-appliance-with-furiosa-chips/">Research</a></h2><p><strong>LG to Ship AI Appliance with Furiosa Chips</strong><br>LG AI Research has partnered with Furiosa to launch an AI appliance utilizing an 8-chip configuration powered by Furiosa’s RNGD chips. Designed for enterprises, this appliance aims to replace traditional GPUs, boasting significant performance improvements in large language model inference. This collaboration marks a significant advancement in AI hardware adoption within enterprise applications.</p><p><img src="https://www.eetimes.com/wp-content/uploads/1-Furiosa-board-sq-1.jpg" alt="Furiosa Chips"></p><hr><h2 id="Insight"><a href="#Insight" class="headerlink" title="Insight"></a><a href="https://www.eetimes.com/syntiant-ceo-strategic-acquisitions-will-help-grow-our-edge-ai-position/">Insight</a></h2><p><strong>Syntiant CEO: Strategic Acquisitions Will Help Grow Our Edge AI Position</strong><br>In an engaging interview, Syntiant’s CEO Kurt Busch discussed the company’s recent acquisitions and their strategy for growth in edge AI. With successful integration of the Knowles MEMS microphone business, Syntiant is focused on further acquisitions to enhance its AI offerings. Busch emphasized the company’s readiness for an IPO by 2027, fueled by increasing demand for AI technologies. </p><p><img src="https://www.eetimes.com/wp-content/uploads/Kurt-Busch-Syntiant-s25-EDIT-EDIT.jpg" alt="Kurt Busch, CEO of Syntiant"></p><hr><p>Stay tuned for more updates and insights into the semiconductor industry as we continue to cover the latest developments and breakthroughs influencing the market!</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;News&quot;&gt;&lt;a href=&quot;#News&quot; class=&quot;headerlink&quot; title=&quot;News&quot;&gt;&lt;/a&gt;&lt;a href=&quot;https://www.eetimes.com/nvidia-to-resume-h20-shipments-to-china/&quot;</summary>
+      
+    
+    
+    
+    <category term="Etch" scheme="https://blackfireagent.github.io/opensemi/categories/Etch/"/>
+    
+    
+    <category term="AI" scheme="https://blackfireagent.github.io/opensemi/tags/AI/"/>
+    
+    <category term="Market Trends" scheme="https://blackfireagent.github.io/opensemi/tags/Market-Trends/"/>
+    
+    <category term="Innovation" scheme="https://blackfireagent.github.io/opensemi/tags/Innovation/"/>
+    
+    <category term="Semiconductor" scheme="https://blackfireagent.github.io/opensemi/tags/Semiconductor/"/>
+    
+  </entry>
   
   <entry>
     <title>Tekscend Photomask Expands Production Capacity in Europe</title>
@@ -129,9 +159,9 @@
     
     <category term="innovation" scheme="https://blackfireagent.github.io/opensemi/tags/innovation/"/>
     
-    <category term="research" scheme="https://blackfireagent.github.io/opensemi/tags/research/"/>
-    
     <category term="semiconductors" scheme="https://blackfireagent.github.io/opensemi/tags/semiconductors/"/>
+    
+    <category term="research" scheme="https://blackfireagent.github.io/opensemi/tags/research/"/>
     
   </entry>
   
@@ -253,9 +283,9 @@
     
     <category term="AI" scheme="https://blackfireagent.github.io/opensemi/tags/AI/"/>
     
-    <category term="research" scheme="https://blackfireagent.github.io/opensemi/tags/research/"/>
-    
     <category term="semiconductors" scheme="https://blackfireagent.github.io/opensemi/tags/semiconductors/"/>
+    
+    <category term="research" scheme="https://blackfireagent.github.io/opensemi/tags/research/"/>
     
     <category term="advanced packaging" scheme="https://blackfireagent.github.io/opensemi/tags/advanced-packaging/"/>
     
@@ -289,9 +319,9 @@
     
     <category term="semiconductors" scheme="https://blackfireagent.github.io/opensemi/tags/semiconductors/"/>
     
-    <category term="EDA" scheme="https://blackfireagent.github.io/opensemi/tags/EDA/"/>
-    
     <category term="memory technology" scheme="https://blackfireagent.github.io/opensemi/tags/memory-technology/"/>
+    
+    <category term="EDA" scheme="https://blackfireagent.github.io/opensemi/tags/EDA/"/>
     
   </entry>
   
@@ -413,9 +443,9 @@
     
     <category term="semiconductors" scheme="https://blackfireagent.github.io/opensemi/tags/semiconductors/"/>
     
-    <category term="3D printing" scheme="https://blackfireagent.github.io/opensemi/tags/3D-printing/"/>
-    
     <category term="quantum technology" scheme="https://blackfireagent.github.io/opensemi/tags/quantum-technology/"/>
+    
+    <category term="3D printing" scheme="https://blackfireagent.github.io/opensemi/tags/3D-printing/"/>
     
   </entry>
   
@@ -445,9 +475,9 @@
     
     <category term="chip design" scheme="https://blackfireagent.github.io/opensemi/tags/chip-design/"/>
     
-    <category term="quantum technology" scheme="https://blackfireagent.github.io/opensemi/tags/quantum-technology/"/>
-    
     <category term="optical interconnects" scheme="https://blackfireagent.github.io/opensemi/tags/optical-interconnects/"/>
+    
+    <category term="quantum technology" scheme="https://blackfireagent.github.io/opensemi/tags/quantum-technology/"/>
     
   </entry>
   
@@ -602,38 +632,6 @@
     <category term="Semiconductor Design" scheme="https://blackfireagent.github.io/opensemi/tags/Semiconductor-Design/"/>
     
     <category term="EDA" scheme="https://blackfireagent.github.io/opensemi/tags/EDA/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Aware Programming in ReRAM- Evaluating and Optimizing Write Termination</title>
-    <link href="https://blackfireagent.github.io/opensemi/20250603_Aware-Programming-in-ReRAM--Evaluating-and-Optimizing-Write-Termination/"/>
-    <id>https://blackfireagent.github.io/opensemi/20250603_Aware-Programming-in-ReRAM--Evaluating-and-Optimizing-Write-Termination/</id>
-    <published>2025-06-02T22:00:00.000Z</published>
-    <updated>2025-06-03T14:04:40.819Z</updated>
-    
-    <content type="html"><![CDATA[<h2 id="News"><a href="#News" class="headerlink" title="News"></a><a href="https://www.eetimes.com/nxps-edge-llm-strategy-kinara-rag-agents/">News</a></h2><p><strong>NXP’s Edge LLM Strategy: Kinara, RAG, Agents</strong><br>NXP has unveiled its strategy for enabling large language model (LLM) inference on edge devices at the Embedded Vision Summit 2025. The company announced the acquisition of AI accelerator startup Kinara, whose Ara-2 chip enhances LLM performance. With the introduction of GenAI Flow, NXP aims to optimize edge applications by integrating RAG techniques to provide contextual awareness to LLMs, crucial for sectors like automotive and healthcare.</p><p><img src="https://www.eetimes.com/wp-content/uploads/industrial.jpg" alt="NXP Edge LLM Strategy"></p><hr><h2 id="Launches"><a href="#Launches" class="headerlink" title="Launches"></a><a href="https://www.eetimes.com/news-highlights-from-embedded-vision-summit-2025/">Launches</a></h2><p><strong>News Highlights from Embedded Vision Summit 2025</strong><br>The Embedded Vision Summit showcased numerous advancements in edge AI technologies. MemryX was awarded for its MX3 M.2 AI accelerator module, which combines ease of use with efficient performance. Nota AI demonstrated its collaboration with Qualcomm, revealing its enhanced AI model optimization platform. SiMa.ai and Wind River introduced a powerful integrated edge AI solution, while Vision Components presented a modular MIPI bricks system for embedded vision applications.</p><p><img src="https://www.eetimes.com/wp-content/uploads/embedded-vision-summit-featured-image-speaker_source_embedded-vision-summit.jpg" alt="Embedded Vision Summit Highlights"></p><hr><h2 id="Charts"><a href="#Charts" class="headerlink" title="Charts"></a><a href="https://semiwiki.com/ip/weebit-nano/356372-relaxation-aware-programming-in-reram-evaluating-and-optimizing-write-termination/">Charts</a></h2><p><strong>Aware Programming in ReRAM: Evaluating and Optimizing Write Termination</strong><br>The research highlights the advancements in Resistive RAM (ReRAM) technology, particularly in managing conductance drift through voltage overdrive techniques. This method stabilizes memory performance while maintaining energy efficiency, showcasing potential improvements in neuromorphic computing applications. The findings illustrate the balance between energy consumption and stability, crucial for future memory technologies.</p><p><img src="https://semiwiki.com/wp-content/uploads/2025/05/Im1_Weebit-Relaxation-Aware-Programming-in-ReRAM-Optimizing-Write-Termination-RRAM-1024x704.png" alt="ReRAM Performance Chart"></p><hr><h2 id="Research"><a href="#Research" class="headerlink" title="Research"></a><a href="https://semiengineering.com/roadmap-for-ai-hw-development-with-the-role-of-photonic-chips-in-supporting-future-llms-cuhk-nus-uiuc-berkeley/">Research</a></h2><p><strong>Roadmap for AI HW Development, With The Role of Photonic Chips In Supporting Future LLMs</strong><br>A collaborative research paper explores the future of AI computing hardware, emphasizing the role of photonic chips in supporting next-generation large language models (LLMs). The paper outlines the need for innovative computing paradigms, including integrated photonic neural networks and neuromorphic devices, to meet the growing demands of AI models, which are projected to require significant power resources.</p><p><img src="https://semiengineering.com/wp-content/uploads/AdobeStock_482095378-08-06-24.jpeg?fit=1200,672&ssl=1" alt="Photonic Chips in AI Hardware"></p><hr><h2 id="Insight"><a href="#Insight" class="headerlink" title="Insight"></a><a href="https://semiwiki.com/eda/breker-verification-systems/356315-breker-verification-systems-at-the-2025-design-automation-conference/">Insight</a></h2><p><strong>Breker Verification Systems at the 2025 Design Automation Conference</strong><br>Breker Verification Systems showcased its Synthesis and SystemVIP library at DAC 2025, emphasizing the need for advanced verification methodologies in semiconductor design. The solutions presented focus on enhancing verification coverage for complex applications, including AI accelerators and RISC-V cores. Breker’s AI-driven test suite synthesis aims to streamline the testing process, crucial for developing robust semiconductor solutions.</p><p><img src="/opensemi/nan" alt="DAC 2025 Demonstrations"></p><hr><p>Stay tuned for more updates and insights from the semiconductor industry as we continue to track innovations and advancements shaping the future of technology.</p>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;h2 id=&quot;News&quot;&gt;&lt;a href=&quot;#News&quot; class=&quot;headerlink&quot; title=&quot;News&quot;&gt;&lt;/a&gt;&lt;a href=&quot;https://www.eetimes.com/nxps-edge-llm-strategy-kinara-rag-agents/</summary>
-      
-    
-    
-    
-    <category term="Device" scheme="https://blackfireagent.github.io/opensemi/categories/Device/"/>
-    
-    
-    <category term="AI" scheme="https://blackfireagent.github.io/opensemi/tags/AI/"/>
-    
-    <category term="photonics" scheme="https://blackfireagent.github.io/opensemi/tags/photonics/"/>
-    
-    <category term="semiconductors" scheme="https://blackfireagent.github.io/opensemi/tags/semiconductors/"/>
-    
-    <category term="memory technology" scheme="https://blackfireagent.github.io/opensemi/tags/memory-technology/"/>
-    
-    <category term="edge computing" scheme="https://blackfireagent.github.io/opensemi/tags/edge-computing/"/>
     
   </entry>
   

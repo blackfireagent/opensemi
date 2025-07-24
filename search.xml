@@ -4,6 +4,37 @@
   
     
     <entry>
+      <title>How Advanced Patterning Enables Smarter, Smaller Chips</title>
+      <link href="/opensemi/20250724_How-Advanced-Patterning-Enables-Smarter,-Smaller-Chips/"/>
+      <url>/opensemi/20250724_How-Advanced-Patterning-Enables-Smarter,-Smaller-Chips/</url>
+      
+        <content type="html"><![CDATA[<h2 id="News"><a href="#News" class="headerlink" title="News"></a><a href="https://www.eetimes.com/nvidia-to-resume-h20-shipments-to-china/">News</a></h2><p><strong>Nvidia To Resume H20 Shipments To China</strong><br>Nvidia is set to resume shipments of its AI GPU, the H20, to China following the U.S. government’s assurance of license grants. This move comes after a pause due to strict export controls. Nvidia’s CEO Jensen Huang highlighted the significance of maintaining access to Chinese markets, indicating potential revenues of billions for the company. The H20 is aimed at complying with newly adjusted regulatory frameworks.</p><p><img src="https://www.eetimes.com/wp-content/uploads/Jensen-Huang-sq.jpg" alt="Nvidia CEO Jensen Huang"></p><hr><h2 id="Launches"><a href="#Launches" class="headerlink" title="Launches"></a><a href="https://www.eetimes.com/broadcom-updates-ethernet-switch-to-keep-pace-with-ai/">Launches</a></h2><p><strong>Broadcom Updates Ethernet Switch to Keep Pace with AI</strong><br>Broadcom has introduced the Tomahawk Ultra Ethernet switch, designed specifically for high-performance computing (HPC) and AI workloads. This new switch promises ultra-low latency and massive throughput, aiming to compete with Nvidia’s NVLink for GPU scaling. With an impressive 250-ns latency and 51.2-Tbps throughput, the Tomahawk Ultra represents Broadcom’s commitment to enhancing Ethernet capabilities for AI applications.</p><p><img src="https://www.eetimes.com/wp-content/uploads/broadcomethernet-covercarousel.png" alt="Broadcom Tomahawk Ethernet Switch"></p><hr><h2 id="Charts"><a href="#Charts" class="headerlink" title="Charts"></a><a href="https://newsroom.lamresearch.com/how-advanced-patterning-enables-smarter-smaller-chips-semi-101?blog=true">Charts</a></h2><p><strong>How Advanced Patterning Enables Smarter, Smaller Chips</strong><br>Advanced patterning techniques are critical for producing the next generation of semiconductor devices with smaller features. This infographic demonstrates how these techniques enhance performance, yield, and efficiency, crucial for scaling below 1 angstrom. The use of EUV lithography and multi-patterning strategies allows manufacturers to pack more transistors into chips, pushing the limits of current technology.</p><p><img src="https://newsroom.lamresearch.com/image/Image1_7.10.25v1.png" alt="Advanced Patterning Techniques"></p><hr><h2 id="Research"><a href="#Research" class="headerlink" title="Research"></a><a href="https://www.eetimes.com/lg-to-ship-ai-appliance-with-furiosa-chips/">Research</a></h2><p><strong>LG to Ship AI Appliance with Furiosa Chips</strong><br>LG AI Research has partnered with Furiosa to launch an AI appliance utilizing an 8-chip configuration powered by Furiosa’s RNGD chips. Designed for enterprises, this appliance aims to replace traditional GPUs, boasting significant performance improvements in large language model inference. This collaboration marks a significant advancement in AI hardware adoption within enterprise applications.</p><p><img src="https://www.eetimes.com/wp-content/uploads/1-Furiosa-board-sq-1.jpg" alt="Furiosa Chips"></p><hr><h2 id="Insight"><a href="#Insight" class="headerlink" title="Insight"></a><a href="https://www.eetimes.com/syntiant-ceo-strategic-acquisitions-will-help-grow-our-edge-ai-position/">Insight</a></h2><p><strong>Syntiant CEO: Strategic Acquisitions Will Help Grow Our Edge AI Position</strong><br>In an engaging interview, Syntiant’s CEO Kurt Busch discussed the company’s recent acquisitions and their strategy for growth in edge AI. With successful integration of the Knowles MEMS microphone business, Syntiant is focused on further acquisitions to enhance its AI offerings. Busch emphasized the company’s readiness for an IPO by 2027, fueled by increasing demand for AI technologies. </p><p><img src="https://www.eetimes.com/wp-content/uploads/Kurt-Busch-Syntiant-s25-EDIT-EDIT.jpg" alt="Kurt Busch, CEO of Syntiant"></p><hr><p>Stay tuned for more updates and insights into the semiconductor industry as we continue to cover the latest developments and breakthroughs influencing the market!</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> Etch </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> AI </tag>
+            
+            <tag> Market Trends </tag>
+            
+            <tag> Innovation </tag>
+            
+            <tag> Semiconductor </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>Tekscend Photomask Expands Production Capacity in Europe</title>
       <link href="/opensemi/20250723_Tekscend-Photomask-Expands-Production-Capacity-in-Europe/"/>
       <url>/opensemi/20250723_Tekscend-Photomask-Expands-Production-Capacity-in-Europe/</url>
@@ -121,9 +152,9 @@
             
             <tag> innovation </tag>
             
-            <tag> research </tag>
-            
             <tag> semiconductors </tag>
+            
+            <tag> research </tag>
             
         </tags>
       
@@ -249,9 +280,9 @@
             
             <tag> AI </tag>
             
-            <tag> research </tag>
-            
             <tag> semiconductors </tag>
+            
+            <tag> research </tag>
             
             <tag> advanced packaging </tag>
             
@@ -286,9 +317,9 @@
             
             <tag> semiconductors </tag>
             
-            <tag> EDA </tag>
-            
             <tag> memory technology </tag>
+            
+            <tag> EDA </tag>
             
         </tags>
       
@@ -414,9 +445,9 @@
             
             <tag> semiconductors </tag>
             
-            <tag> 3D printing </tag>
-            
             <tag> quantum technology </tag>
+            
+            <tag> 3D printing </tag>
             
         </tags>
       
@@ -447,9 +478,9 @@
             
             <tag> chip design </tag>
             
-            <tag> quantum technology </tag>
-            
             <tag> optical interconnects </tag>
+            
+            <tag> quantum technology </tag>
             
         </tags>
       
@@ -1455,9 +1486,9 @@
       
         <tags>
             
-            <tag> AI </tag>
-            
             <tag> packaging </tag>
+            
+            <tag> AI </tag>
             
             <tag> semiconductor technology </tag>
             
