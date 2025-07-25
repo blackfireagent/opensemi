@@ -6,10 +6,42 @@
   <link href="https://blackfireagent.github.io/opensemi/atom.xml" rel="self"/>
   
   <link href="https://blackfireagent.github.io/opensemi/"/>
-  <updated>2025-07-24T04:09:44.785Z</updated>
+  <updated>2025-07-25T04:11:12.316Z</updated>
   <id>https://blackfireagent.github.io/opensemi/</id>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Tag-Based Memory Verification System for RISC-V</title>
+    <link href="https://blackfireagent.github.io/opensemi/20250725_Tag-Based-Memory-Verification-System-for-RISC-V/"/>
+    <id>https://blackfireagent.github.io/opensemi/20250725_Tag-Based-Memory-Verification-System-for-RISC-V/</id>
+    <published>2025-07-24T22:00:00.000Z</published>
+    <updated>2025-07-25T04:11:12.316Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="News"><a href="#News" class="headerlink" title="News"></a><a href="https://semiengineering.com/tag-based-memory-verification-system-for-risc-v-inha-univ-intel-labs-et-al/">News</a></h2><p><strong>Tag-Based Memory Verification System for RISC-V</strong><br>Researchers from Inha University and Intel Labs have introduced a novel tag-based memory verification system tailored for embedded RISC-V processors. This system significantly enhances memory safety by integrating hardware-level mechanisms that detect heap-related vulnerabilities. The implementation shows promising performance improvements while maintaining low overhead, marking a substantial step forward in securing embedded systems.</p><p><img src="https://semiengineering.com/wp-content/uploads/AdobeStock_78507548-feb-13-2023-scaled.jpeg" alt="Tag-Based Memory Verification"></p><hr><h2 id="Launches"><a href="#Launches" class="headerlink" title="Launches"></a><a href="https://semiwiki.com/semiconductor-services/alchip/358440-alchip-launches-2nm-design-platform-for-hpc-and-ai-asics-eyes-tsmc-n2-and-a16-roadmap/">Launches</a></h2><p><strong>Alchip Launches 2nm Design Platform for HPC and AI ASICs</strong><br>Alchip Technologies has launched its groundbreaking 2nm Design Platform, aimed at enhancing custom silicon design for high-performance computing and AI applications. This platform supports advanced chiplet integration strategies, allowing seamless combination of different node technologies to optimize performance and design flexibility, positioning Alchip at the forefront of TSMC’s next-generation semiconductor technologies.</p><p><img src="https://semiwiki.com/wp-content/uploads/2025/07/Alchip-TSMC-N2-announcement-SemiWiki.jpg" alt="Alchip 2nm Platform"></p><hr><h2 id="Charts"><a href="#Charts" class="headerlink" title="Charts"></a><a href="https://semiengineering.com/dl-compiler-framework-for-more-efficient-inter-core-connected-ai-chips-uiuc-microsoft/">Charts</a></h2><p><strong>DL Compiler Framework For More Efficient Inter-Core Connected AI Chips</strong><br>The University of Illinois Urbana-Champaign and Microsoft have unveiled the Elk compiler framework, which optimizes inter-core connected AI chips. The framework systematically balances compute, communication, and I&#x2F;O tasks, achieving impressive performance metrics. This is a crucial advance in maximizing the efficiency of AI chips in handling large models, illustrated with performance comparison charts and efficiency metrics.</p><p><img src="https://semiengineering.com/wp-content/uploads/AdobeStock_576655008-June-15-2023-scaled.jpeg" alt="Elk Framework"></p><hr><h2 id="Research"><a href="#Research" class="headerlink" title="Research"></a><a href="https://semiwiki.com/artificial-intelligence/357929-siemens-proposes-unified-static-and-formal-verification-with-ai/">Research</a></h2><p><strong>Siemens Proposes Unified Static and Formal Verification with AI</strong><br>Siemens has introduced a novel approach to verification by combining static and formal methods with AI. This new offering, Questa One SFV, aims to simplify license management while enhancing the accuracy of verification processes. The research highlights how AI can improve the efficacy of traditional verification methods, paving the way for broader applications in semiconductor design.</p><p><img src="https://semiwiki.com/wp-content/uploads/2025/07/Siemens-Proposes-Unified-Static-and-Formal-Verification-with-AI-min.png" alt="Siemens Verification AI"></p><hr><h2 id="Insight"><a href="#Insight" class="headerlink" title="Insight"></a><a href="https://semiwiki.com/ceo-interviews/357999-ceo-interview-with-shelly-henry-of-mooreslabai/">Insight</a></h2><p><strong>Executive Interview with Shelly Henry of MooresLabAI</strong><br>In an insightful interview, Shelly Henry, CEO of MooresLabAI, discusses the transformative potential of AI in semiconductor development. The VerifAgent™ AI platform promises to accelerate verification processes significantly, addressing the industry’s talent shortage while reducing costs. Henry emphasizes the importance of tailored AI solutions in enhancing semiconductor design efficiency.</p><p><img src="https://semiwiki.com/wp-content/uploads/2025/07/image001-3-1200x1200.jpg" alt="Shelly Henry Interview"></p><hr><p>Stay tuned for more cutting-edge updates and insights from the semiconductor world as we continue to track innovations that shape our industry!</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;News&quot;&gt;&lt;a href=&quot;#News&quot; class=&quot;headerlink&quot; title=&quot;News&quot;&gt;&lt;/a&gt;&lt;a href=&quot;https://semiengineering.com/tag-based-memory-verification-system-</summary>
+      
+    
+    
+    
+    <category term="Machinelearning" scheme="https://blackfireagent.github.io/opensemi/categories/Machinelearning/"/>
+    
+    
+    <category term="AI" scheme="https://blackfireagent.github.io/opensemi/tags/AI/"/>
+    
+    <category term="technology" scheme="https://blackfireagent.github.io/opensemi/tags/technology/"/>
+    
+    <category term="semiconductors" scheme="https://blackfireagent.github.io/opensemi/tags/semiconductors/"/>
+    
+    <category term="design" scheme="https://blackfireagent.github.io/opensemi/tags/design/"/>
+    
+    <category term="verification" scheme="https://blackfireagent.github.io/opensemi/tags/verification/"/>
+    
+  </entry>
   
   <entry>
     <title>How Advanced Patterning Enables Smarter, Smaller Chips</title>
@@ -159,9 +191,9 @@
     
     <category term="innovation" scheme="https://blackfireagent.github.io/opensemi/tags/innovation/"/>
     
-    <category term="semiconductors" scheme="https://blackfireagent.github.io/opensemi/tags/semiconductors/"/>
-    
     <category term="research" scheme="https://blackfireagent.github.io/opensemi/tags/research/"/>
+    
+    <category term="semiconductors" scheme="https://blackfireagent.github.io/opensemi/tags/semiconductors/"/>
     
   </entry>
   
@@ -283,9 +315,9 @@
     
     <category term="AI" scheme="https://blackfireagent.github.io/opensemi/tags/AI/"/>
     
-    <category term="semiconductors" scheme="https://blackfireagent.github.io/opensemi/tags/semiconductors/"/>
-    
     <category term="research" scheme="https://blackfireagent.github.io/opensemi/tags/research/"/>
+    
+    <category term="semiconductors" scheme="https://blackfireagent.github.io/opensemi/tags/semiconductors/"/>
     
     <category term="advanced packaging" scheme="https://blackfireagent.github.io/opensemi/tags/advanced-packaging/"/>
     
@@ -319,9 +351,9 @@
     
     <category term="semiconductors" scheme="https://blackfireagent.github.io/opensemi/tags/semiconductors/"/>
     
-    <category term="memory technology" scheme="https://blackfireagent.github.io/opensemi/tags/memory-technology/"/>
-    
     <category term="EDA" scheme="https://blackfireagent.github.io/opensemi/tags/EDA/"/>
+    
+    <category term="memory technology" scheme="https://blackfireagent.github.io/opensemi/tags/memory-technology/"/>
     
   </entry>
   
@@ -600,38 +632,6 @@
     <category term="Innovation" scheme="https://blackfireagent.github.io/opensemi/tags/Innovation/"/>
     
     <category term="Semiconductor" scheme="https://blackfireagent.github.io/opensemi/tags/Semiconductor/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Global Semiconductor Sales Increase 2.5% Month</title>
-    <link href="https://blackfireagent.github.io/opensemi/20250616_Global-Semiconductor-Sales-Increase-2.5%-Month/"/>
-    <id>https://blackfireagent.github.io/opensemi/20250616_Global-Semiconductor-Sales-Increase-2.5%-Month/</id>
-    <published>2025-06-15T22:00:00.000Z</published>
-    <updated>2025-06-15T22:22:23.302Z</updated>
-    
-    <content type="html"><![CDATA[<h2 id="News"><a href="#News" class="headerlink" title="News"></a><a href="https://www.semiconductor-digest.com/global-semiconductor-sales-increase-2-5-month-to-month-in-april/">News</a></h2><p><strong>Global Semiconductor Sales Increase 2.5% Month</strong><br>The Semiconductor Industry Association (SIA) reported that global semiconductor sales reached $57.0 billion in April 2025, marking a 2.5% increase from March and a 22.7% year-over-year growth. The rise is attributed to heightened demand across the Americas and Asia Pacific, driven by AI technologies and advanced consumer electronics. Forecasts indicate a projected annual growth rate of 11.2%, reaching $700.9 billion by year-end.</p><p>![SIA Sales Graph](<a href="https://www.semiconductor-digest.com/wp-content/uploads/2025/06/Screenshot-2025-06-13-at-10.44.08">https://www.semiconductor-digest.com/wp-content/uploads/2025/06/Screenshot-2025-06-13-at-10.44.08</a> AM.png)</p><hr><h2 id="Launches"><a href="#Launches" class="headerlink" title="Launches"></a><a href="https://www.eetimes.com/encharge-picks-the-pc-for-its-first-analog-ai-chip/">Launches</a></h2><p><strong>EnCharge Picks The PC For Its First Analog AI Chip</strong><br>EnCharge AI has launched its first product, the EN100 AI accelerator, designed for client devices such as laptops and workstations. This analog AI accelerator utilizes capacitor-based compute-in-memory technology, achieving a power efficiency of over 40 TOPS&#x2F;W, and aims to meet the increasing demand for efficient AI processing.</p><p><img src="https://www.eetimes.com/wp-content/uploads/EnChargeAI_PCI-E-sq.jpg" alt="EnCharge AI Accelerator"></p><hr><h2 id="Charts"><a href="#Charts" class="headerlink" title="Charts"></a><a href="https://semiwiki.com/eda/amiq-eda/356722-amiq-eda-at-the-2025-design-automation-conference/">Charts</a></h2><p><strong>AMIQ EDA Unveils New AI Assistant for Design Tools</strong><br>AMIQ EDA’s latest enhancements to their Design and Verification Tools IDE family include an AI Assistant feature aimed at simplifying code generation and modification. The IDE now incorporates over 30 new code checks and improved testbench elaboration, ensuring higher code quality. This marks a significant advancement in hardware design, showcasing the integration of AI into development tools.</p><p><img src="https://semiwiki.com/wp-content/uploads/2025/06/62nd-DAC-SemiWiki-6.jpg" alt="AMIQ EDA"></p><hr><h2 id="Research"><a href="#Research" class="headerlink" title="Research"></a><a href="https://www.semiconductor-digest.com/creating-the-building-blocks-of-technology-multiple-rings-at-a-time/">Research</a></h2><p><strong>Creating the Building Blocks of Technology, Multiple Rings at a Time</strong><br>A team from Nagoya University has developed a new technique for synthesizing complex polycyclic aromatic hydrocarbons (PAHs) used in organic electronics. This method utilizes direct carbon-to-carbon bond formation, vastly improving efficiency and reducing costs in creating essential components for LEDs and solar cells, with implications for enhancing semiconductor device production.</p><p><img src="https://www.semiconductor-digest.com/wp-content/uploads/2019/02/Final-Logo-1.png" alt="Research on PAHs"></p><hr><h2 id="Insight"><a href="#Insight" class="headerlink" title="Insight"></a><a href="https://semiwiki.com/ip/agile-analog/356586-ceo-interview-with-krishna-anne-of-agile-analog/">Insight</a></h2><p><strong>CEO Interview with Krishna Anne of Agile Analog</strong><br>In a recent interview, Krishna Anne discussed Agile Analog’s innovative approach to combat the analog engineer shortage through automation in mixed-signal IP design. He emphasized the company’s focus on strategic partnerships and integrated solutions, highlighting their potential to simplify and expedite analog design processes, thus addressing a critical industry challenge.</p><p><img src="https://semiwiki.com/wp-content/uploads/2025/06/Agile-Analog-Krishna-Anne-headshot-photo.png" alt="Krishna Anne"></p><hr><p>Stay tuned for more updates and insights from the semiconductor industry as we continue to track trends, innovations, and breakthroughs shaping the future!</p>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;h2 id=&quot;News&quot;&gt;&lt;a href=&quot;#News&quot; class=&quot;headerlink&quot; title=&quot;News&quot;&gt;&lt;/a&gt;&lt;a href=&quot;https://www.semiconductor-digest.com/global-semiconductor-sales-i</summary>
-      
-    
-    
-    
-    <category term="Semiconductor" scheme="https://blackfireagent.github.io/opensemi/categories/Semiconductor/"/>
-    
-    
-    <category term="AI" scheme="https://blackfireagent.github.io/opensemi/tags/AI/"/>
-    
-    <category term="Innovation" scheme="https://blackfireagent.github.io/opensemi/tags/Innovation/"/>
-    
-    <category term="Growth" scheme="https://blackfireagent.github.io/opensemi/tags/Growth/"/>
-    
-    <category term="Semiconductor Design" scheme="https://blackfireagent.github.io/opensemi/tags/Semiconductor-Design/"/>
-    
-    <category term="EDA" scheme="https://blackfireagent.github.io/opensemi/tags/EDA/"/>
     
   </entry>
   

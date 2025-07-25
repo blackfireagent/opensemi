@@ -4,6 +4,39 @@
   
     
     <entry>
+      <title>Tag-Based Memory Verification System for RISC-V</title>
+      <link href="/opensemi/20250725_Tag-Based-Memory-Verification-System-for-RISC-V/"/>
+      <url>/opensemi/20250725_Tag-Based-Memory-Verification-System-for-RISC-V/</url>
+      
+        <content type="html"><![CDATA[<h2 id="News"><a href="#News" class="headerlink" title="News"></a><a href="https://semiengineering.com/tag-based-memory-verification-system-for-risc-v-inha-univ-intel-labs-et-al/">News</a></h2><p><strong>Tag-Based Memory Verification System for RISC-V</strong><br>Researchers from Inha University and Intel Labs have introduced a novel tag-based memory verification system tailored for embedded RISC-V processors. This system significantly enhances memory safety by integrating hardware-level mechanisms that detect heap-related vulnerabilities. The implementation shows promising performance improvements while maintaining low overhead, marking a substantial step forward in securing embedded systems.</p><p><img src="https://semiengineering.com/wp-content/uploads/AdobeStock_78507548-feb-13-2023-scaled.jpeg" alt="Tag-Based Memory Verification"></p><hr><h2 id="Launches"><a href="#Launches" class="headerlink" title="Launches"></a><a href="https://semiwiki.com/semiconductor-services/alchip/358440-alchip-launches-2nm-design-platform-for-hpc-and-ai-asics-eyes-tsmc-n2-and-a16-roadmap/">Launches</a></h2><p><strong>Alchip Launches 2nm Design Platform for HPC and AI ASICs</strong><br>Alchip Technologies has launched its groundbreaking 2nm Design Platform, aimed at enhancing custom silicon design for high-performance computing and AI applications. This platform supports advanced chiplet integration strategies, allowing seamless combination of different node technologies to optimize performance and design flexibility, positioning Alchip at the forefront of TSMC’s next-generation semiconductor technologies.</p><p><img src="https://semiwiki.com/wp-content/uploads/2025/07/Alchip-TSMC-N2-announcement-SemiWiki.jpg" alt="Alchip 2nm Platform"></p><hr><h2 id="Charts"><a href="#Charts" class="headerlink" title="Charts"></a><a href="https://semiengineering.com/dl-compiler-framework-for-more-efficient-inter-core-connected-ai-chips-uiuc-microsoft/">Charts</a></h2><p><strong>DL Compiler Framework For More Efficient Inter-Core Connected AI Chips</strong><br>The University of Illinois Urbana-Champaign and Microsoft have unveiled the Elk compiler framework, which optimizes inter-core connected AI chips. The framework systematically balances compute, communication, and I&#x2F;O tasks, achieving impressive performance metrics. This is a crucial advance in maximizing the efficiency of AI chips in handling large models, illustrated with performance comparison charts and efficiency metrics.</p><p><img src="https://semiengineering.com/wp-content/uploads/AdobeStock_576655008-June-15-2023-scaled.jpeg" alt="Elk Framework"></p><hr><h2 id="Research"><a href="#Research" class="headerlink" title="Research"></a><a href="https://semiwiki.com/artificial-intelligence/357929-siemens-proposes-unified-static-and-formal-verification-with-ai/">Research</a></h2><p><strong>Siemens Proposes Unified Static and Formal Verification with AI</strong><br>Siemens has introduced a novel approach to verification by combining static and formal methods with AI. This new offering, Questa One SFV, aims to simplify license management while enhancing the accuracy of verification processes. The research highlights how AI can improve the efficacy of traditional verification methods, paving the way for broader applications in semiconductor design.</p><p><img src="https://semiwiki.com/wp-content/uploads/2025/07/Siemens-Proposes-Unified-Static-and-Formal-Verification-with-AI-min.png" alt="Siemens Verification AI"></p><hr><h2 id="Insight"><a href="#Insight" class="headerlink" title="Insight"></a><a href="https://semiwiki.com/ceo-interviews/357999-ceo-interview-with-shelly-henry-of-mooreslabai/">Insight</a></h2><p><strong>Executive Interview with Shelly Henry of MooresLabAI</strong><br>In an insightful interview, Shelly Henry, CEO of MooresLabAI, discusses the transformative potential of AI in semiconductor development. The VerifAgent™ AI platform promises to accelerate verification processes significantly, addressing the industry’s talent shortage while reducing costs. Henry emphasizes the importance of tailored AI solutions in enhancing semiconductor design efficiency.</p><p><img src="https://semiwiki.com/wp-content/uploads/2025/07/image001-3-1200x1200.jpg" alt="Shelly Henry Interview"></p><hr><p>Stay tuned for more cutting-edge updates and insights from the semiconductor world as we continue to track innovations that shape our industry!</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> Machinelearning </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> AI </tag>
+            
+            <tag> technology </tag>
+            
+            <tag> semiconductors </tag>
+            
+            <tag> design </tag>
+            
+            <tag> verification </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>How Advanced Patterning Enables Smarter, Smaller Chips</title>
       <link href="/opensemi/20250724_How-Advanced-Patterning-Enables-Smarter,-Smaller-Chips/"/>
       <url>/opensemi/20250724_How-Advanced-Patterning-Enables-Smarter,-Smaller-Chips/</url>
@@ -152,9 +185,9 @@
             
             <tag> innovation </tag>
             
-            <tag> semiconductors </tag>
-            
             <tag> research </tag>
+            
+            <tag> semiconductors </tag>
             
         </tags>
       
@@ -280,9 +313,9 @@
             
             <tag> AI </tag>
             
-            <tag> semiconductors </tag>
-            
             <tag> research </tag>
+            
+            <tag> semiconductors </tag>
             
             <tag> advanced packaging </tag>
             
@@ -317,9 +350,9 @@
             
             <tag> semiconductors </tag>
             
-            <tag> memory technology </tag>
-            
             <tag> EDA </tag>
+            
+            <tag> memory technology </tag>
             
         </tags>
       
@@ -900,39 +933,6 @@
     
     
     <entry>
-      <title>NSR-S636E ArF Immersion Scanner</title>
-      <link href="/opensemi/20250518_NSR-S636E-ArF-Immersion-Scanner/"/>
-      <url>/opensemi/20250518_NSR-S636E-ArF-Immersion-Scanner/</url>
-      
-        <content type="html"><![CDATA[<h2 id="News"><a href="#News" class="headerlink" title="News"></a><a href="https://spectrum.ieee.org/high-na-euv">News</a></h2><p><strong>This Machine Could Keep Moore’s Law on Track</strong><br>ASML is pioneering high-numerical-aperture EUV lithography, aiming for commercial deployment in 2025. This advancement is crucial for maintaining Moore’s Law by enabling the production of increasingly smaller chip features, essential for next-generation devices.</p><p><img src="https://spectrum.ieee.org/media-library/a-white-box-with-vertical-lines-dwarfs-two-people-in-white-coveralls.jpg?id=34683341&width=1200&height=899" alt="ASML lithography machine"></p><hr><h2 id="Launches"><a href="#Launches" class="headerlink" title="Launches"></a><a href="https://www.nikonprecision.com/nikon-releases-nsr-s636e-arf-immersion-scanner/">Launches</a></h2><p><strong>NSR-S636E ArF Immersion Scanner</strong><br>Nikon introduces its NSR-S636E ArF immersion scanner, the most productive lithography system in its history, designed for critical layers in semiconductor manufacturing. This system enhances overlay accuracy and throughput, catering to the needs of advanced 3D semiconductor devices.</p><p><img src="https://www.nikonprecision.com/wp-content/uploads/2023/12/NSR-S636E-Larger-ImageA-scaled-e1701819763953-1024x890.jpg" alt="Nikon NSR-S636E"></p><hr><h2 id="Charts"><a href="#Charts" class="headerlink" title="Charts"></a><a href="https://spectrum.ieee.org/transistor-density">Charts</a></h2><p><strong>The State of the Transistor in 3 Charts</strong><br>This article provides a comprehensive overview of the advancements in transistor technology over the past 75 years, emphasizing the exponential growth in transistor density and the ongoing miniaturization efforts critical for future semiconductor innovations.</p><p><img src="https://spectrum.ieee.org/media-library/a-photo-of-3-different-transistors.png?id=32153247&width=1200&height=844" alt="Transistor advancements"></p><hr><h2 id="Research"><a href="#Research" class="headerlink" title="Research"></a><a href="https://semiengineering.com/scalable-approach-for-fabricating-sub-10nm-nanogaps/">Research</a></h2><p><strong>Scalable Approach For Fabricating Sub-10nm Nanogaps</strong><br>Researchers have developed a progressive wafer-scale method for creating sub-10 nm nanogap structures, which promises significant advancements in semiconductor fabrication techniques, enhancing performance and scalability.</p><p><img src="https://semiengineering.com/wp-content/uploads/AdobeStock_416615461-01-29-25-scaled.jpeg" alt="Sub-10nm nanogaps"></p><hr><h2 id="Insight"><a href="#Insight" class="headerlink" title="Insight"></a><a href="https://phys.org/news/2023-12/method-fabricate-optical-devices-specifications.html">Insight</a></h2><p><strong>A New Method to Fabricate Optical Devices That More Closely Match Their Design Specifications</strong><br>MIT and the Chinese University of Hong Kong researchers have developed a machine learning-based digital simulator for photolithography that significantly enhances the precision of optical device manufacturing, paving the way for improved performance in applications ranging from mobile cameras to telecommunications.</p><p><img src="https://scx2.b-cdn.net/gfx/news/2023/method-enables-optical.jpg" alt="Optical device fabrication"></p><hr><p>Stay tuned for more updates as we continue to bring you the latest news and innovations in the semiconductor industry!</p>]]></content>
-      
-      
-      <categories>
-          
-          <category> Lithography </category>
-          
-      </categories>
-      
-      
-        <tags>
-            
-            <tag> innovation </tag>
-            
-            <tag> semiconductor </tag>
-            
-            <tag> lithography </tag>
-            
-            <tag> EUV </tag>
-            
-            <tag> optics </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
       <title>Safeguard power domain compatibility by finding missing level shifters</title>
       <link href="/opensemi/20250518_Safeguard-power-domain-compatibility-by-finding-missing-level-shifters/"/>
       <url>/opensemi/20250518_Safeguard-power-domain-compatibility-by-finding-missing-level-shifters/</url>
@@ -958,6 +958,39 @@
             <tag> manufacturing </tag>
             
             <tag> semiconductors </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>NSR-S636E ArF Immersion Scanner</title>
+      <link href="/opensemi/20250518_NSR-S636E-ArF-Immersion-Scanner/"/>
+      <url>/opensemi/20250518_NSR-S636E-ArF-Immersion-Scanner/</url>
+      
+        <content type="html"><![CDATA[<h2 id="News"><a href="#News" class="headerlink" title="News"></a><a href="https://spectrum.ieee.org/high-na-euv">News</a></h2><p><strong>This Machine Could Keep Moore’s Law on Track</strong><br>ASML is pioneering high-numerical-aperture EUV lithography, aiming for commercial deployment in 2025. This advancement is crucial for maintaining Moore’s Law by enabling the production of increasingly smaller chip features, essential for next-generation devices.</p><p><img src="https://spectrum.ieee.org/media-library/a-white-box-with-vertical-lines-dwarfs-two-people-in-white-coveralls.jpg?id=34683341&width=1200&height=899" alt="ASML lithography machine"></p><hr><h2 id="Launches"><a href="#Launches" class="headerlink" title="Launches"></a><a href="https://www.nikonprecision.com/nikon-releases-nsr-s636e-arf-immersion-scanner/">Launches</a></h2><p><strong>NSR-S636E ArF Immersion Scanner</strong><br>Nikon introduces its NSR-S636E ArF immersion scanner, the most productive lithography system in its history, designed for critical layers in semiconductor manufacturing. This system enhances overlay accuracy and throughput, catering to the needs of advanced 3D semiconductor devices.</p><p><img src="https://www.nikonprecision.com/wp-content/uploads/2023/12/NSR-S636E-Larger-ImageA-scaled-e1701819763953-1024x890.jpg" alt="Nikon NSR-S636E"></p><hr><h2 id="Charts"><a href="#Charts" class="headerlink" title="Charts"></a><a href="https://spectrum.ieee.org/transistor-density">Charts</a></h2><p><strong>The State of the Transistor in 3 Charts</strong><br>This article provides a comprehensive overview of the advancements in transistor technology over the past 75 years, emphasizing the exponential growth in transistor density and the ongoing miniaturization efforts critical for future semiconductor innovations.</p><p><img src="https://spectrum.ieee.org/media-library/a-photo-of-3-different-transistors.png?id=32153247&width=1200&height=844" alt="Transistor advancements"></p><hr><h2 id="Research"><a href="#Research" class="headerlink" title="Research"></a><a href="https://semiengineering.com/scalable-approach-for-fabricating-sub-10nm-nanogaps/">Research</a></h2><p><strong>Scalable Approach For Fabricating Sub-10nm Nanogaps</strong><br>Researchers have developed a progressive wafer-scale method for creating sub-10 nm nanogap structures, which promises significant advancements in semiconductor fabrication techniques, enhancing performance and scalability.</p><p><img src="https://semiengineering.com/wp-content/uploads/AdobeStock_416615461-01-29-25-scaled.jpeg" alt="Sub-10nm nanogaps"></p><hr><h2 id="Insight"><a href="#Insight" class="headerlink" title="Insight"></a><a href="https://phys.org/news/2023-12/method-fabricate-optical-devices-specifications.html">Insight</a></h2><p><strong>A New Method to Fabricate Optical Devices That More Closely Match Their Design Specifications</strong><br>MIT and the Chinese University of Hong Kong researchers have developed a machine learning-based digital simulator for photolithography that significantly enhances the precision of optical device manufacturing, paving the way for improved performance in applications ranging from mobile cameras to telecommunications.</p><p><img src="https://scx2.b-cdn.net/gfx/news/2023/method-enables-optical.jpg" alt="Optical device fabrication"></p><hr><p>Stay tuned for more updates as we continue to bring you the latest news and innovations in the semiconductor industry!</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> Lithography </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> innovation </tag>
+            
+            <tag> semiconductor </tag>
+            
+            <tag> lithography </tag>
+            
+            <tag> EUV </tag>
+            
+            <tag> optics </tag>
             
         </tags>
       
@@ -1486,9 +1519,9 @@
       
         <tags>
             
-            <tag> packaging </tag>
-            
             <tag> AI </tag>
+            
+            <tag> packaging </tag>
             
             <tag> semiconductor technology </tag>
             
