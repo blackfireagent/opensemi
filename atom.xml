@@ -6,10 +6,42 @@
   <link href="https://blackfireagent.github.io/opensemi/atom.xml" rel="self"/>
   
   <link href="https://blackfireagent.github.io/opensemi/"/>
-  <updated>2025-07-29T04:16:20.402Z</updated>
+  <updated>2025-07-30T04:26:08.018Z</updated>
   <id>https://blackfireagent.github.io/opensemi/</id>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Researchers Identify Carbon Contamination as Key Barrier in Gallium Oxide Electronics</title>
+    <link href="https://blackfireagent.github.io/opensemi/20250730_Researchers-Identify-Carbon-Contamination-as-Key-Barrier-in-Gallium-Oxide-Electronics/"/>
+    <id>https://blackfireagent.github.io/opensemi/20250730_Researchers-Identify-Carbon-Contamination-as-Key-Barrier-in-Gallium-Oxide-Electronics/</id>
+    <published>2025-07-29T22:00:00.000Z</published>
+    <updated>2025-07-30T04:26:08.018Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="News"><a href="#News" class="headerlink" title="News"></a><a href="https://www.trendforce.com/news/2025/07/24/news-tsinghua-university-achieves-key-euv-photoresist-breakthrough-in-chinas-semiconductor-push/">News</a></h2><p><strong>Tsinghua University Breaks Ground on EUV Photoresist in China’s Semiconductor Push</strong><br>Tsinghua University has made significant strides in EUV lithography materials with a new polytellurium oxane-based photoresist. This advancement aims to enhance the efficiency of chip production at 7nm and below, critical for China’s semiconductor self-reliance strategy. The research indicates that the new photoresist effectively improves absorption efficiency and defect control, potentially revolutionizing the industry. </p><p><img src="https://img.trendforce.com/blog/wp-content/uploads/2025/07/24165140/semiconductor-624x350.jpg" alt="Tsinghua University Breakthrough"></p><hr><h2 id="Launches"><a href="#Launches" class="headerlink" title="Launches"></a><a href="https://techxplore.com/news/2025-07-carbon-contamination-key-barrier-gallium.html">Launches</a></h2><p><strong>Researchers Identify Carbon Contamination as Key Barrier in Gallium Oxide Electronics</strong><br>A team at Cornell University has pinpointed a carbon contamination issue that affects the performance of gallium oxide electronics. By using UV-ozone treatments, they have successfully reduced contact resistance, thus improving device reliability. This innovation paves the way for the commercialization of gallium oxide in high-power applications, including electric vehicles and grid infrastructure.</p><p><img src="https://scx2.b-cdn.net/gfx/news/hires/2025/fix-discovered-for-elu.jpg" alt="Gallium Oxide Electronics"></p><hr><h2 id="Charts"><a href="#Charts" class="headerlink" title="Charts"></a><a href="https://www.trendforce.com/research/dram">Charts</a></h2><p><strong>Global IC &amp; Semi Market Report</strong><br>TrendForce’s latest report provides an in-depth analysis of the semiconductor market’s size and growth trends, detailing the dynamics of memory, semiconductor components, and optoelectronic products. The report highlights market applications across various sectors, offering insights into competitive landscapes and regional market dynamics, essential for industry professionals strategizing for future developments.</p><p><img src="https://www.trendforce.com/images/trendforce_og_04.jpg" alt="Market Trends"></p><hr><h2 id="Research"><a href="#Research" class="headerlink" title="Research"></a><a href="https://www.nature.com/articles/s41377-025-01923-w">Research</a></h2><p><strong>Advancements and Challenges in Inverse Lithography Technology: Review of AI-Based Approaches</strong><br>This comprehensive review discusses the evolution of computational lithography, focusing on the integration of AI methods in inverse lithography technology (ILT). The paper outlines significant advancements, challenges, and future perspectives in using AI for enhancing lithography modeling accuracy and efficiency, a critical aspect for the semiconductor manufacturing process.</p><p><img src="https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41377-025-01923-w/MediaObjects/41377_2025_1923_Fig1_HTML.png" alt="Computational Lithography"></p><hr><h2 id="Insight"><a href="#Insight" class="headerlink" title="Insight"></a><a href="https://www.trendforce.com/research/tri">Insight</a></h2><p><strong>AI’s Role in Transforming Semiconductor Manufacturing</strong><br>The ICT Applications Research department has released insights on the latest trends in semiconductor technology, including the impact of AI on the manufacturing process. This report provides valuable perspectives on how AI technologies are reshaping the semiconductor landscape, particularly in areas like predictive maintenance and process optimization, crucial for industry leaders adapting to rapid technological changes.</p><p><img src="https://www.trendforce.com/images/trendforce_og_04.jpg" alt="AI in Semiconductor Manufacturing"></p><hr><p>Stay with us for the latest news and insights in the semiconductor industry as we continue to monitor advancements and trends that shape our future.</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;News&quot;&gt;&lt;a href=&quot;#News&quot; class=&quot;headerlink&quot; title=&quot;News&quot;&gt;&lt;/a&gt;&lt;a href=&quot;https://www.trendforce.com/news/2025/07/24/news-tsinghua-universi</summary>
+      
+    
+    
+    
+    <category term="Lithography" scheme="https://blackfireagent.github.io/opensemi/categories/Lithography/"/>
+    
+    
+    <category term="AI" scheme="https://blackfireagent.github.io/opensemi/tags/AI/"/>
+    
+    <category term="innovation" scheme="https://blackfireagent.github.io/opensemi/tags/innovation/"/>
+    
+    <category term="research" scheme="https://blackfireagent.github.io/opensemi/tags/research/"/>
+    
+    <category term="semiconductors" scheme="https://blackfireagent.github.io/opensemi/tags/semiconductors/"/>
+    
+    <category term="lithography" scheme="https://blackfireagent.github.io/opensemi/tags/lithography/"/>
+    
+  </entry>
   
   <entry>
     <title>Charting Data Center Growth and Energy Consumption</title>
@@ -413,9 +445,9 @@
     
     <category term="semiconductors" scheme="https://blackfireagent.github.io/opensemi/tags/semiconductors/"/>
     
-    <category term="EDA" scheme="https://blackfireagent.github.io/opensemi/tags/EDA/"/>
-    
     <category term="memory technology" scheme="https://blackfireagent.github.io/opensemi/tags/memory-technology/"/>
+    
+    <category term="EDA" scheme="https://blackfireagent.github.io/opensemi/tags/EDA/"/>
     
   </entry>
   
@@ -602,36 +634,6 @@
     <category term="semiconductors" scheme="https://blackfireagent.github.io/opensemi/tags/semiconductors/"/>
     
     <category term="MEMS" scheme="https://blackfireagent.github.io/opensemi/tags/MEMS/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Novel Technologies to Advance Next</title>
-    <link href="https://blackfireagent.github.io/opensemi/20250623_Novel-Technologies-to-Advance-Next/"/>
-    <id>https://blackfireagent.github.io/opensemi/20250623_Novel-Technologies-to-Advance-Next/</id>
-    <published>2025-06-22T22:00:00.000Z</published>
-    <updated>2025-06-22T22:22:49.739Z</updated>
-    
-    <content type="html"><![CDATA[<h2 id="News"><a href="#News" class="headerlink" title="News"></a><a href="https://www.semiconductor-digest.com/novel-technologies-to-advance-next-generation-semiconductor-packaging/">News</a></h2><p><strong>Novel Technologies to Advance Next</strong><br>A team of researchers from the Institute of Science Tokyo has unveiled a groundbreaking power supply technology for 3D-integrated chips called BBCube™, aimed at high-performance computing applications. This innovation leverages a three-dimensionally stacked architecture, enabling high memory bandwidth and low power consumption. Their findings were shared at the recent IEEE Electronic Components and Technology Conference, showcasing advancements in chip integration through novel bonding techniques and adhesive materials.</p><p><img src="https://www.semiconductor-digest.com/wp-content/uploads/2019/02/Final-Logo-1.png" alt="Novel Technologies"></p><hr><h2 id="Launches"><a href="#Launches" class="headerlink" title="Launches"></a><a href="https://semiwiki.com/semiconductor-services/aion-silicon/356734-the-sondrel-transformation-to-aion-silicon/">Launches</a></h2><p><strong>The Sondrel transformation to Aion Silicon!</strong><br>Sondrel has rebranded itself as Aion Silicon, signifying a strategic pivot towards high-performance AI-centric silicon solutions. The company is expanding its service offerings to include tighter program management and architectural assistance, focusing on sectors such as data-center AI and automotive ADAS. CEO Oliver Jones emphasizes a commitment to becoming a leading design partner in custom silicon, enhancing their capacity to meet the evolving demands of the semiconductor market.</p><p><img src="https://semiwiki.com/wp-content/uploads/2025/06/1747740149443.jpg" alt="Aion Silicon"></p><hr><h2 id="Charts"><a href="#Charts" class="headerlink" title="Charts"></a><a href="https://www.semiconductor-digest.com/techcet-predicts-semiconductor-ald-cvd-precursor-market-outlook-highlights-growth/">Charts</a></h2><p><strong>TECHCET Predicts Semiconductor ALD&#x2F;CVD Precursor Market Outlook, Highlights Growth</strong><br>According to TECHCET’s report, the global semiconductor precursor market is set to grow at a CAGR of 10.4% through 2029, driven by advancements in sub-3nm logic and increasing demands in AI and high-performance computing. In 2024, the market is anticipated to rebound to $1.7 billion, showcasing a significant recovery in NAND and DRAM sectors and emphasizing the importance of sustainability in procurement practices.</p><p><img src="https://www.semiconductor-digest.com/wp-content/uploads/2025/06/image1.png" alt="Market Outlook"></p><hr><h2 id="Research"><a href="#Research" class="headerlink" title="Research"></a><a href="https://techxplore.com/news/2025-06-3d-chip-stacking-method-traditional.html">Research</a></h2><p><strong>3D chip stacking method created to overcome traditional semiconductor limitations</strong><br>Researchers from the Institute of Science Tokyo have developed an innovative 3D chip stacking method that addresses conventional semiconductor limitations. This method enhances power integrity and reduces energy requirements for data transmission, showcasing significant advancements in chip integration technologies that could transform future computing architectures.</p><p><img src="https://scx2.b-cdn.net/gfx/news/hires/2025/novel-technologies-to.jpg" alt="3D Chip Stacking"></p><hr><h2 id="Insight"><a href="#Insight" class="headerlink" title="Insight"></a><a href="https://www.eetimes.com/want-a-smart-factory-its-all-about-the-data/">Insight</a></h2><p><strong>Want A Smart Factory? It’s All About the Data</strong><br>At the recent MES &amp; Industry 4.0 conference, industry leaders emphasized the critical role of data in achieving smart manufacturing. Insights from executives at Infineon and other major players highlighted the importance of data integrity and real-time decision-making facilitated by AI. The conference showcased how advanced manufacturing execution systems (MES) are evolving to become more intelligent, ultimately driving efficiency across semiconductor manufacturing processes.</p><p><img src="https://www.eetimes.com/wp-content/uploads/Porto-MESI-Industry-4-0-Infineon_image_sq_Nitin-Dahad.jpg" alt="Smart Factory"></p><hr><p>Stay tuned for more updates and insights in the world of semiconductors as we continue to explore innovations and market trends shaping the industry.</p>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;h2 id=&quot;News&quot;&gt;&lt;a href=&quot;#News&quot; class=&quot;headerlink&quot; title=&quot;News&quot;&gt;&lt;/a&gt;&lt;a href=&quot;https://www.semiconductor-digest.com/novel-technologies-to-advanc</summary>
-      
-    
-    
-    
-    <category term="Semiconductor" scheme="https://blackfireagent.github.io/opensemi/categories/Semiconductor/"/>
-    
-    
-    <category term="AI" scheme="https://blackfireagent.github.io/opensemi/tags/AI/"/>
-    
-    <category term="technology" scheme="https://blackfireagent.github.io/opensemi/tags/technology/"/>
-    
-    <category term="semiconductor" scheme="https://blackfireagent.github.io/opensemi/tags/semiconductor/"/>
-    
-    <category term="smart manufacturing" scheme="https://blackfireagent.github.io/opensemi/tags/smart-manufacturing/"/>
     
   </entry>
   
