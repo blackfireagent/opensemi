@@ -6,10 +6,42 @@
   <link href="https://blackfireagent.github.io/opensemi/atom.xml" rel="self"/>
   
   <link href="https://blackfireagent.github.io/opensemi/"/>
-  <updated>2025-07-30T04:26:08.018Z</updated>
+  <updated>2025-07-31T04:11:32.353Z</updated>
   <id>https://blackfireagent.github.io/opensemi/</id>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>SNUG India 2025 Showcases AI and Modular Chips</title>
+    <link href="https://blackfireagent.github.io/opensemi/20250731_SNUG-India-2025-Showcases-AI-and-Modular-Chips/"/>
+    <id>https://blackfireagent.github.io/opensemi/20250731_SNUG-India-2025-Showcases-AI-and-Modular-Chips/</id>
+    <published>2025-07-30T22:00:00.000Z</published>
+    <updated>2025-07-31T04:11:32.353Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="News"><a href="#News" class="headerlink" title="News"></a><a href="https://www.eetimes.com/barcelona-bsc-celebrates-tape-out-of-cinco-ranch-chips/">News</a></h2><p><strong>Barcelona BSC Celebrates Tape-out of Cinco Ranch Chips</strong><br>The Barcelona Supercomputing Center has successfully completed the tape-out of test chips for the Cinco Ranch RISC-V processor, marking a significant step towards achieving European technological sovereignty in HPC chip design. This initiative, backed by Intel and the Spanish government, aims to develop sovereign supercomputing technologies that will enhance Europe’s capabilities in AI and autonomous systems.</p><p><img src="https://www.eetimes.com/wp-content/uploads/bsc-building-7.jpg" alt="Barcelona Supercomputing Center"></p><hr><h2 id="Launches"><a href="#Launches" class="headerlink" title="Launches"></a><a href="https://www.eetimes.com/snug-india-2025-ai-modular-chips-and-indias-semiconductor-future/">Launches</a></h2><p><strong>SNUG India 2025 Showcases AI and Modular Chips</strong><br>At the SNUG India 2025 conference, Synopsys revealed how AI is revolutionizing chip design and emphasized the transition towards modular chip architectures. The growing complexity of chip projects has led to increased demand for advanced EDA tools, with Synopsys integrating AI to enhance workflow efficiency and reduce error rates.</p><p><img src="https://www.eetimes.com/wp-content/uploads/6068925236520273762.jpg" alt="SNUG India 2025"></p><hr><h2 id="Charts"><a href="#Charts" class="headerlink" title="Charts"></a><a href="https://www.eetimes.com/cadence-found-guilty-of-illegally-supplying-china-military/">Charts</a></h2><p><strong>Cadence’s Export Violations Highlight Industry Challenges</strong><br>Cadence Design Systems faced significant penalties for illegally exporting semiconductor design tools to a Chinese military university. This case underscores the increasing regulatory scrutiny in the semiconductor industry and the challenges companies face in complying with export control laws.</p><p><img src="https://www.eetimes.com/wp-content/uploads/cadence-building.png" alt="Cadence"></p><hr><h2 id="Research"><a href="#Research" class="headerlink" title="Research"></a><a href="https://newsroom.lamresearch.com/semulator3d-sheds-light-on-tier-bending-in-3d-nand-flash-memory?blog=true">Research</a></h2><p><strong>SEMulator3D® Advances 3D NAND Flash Memory Design</strong><br>The Semiverse Solutions team has conducted groundbreaking research using SEMulator3D to analyze tier bending and collapse in 3D NAND flash memory. Their findings suggest that optimizing the intrinsic stress and thickness of silicon nitride and oxide layers can significantly enhance manufacturing yields in next-generation memory devices.</p><p><img src="https://newsroom.lamresearch.com/image/Figure+2+-+3D+NAND+Flash+Memory++A+Study+of+Tier+Bending+using+SEMulator3D.jpg" alt="SEMulator3D"></p><hr><h2 id="Insight"><a href="#Insight" class="headerlink" title="Insight"></a><a href="https://www.tel.com/news/sustainability/2025/20250730_002.html">Insight</a></h2><p><strong>Tokyo Electron’s Commitment to ESG Standards</strong><br>Tokyo Electron has been selected for several prestigious ESG indexes, reinforcing its commitment to sustainability and responsible corporate governance. This recognition highlights the company’s efforts to contribute positively to society through advanced semiconductor technologies, aligning with global sustainability goals.</p><p><img src="https://www.tel.com/news/sustainability/2025/en479q00000000qw.jpg" alt="Tokyo Electron ESG"></p><hr><p>Stay with us for the latest updates and insights in the semiconductor industry, as we continue to explore innovations, strategic partnerships, and regulatory changes shaping the future.</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;News&quot;&gt;&lt;a href=&quot;#News&quot; class=&quot;headerlink&quot; title=&quot;News&quot;&gt;&lt;/a&gt;&lt;a href=&quot;https://www.eetimes.com/barcelona-bsc-celebrates-tape-out-of-cinc</summary>
+      
+    
+    
+    
+    <category term="Etch" scheme="https://blackfireagent.github.io/opensemi/categories/Etch/"/>
+    
+    
+    <category term="AI" scheme="https://blackfireagent.github.io/opensemi/tags/AI/"/>
+    
+    <category term="semiconductors" scheme="https://blackfireagent.github.io/opensemi/tags/semiconductors/"/>
+    
+    <category term="RISC-V" scheme="https://blackfireagent.github.io/opensemi/tags/RISC-V/"/>
+    
+    <category term="EDA" scheme="https://blackfireagent.github.io/opensemi/tags/EDA/"/>
+    
+    <category term="ESG" scheme="https://blackfireagent.github.io/opensemi/tags/ESG/"/>
+    
+  </entry>
   
   <entry>
     <title>Researchers Identify Carbon Contamination as Key Barrier in Gallium Oxide Electronics</title>
@@ -604,36 +636,6 @@
     <category term="optical interconnects" scheme="https://blackfireagent.github.io/opensemi/tags/optical-interconnects/"/>
     
     <category term="quantum technology" scheme="https://blackfireagent.github.io/opensemi/tags/quantum-technology/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>STMicro Advances PiezoMEMS Development in Singapore</title>
-    <link href="https://blackfireagent.github.io/opensemi/20250624_STMicro-Advances-PiezoMEMS-Development-in-Singapore/"/>
-    <id>https://blackfireagent.github.io/opensemi/20250624_STMicro-Advances-PiezoMEMS-Development-in-Singapore/</id>
-    <published>2025-06-23T22:00:00.000Z</published>
-    <updated>2025-06-23T22:21:34.476Z</updated>
-    
-    <content type="html"><![CDATA[<h2 id="News"><a href="#News" class="headerlink" title="News"></a><a href="https://www.eetimes.com/stmicro-advances-piezomems-development-in-singapore/">News</a></h2><p><strong>STMicro Advances PiezoMEMS Development in Singapore</strong><br>STMicroelectronics, in collaboration with A*STAR and ULVAC, has launched Lab-in-Fab 2.0 at its Ang Mo Kio campus, focusing on lead-free piezoelectric MEMS. This initiative accelerates the transition from prototyping to manufacturing, aiming to achieve a sustainable alternative to lead-based materials by 2027. The Lab-in-Fab model enables seamless integration of research and production, enhancing time to market for MEMS applications in consumer electronics and medical devices.</p><p><img src="https://www.eetimes.com/wp-content/uploads/7669543_AI4I0453_Engineer-preparing-wafer-for-analysis.png" alt="STMicro Lab-in-Fab"></p><hr><h2 id="Launches"><a href="#Launches" class="headerlink" title="Launches"></a><a href="https://techxplore.com/news/2025-06-3d-chip-stacking-method-traditional.html">Launches</a></h2><p><strong>3D Chip Stacking Method Created to Overcome Traditional Semiconductor Limitations</strong><br>Researchers from the Institute of Science Tokyo have developed a novel 3D chip integration method named BBCube, which employs advanced bonding techniques to enhance memory bandwidth and reduce power consumption in high-performance computing applications. This innovative approach addresses traditional semiconductor limitations by stacking processing units directly above DRAM, significantly improving power supply integrity and efficiency.</p><p><img src="https://scx2.b-cdn.net/gfx/news/hires/2025/novel-technologies-to.jpg" alt="3D Chip Stacking"></p><hr><h2 id="Charts"><a href="#Charts" class="headerlink" title="Charts"></a><a href="https://www.eetimes.com/want-a-smart-factory-its-all-about-the-data/">Charts</a></h2><p><strong>Smart Factories Need Intelligent Components</strong><br>At the MES &amp; Industry 4.0 conference, industry leaders discussed the pivotal role of data in the evolution of smart factories. Key insights highlighted that achieving data integrity is critical for manufacturing efficiency. Notable advancements in AI integration into manufacturing execution systems (MES) were presented, demonstrating the trend towards intelligent factories capable of real-time data-driven decision-making.</p><p><img src="https://www.eetimes.com/wp-content/uploads/Porto-MESI-Industry-4-0-Infineon_image_sq_Nitin-Dahad.jpg" alt="Smart Factory Data"></p><hr><h2 id="Research"><a href="#Research" class="headerlink" title="Research"></a><a href="https://semiengineering.com/machine-intelligence-on-wireless-edge-networks-with-rf-analog-architecture-mit-duke/">Research</a></h2><p><strong>Machine Intelligence on Wireless Edge Networks with RF Analog Architecture</strong><br>A groundbreaking study from MIT and Duke University introduces MIWEN, an RF analog architecture that facilitates deep neural network inference on power-constrained edge devices. By eliminating local weight memory, this innovation significantly reduces energy consumption and enhances real-time inference capabilities in low-power environments, paving the way for more efficient edge computing solutions.</p><p><img src="https://semiengineering.com/wp-content/uploads/AdobeStock_184389409-06-19-24-scaled.jpeg" alt="RF Analog Architecture"></p><hr><h2 id="Insight"><a href="#Insight" class="headerlink" title="Insight"></a><a href="https://www.eetimes.com/sambanova-shifts-to-inference-but-leaves-cloud-to-customers/">Insight</a></h2><p><strong>SambaNova Shifts To Inference, Courts Cloud Customers</strong><br>In an exclusive interview, SambaNova’s CEO Rodrigo Liang discussed the company’s strategic pivot towards inference workloads amidst a shifting market landscape. With a focus on open-source models and a robust cloud deployment strategy, SambaNova aims to support enterprises in leveraging AI for enhanced operational efficiency. Liang emphasized the importance of customization in AI models to deliver superior value and performance.</p><p><img src="https://www.eetimes.com/wp-content/uploads/SambaNova-SoftBank-1.jpg" alt="SambaNova"></p><hr><p>Stay tuned for more updates as we continue to bring you the latest in semiconductor innovations and trends!</p>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;h2 id=&quot;News&quot;&gt;&lt;a href=&quot;#News&quot; class=&quot;headerlink&quot; title=&quot;News&quot;&gt;&lt;/a&gt;&lt;a href=&quot;https://www.eetimes.com/stmicro-advances-piezomems-development-in</summary>
-      
-    
-    
-    
-    <category term="Device" scheme="https://blackfireagent.github.io/opensemi/categories/Device/"/>
-    
-    
-    <category term="AI" scheme="https://blackfireagent.github.io/opensemi/tags/AI/"/>
-    
-    <category term="innovation" scheme="https://blackfireagent.github.io/opensemi/tags/innovation/"/>
-    
-    <category term="semiconductors" scheme="https://blackfireagent.github.io/opensemi/tags/semiconductors/"/>
-    
-    <category term="MEMS" scheme="https://blackfireagent.github.io/opensemi/tags/MEMS/"/>
     
   </entry>
   

@@ -4,6 +4,39 @@
   
     
     <entry>
+      <title>SNUG India 2025 Showcases AI and Modular Chips</title>
+      <link href="/opensemi/20250731_SNUG-India-2025-Showcases-AI-and-Modular-Chips/"/>
+      <url>/opensemi/20250731_SNUG-India-2025-Showcases-AI-and-Modular-Chips/</url>
+      
+        <content type="html"><![CDATA[<h2 id="News"><a href="#News" class="headerlink" title="News"></a><a href="https://www.eetimes.com/barcelona-bsc-celebrates-tape-out-of-cinco-ranch-chips/">News</a></h2><p><strong>Barcelona BSC Celebrates Tape-out of Cinco Ranch Chips</strong><br>The Barcelona Supercomputing Center has successfully completed the tape-out of test chips for the Cinco Ranch RISC-V processor, marking a significant step towards achieving European technological sovereignty in HPC chip design. This initiative, backed by Intel and the Spanish government, aims to develop sovereign supercomputing technologies that will enhance Europe’s capabilities in AI and autonomous systems.</p><p><img src="https://www.eetimes.com/wp-content/uploads/bsc-building-7.jpg" alt="Barcelona Supercomputing Center"></p><hr><h2 id="Launches"><a href="#Launches" class="headerlink" title="Launches"></a><a href="https://www.eetimes.com/snug-india-2025-ai-modular-chips-and-indias-semiconductor-future/">Launches</a></h2><p><strong>SNUG India 2025 Showcases AI and Modular Chips</strong><br>At the SNUG India 2025 conference, Synopsys revealed how AI is revolutionizing chip design and emphasized the transition towards modular chip architectures. The growing complexity of chip projects has led to increased demand for advanced EDA tools, with Synopsys integrating AI to enhance workflow efficiency and reduce error rates.</p><p><img src="https://www.eetimes.com/wp-content/uploads/6068925236520273762.jpg" alt="SNUG India 2025"></p><hr><h2 id="Charts"><a href="#Charts" class="headerlink" title="Charts"></a><a href="https://www.eetimes.com/cadence-found-guilty-of-illegally-supplying-china-military/">Charts</a></h2><p><strong>Cadence’s Export Violations Highlight Industry Challenges</strong><br>Cadence Design Systems faced significant penalties for illegally exporting semiconductor design tools to a Chinese military university. This case underscores the increasing regulatory scrutiny in the semiconductor industry and the challenges companies face in complying with export control laws.</p><p><img src="https://www.eetimes.com/wp-content/uploads/cadence-building.png" alt="Cadence"></p><hr><h2 id="Research"><a href="#Research" class="headerlink" title="Research"></a><a href="https://newsroom.lamresearch.com/semulator3d-sheds-light-on-tier-bending-in-3d-nand-flash-memory?blog=true">Research</a></h2><p><strong>SEMulator3D® Advances 3D NAND Flash Memory Design</strong><br>The Semiverse Solutions team has conducted groundbreaking research using SEMulator3D to analyze tier bending and collapse in 3D NAND flash memory. Their findings suggest that optimizing the intrinsic stress and thickness of silicon nitride and oxide layers can significantly enhance manufacturing yields in next-generation memory devices.</p><p><img src="https://newsroom.lamresearch.com/image/Figure+2+-+3D+NAND+Flash+Memory++A+Study+of+Tier+Bending+using+SEMulator3D.jpg" alt="SEMulator3D"></p><hr><h2 id="Insight"><a href="#Insight" class="headerlink" title="Insight"></a><a href="https://www.tel.com/news/sustainability/2025/20250730_002.html">Insight</a></h2><p><strong>Tokyo Electron’s Commitment to ESG Standards</strong><br>Tokyo Electron has been selected for several prestigious ESG indexes, reinforcing its commitment to sustainability and responsible corporate governance. This recognition highlights the company’s efforts to contribute positively to society through advanced semiconductor technologies, aligning with global sustainability goals.</p><p><img src="https://www.tel.com/news/sustainability/2025/en479q00000000qw.jpg" alt="Tokyo Electron ESG"></p><hr><p>Stay with us for the latest updates and insights in the semiconductor industry, as we continue to explore innovations, strategic partnerships, and regulatory changes shaping the future.</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> Etch </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> AI </tag>
+            
+            <tag> semiconductors </tag>
+            
+            <tag> RISC-V </tag>
+            
+            <tag> EDA </tag>
+            
+            <tag> ESG </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>Researchers Identify Carbon Contamination as Key Barrier in Gallium Oxide Electronics</title>
       <link href="/opensemi/20250730_Researchers-Identify-Carbon-Contamination-as-Key-Barrier-in-Gallium-Oxide-Electronics/"/>
       <url>/opensemi/20250730_Researchers-Identify-Carbon-Contamination-as-Key-Barrier-in-Gallium-Oxide-Electronics/</url>
@@ -1496,9 +1529,9 @@
             
             <tag> AI </tag>
             
-            <tag> Semiconductor Manufacturing </tag>
-            
             <tag> Market Trends </tag>
+            
+            <tag> Semiconductor Manufacturing </tag>
             
             <tag> Research </tag>
             
@@ -1616,9 +1649,9 @@
       
         <tags>
             
-            <tag> packaging </tag>
-            
             <tag> AI </tag>
+            
+            <tag> packaging </tag>
             
             <tag> semiconductor technology </tag>
             
