@@ -6,10 +6,42 @@
   <link href="https://blackfireagent.github.io/opensemi/atom.xml" rel="self"/>
   
   <link href="https://blackfireagent.github.io/opensemi/"/>
-  <updated>2025-08-04T04:18:29.091Z</updated>
+  <updated>2025-08-05T04:16:43.955Z</updated>
   <id>https://blackfireagent.github.io/opensemi/</id>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>CEO Interview with Andrew Skafel of Edgewater Wireless</title>
+    <link href="https://blackfireagent.github.io/opensemi/20250805_CEO-Interview-with-Andrew-Skafel-of-Edgewater-Wireless/"/>
+    <id>https://blackfireagent.github.io/opensemi/20250805_CEO-Interview-with-Andrew-Skafel-of-Edgewater-Wireless/</id>
+    <published>2025-08-04T22:00:00.000Z</published>
+    <updated>2025-08-05T04:16:43.955Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="News"><a href="#News" class="headerlink" title="News"></a><a href="https://www.eetimes.com/the-bright-side-of-intel-exodus-chip-startups/">News</a></h2><p><strong>The Bright Side of Intel Exodus: Chip Startups</strong><br>Intel’s ongoing layoffs are sparking a wave of innovation as former engineers establish new semiconductor startups. Notable departures include Gang Duan, a leading expert on chip packaging, who has joined Samsung, and several others who are turning their expertise into new ventures, signaling a vibrant shift in the industry landscape.</p><p><img src="https://www.eetimes.com/wp-content/uploads/2024/09/Intel-Noyce-sized.jpg" alt="Intel Exodus"></p><hr><h2 id="Launches"><a href="#Launches" class="headerlink" title="Launches"></a><a href="https://www.eetimes.com/ambiq-stock-soars-after-ipo-as-it-rides-edge-ai-wave/">Launches</a></h2><p><strong>Ambiq Stock Soars After IPO As It Rides Edge AI Wave</strong><br>Ambiq Micro’s IPO has seen its share price surge, reflecting investor confidence in the shift of AI processing from the cloud to edge devices. With their sub-threshold power optimized technology, Ambiq aims to meet the demand for energy-efficient AI in various sectors, including personal devices and industrial applications.</p><p><img src="https://www.eetimes.com/wp-content/uploads/ambiq-IPO.jpeg" alt="Ambiq IPO"></p><hr><h2 id="Charts"><a href="#Charts" class="headerlink" title="Charts"></a><a href="https://techxplore.com/news/2025-07-flexible-transmitter-chip-wireless-devices.html">Charts</a></h2><p><strong>Flexible Transmitter Chip Could Make Wireless Devices More Energy Efficient</strong><br>MIT researchers have developed a new flexible transmitter chip that enhances the energy efficiency of wireless communications. The innovative modulation scheme allows for improved data transmission reliability and could significantly boost battery life for IoT devices, aligning with future 6G technology requirements.</p><p><img src="https://scx2.b-cdn.net/gfx/news/hires/2025/network-6g.jpg" alt="Wireless Device Efficiency"></p><hr><h2 id="Research"><a href="#Research" class="headerlink" title="Research"></a><a href="https://semiengineering.com/overview-of-the-end-to-end-autonomous-driving-through-v2x-challenge-tsinghua-hk-univ-stanford-tu-munich-et-al/">Research</a></h2><p><strong>Overview Of The End-to-End Autonomous Driving through V2X Challenge</strong><br>A collaborative research paper from top universities outlines challenges in V2X communication for autonomous driving. The study emphasizes the need for efficient data integration from multiple sources, paving the way for safer and more reliable autonomous systems through enhanced cooperative driving technologies.</p><p><img src="https://semiengineering.com/wp-content/uploads/AdobeStock_310321486-11-7-24-Car-scaled.jpeg" alt="Autonomous Driving Research"></p><hr><h2 id="Insight"><a href="#Insight" class="headerlink" title="Insight"></a><a href="https://semiwiki.com/ceo-interviews/359734-ceo-interview-with-andrew-skafel-of-edgewater-wireless/">Insight</a></h2><p><strong>CEO Interview with Andrew Skafel of Edgewater Wireless</strong><br>In an insightful interview, Andrew Skafel discusses Edgewater Wireless’s innovative Wi-Fi Spectrum Slicing technology and its implications for enhancing wireless performance. The company’s focus on AI-driven solutions and strategic partnerships positions it uniquely within the competitive Wi-Fi landscape, promising significant advancements in connectivity.</p><p><img src="https://semiwiki.com/wp-content/uploads/2025/08/Skafel-pic.png" alt="Andrew Skafel"></p><hr><p>Stay tuned for more updates and insights as we continue to track the dynamic developments in the semiconductor industry!</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;News&quot;&gt;&lt;a href=&quot;#News&quot; class=&quot;headerlink&quot; title=&quot;News&quot;&gt;&lt;/a&gt;&lt;a href=&quot;https://www.eetimes.com/the-bright-side-of-intel-exodus-chip-star</summary>
+      
+    
+    
+    
+    <category term="Device" scheme="https://blackfireagent.github.io/opensemi/categories/Device/"/>
+    
+    
+    <category term="AI" scheme="https://blackfireagent.github.io/opensemi/tags/AI/"/>
+    
+    <category term="innovation" scheme="https://blackfireagent.github.io/opensemi/tags/innovation/"/>
+    
+    <category term="research" scheme="https://blackfireagent.github.io/opensemi/tags/research/"/>
+    
+    <category term="semiconductors" scheme="https://blackfireagent.github.io/opensemi/tags/semiconductors/"/>
+    
+    <category term="startups" scheme="https://blackfireagent.github.io/opensemi/tags/startups/"/>
+    
+  </entry>
   
   <entry>
     <title>Flexible Optoelectronic Device with Minimal Defects Fabricated at Just 90°C</title>
@@ -602,38 +634,6 @@
     <category term="Innovation" scheme="https://blackfireagent.github.io/opensemi/tags/Innovation/"/>
     
     <category term="Quantum Computing" scheme="https://blackfireagent.github.io/opensemi/tags/Quantum-Computing/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Gowri Kamarthy Explains Akara’s Essential Role in the Era of 3D Chipmaking</title>
-    <link href="https://blackfireagent.github.io/opensemi/20250703_Gowri-Kamarthy-Explains-Akara%E2%80%99s-Essential-Role-in-the-Era-of-3D-Chipmaking/"/>
-    <id>https://blackfireagent.github.io/opensemi/20250703_Gowri-Kamarthy-Explains-Akara%E2%80%99s-Essential-Role-in-the-Era-of-3D-Chipmaking/</id>
-    <published>2025-07-02T22:00:00.000Z</published>
-    <updated>2025-07-02T22:29:45.365Z</updated>
-    
-    <content type="html"><![CDATA[<h2 id="News"><a href="#News" class="headerlink" title="News"></a><a href="https://www.semiconductor-digest.com/3d-printing-breakthrough-paves-way-for-next-gen-medical-devices-and-stretchable-electronics/">News</a></h2><p><strong>Gen Medical Devices and Stretchable Electronics</strong><br>Researchers at The University of Texas at Austin have developed an innovative 3D printing method that allows for the seamless integration of soft and hard materials. This technique could revolutionize the creation of prosthetics and flexible medical devices, enabling them to mimic the natural movement of human joints. The new process uses a dual-light printing system to cure a custom resin into materials of varying hardness, enhancing design possibilities and production efficiency in additive manufacturing.</p><p><img src="https://www.semiconductor-digest.com/wp-content/uploads/2019/02/Final-Logo-1.png" alt="3D Printing Breakthrough"></p><hr><h2 id="Launches"><a href="#Launches" class="headerlink" title="Launches"></a><a href="https://newsroom.lamresearch.com/gowri-kamarthy-explains-akaras-essential-role-in-the-era-of-3d-chipmaking-counterpoint?blog=true">Launches</a></h2><p><strong>Gowri Kamarthy Explains Akara’s Essential Role in the Era of 3D Chipmaking</strong><br>Lam Research has introduced the Akara tool, which employs advanced technologies to enhance plasma etching precision for high aspect ratio devices. This innovation is crucial for the manufacturing of next-generation memory and logic architectures as the industry approaches the 2 nm threshold. Akara promises atomic-level control over ion energy, significantly reducing defects and improving manufacturing outcomes for complex semiconductor structures.</p><p><img src="https://newsroom.lamresearch.com/image/Figure+1+-+Embracing+Semiverse%E2%84%A2+Solutions+Semiconductor+Virtual+Fabrication+and+Its+Applications.png" alt="Akara"></p><hr><h2 id="Charts"><a href="#Charts" class="headerlink" title="Charts"></a><a href="https://www.eetimes.com/dac-2025-agentic-ai-in-eda-is-just-getting-started-and-chiplets-are-all-the-rage/">Charts</a></h2><p><strong>DAC 2025: Agentic AI In EDA</strong><br>At DAC 2025, discussions highlighted the increasing role of agentic AI in chip design, focusing on its potential to manage the complexities of modern semiconductor design. The conference shed light on the necessity of human oversight in AI-driven design processes and the need for a clear monetization strategy for AI services. The integration of AI into design workflows is expected to evolve significantly over the next year as the industry grapples with talent shortages and rising design volumes.</p><p><img src="https://www.eetimes.com/wp-content/uploads/DAC-2025-registration_source_DAC_sq.jpg" alt="DAC 2025 Conference"></p><hr><h2 id="Research"><a href="#Research" class="headerlink" title="Research"></a><a href="https://www.eetimes.com/quantum-sun-rises-japan-gambit-for-leadership/">Research</a></h2><p><strong>Quantum Sun Rises, Japan Gambit for Leadership</strong><br>Japan has announced a landmark investment of ¥1.05 trillion ($7.4 billion) in quantum technology, marking a strategic shift towards leading the global quantum industry. This initiative aims to transition from basic research to commercialization, fostering a robust ecosystem for quantum startups and enhancing Japan’s competitiveness in technology. The strategy highlights the importance of collaboration between government and industry to achieve significant advancements in quantum computing and applications.</p><p><img src="https://www.eetimes.com/wp-content/uploads/international-2693231_1280.jpg" alt="Japan&#39;s Quantum Strategy"></p><hr><h2 id="Insight"><a href="#Insight" class="headerlink" title="Insight"></a><a href="https://www.eetimes.com/dac-2025-agentic-ai-in-eda-is-just-getting-started-and-chiplets-are-all-the-rage/">Insight</a></h2><p><strong>DAC 2025 Insights on AI and Chiplets</strong><br>Mile Ellow, CEO of Siemens EDA, shared insights at DAC 2025 regarding the future of AI in chip design, emphasizing the need for increased trust in AI tools among engineers. He anticipates that in the coming year, AI will play a more significant role in streamlining design processes, while discussions around chiplets highlighted their potential as new building blocks for computing. The conference showcased a growing interest in standardization and interoperability in the chiplet marketplace.</p><p><img src="https://www.eetimes.com/wp-content/uploads/DAC-2025-registration_source_DAC_sq.jpg" alt="DAC Insights"></p><hr><p>Stay tuned for more updates and insights from the semiconductor industry as we continue to explore innovations and trends shaping the future of technology!</p>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;h2 id=&quot;News&quot;&gt;&lt;a href=&quot;#News&quot; class=&quot;headerlink&quot; title=&quot;News&quot;&gt;&lt;/a&gt;&lt;a href=&quot;https://www.semiconductor-digest.com/3d-printing-breakthrough-pav</summary>
-      
-    
-    
-    
-    <category term="Etch" scheme="https://blackfireagent.github.io/opensemi/categories/Etch/"/>
-    
-    
-    <category term="AI" scheme="https://blackfireagent.github.io/opensemi/tags/AI/"/>
-    
-    <category term="chip design" scheme="https://blackfireagent.github.io/opensemi/tags/chip-design/"/>
-    
-    <category term="semiconductors" scheme="https://blackfireagent.github.io/opensemi/tags/semiconductors/"/>
-    
-    <category term="quantum technology" scheme="https://blackfireagent.github.io/opensemi/tags/quantum-technology/"/>
-    
-    <category term="3D printing" scheme="https://blackfireagent.github.io/opensemi/tags/3D-printing/"/>
     
   </entry>
   
