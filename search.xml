@@ -4,6 +4,39 @@
   
     
     <entry>
+      <title>Koduri Unveils GPU Hardware IP and Software Startup</title>
+      <link href="/opensemi/20250807_Koduri-Unveils-GPU-Hardware-IP-and-Software-Startup/"/>
+      <url>/opensemi/20250807_Koduri-Unveils-GPU-Hardware-IP-and-Software-Startup/</url>
+      
+        <content type="html"><![CDATA[<h2 id="News"><a href="#News" class="headerlink" title="News"></a><a href="https://www.eetimes.com/skywater-quadruples-capacity-with-infineon-acquisition/">News</a></h2><p><strong>SkyWater Quadruples Capacity with Infineon Acquisition</strong><br>SkyWater’s recent acquisition of Infineon’s Austin fab is set to quadruple its manufacturing capacity to 400,000 wafers annually. This move aims to bolster domestic production of foundational chips amid increasing concerns over reliance on overseas manufacturing for critical components. The fab is expected to support industries including defense and quantum computing, while SkyWater explores further capacity acquisitions from IDMs transitioning to fabless models.</p><p><img src="https://www.eetimes.com/wp-content/uploads/image_5a33f2.png" alt="SkyWater"></p><hr><h2 id="Launches"><a href="#Launches" class="headerlink" title="Launches"></a><a href="https://www.eetimes.com/koduri-unveils-gpu-hardware-ip-and-software-startup/">Launches</a></h2><p><strong>Koduri Unveils GPU Hardware IP and Software Startup</strong><br>Raja Koduri’s new startup, Oxmiq Labs, has launched with $20 million in seed funding to revolutionize the GPU technology stack. The company focuses on a software-first approach, introducing products like OxPython for code portability and Capsule for dynamic GPU container management. Oxmiq aims to enhance compatibility across different hardware, addressing a critical issue in AI and GPU ecosystems.</p><p><img src="https://www.eetimes.com/wp-content/uploads/Oxmiq-software-sq.jpg" alt="Oxmiq Labs"></p><hr><h2 id="Charts"><a href="#Charts" class="headerlink" title="Charts"></a><a href="https://newsroom.lamresearch.com/what-is-node-infographic-semi-101?blog=true">Charts</a></h2><p><strong>What Is a Node?</strong><br>This informative piece breaks down the concept of semiconductor nodes, explaining how the term has evolved alongside technology advancements. The chart highlights how modern nodes signify device generations and their implications for performance and efficiency, illustrating the current landscape where leading-edge chips operate at 3 nm and 2 nm scales.</p><p><img src="https://newsroom.lamresearch.com/image/Graphic.png" alt="Node Infographic"></p><hr><h2 id="Research"><a href="#Research" class="headerlink" title="Research"></a><a href="https://newsroom.lamresearch.com/how-semiverse-solutions-is-transforming-semiconductor-engineering-education-in-the-united-states?blog=true">Research</a></h2><p><strong>How Semiverse® Solutions Is Transforming Semiconductor Engineering Education in the United States</strong><br>Lam Research is addressing a talent shortage in the U.S. semiconductor industry by partnering with universities to implement Semiverse® Solutions. This initiative provides access to advanced semiconductor technologies through virtualization, enabling students to learn critical skills in a cost-effective manner, ultimately preparing them for roles in a rapidly evolving industry.</p><p><img src="/opensemi/nan" alt="Semiverse Solutions"></p><hr><h2 id="Insight"><a href="#Insight" class="headerlink" title="Insight"></a><a href="https://www.eetimes.com/china-unyielding-ascent-in-risc-v/">Insight</a></h2><p><strong>China Unyielding Ascent in RISC</strong><br>At the RISC-V Summit in Shanghai, China showcased its commitment to developing a robust RISC-V ecosystem, driven by government support for self-reliance in technology. This insight highlights China’s strategic investments in EDA tools and semiconductor manufacturing, emphasizing the nation’s rapid progress towards technological independence and its implications for global competition.</p><p><img src="https://www.eetimes.com/wp-content/uploads/ROC1469.jpg" alt="RISC-V Summit"></p><hr><p>Stay tuned for more updates and insights into the semiconductor industry as we continue to bring you the latest news and developments!</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> Etch </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> market trends </tag>
+            
+            <tag> technology </tag>
+            
+            <tag> innovation </tag>
+            
+            <tag> semiconductors </tag>
+            
+            <tag> education </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>Nanoimprint-Based Dielectric Patterning for Fine-Pitch Hybrid Bonding</title>
       <link href="/opensemi/20250806_Nanoimprint-Based-Dielectric-Patterning-for-Fine-Pitch-Hybrid-Bonding/"/>
       <url>/opensemi/20250806_Nanoimprint-Based-Dielectric-Patterning-for-Fine-Pitch-Hybrid-Bonding/</url>
@@ -1215,9 +1248,9 @@
             
             <tag> innovation </tag>
             
-            <tag> semiconductors </tag>
-            
             <tag> manufacturing </tag>
+            
+            <tag> semiconductors </tag>
             
         </tags>
       
@@ -1279,9 +1312,9 @@
             
             <tag> innovation </tag>
             
-            <tag> semiconductors </tag>
-            
             <tag> manufacturing </tag>
+            
+            <tag> semiconductors </tag>
             
             <tag> chiplets </tag>
             
@@ -1438,9 +1471,9 @@
             
             <tag> innovation </tag>
             
-            <tag> semiconductors </tag>
-            
             <tag> manufacturing </tag>
+            
+            <tag> semiconductors </tag>
             
         </tags>
       
@@ -1471,9 +1504,9 @@
             
             <tag> innovation </tag>
             
-            <tag> manufacturing </tag>
-            
             <tag> legislation </tag>
+            
+            <tag> manufacturing </tag>
             
         </tags>
       
