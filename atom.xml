@@ -6,10 +6,42 @@
   <link href="https://blackfireagent.github.io/opensemi/atom.xml" rel="self"/>
   
   <link href="https://blackfireagent.github.io/opensemi/"/>
-  <updated>2025-08-07T04:09:31.646Z</updated>
+  <updated>2025-08-08T04:10:50.060Z</updated>
   <id>https://blackfireagent.github.io/opensemi/</id>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Noise Margin Enhancing ULVR SRAM Cell</title>
+    <link href="https://blackfireagent.github.io/opensemi/20250808_Noise-Margin-Enhancing-ULVR-SRAM-Cell/"/>
+    <id>https://blackfireagent.github.io/opensemi/20250808_Noise-Margin-Enhancing-ULVR-SRAM-Cell/</id>
+    <published>2025-08-07T22:00:00.000Z</published>
+    <updated>2025-08-08T04:10:50.060Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="News"><a href="#News" class="headerlink" title="News"></a><a href="https://semiengineering.com/noise-margin-enhancing-ulvr-sram-cell-tokyo-institute-of-technology/">News</a></h2><p><strong>Noise Margin Enhancing ULVR SRAM Cell</strong><br>Researchers at the Tokyo Institute of Technology have published a new technical paper on a novel ultralow-voltage retention (ULVR) SRAM cell. This design significantly enhances noise immunity at ultralow voltages, demonstrating superior performance over conventional cells. The proposed 8T cell design can reduce standby power by approximately 93% compared to traditional 6T-SRAM macros, ensuring robustness in various operating modes.</p><p><img src="https://semiengineering.com/wp-content/uploads/iStock-884383840-Interconnects-eBook-Feb-2024.jpeg?fit=1365,768&ssl=1" alt="Noise Margin Enhancing ULVR SRAM Cell"></p><hr><h2 id="Launches"><a href="#Launches" class="headerlink" title="Launches"></a><a href="https://semiengineering.com/epitaxial-growth-of-up-to-120-si-sige-bilayers-in-view-of-3d-dram-applications-imec-ghent-univ/">Launches</a></h2><p><strong>Epitaxial Growth Of Up To 120 Si&#x2F;SiGe Bilayers</strong><br>Imec and Ghent University have reported on the successful epitaxial growth of Si&#x2F;SiGe multi-stacks aimed at 3D DRAM applications. Their research focuses on overcoming challenges in layer thickness and interface sharpness, crucial for efficient 3D dynamic random access memory devices. The work demonstrates the potential for high etching selectivity and manageable misfit dislocations, paving the way for advanced memory technologies.</p><p><img src="https://semiengineering.com/wp-content/uploads/AdobeStock_486012090-02-13-23-scaled.jpeg" alt="Epitaxial Growth"></p><hr><h2 id="Charts"><a href="#Charts" class="headerlink" title="Charts"></a><a href="https://semiengineering.com/llm-inference-core-bottlenecks-imposed-by-memory-compute-capacity-synchronization-overheads-nvidia/">Charts</a></h2><p><strong>LLM Inference: Core Bottlenecks Imposed By Memory, Compute Capacity</strong><br>NVIDIA has released a detailed analysis of the performance bottlenecks encountered in large language model (LLM) inference. Their research highlights the critical role of memory bandwidth and synchronization latencies in maximizing throughput. Key findings indicate that high memory bandwidth and reduced synchronization latencies are essential for effective LLM deployment, providing a framework for future hardware advancements.</p><p><img src="https://semiengineering.com/wp-content/uploads/AdobeStock_322782977-01-29-25-scaled.jpeg" alt="LLM Inference Bottlenecks"></p><hr><h2 id="Research"><a href="#Research" class="headerlink" title="Research"></a><a href="https://semiwiki.com/semiconductor-services/netapp/359819-agentic-ai-and-the-eda-revolution-why-data-mobility-security-and-availability-matter-more-than-ever/">Research</a></h2><p><strong>Agentic AI and the EDA Revolution</strong><br>The emergence of Agentic AI is revolutionizing the EDA and semiconductor industries by addressing chip design complexities and a shortage of skilled engineers. As highlighted in recent discussions at industry events, effective data mobility, security, and availability are vital for leveraging Agentic AI’s potential, enabling smarter automation in semiconductor design processes.</p><p><img src="https://semiwiki.com/wp-content/uploads/2025/07/Synopsys-GPU-QATK-webinar-banners-400x400-px.jpg" alt="Agentic AI in EDA"></p><hr><h2 id="Insight"><a href="#Insight" class="headerlink" title="Insight"></a><a href="https://semiwiki.com/events/359574-dac-techtalk-a-siemens-and-nvidia-perspective-on-unlocking-the-power-of-ai-in-eda/">Insight</a></h2><p><strong>DAC TechTalk – A Siemens and NVIDIA Perspective</strong><br>At the recent DAC event, Siemens and NVIDIA discussed the transformative impact of AI on semiconductor design. Emphasizing the necessity for AI in overcoming design complexity and time-to-market challenges, the presentation outlined how their collaboration is set to enhance design quality and productivity, showcasing real-world results and future directions for AI in EDA.</p><p><img src="https://semiwiki.com/wp-content/uploads/2025/07/DAC-TechTalk-%E2%80%93-A-Siemens-and-NVIDIA-Perspective-on-Unlocking-the-Power-of-AI-in-EDA.jpg" alt="DAC TechTalk"></p><hr><p>Stay tuned for more updates and insights into the ever-evolving semiconductor landscape!</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;News&quot;&gt;&lt;a href=&quot;#News&quot; class=&quot;headerlink&quot; title=&quot;News&quot;&gt;&lt;/a&gt;&lt;a href=&quot;https://semiengineering.com/noise-margin-enhancing-ulvr-sram-cell</summary>
+      
+    
+    
+    
+    <category term="Machinelearning" scheme="https://blackfireagent.github.io/opensemi/categories/Machinelearning/"/>
+    
+    
+    <category term="AI" scheme="https://blackfireagent.github.io/opensemi/tags/AI/"/>
+    
+    <category term="technology" scheme="https://blackfireagent.github.io/opensemi/tags/technology/"/>
+    
+    <category term="semiconductors" scheme="https://blackfireagent.github.io/opensemi/tags/semiconductors/"/>
+    
+    <category term="EDA" scheme="https://blackfireagent.github.io/opensemi/tags/EDA/"/>
+    
+    <category term="SoC" scheme="https://blackfireagent.github.io/opensemi/tags/SoC/"/>
+    
+  </entry>
   
   <entry>
     <title>Koduri Unveils GPU Hardware IP and Software Startup</title>
@@ -33,9 +65,9 @@
     
     <category term="market trends" scheme="https://blackfireagent.github.io/opensemi/tags/market-trends/"/>
     
-    <category term="technology" scheme="https://blackfireagent.github.io/opensemi/tags/technology/"/>
-    
     <category term="innovation" scheme="https://blackfireagent.github.io/opensemi/tags/innovation/"/>
+    
+    <category term="technology" scheme="https://blackfireagent.github.io/opensemi/tags/technology/"/>
     
     <category term="semiconductors" scheme="https://blackfireagent.github.io/opensemi/tags/semiconductors/"/>
     
@@ -379,9 +411,9 @@
     
     <category term="AI" scheme="https://blackfireagent.github.io/opensemi/tags/AI/"/>
     
-    <category term="technology" scheme="https://blackfireagent.github.io/opensemi/tags/technology/"/>
-    
     <category term="innovation" scheme="https://blackfireagent.github.io/opensemi/tags/innovation/"/>
+    
+    <category term="technology" scheme="https://blackfireagent.github.io/opensemi/tags/technology/"/>
     
     <category term="semiconductors" scheme="https://blackfireagent.github.io/opensemi/tags/semiconductors/"/>
     
@@ -439,9 +471,9 @@
     
     <category term="AI" scheme="https://blackfireagent.github.io/opensemi/tags/AI/"/>
     
-    <category term="technology" scheme="https://blackfireagent.github.io/opensemi/tags/technology/"/>
-    
     <category term="innovation" scheme="https://blackfireagent.github.io/opensemi/tags/innovation/"/>
+    
+    <category term="technology" scheme="https://blackfireagent.github.io/opensemi/tags/technology/"/>
     
     <category term="research" scheme="https://blackfireagent.github.io/opensemi/tags/research/"/>
     
@@ -469,9 +501,9 @@
     <category term="Etch" scheme="https://blackfireagent.github.io/opensemi/categories/Etch/"/>
     
     
-    <category term="technology" scheme="https://blackfireagent.github.io/opensemi/tags/technology/"/>
-    
     <category term="innovation" scheme="https://blackfireagent.github.io/opensemi/tags/innovation/"/>
+    
+    <category term="technology" scheme="https://blackfireagent.github.io/opensemi/tags/technology/"/>
     
     <category term="semiconductor" scheme="https://blackfireagent.github.io/opensemi/tags/semiconductor/"/>
     
@@ -606,36 +638,6 @@
     <category term="memory technology" scheme="https://blackfireagent.github.io/opensemi/tags/memory-technology/"/>
     
     <category term="EDA" scheme="https://blackfireagent.github.io/opensemi/tags/EDA/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Nikon Announces Development of the NSR-S636E ArF Immersion Scanner</title>
-    <link href="https://blackfireagent.github.io/opensemi/20250709_Nikon-Announces-Development-of-the-NSR-S636E-ArF-Immersion-Scanner/"/>
-    <id>https://blackfireagent.github.io/opensemi/20250709_Nikon-Announces-Development-of-the-NSR-S636E-ArF-Immersion-Scanner/</id>
-    <published>2025-07-08T22:00:00.000Z</published>
-    <updated>2025-07-09T04:54:50.769Z</updated>
-    
-    <content type="html"><![CDATA[<h2 id="News"><a href="#News" class="headerlink" title="News"></a><a href="https://www.trendforce.com/news/2024/08/01/news-hong-kong-kicked-off-construction-of-the-first-gan-epi-wafer-pilot-line/">News</a></h2><p><strong>Hong Kong Kicked-off Construction of the First GaN Epi-Wafer Pilot Line</strong><br>Hong Kong has launched its first ultra-high vacuum GaN epitaxial wafer pilot line, aiming to enhance its microelectronics industry. MassPhoton is set to invest HKD 200 million to develop GaN processes for optoelectronic and power devices, promising over 250 new jobs in the region.</p><p><img src="https://img.trendforce.com/blog/wp-content/uploads/2024/07/31165005/San-Tin-Technopole_1_event-624x234.jpg" alt="Hong Kong GaN Pilot Line"></p><hr><h2 id="Launches"><a href="#Launches" class="headerlink" title="Launches"></a><a href="https://www.nikonprecision.com/nikon-announces-development-of-the-nsr-s636e-arf-immersion-scanner/">Launches</a></h2><p><strong>Nikon Announces Development of the NSR-S636E ArF Immersion Scanner</strong><br>Nikon is developing the NSR-S636E ArF immersion scanner, designed for high-performance semiconductor manufacturing. This system promises superior overlay accuracy and ultra-high throughput, catering to the evolving demands of advanced semiconductor devices.</p><p><img src="https://www.nikonprecision.com/wp-content/uploads/2021/10/NSR-S636E_L.Hires_-1024x724.jpg" alt="Nikon NSR-S636E"></p><hr><h2 id="Charts"><a href="#Charts" class="headerlink" title="Charts"></a><a href="https://www.semiconductor-digest.com/ebeam-initiative-survey-of-semiconductor-luminaries-predicts-photomask-market-growth-and-increasing-investments-in-mask-inspection-and-multi-beam-mask-writing/">Charts</a></h2><p><strong>eBeam Initiative Survey Results Predict Strong Growth in Photomask Market</strong><br>The eBeam Initiative’s latest survey shows that 100% of industry leaders expect an increase in mask revenues for 2024, highlighting the growing importance of photomasks in semiconductor manufacturing. Investments in multi-beam mask writers and inspection technologies are also anticipated to rise.</p><p><img src="https://www.semiconductor-digest.com/wp-content/uploads/2024/10/eBeam-Initiative-2024-Luminaries-Survey-Graphic.jpg" alt="eBeam Survey"></p><hr><h2 id="Research"><a href="#Research" class="headerlink" title="Research"></a><a href="https://www.nature.com/articles/s42005-024-01882-5">Research</a></h2><p><strong>New Protocol Improves Photolithography Accuracy</strong><br>A new quantum lithography protocol enhances the accuracy of photolithography by addressing physical limitations. This advancement promises to improve the resolution of semiconductor devices, critical for meeting future manufacturing demands.</p><p><img src="https://scx2.b-cdn.net/gfx/news/hires/2013/newgrayscale.jpg" alt="Photolithography"></p><hr><h2 id="Insight"><a href="#Insight" class="headerlink" title="Insight"></a><a href="https://www.appliedmaterials.com/us/en/blog/blog-posts/semiconductor-rd-leaders-share-vision-accelerating-advanced-packaging.html">Insight</a></h2><p><strong>Semiconductor R&amp;D Leaders Share Vision for Accelerating Advanced Packaging</strong><br>Industry leaders discuss the challenges and opportunities in advanced packaging technology, emphasizing the need for tighter process control and the integration of heterogeneous technologies. Innovative strategies for attracting talent and improving curricula are also highlighted.</p><p><img src="https://www.appliedmaterials.com/content/dam/blog/img/2025/2025-02/adv-pkg-summit-blog-lead-1200x700.png" alt="Advanced Packaging"></p><hr><p>Stay tuned for more insights and developments in the semiconductor industry as we continue to bring you the latest news and trends.</p>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;h2 id=&quot;News&quot;&gt;&lt;a href=&quot;#News&quot; class=&quot;headerlink&quot; title=&quot;News&quot;&gt;&lt;/a&gt;&lt;a href=&quot;https://www.trendforce.com/news/2024/08/01/news-hong-kong-kicked-</summary>
-      
-    
-    
-    
-    <category term="Lithography" scheme="https://blackfireagent.github.io/opensemi/categories/Lithography/"/>
-    
-    
-    <category term="technology" scheme="https://blackfireagent.github.io/opensemi/tags/technology/"/>
-    
-    <category term="innovation" scheme="https://blackfireagent.github.io/opensemi/tags/innovation/"/>
-    
-    <category term="semiconductors" scheme="https://blackfireagent.github.io/opensemi/tags/semiconductors/"/>
-    
-    <category term="photomasks" scheme="https://blackfireagent.github.io/opensemi/tags/photomasks/"/>
     
   </entry>
   

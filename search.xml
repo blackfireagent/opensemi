@@ -4,6 +4,39 @@
   
     
     <entry>
+      <title>Noise Margin Enhancing ULVR SRAM Cell</title>
+      <link href="/opensemi/20250808_Noise-Margin-Enhancing-ULVR-SRAM-Cell/"/>
+      <url>/opensemi/20250808_Noise-Margin-Enhancing-ULVR-SRAM-Cell/</url>
+      
+        <content type="html"><![CDATA[<h2 id="News"><a href="#News" class="headerlink" title="News"></a><a href="https://semiengineering.com/noise-margin-enhancing-ulvr-sram-cell-tokyo-institute-of-technology/">News</a></h2><p><strong>Noise Margin Enhancing ULVR SRAM Cell</strong><br>Researchers at the Tokyo Institute of Technology have published a new technical paper on a novel ultralow-voltage retention (ULVR) SRAM cell. This design significantly enhances noise immunity at ultralow voltages, demonstrating superior performance over conventional cells. The proposed 8T cell design can reduce standby power by approximately 93% compared to traditional 6T-SRAM macros, ensuring robustness in various operating modes.</p><p><img src="https://semiengineering.com/wp-content/uploads/iStock-884383840-Interconnects-eBook-Feb-2024.jpeg?fit=1365,768&ssl=1" alt="Noise Margin Enhancing ULVR SRAM Cell"></p><hr><h2 id="Launches"><a href="#Launches" class="headerlink" title="Launches"></a><a href="https://semiengineering.com/epitaxial-growth-of-up-to-120-si-sige-bilayers-in-view-of-3d-dram-applications-imec-ghent-univ/">Launches</a></h2><p><strong>Epitaxial Growth Of Up To 120 Si&#x2F;SiGe Bilayers</strong><br>Imec and Ghent University have reported on the successful epitaxial growth of Si&#x2F;SiGe multi-stacks aimed at 3D DRAM applications. Their research focuses on overcoming challenges in layer thickness and interface sharpness, crucial for efficient 3D dynamic random access memory devices. The work demonstrates the potential for high etching selectivity and manageable misfit dislocations, paving the way for advanced memory technologies.</p><p><img src="https://semiengineering.com/wp-content/uploads/AdobeStock_486012090-02-13-23-scaled.jpeg" alt="Epitaxial Growth"></p><hr><h2 id="Charts"><a href="#Charts" class="headerlink" title="Charts"></a><a href="https://semiengineering.com/llm-inference-core-bottlenecks-imposed-by-memory-compute-capacity-synchronization-overheads-nvidia/">Charts</a></h2><p><strong>LLM Inference: Core Bottlenecks Imposed By Memory, Compute Capacity</strong><br>NVIDIA has released a detailed analysis of the performance bottlenecks encountered in large language model (LLM) inference. Their research highlights the critical role of memory bandwidth and synchronization latencies in maximizing throughput. Key findings indicate that high memory bandwidth and reduced synchronization latencies are essential for effective LLM deployment, providing a framework for future hardware advancements.</p><p><img src="https://semiengineering.com/wp-content/uploads/AdobeStock_322782977-01-29-25-scaled.jpeg" alt="LLM Inference Bottlenecks"></p><hr><h2 id="Research"><a href="#Research" class="headerlink" title="Research"></a><a href="https://semiwiki.com/semiconductor-services/netapp/359819-agentic-ai-and-the-eda-revolution-why-data-mobility-security-and-availability-matter-more-than-ever/">Research</a></h2><p><strong>Agentic AI and the EDA Revolution</strong><br>The emergence of Agentic AI is revolutionizing the EDA and semiconductor industries by addressing chip design complexities and a shortage of skilled engineers. As highlighted in recent discussions at industry events, effective data mobility, security, and availability are vital for leveraging Agentic AI’s potential, enabling smarter automation in semiconductor design processes.</p><p><img src="https://semiwiki.com/wp-content/uploads/2025/07/Synopsys-GPU-QATK-webinar-banners-400x400-px.jpg" alt="Agentic AI in EDA"></p><hr><h2 id="Insight"><a href="#Insight" class="headerlink" title="Insight"></a><a href="https://semiwiki.com/events/359574-dac-techtalk-a-siemens-and-nvidia-perspective-on-unlocking-the-power-of-ai-in-eda/">Insight</a></h2><p><strong>DAC TechTalk – A Siemens and NVIDIA Perspective</strong><br>At the recent DAC event, Siemens and NVIDIA discussed the transformative impact of AI on semiconductor design. Emphasizing the necessity for AI in overcoming design complexity and time-to-market challenges, the presentation outlined how their collaboration is set to enhance design quality and productivity, showcasing real-world results and future directions for AI in EDA.</p><p><img src="https://semiwiki.com/wp-content/uploads/2025/07/DAC-TechTalk-%E2%80%93-A-Siemens-and-NVIDIA-Perspective-on-Unlocking-the-Power-of-AI-in-EDA.jpg" alt="DAC TechTalk"></p><hr><p>Stay tuned for more updates and insights into the ever-evolving semiconductor landscape!</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> Machinelearning </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> AI </tag>
+            
+            <tag> technology </tag>
+            
+            <tag> semiconductors </tag>
+            
+            <tag> EDA </tag>
+            
+            <tag> SoC </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>Koduri Unveils GPU Hardware IP and Software Startup</title>
       <link href="/opensemi/20250807_Koduri-Unveils-GPU-Hardware-IP-and-Software-Startup/"/>
       <url>/opensemi/20250807_Koduri-Unveils-GPU-Hardware-IP-and-Software-Startup/</url>
@@ -22,9 +55,9 @@
             
             <tag> market trends </tag>
             
-            <tag> technology </tag>
-            
             <tag> innovation </tag>
+            
+            <tag> technology </tag>
             
             <tag> semiconductors </tag>
             
@@ -379,9 +412,9 @@
             
             <tag> AI </tag>
             
-            <tag> technology </tag>
-            
             <tag> innovation </tag>
+            
+            <tag> technology </tag>
             
             <tag> semiconductors </tag>
             
@@ -441,9 +474,9 @@
             
             <tag> AI </tag>
             
-            <tag> technology </tag>
-            
             <tag> innovation </tag>
+            
+            <tag> technology </tag>
             
             <tag> research </tag>
             
@@ -472,9 +505,9 @@
       
         <tags>
             
-            <tag> technology </tag>
-            
             <tag> innovation </tag>
+            
+            <tag> technology </tag>
             
             <tag> semiconductor </tag>
             
@@ -637,9 +670,9 @@
       
         <tags>
             
-            <tag> technology </tag>
-            
             <tag> innovation </tag>
+            
+            <tag> technology </tag>
             
             <tag> semiconductors </tag>
             
@@ -994,9 +1027,9 @@
             
             <tag> market trends </tag>
             
-            <tag> technology </tag>
-            
             <tag> innovation </tag>
+            
+            <tag> technology </tag>
             
             <tag> semiconductors </tag>
             
@@ -1116,9 +1149,9 @@
       
         <tags>
             
-            <tag> technology </tag>
-            
             <tag> innovation </tag>
+            
+            <tag> technology </tag>
             
             <tag> investment </tag>
             
@@ -1149,9 +1182,9 @@
       
         <tags>
             
-            <tag> technology </tag>
-            
             <tag> innovation </tag>
+            
+            <tag> technology </tag>
             
             <tag> semiconductors </tag>
             
@@ -1244,9 +1277,9 @@
             
             <tag> AI </tag>
             
-            <tag> technology </tag>
-            
             <tag> innovation </tag>
+            
+            <tag> technology </tag>
             
             <tag> manufacturing </tag>
             
@@ -1438,9 +1471,9 @@
             
             <tag> AI </tag>
             
-            <tag> technology </tag>
-            
             <tag> innovation </tag>
+            
+            <tag> technology </tag>
             
             <tag> semiconductor industry </tag>
             
@@ -1500,9 +1533,9 @@
             
             <tag> AI </tag>
             
-            <tag> technology </tag>
-            
             <tag> innovation </tag>
+            
+            <tag> technology </tag>
             
             <tag> legislation </tag>
             
@@ -1566,9 +1599,9 @@
             
             <tag> market trends </tag>
             
-            <tag> technology </tag>
-            
             <tag> innovation </tag>
+            
+            <tag> technology </tag>
             
             <tag> semiconductor </tag>
             
@@ -1599,9 +1632,9 @@
             
             <tag> market trends </tag>
             
-            <tag> technology </tag>
-            
             <tag> innovation </tag>
+            
+            <tag> technology </tag>
             
         </tags>
       
@@ -1626,13 +1659,13 @@
       
         <tags>
             
-            <tag> technology </tag>
-            
             <tag> innovation </tag>
             
-            <tag> sustainability </tag>
+            <tag> technology </tag>
             
             <tag> semiconductor </tag>
+            
+            <tag> sustainability </tag>
             
         </tags>
       
