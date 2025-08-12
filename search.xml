@@ -4,6 +4,39 @@
   
     
     <entry>
+      <title>Beam Tools for Wafer Writing</title>
+      <link href="/opensemi/20250812_Beam-Tools-for-Wafer-Writing/"/>
+      <url>/opensemi/20250812_Beam-Tools-for-Wafer-Writing/</url>
+      
+        <content type="html"><![CDATA[<h2 id="News"><a href="#News" class="headerlink" title="News"></a><a href="https://www.eetimes.com/micron-readies-nand-flash-for-space-applications/">News</a></h2><p><strong>Micron Readies NAND Flash For Space Applications</strong><br>Micron Technology has introduced the industry’s highest-density, radiation-tolerant single-level cell (SLC) NAND product designed for space applications. This initiative comes as demand for space-ready memory rises due to the expansion of commercial and governmental space missions. Micron’s M73A SLC NAND product will enhance onboard data processing capabilities, enabling AI-enabled edge computing in spacecraft. The company is also developing a range of space-qualified memory solutions including NOR and DRAM.</p><p><img src="https://www.eetimes.com/wp-content/uploads/product-slc-nand-front-back-right-black.jpg" alt="Micron NAND"></p><hr><h2 id="Launches"><a href="#Launches" class="headerlink" title="Launches"></a><a href="https://www.eetimes.com/u-s-startups-debut-first-e-beam-tools-for-wafer-writing/">Launches</a></h2><p><strong>Beam Tools for Wafer Writing</strong><br>U.S. startups Multibeam and SecureFoundry have unveiled the first e-beam lithography tools capable of writing chip designs directly onto silicon wafers without the need for masks. This innovative approach allows for rapid prototyping and customization of chips, significantly reducing development time and costs associated with traditional mask-based processes. The tools are expected to complement existing EUV and DUV lithography technologies.</p><p><img src="https://www.eetimes.com/wp-content/uploads/ebeam.png" alt="E-beam Tools"></p><hr><h2 id="Charts"><a href="#Charts" class="headerlink" title="Charts"></a><a href="https://semiengineering.com/3dics-atomic-scale-behavior-of-electromigration-in-cu%e2%88%92cu-joints-nycu-itri/">Charts</a></h2><p><strong>3DICs: Atomic-Scale Behavior of Electromigration in Cu−Cu Joints</strong><br>A recent study has illustrated the challenges faced by three-dimensional integrated circuits (3DICs) under high current densities. Researchers utilized high-resolution transmission electron microscopy to analyze electromigration behavior, revealing critical insights into failure mechanisms at the atomic level. The findings emphasize the need for optimized interconnect properties to enhance the reliability of 3DIC packaging.</p><p><img src="https://semiengineering.com/wp-content/uploads/AdobeStock_322557739-01-29-25-scaled.jpeg" alt="Electromigration"></p><hr><h2 id="Research"><a href="#Research" class="headerlink" title="Research"></a><a href="https://semiengineering.com/noise-margin-enhancing-ulvr-sram-cell-tokyo-institute-of-technology/">Research</a></h2><p><strong>Noise Margin Enhancing ULVR SRAM Cell</strong><br>Researchers at the Tokyo Institute of Technology have introduced a new ultralow-voltage retention (ULVR) SRAM cell designed to significantly enhance noise immunity. This innovative 8T cell configuration utilizes Schmitt-trigger inverters and demonstrates superior performance in low-voltage scenarios, reducing standby power consumption by approximately 93%. The development is crucial for efficient memory solutions in battery-operated devices.</p><p><img src="https://semiengineering.com/wp-content/uploads/iStock-884383840-Interconnects-eBook-Feb-2024.jpeg?fit=1365,768&ssl=1" alt="ULVR SRAM"></p><hr><h2 id="Insight"><a href="#Insight" class="headerlink" title="Insight"></a><a href="https://semiwiki.com/ip/ceva/359828-webinar-what-it-really-takes-to-build-a-future-proof-ai-architecture/">Insight</a></h2><p><strong>WEBINAR: What It Really Takes to Build a Future</strong><br>In a recent webinar, Ceva’s semiconductor IP experts discussed strategies for creating future-proof AI architectures. They emphasized the importance of designing neural processing units (NPUs) that are scalable and extendable, allowing for adaptability to rapidly changing technology. The presenters highlighted the significance of balancing performance with energy efficiency in edge AI applications, addressing the evolving landscape of AI hardware.</p><p><img src="https://semiwiki.com/wp-content/uploads/2025/08/AI-Inference-Use-Cases-from-Edge-to-Cloud-1200x498.png" alt="AI Architecture"></p><hr><p>Thank you for subscribing to our newsletter! Stay tuned for more updates and insights into the ever-evolving semiconductor industry.</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> Device </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> AI </tag>
+            
+            <tag> technology </tag>
+            
+            <tag> semiconductor </tag>
+            
+            <tag> research </tag>
+            
+            <tag> memory </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>Function Organic Molecule May Advance Display Technologies and Medical Imaging</title>
       <link href="/opensemi/20250811_Function-Organic-Molecule-May-Advance-Display-Technologies-and-Medical-Imaging/"/>
       <url>/opensemi/20250811_Function-Organic-Molecule-May-Advance-Display-Technologies-and-Medical-Imaging/</url>
@@ -152,9 +185,9 @@
             
             <tag> innovation </tag>
             
-            <tag> research </tag>
-            
             <tag> semiconductors </tag>
+            
+            <tag> research </tag>
             
             <tag> startups </tag>
             
@@ -249,9 +282,9 @@
             
             <tag> innovation </tag>
             
-            <tag> research </tag>
-            
             <tag> semiconductors </tag>
+            
+            <tag> research </tag>
             
             <tag> lithography </tag>
             
@@ -313,9 +346,9 @@
             
             <tag> technology </tag>
             
-            <tag> research </tag>
-            
             <tag> semiconductors </tag>
+            
+            <tag> research </tag>
             
             <tag> electronics </tag>
             
@@ -507,9 +540,9 @@
             
             <tag> innovation </tag>
             
-            <tag> research </tag>
-            
             <tag> semiconductors </tag>
+            
+            <tag> research </tag>
             
         </tags>
       
@@ -635,9 +668,9 @@
             
             <tag> AI </tag>
             
-            <tag> research </tag>
-            
             <tag> semiconductors </tag>
+            
+            <tag> research </tag>
             
             <tag> advanced packaging </tag>
             
@@ -672,9 +705,9 @@
             
             <tag> semiconductors </tag>
             
-            <tag> EDA </tag>
-            
             <tag> memory technology </tag>
+            
+            <tag> EDA </tag>
             
         </tags>
       
@@ -1118,9 +1151,9 @@
       
         <tags>
             
-            <tag> Market Trends </tag>
-            
             <tag> Semiconductor Technology </tag>
+            
+            <tag> Market Trends </tag>
             
             <tag> EUV Lithography </tag>
             
@@ -1723,9 +1756,9 @@
             
             <tag> Semiconductor Manufacturing </tag>
             
-            <tag> Research </tag>
-            
             <tag> Market Trends </tag>
+            
+            <tag> Research </tag>
             
             <tag> Technology </tag>
             
@@ -1754,11 +1787,11 @@
             
             <tag> AI </tag>
             
-            <tag> Market Trends </tag>
-            
             <tag> Semiconductor Technology </tag>
             
             <tag> Chip Design </tag>
+            
+            <tag> Market Trends </tag>
             
         </tags>
       
@@ -1841,9 +1874,9 @@
       
         <tags>
             
-            <tag> packaging </tag>
-            
             <tag> AI </tag>
+            
+            <tag> packaging </tag>
             
             <tag> semiconductor technology </tag>
             
