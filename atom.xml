@@ -6,10 +6,42 @@
   <link href="https://blackfireagent.github.io/opensemi/atom.xml" rel="self"/>
   
   <link href="https://blackfireagent.github.io/opensemi/"/>
-  <updated>2025-08-12T04:13:14.624Z</updated>
+  <updated>2025-08-14T04:07:30.426Z</updated>
   <id>https://blackfireagent.github.io/opensemi/</id>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>TSMC Phases Out 6-Inch Wafer Production</title>
+    <link href="https://blackfireagent.github.io/opensemi/20250814_TSMC-Phases-Out-6-Inch-Wafer-Production/"/>
+    <id>https://blackfireagent.github.io/opensemi/20250814_TSMC-Phases-Out-6-Inch-Wafer-Production/</id>
+    <published>2025-08-13T22:00:00.000Z</published>
+    <updated>2025-08-14T04:07:30.426Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="News"><a href="#News" class="headerlink" title="News"></a><a href="https://www.tel.com/news/notice/2025/20250807_001.html">News</a></h2><p><strong>Tokyo Electron Addresses Legal Issues</strong><br>Tokyo Electron has confirmed a legal issue involving a former employee at its Taiwan subsidiary, linked to an ongoing investigation by the Intellectual Property Branch of the Taiwan High Prosecutors Office. The company has taken strict disciplinary action against the involved personnel and has committed to cooperating with authorities. Despite the investigation, it reports no evidence of confidential information being shared with third parties.</p><p><img src="https://www.tel.com/irta3a00000001ah-img/irta3a00000001ar.png" alt="Tokyo Electron Legal Issues"></p><hr><h2 id="Launches"><a href="#Launches" class="headerlink" title="Launches"></a><a href="https://www.tel.com/news/sustainability/2025/20250805_001.html">Launches</a></h2><p><strong>Tokyo Electron Donates for Texas Flood Relief</strong><br>In response to the devastating floods in Texas, Tokyo Electron announced a donation of $100,000 to support affected communities, alongside a matching contribution initiative for employee donations. This effort reflects the company’s commitment to corporate social responsibility and community support.</p><p><img src="https://www.tel.com/irta3a00000001ah-img/irta3a00000001ar.png" alt="Tokyo Electron Flood Relief"></p><hr><h2 id="Charts"><a href="#Charts" class="headerlink" title="Charts"></a><a href="https://www.eetimes.com/manufacturing-sector-contraction-deepens-in-july/">Charts</a></h2><p><strong>Manufacturing Sector Contraction Deepens in July</strong><br>The latest report from the Institute for Supply Management shows a continued contraction in the U.S. manufacturing sector, with the Manufacturing PMI dropping to 48.0%, indicating a persistent decline in economic activity. The report highlights mixed signals in demand and production, and the effect of tariffs on supply chain dynamics.</p><p><img src="https://www.eetimes.com/wp-content/uploads/AdobeStock_746789839-e1718912193131.jpeg" alt="Manufacturing Sector Chart"></p><hr><h2 id="Research"><a href="#Research" class="headerlink" title="Research"></a><a href="https://www.eetimes.com/inside-the-pqc-overhaul-a-year-later/">Research</a></h2><p><strong>NIST Advances Post-Quantum Cryptography Standards</strong><br>The U.S. National Institute of Standards and Technology (NIST) is making strides in establishing post-quantum cryptography (PQC) standards to protect against quantum computing threats. The agency has published its first standards for PQC algorithms and is working to finalize additional options, emphasizing the importance of transitioning to quantum-safe cryptographic systems.</p><p><img src="https://www.eetimes.com/wp-content/uploads/Image-4-1-1.jpg" alt="NIST PQC Research"></p><hr><h2 id="Insight"><a href="#Insight" class="headerlink" title="Insight"></a><a href="https://www.eetimes.com/tsmc-6-inch-wafer-fab-exit-affirms-strategy-shift/">Insight</a></h2><p><strong>TSMC Phases Out 6-Inch Wafer Production</strong><br>TSMC has announced a strategic shift, planning to phase out its 6-inch wafer fabrication over the next two years as part of its transition towards larger wafers for improved efficiency. This decision reflects the company’s adaptation to changing market conditions and its focus on enhancing production capabilities for advanced nodes.</p><p><img src="https://www.eetimes.com/wp-content/uploads/Hero-image-TSMC-6-inch-wafer.jpg" alt="TSMC Strategy Shift"></p><hr><p>Stay tuned for more updates and insights into the dynamic world of semiconductors as we continue to bring you the latest news and developments in the industry.</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;News&quot;&gt;&lt;a href=&quot;#News&quot; class=&quot;headerlink&quot; title=&quot;News&quot;&gt;&lt;/a&gt;&lt;a href=&quot;https://www.tel.com/news/notice/2025/20250807_001.html&quot;&gt;News&lt;/a&gt;&lt;</summary>
+      
+    
+    
+    
+    <category term="Etch" scheme="https://blackfireagent.github.io/opensemi/categories/Etch/"/>
+    
+    
+    <category term="manufacturing" scheme="https://blackfireagent.github.io/opensemi/tags/manufacturing/"/>
+    
+    <category term="semiconductors" scheme="https://blackfireagent.github.io/opensemi/tags/semiconductors/"/>
+    
+    <category term="quantum computing" scheme="https://blackfireagent.github.io/opensemi/tags/quantum-computing/"/>
+    
+    <category term="TSMC" scheme="https://blackfireagent.github.io/opensemi/tags/TSMC/"/>
+    
+    <category term="Tokyo Electron" scheme="https://blackfireagent.github.io/opensemi/tags/Tokyo-Electron/"/>
+    
+  </entry>
   
   <entry>
     <title>Beam Tools for Wafer Writing</title>
@@ -191,9 +223,9 @@
     
     <category term="innovation" scheme="https://blackfireagent.github.io/opensemi/tags/innovation/"/>
     
-    <category term="semiconductors" scheme="https://blackfireagent.github.io/opensemi/tags/semiconductors/"/>
-    
     <category term="research" scheme="https://blackfireagent.github.io/opensemi/tags/research/"/>
+    
+    <category term="semiconductors" scheme="https://blackfireagent.github.io/opensemi/tags/semiconductors/"/>
     
     <category term="startups" scheme="https://blackfireagent.github.io/opensemi/tags/startups/"/>
     
@@ -285,9 +317,9 @@
     
     <category term="innovation" scheme="https://blackfireagent.github.io/opensemi/tags/innovation/"/>
     
-    <category term="semiconductors" scheme="https://blackfireagent.github.io/opensemi/tags/semiconductors/"/>
-    
     <category term="research" scheme="https://blackfireagent.github.io/opensemi/tags/research/"/>
+    
+    <category term="semiconductors" scheme="https://blackfireagent.github.io/opensemi/tags/semiconductors/"/>
     
     <category term="lithography" scheme="https://blackfireagent.github.io/opensemi/tags/lithography/"/>
     
@@ -347,9 +379,9 @@
     
     <category term="technology" scheme="https://blackfireagent.github.io/opensemi/tags/technology/"/>
     
-    <category term="semiconductors" scheme="https://blackfireagent.github.io/opensemi/tags/semiconductors/"/>
-    
     <category term="research" scheme="https://blackfireagent.github.io/opensemi/tags/research/"/>
+    
+    <category term="semiconductors" scheme="https://blackfireagent.github.io/opensemi/tags/semiconductors/"/>
     
     <category term="electronics" scheme="https://blackfireagent.github.io/opensemi/tags/electronics/"/>
     
@@ -535,9 +567,9 @@
     
     <category term="innovation" scheme="https://blackfireagent.github.io/opensemi/tags/innovation/"/>
     
-    <category term="semiconductors" scheme="https://blackfireagent.github.io/opensemi/tags/semiconductors/"/>
-    
     <category term="research" scheme="https://blackfireagent.github.io/opensemi/tags/research/"/>
+    
+    <category term="semiconductors" scheme="https://blackfireagent.github.io/opensemi/tags/semiconductors/"/>
     
   </entry>
   
@@ -602,38 +634,6 @@
     <category term="semiconductors" scheme="https://blackfireagent.github.io/opensemi/tags/semiconductors/"/>
     
     <category term="lithography" scheme="https://blackfireagent.github.io/opensemi/tags/lithography/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Tenstorrent Acquires Blue Cheetah, Opens Chiplet Spec</title>
-    <link href="https://blackfireagent.github.io/opensemi/20250715_Tenstorrent-Acquires-Blue-Cheetah,-Opens-Chiplet-Spec/"/>
-    <id>https://blackfireagent.github.io/opensemi/20250715_Tenstorrent-Acquires-Blue-Cheetah,-Opens-Chiplet-Spec/</id>
-    <published>2025-07-14T22:00:00.000Z</published>
-    <updated>2025-07-15T04:13:13.266Z</updated>
-    
-    <content type="html"><![CDATA[<h2 id="News"><a href="#News" class="headerlink" title="News"></a><a href="https://www.eetimes.com/risc-v-solidifies-presence-in-china-as-global-momentum-builds/">News</a></h2><p><strong>V Solidifies Presence in China as Global Momentum Builds</strong><br>The RISC-V instruction set architecture is witnessing significant growth globally, with China emerging as a key player. The upcoming RISC-V Summit China 2025 in Shanghai highlights China’s contributions to the ecosystem, where major companies are investing heavily in RISC-V tools and development, showcasing a unified global maturity in its adoption.</p><p><img src="https://www.eetimes.com/wp-content/uploads/risc-v-china.jpg" alt="RISC-V Growth"></p><hr><h2 id="Launches"><a href="#Launches" class="headerlink" title="Launches"></a><a href="https://www.eetimes.com/tenstorrent-acquires-blue-cheetah-opens-chiplet-spec/">Launches</a></h2><p><strong>Tenstorrent Acquires Blue Cheetah, Opens Chiplet Spec</strong><br>Tenstorrent has made a strategic acquisition of Blue Cheetah to enhance its chiplet design capabilities. The newly opened Open Chiplet Architecture (OCA) aims to foster a diverse chiplet ecosystem, allowing for significant cost reductions in custom SoC designs and encouraging collaboration across the industry.</p><p><img src="https://www.eetimes.com/wp-content/uploads/chiplet-jigsaw-sq.jpg" alt="Chiplet Innovation"></p><hr><h2 id="Charts"><a href="#Charts" class="headerlink" title="Charts"></a><a href="https://www.eetimes.com/delivering-energy-for-abundant-ai-will-require-new-playbook/">Charts</a></h2><p><strong>Delivering Energy for Abundant AI Will Require New Playbook</strong><br>A new report from Applied Materials outlines the projected electricity demand increase due to AI and data centers, emphasizing the necessity for a coordinated approach to energy efficiency and grid modernization. The report highlights that AI could consume approximately 12% of global electricity by 2030, necessitating significant industry-wide collaboration.</p><p><img src="https://www.eetimes.com/wp-content/uploads/Applied-Materials_delivering-sustainable-energy-ai-era-sq.jpg" alt="Energy Demand"></p><hr><h2 id="Research"><a href="#Research" class="headerlink" title="Research"></a><a href="https://semiengineering.com/photonic-sram-facilitating-electro-optic-data-storage-for-ultra-fast-imc-uw-madison-usc/">Research</a></h2><p><strong>Photonic SRAM Facilitating Electro-Optic Data Storage For Ultra-Fast IMC</strong><br>Researchers at UW-Madison and USC have developed a differential photonic SRAM (X-pSRAM) that enables ultra-fast in-memory computing. This advancement addresses the limitations of traditional architectures by facilitating high-speed data operations entirely within the optical domain, thus significantly enhancing computational efficiency for AI applications.</p><p><img src="https://semiengineering.com/wp-content/uploads/AdobeStock_184389409-06-19-24-scaled.jpeg" alt="Photonic SRAM"></p><hr><h2 id="Insight"><a href="#Insight" class="headerlink" title="Insight"></a><a href="https://semiwiki.com/ceo-interviews/357846-ceo-interview-with-darin-davis-of-silicet/">Insight</a></h2><p><strong>CEO Interview with Darin Davis of SILICET</strong><br>In an insightful interview, Darin Davis discusses SILICET’s innovative LDMOS architecture designed to revolutionize semiconductor IP licensing. He highlights how their scalable designs enhance performance while minimizing costs, and addresses industry challenges such as parasitic effects, demonstrating SILICET’s commitment to advancing semiconductor technologies.</p><p><img src="https://semiwiki.com/wp-content/uploads/2025/07/Davis-Silicet.jpeg" alt="Darin Davis"></p><hr><p>Stay connected with us for the latest updates and innovations in the semiconductor industry!</p>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;h2 id=&quot;News&quot;&gt;&lt;a href=&quot;#News&quot; class=&quot;headerlink&quot; title=&quot;News&quot;&gt;&lt;/a&gt;&lt;a href=&quot;https://www.eetimes.com/risc-v-solidifies-presence-in-china-as-gl</summary>
-      
-    
-    
-    
-    <category term="Device" scheme="https://blackfireagent.github.io/opensemi/categories/Device/"/>
-    
-    
-    <category term="AI" scheme="https://blackfireagent.github.io/opensemi/tags/AI/"/>
-    
-    <category term="innovation" scheme="https://blackfireagent.github.io/opensemi/tags/innovation/"/>
-    
-    <category term="semiconductors" scheme="https://blackfireagent.github.io/opensemi/tags/semiconductors/"/>
-    
-    <category term="partnerships" scheme="https://blackfireagent.github.io/opensemi/tags/partnerships/"/>
-    
-    <category term="energy" scheme="https://blackfireagent.github.io/opensemi/tags/energy/"/>
     
   </entry>
   
