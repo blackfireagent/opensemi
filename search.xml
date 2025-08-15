@@ -4,6 +4,39 @@
   
     
     <entry>
+      <title>In-NAND Self-Encryption Architecture In A 4D-NAND Structure</title>
+      <link href="/opensemi/20250815_In-NAND-Self-Encryption-Architecture-In-A-4D-NAND-Structure/"/>
+      <url>/opensemi/20250815_In-NAND-Self-Encryption-Architecture-In-A-4D-NAND-Structure/</url>
+      
+        <content type="html"><![CDATA[<h2 id="News"><a href="#News" class="headerlink" title="News"></a><a href="https://semiwiki.com/ip/ceva/359828-webinar-what-it-really-takes-to-build-a-future-proof-ai-architecture/">News</a></h2><p><strong>What It Really Takes to Build a Future-Proof AI Architecture</strong><br>Ceva hosted a webinar discussing the necessity of specialized AI inference chips for edge devices, addressing how these chips can meet specific embedded requirements while maintaining energy efficiency. The discussion emphasized the importance of designing flexible architectures that can adapt to rapid advancements in AI technology.</p><p><img src="https://semiwiki.com/wp-content/uploads/2025/08/AI-Inference-Use-Cases-from-Edge-to-Cloud-1200x498.png" alt="AI Inference Use Cases"></p><hr><h2 id="Launches"><a href="#Launches" class="headerlink" title="Launches"></a><a href="https://semiwiki.com/semiconductor-services/359711-architecting-your-next-soc-join-the-live-discussion-on-tradeoffs-ip-and-ecosystem-realities/">Launches</a></h2><p><strong>Architecting Your Next SoC: Join the Live Discussion on Tradeoffs…</strong><br>A live webinar was held to explore the complexities involved in designing a system-on-chip (SoC). Experts discussed the trade-offs in architecture, IP selection, and ecosystem realities, aiming to equip attendees with actionable strategies for navigating the challenges in SoC design.</p><p><img src="https://semiwiki.com/wp-content/uploads/2025/07/sqr-1.png" alt="SoC Architecture"></p><hr><h2 id="Charts"><a href="#Charts" class="headerlink" title="Charts"></a><a href="https://semiengineering.com/ltram-and-stram-specialized-memory-architectures-leveraging-workload-specific-access-characteristics-stanford-microsoft/">Charts</a></h2><p><strong>LtRAM And StRAM: Specialized Memory Architectures</strong><br>A new paper from Stanford and Microsoft presents a proposal for specialized memory architectures: Long-term RAM (LtRAM) and Short-term RAM (StRAM). The authors argue that such architectures can optimize performance based on specific application access patterns, addressing the limitations of traditional memory hierarchies.</p><p><img src="https://semiengineering.com/wp-content/uploads/iStock-522782562-memory-03-25-24.jpeg" alt="Memory Architecture"></p><hr><h2 id="Research"><a href="#Research" class="headerlink" title="Research"></a><a href="https://semiengineering.com/in-nand-self-encryption-architecture-in-a-4d-nand-structure-dgist-georgia-tech-et-al/">Research</a></h2><p><strong>In-NAND Self-Encryption Architecture In A 4D-NAND Structure</strong><br>The researchers from DGIST and Georgia Tech introduce FlashVault, an innovative architecture that embeds a cryptographic engine within NAND flash chips. This design allows for enhanced data security at zero area overhead, significantly improving performance for various cryptographic algorithms.</p><p><img src="https://semiengineering.com/wp-content/uploads/AdobeStock_362074973-security-07-23-scaled.jpeg" alt="FlashVault Architecture"></p><hr><h2 id="Insight"><a href="#Insight" class="headerlink" title="Insight"></a><a href="https://semiwiki.com/artificial-intelligence/359520-a-quick-tour-through-prompt-engineering-as-it-might-apply-to-debug/">Insight</a></h2><p><strong>A Quick Tour Through Prompt Engineering as it Might Apply to Debug</strong><br>This article explores the emerging discipline of prompt engineering, particularly its importance in optimizing large language model (LLM) interactions for hardware debugging. With techniques like Chain of Thought prompting and in-context learning, the article emphasizes the need for engineers to adapt their approach to leverage LLMs effectively in debugging processes.</p><p><img src="https://semiwiki.com/wp-content/uploads/2025/08/Prompt-ENgineering-example-1.png" alt="Prompt Engineering"></p><hr><p>Stay tuned for more insights and developments in the semiconductor industry as we continue to bring you the latest news and innovations!</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> Machinelearning </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> AI </tag>
+            
+            <tag> semiconductor </tag>
+            
+            <tag> SoC </tag>
+            
+            <tag> architecture </tag>
+            
+            <tag> memory </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>TSMC Phases Out 6-Inch Wafer Production</title>
       <link href="/opensemi/20250814_TSMC-Phases-Out-6-Inch-Wafer-Production/"/>
       <url>/opensemi/20250814_TSMC-Phases-Out-6-Inch-Wafer-Production/</url>
@@ -20,9 +53,9 @@
       
         <tags>
             
-            <tag> manufacturing </tag>
-            
             <tag> semiconductors </tag>
+            
+            <tag> manufacturing </tag>
             
             <tag> quantum computing </tag>
             
@@ -218,9 +251,9 @@
             
             <tag> innovation </tag>
             
-            <tag> research </tag>
-            
             <tag> semiconductors </tag>
+            
+            <tag> research </tag>
             
             <tag> startups </tag>
             
@@ -315,9 +348,9 @@
             
             <tag> innovation </tag>
             
-            <tag> research </tag>
-            
             <tag> semiconductors </tag>
+            
+            <tag> research </tag>
             
             <tag> lithography </tag>
             
@@ -379,9 +412,9 @@
             
             <tag> technology </tag>
             
-            <tag> research </tag>
-            
             <tag> semiconductors </tag>
+            
+            <tag> research </tag>
             
             <tag> electronics </tag>
             
@@ -573,9 +606,9 @@
             
             <tag> innovation </tag>
             
-            <tag> research </tag>
-            
             <tag> semiconductors </tag>
+            
+            <tag> research </tag>
             
         </tags>
       
@@ -701,9 +734,9 @@
             
             <tag> AI </tag>
             
-            <tag> research </tag>
-            
             <tag> semiconductors </tag>
+            
+            <tag> research </tag>
             
             <tag> advanced packaging </tag>
             
@@ -1376,9 +1409,9 @@
             
             <tag> innovation </tag>
             
-            <tag> manufacturing </tag>
-            
             <tag> semiconductors </tag>
+            
+            <tag> manufacturing </tag>
             
         </tags>
       
@@ -1440,9 +1473,9 @@
             
             <tag> innovation </tag>
             
-            <tag> manufacturing </tag>
-            
             <tag> semiconductors </tag>
+            
+            <tag> manufacturing </tag>
             
             <tag> chiplets </tag>
             
@@ -1599,9 +1632,9 @@
             
             <tag> innovation </tag>
             
-            <tag> manufacturing </tag>
-            
             <tag> semiconductors </tag>
+            
+            <tag> manufacturing </tag>
             
         </tags>
       
@@ -1632,9 +1665,9 @@
             
             <tag> innovation </tag>
             
-            <tag> legislation </tag>
-            
             <tag> manufacturing </tag>
+            
+            <tag> legislation </tag>
             
         </tags>
       

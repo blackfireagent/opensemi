@@ -6,10 +6,42 @@
   <link href="https://blackfireagent.github.io/opensemi/atom.xml" rel="self"/>
   
   <link href="https://blackfireagent.github.io/opensemi/"/>
-  <updated>2025-08-14T04:07:30.426Z</updated>
+  <updated>2025-08-15T04:10:02.360Z</updated>
   <id>https://blackfireagent.github.io/opensemi/</id>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>In-NAND Self-Encryption Architecture In A 4D-NAND Structure</title>
+    <link href="https://blackfireagent.github.io/opensemi/20250815_In-NAND-Self-Encryption-Architecture-In-A-4D-NAND-Structure/"/>
+    <id>https://blackfireagent.github.io/opensemi/20250815_In-NAND-Self-Encryption-Architecture-In-A-4D-NAND-Structure/</id>
+    <published>2025-08-14T22:00:00.000Z</published>
+    <updated>2025-08-15T04:10:02.360Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="News"><a href="#News" class="headerlink" title="News"></a><a href="https://semiwiki.com/ip/ceva/359828-webinar-what-it-really-takes-to-build-a-future-proof-ai-architecture/">News</a></h2><p><strong>What It Really Takes to Build a Future-Proof AI Architecture</strong><br>Ceva hosted a webinar discussing the necessity of specialized AI inference chips for edge devices, addressing how these chips can meet specific embedded requirements while maintaining energy efficiency. The discussion emphasized the importance of designing flexible architectures that can adapt to rapid advancements in AI technology.</p><p><img src="https://semiwiki.com/wp-content/uploads/2025/08/AI-Inference-Use-Cases-from-Edge-to-Cloud-1200x498.png" alt="AI Inference Use Cases"></p><hr><h2 id="Launches"><a href="#Launches" class="headerlink" title="Launches"></a><a href="https://semiwiki.com/semiconductor-services/359711-architecting-your-next-soc-join-the-live-discussion-on-tradeoffs-ip-and-ecosystem-realities/">Launches</a></h2><p><strong>Architecting Your Next SoC: Join the Live Discussion on Tradeoffs…</strong><br>A live webinar was held to explore the complexities involved in designing a system-on-chip (SoC). Experts discussed the trade-offs in architecture, IP selection, and ecosystem realities, aiming to equip attendees with actionable strategies for navigating the challenges in SoC design.</p><p><img src="https://semiwiki.com/wp-content/uploads/2025/07/sqr-1.png" alt="SoC Architecture"></p><hr><h2 id="Charts"><a href="#Charts" class="headerlink" title="Charts"></a><a href="https://semiengineering.com/ltram-and-stram-specialized-memory-architectures-leveraging-workload-specific-access-characteristics-stanford-microsoft/">Charts</a></h2><p><strong>LtRAM And StRAM: Specialized Memory Architectures</strong><br>A new paper from Stanford and Microsoft presents a proposal for specialized memory architectures: Long-term RAM (LtRAM) and Short-term RAM (StRAM). The authors argue that such architectures can optimize performance based on specific application access patterns, addressing the limitations of traditional memory hierarchies.</p><p><img src="https://semiengineering.com/wp-content/uploads/iStock-522782562-memory-03-25-24.jpeg" alt="Memory Architecture"></p><hr><h2 id="Research"><a href="#Research" class="headerlink" title="Research"></a><a href="https://semiengineering.com/in-nand-self-encryption-architecture-in-a-4d-nand-structure-dgist-georgia-tech-et-al/">Research</a></h2><p><strong>In-NAND Self-Encryption Architecture In A 4D-NAND Structure</strong><br>The researchers from DGIST and Georgia Tech introduce FlashVault, an innovative architecture that embeds a cryptographic engine within NAND flash chips. This design allows for enhanced data security at zero area overhead, significantly improving performance for various cryptographic algorithms.</p><p><img src="https://semiengineering.com/wp-content/uploads/AdobeStock_362074973-security-07-23-scaled.jpeg" alt="FlashVault Architecture"></p><hr><h2 id="Insight"><a href="#Insight" class="headerlink" title="Insight"></a><a href="https://semiwiki.com/artificial-intelligence/359520-a-quick-tour-through-prompt-engineering-as-it-might-apply-to-debug/">Insight</a></h2><p><strong>A Quick Tour Through Prompt Engineering as it Might Apply to Debug</strong><br>This article explores the emerging discipline of prompt engineering, particularly its importance in optimizing large language model (LLM) interactions for hardware debugging. With techniques like Chain of Thought prompting and in-context learning, the article emphasizes the need for engineers to adapt their approach to leverage LLMs effectively in debugging processes.</p><p><img src="https://semiwiki.com/wp-content/uploads/2025/08/Prompt-ENgineering-example-1.png" alt="Prompt Engineering"></p><hr><p>Stay tuned for more insights and developments in the semiconductor industry as we continue to bring you the latest news and innovations!</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;News&quot;&gt;&lt;a href=&quot;#News&quot; class=&quot;headerlink&quot; title=&quot;News&quot;&gt;&lt;/a&gt;&lt;a href=&quot;https://semiwiki.com/ip/ceva/359828-webinar-what-it-really-takes-</summary>
+      
+    
+    
+    
+    <category term="Machinelearning" scheme="https://blackfireagent.github.io/opensemi/categories/Machinelearning/"/>
+    
+    
+    <category term="AI" scheme="https://blackfireagent.github.io/opensemi/tags/AI/"/>
+    
+    <category term="semiconductor" scheme="https://blackfireagent.github.io/opensemi/tags/semiconductor/"/>
+    
+    <category term="SoC" scheme="https://blackfireagent.github.io/opensemi/tags/SoC/"/>
+    
+    <category term="architecture" scheme="https://blackfireagent.github.io/opensemi/tags/architecture/"/>
+    
+    <category term="memory" scheme="https://blackfireagent.github.io/opensemi/tags/memory/"/>
+    
+  </entry>
   
   <entry>
     <title>TSMC Phases Out 6-Inch Wafer Production</title>
@@ -31,9 +63,9 @@
     <category term="Etch" scheme="https://blackfireagent.github.io/opensemi/categories/Etch/"/>
     
     
-    <category term="manufacturing" scheme="https://blackfireagent.github.io/opensemi/tags/manufacturing/"/>
-    
     <category term="semiconductors" scheme="https://blackfireagent.github.io/opensemi/tags/semiconductors/"/>
+    
+    <category term="manufacturing" scheme="https://blackfireagent.github.io/opensemi/tags/manufacturing/"/>
     
     <category term="quantum computing" scheme="https://blackfireagent.github.io/opensemi/tags/quantum-computing/"/>
     
@@ -223,9 +255,9 @@
     
     <category term="innovation" scheme="https://blackfireagent.github.io/opensemi/tags/innovation/"/>
     
-    <category term="research" scheme="https://blackfireagent.github.io/opensemi/tags/research/"/>
-    
     <category term="semiconductors" scheme="https://blackfireagent.github.io/opensemi/tags/semiconductors/"/>
+    
+    <category term="research" scheme="https://blackfireagent.github.io/opensemi/tags/research/"/>
     
     <category term="startups" scheme="https://blackfireagent.github.io/opensemi/tags/startups/"/>
     
@@ -317,9 +349,9 @@
     
     <category term="innovation" scheme="https://blackfireagent.github.io/opensemi/tags/innovation/"/>
     
-    <category term="research" scheme="https://blackfireagent.github.io/opensemi/tags/research/"/>
-    
     <category term="semiconductors" scheme="https://blackfireagent.github.io/opensemi/tags/semiconductors/"/>
+    
+    <category term="research" scheme="https://blackfireagent.github.io/opensemi/tags/research/"/>
     
     <category term="lithography" scheme="https://blackfireagent.github.io/opensemi/tags/lithography/"/>
     
@@ -379,9 +411,9 @@
     
     <category term="technology" scheme="https://blackfireagent.github.io/opensemi/tags/technology/"/>
     
-    <category term="research" scheme="https://blackfireagent.github.io/opensemi/tags/research/"/>
-    
     <category term="semiconductors" scheme="https://blackfireagent.github.io/opensemi/tags/semiconductors/"/>
+    
+    <category term="research" scheme="https://blackfireagent.github.io/opensemi/tags/research/"/>
     
     <category term="electronics" scheme="https://blackfireagent.github.io/opensemi/tags/electronics/"/>
     
@@ -567,9 +599,9 @@
     
     <category term="innovation" scheme="https://blackfireagent.github.io/opensemi/tags/innovation/"/>
     
-    <category term="research" scheme="https://blackfireagent.github.io/opensemi/tags/research/"/>
-    
     <category term="semiconductors" scheme="https://blackfireagent.github.io/opensemi/tags/semiconductors/"/>
+    
+    <category term="research" scheme="https://blackfireagent.github.io/opensemi/tags/research/"/>
     
   </entry>
   
@@ -602,38 +634,6 @@
     <category term="partnerships" scheme="https://blackfireagent.github.io/opensemi/tags/partnerships/"/>
     
     <category term="materials" scheme="https://blackfireagent.github.io/opensemi/tags/materials/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Photonics Aids the March of Moore’s Law</title>
-    <link href="https://blackfireagent.github.io/opensemi/20250716_Photonics-Aids-the-March-of-Moore%E2%80%99s-Law/"/>
-    <id>https://blackfireagent.github.io/opensemi/20250716_Photonics-Aids-the-March-of-Moore%E2%80%99s-Law/</id>
-    <published>2025-07-15T22:00:00.000Z</published>
-    <updated>2025-07-16T04:18:28.156Z</updated>
-    
-    <content type="html"><![CDATA[<h2 id="News"><a href="#News" class="headerlink" title="News"></a><a href="https://spectrum.ieee.org/intel-says-its-manufacturing-tech-will-lead-the-world-by-2025">News</a></h2><p><strong>Intel: Back on Top by 2025?</strong><br>Intel has revealed an ambitious roadmap that aims to reclaim its leadership in semiconductor manufacturing by 2025. The company will discontinue the use of “nanometer” terminology, introducing new node names like Intel 7, Intel 4, and the groundbreaking Intel 20A, which will feature the innovative RibbonFET architecture for improved transistor performance and efficiency. The PowerVia technology will also enhance power delivery, promising significant advancements in the semiconductor landscape.</p><p><img src="https://spectrum.ieee.org/media-library/3-side-by-side-blue-and-gold-illustrations-of-intel-s-powervia-backside-power-delivery-network-implementation.jpg?id=27084815&width=1200&height=831" alt="Intel Technology"></p><hr><h2 id="Launches"><a href="#Launches" class="headerlink" title="Launches"></a><a href="https://spie.org/news/ais-impact-three-examples">Launches</a></h2><p><strong>AI’s Impact: Three Examples</strong><br>At the 2025 SPIE Advanced Lithography + Patterning conference, advancements in lithography systems and AI applications were showcased. ASML unveiled new lithography solutions that promise enhanced stability and measurement capabilities, while imec’s research on extreme ultraviolet lithography (EUVL) aims to improve chip yield through innovative assist features. These technologies are crucial for meeting the escalating demands driven by AI applications.</p><p><img src="https://spie.org/images/Graphics/Newsroom/2025articles/AL25_Lithography_artificial%20intelligence_920.jpg" alt="AI in Lithography"></p><hr><h2 id="Charts"><a href="#Charts" class="headerlink" title="Charts"></a><a href="https://spie.org/news/photonics-focus/marchapril-2025/aiding-the-march-of-moores-law">Charts</a></h2><p><strong>Photonics Aids the March of Moore’s Law</strong><br>The importance of photonics in sustaining Moore’s Law is emphasized as TSMC aims for products with over one trillion transistors by 2030. The article discusses the evolution of technology nodes from 20 µm in 1968 to 2 nm today, highlighting how photonics advancements and chiplet technology are essential for achieving higher transistor densities while maintaining performance improvements.</p><p><img src="https://spie.org/images/Graphics/Photonics%20Focus/V6_iss2/Fab14-920.jpg" alt="Moore&#39;s Law Chart"></p><hr><h2 id="Research"><a href="#Research" class="headerlink" title="Research"></a><a href="https://techxplore.com/news/2022-06-3d-electronics.html">Research</a></h2><p><strong>Research Allows for 3D Printing of ‘Organic Electronics’</strong><br>Researchers at the University of Houston have developed a process for 3D printing organic semiconductor devices using multiphoton lithography. This technology enables the fabrication of flexible electronic circuits, biosensors, and bioelectronics with enhanced conductivity, paving the way for applications in biomedical fields and next-generation electronics.</p><p><img src="https://scx2.b-cdn.net/gfx/news/2022/research-allows-for-3d.jpg" alt="3D Printed Electronics"></p><hr><h2 id="Insight"><a href="#Insight" class="headerlink" title="Insight"></a><a href="https://semiwiki.com/ceo-interviews/353842-ceo-interview-with-jonas-sundqvist-of-alixlabs/">Insight</a></h2><p><strong>CEO Interview with Jonas Sundqvist of AlixLabs</strong><br>Jonas Sundqvist discusses the innovative Atomic Layer Etch (ALE) technology developed by AlixLabs, which aims to reduce costs and improve yields in semiconductor manufacturing. He highlights how their APS (ALE Pitch Splitting) process provides a sustainable alternative to traditional multi-patterning techniques, addressing key challenges in the semiconductor industry as it scales down feature sizes.</p><p><img src="https://semiwiki.com/wp-content/uploads/2025/03/04_AlixLabs_portrait_211116-1200x800.jpg" alt="Jonas Sundqvist"></p><hr><p>Stay tuned for more updates as we continue to explore the latest trends and innovations in the semiconductor industry!</p>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;h2 id=&quot;News&quot;&gt;&lt;a href=&quot;#News&quot; class=&quot;headerlink&quot; title=&quot;News&quot;&gt;&lt;/a&gt;&lt;a href=&quot;https://spectrum.ieee.org/intel-says-its-manufacturing-tech-will-</summary>
-      
-    
-    
-    
-    <category term="Lithography" scheme="https://blackfireagent.github.io/opensemi/categories/Lithography/"/>
-    
-    
-    <category term="AI" scheme="https://blackfireagent.github.io/opensemi/tags/AI/"/>
-    
-    <category term="innovation" scheme="https://blackfireagent.github.io/opensemi/tags/innovation/"/>
-    
-    <category term="sustainability" scheme="https://blackfireagent.github.io/opensemi/tags/sustainability/"/>
-    
-    <category term="semiconductors" scheme="https://blackfireagent.github.io/opensemi/tags/semiconductors/"/>
-    
-    <category term="lithography" scheme="https://blackfireagent.github.io/opensemi/tags/lithography/"/>
     
   </entry>
   
