@@ -4,6 +4,39 @@
   
     
     <entry>
+      <title>Power Gating Enabling in Neural Processing Units</title>
+      <link href="/opensemi/20250819_Power-Gating-Enabling-in-Neural-Processing-Units/"/>
+      <url>/opensemi/20250819_Power-Gating-Enabling-in-Neural-Processing-Units/</url>
+      
+        <content type="html"><![CDATA[<h2 id="News"><a href="#News" class="headerlink" title="News"></a><a href="https://www.eetimes.com/india-approves-550m-for-semiconductor-expansion-across-three-states/">News</a></h2><p><strong>India Approves $550M for Semiconductor Expansion Across Three States</strong><br>The Indian government has approved four new semiconductor manufacturing projects under the India Semiconductor Mission, with a total outlay of $550 million. The projects are set to create over 2,000 skilled jobs and will be located in Odisha, Punjab, and Andhra Pradesh. The new initiatives reflect India’s growing commitment to the semiconductor sector and aim to bolster its global competitiveness in chip manufacturing.</p><p><img src="https://www.eetimes.com/wp-content/uploads/India-manufacturing_Razdan_Gem.jpg" alt="India Semiconductor Expansion"></p><hr><h2 id="Launches"><a href="#Launches" class="headerlink" title="Launches"></a><a href="https://techxplore.com/news/2025-08-power-microwave-brain-chip-ultrafast.html">Launches</a></h2><p><strong>Low-power ‘microwave brain’ on a chip computes on both ultrafast data and wireless signals</strong><br>Cornell University researchers have developed a groundbreaking low-power microchip, termed the “microwave brain.” This processor can handle ultrafast data signals and wireless communication tasks simultaneously, achieving significant efficiency with less than 200 milliwatts of power. This innovation promises to revolutionize edge computing capabilities.</p><p><img src="https://scx2.b-cdn.net/gfx/news/hires/2021/neural-network-1.jpg" alt="Microwave Brain"></p><hr><h2 id="Charts"><a href="#Charts" class="headerlink" title="Charts"></a><a href="https://semiengineering.com/server-scale-programmable-photonic-fabric-to-interconnect-accelerators-within-servers-cornell-university-lightmatter/">Charts</a></h2><p><strong>Server-Scale Programmable Photonic Fabric to Interconnect Accelerators Within Servers</strong><br>Researchers at Cornell University and Lightmatter have introduced Morphlux, a programmable photonic fabric that enhances interconnects between accelerator chips in servers. This innovation addresses the bandwidth limitations currently faced by ML-centric data centers, potentially improving training throughput of ML models significantly.</p><p><img src="https://semiengineering.com/wp-content/uploads/AdobeStock_576655008-June-15-2023-scaled.jpeg" alt="Programmable Photonic Fabric"></p><hr><h2 id="Research"><a href="#Research" class="headerlink" title="Research"></a><a href="https://semiengineering.com/power-gating-enabling-in-npus-univ-of-illinois-urbana-champaign/">Research</a></h2><p><strong>Power Gating Enabling in Neural Processing Units</strong><br>A new study from the University of Illinois Urbana-Champaign introduces ReGate, a method for enabling power gating in Neural Processing Units (NPUs). This approach promises to reduce energy consumption by up to 32.8% while maintaining AI workload performance, marking a significant step towards more sustainable data center operations.</p><p><img src="https://semiengineering.com/wp-content/uploads/AdobeStock_175523179-01-29-25-scaled.jpeg" alt="Power Gating in NPUs"></p><hr><h2 id="Insight"><a href="#Insight" class="headerlink" title="Insight"></a><a href="https://semiwiki.com/ceo-interviews/360070-ceo-interview-with-russ-garcia-with-menlo-micro/">Insight</a></h2><p><strong>CEO Interview with Russ Garcia of Menlo Micro</strong><br>Russ Garcia, CEO of Menlo Microsystems, discusses the company’s innovative MEMS switch technology. He highlights how this technology is revolutionizing the RF switch market by addressing the limitations of traditional switches, enabling higher performance across various industries including AI and aerospace. Garcia emphasizes the importance of collaboration with customers to drive future innovations.</p><p><img src="https://semiwiki.com/wp-content/uploads/2025/08/RussGarcia_MenloCEO-857x1200.jpg" alt="Russ Garcia"></p><hr><p>Stay tuned for more updates in the semiconductor industry as we continue to bring you the latest news, launches, and insights from this rapidly evolving field!</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> Device </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> AI </tag>
+            
+            <tag> innovation </tag>
+            
+            <tag> manufacturing </tag>
+            
+            <tag> semiconductors </tag>
+            
+            <tag> quantum computing </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>In-NAND Self-Encryption Architecture In A 4D-NAND Structure</title>
       <link href="/opensemi/20250815_In-NAND-Self-Encryption-Architecture-In-A-4D-NAND-Structure/"/>
       <url>/opensemi/20250815_In-NAND-Self-Encryption-Architecture-In-A-4D-NAND-Structure/</url>
@@ -24,11 +57,11 @@
             
             <tag> semiconductor </tag>
             
+            <tag> memory </tag>
+            
             <tag> SoC </tag>
             
             <tag> architecture </tag>
-            
-            <tag> memory </tag>
             
         </tags>
       
@@ -53,9 +86,9 @@
       
         <tags>
             
-            <tag> semiconductors </tag>
-            
             <tag> manufacturing </tag>
+            
+            <tag> semiconductors </tag>
             
             <tag> quantum computing </tag>
             
@@ -251,9 +284,9 @@
             
             <tag> innovation </tag>
             
-            <tag> semiconductors </tag>
-            
             <tag> research </tag>
+            
+            <tag> semiconductors </tag>
             
             <tag> startups </tag>
             
@@ -348,9 +381,9 @@
             
             <tag> innovation </tag>
             
-            <tag> semiconductors </tag>
-            
             <tag> research </tag>
+            
+            <tag> semiconductors </tag>
             
             <tag> lithography </tag>
             
@@ -412,9 +445,9 @@
             
             <tag> technology </tag>
             
-            <tag> semiconductors </tag>
-            
             <tag> research </tag>
+            
+            <tag> semiconductors </tag>
             
             <tag> electronics </tag>
             
@@ -606,9 +639,9 @@
             
             <tag> innovation </tag>
             
-            <tag> semiconductors </tag>
-            
             <tag> research </tag>
+            
+            <tag> semiconductors </tag>
             
         </tags>
       
@@ -734,9 +767,9 @@
             
             <tag> AI </tag>
             
-            <tag> semiconductors </tag>
-            
             <tag> research </tag>
+            
+            <tag> semiconductors </tag>
             
             <tag> advanced packaging </tag>
             
@@ -767,9 +800,9 @@
             
             <tag> AI </tag>
             
-            <tag> chip design </tag>
-            
             <tag> semiconductors </tag>
+            
+            <tag> chip design </tag>
             
             <tag> memory technology </tag>
             
@@ -895,13 +928,13 @@
             
             <tag> AI </tag>
             
-            <tag> chip design </tag>
-            
             <tag> semiconductors </tag>
             
-            <tag> quantum technology </tag>
+            <tag> chip design </tag>
             
             <tag> 3D printing </tag>
+            
+            <tag> quantum technology </tag>
             
         </tags>
       
@@ -932,9 +965,9 @@
             
             <tag> chip design </tag>
             
-            <tag> optical interconnects </tag>
-            
             <tag> quantum technology </tag>
+            
+            <tag> optical interconnects </tag>
             
         </tags>
       
@@ -1120,9 +1153,9 @@
             
             <tag> AI </tag>
             
-            <tag> photonics </tag>
-            
             <tag> semiconductors </tag>
+            
+            <tag> photonics </tag>
             
             <tag> memory technology </tag>
             
@@ -1188,9 +1221,9 @@
             
             <tag> innovation </tag>
             
-            <tag> chip design </tag>
-            
             <tag> semiconductors </tag>
+            
+            <tag> chip design </tag>
             
             <tag> supply chain </tag>
             
@@ -1409,9 +1442,9 @@
             
             <tag> innovation </tag>
             
-            <tag> semiconductors </tag>
-            
             <tag> manufacturing </tag>
+            
+            <tag> semiconductors </tag>
             
         </tags>
       
@@ -1473,9 +1506,9 @@
             
             <tag> innovation </tag>
             
-            <tag> semiconductors </tag>
-            
             <tag> manufacturing </tag>
+            
+            <tag> semiconductors </tag>
             
             <tag> chiplets </tag>
             
@@ -1632,9 +1665,9 @@
             
             <tag> innovation </tag>
             
-            <tag> semiconductors </tag>
-            
             <tag> manufacturing </tag>
+            
+            <tag> semiconductors </tag>
             
         </tags>
       
@@ -1665,9 +1698,9 @@
             
             <tag> innovation </tag>
             
-            <tag> manufacturing </tag>
-            
             <tag> legislation </tag>
+            
+            <tag> manufacturing </tag>
             
         </tags>
       
