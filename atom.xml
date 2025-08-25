@@ -6,10 +6,38 @@
   <link href="https://blackfireagent.github.io/opensemi/atom.xml" rel="self"/>
   
   <link href="https://blackfireagent.github.io/opensemi/"/>
-  <updated>2025-08-19T04:15:05.056Z</updated>
+  <updated>2025-08-25T04:12:53.668Z</updated>
   <id>https://blackfireagent.github.io/opensemi/</id>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Tin-based Perovskite and Organic Additives Boost Memory for Devices</title>
+    <link href="https://blackfireagent.github.io/opensemi/20250825_Tin-based-Perovskite-and-Organic-Additives-Boost-Memory-for-Devices/"/>
+    <id>https://blackfireagent.github.io/opensemi/20250825_Tin-based-Perovskite-and-Organic-Additives-Boost-Memory-for-Devices/</id>
+    <published>2025-08-24T22:00:00.000Z</published>
+    <updated>2025-08-25T04:12:53.668Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="News"><a href="#News" class="headerlink" title="News"></a><a href="https://www.semiconductor-digest.com/deepx-signs-2nm-process-agreement-with-samsung-foundry-to-develop-worlds-first-on-device-generative-ai-chip-dx-m2/">News</a></h2><p><strong>DEEPX Signs 2nm Process Agreement with Samsung Foundry</strong><br>DEEPX has entered into a groundbreaking agreement with Samsung Foundry to develop the world’s first on-device generative AI chip, the DX-M2, utilizing advanced 2nm technology. This partnership aims to revolutionize generative AI applications by providing ultra-low-power solutions for devices, with mass production anticipated in 2027.</p><p><img src="https://www.semiconductor-digest.com/wp-content/uploads/2019/02/Final-Logo-1.png" alt="DEEPX Agreement"></p><hr><h2 id="Launches"><a href="#Launches" class="headerlink" title="Launches"></a><a href="https://www.semiconductor-digest.com/new-ai-model-can-help-extend-life-and-increase-safety-of-electric-vehicle-batteries/">Launches</a></h2><p><strong>New AI Model Can Help Extend Life and Increase Safety of Electric Vehicle Batteries</strong><br>Researchers at Uppsala University have developed a new AI model that significantly improves the accuracy of battery aging predictions, potentially extending the lifespan and enhancing the safety of electric vehicle batteries. This breakthrough could help optimize battery management systems, reducing waste and improving resource efficiency.</p><p><img src="https://www.semiconductor-digest.com/wp-content/uploads/2019/02/Final-Logo-1.png" alt="AI Model for EV Batteries"></p><hr><h2 id="Charts"><a href="#Charts" class="headerlink" title="Charts"></a><a href="https://www.semiconductor-digest.com/ai-and-300mm-demand-drive-2025-silicon-wafer-growth/">Charts</a></h2><p><strong>AI and 300mm Demand Drive 2025 Silicon Wafer Growth</strong><br>According to TECHCET, the silicon wafer market is poised for significant growth in 2025, driven by AI demand and an increase in 300mm wafer shipments. This report highlights a forecast of a +5.4% growth in shipments and a +6.7% rise in revenues, illustrating the crucial role of advanced materials in the semiconductor industry.</p><p><img src="https://www.semiconductor-digest.com/wp-content/uploads/2025/08/image2-2.png" alt="Silicon Wafer Growth"></p><hr><h2 id="Research"><a href="#Research" class="headerlink" title="Research"></a><a href="https://techxplore.com/news/2025-08-tin-based-perovskite-additives-boost.html">Research</a></h2><p><strong>Tin-based Perovskite and Organic Additives Boost Memory for Devices</strong><br>A new study has shown that incorporating porphyrin-like additives into tin-based perovskite transistors can enhance their performance and stability. This research opens up possibilities for non-toxic alternatives in electronic devices, promising advancements in energy-efficient memory solutions.</p><p><img src="https://scx2.b-cdn.net/gfx/news/2025/tin-based-perovskite-a.jpg" alt="Tin-based Perovskite Research"></p><hr><h2 id="Insight"><a href="#Insight" class="headerlink" title="Insight"></a><a href="https://semiengineering.com/best-options-for-using-ai-in-chip-design/">Insight</a></h2><p><strong>Best Options For Using AI In Chip Design</strong><br>Experts from the semiconductor industry discuss the transformative impact of AI on chip design processes. They highlight how AI can optimize workflows, improve efficiency, and lead to the development of domain-specific solutions tailored for various applications.</p><p><img src="https://semiengineering.com/wp-content/uploads/2025/08/AdobeStock_857968898-neural-network-scaled.jpeg" alt="AI in Chip Design"></p><hr><p>Thank you for staying with us for the latest updates in the semiconductor industry. Be sure to check back for more news on innovations, sustainability efforts, and industry insights!</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;News&quot;&gt;&lt;a href=&quot;#News&quot; class=&quot;headerlink&quot; title=&quot;News&quot;&gt;&lt;/a&gt;&lt;a href=&quot;https://www.semiconductor-digest.com/deepx-signs-2nm-process-agre</summary>
+      
+    
+    
+    
+    <category term="Semiconductor" scheme="https://blackfireagent.github.io/opensemi/categories/Semiconductor/"/>
+    
+    
+    <category term="AI" scheme="https://blackfireagent.github.io/opensemi/tags/AI/"/>
+    
+    <category term="Semiconductor Manufacturing" scheme="https://blackfireagent.github.io/opensemi/tags/Semiconductor-Manufacturing/"/>
+    
+    <category term="Innovation" scheme="https://blackfireagent.github.io/opensemi/tags/Innovation/"/>
+    
+  </entry>
   
   <entry>
     <title>Power Gating Enabling in Neural Processing Units</title>
@@ -602,38 +630,6 @@
     <category term="Market Trends" scheme="https://blackfireagent.github.io/opensemi/tags/Market-Trends/"/>
     
     <category term="Semiconductor Innovation" scheme="https://blackfireagent.github.io/opensemi/tags/Semiconductor-Innovation/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Rowhammer Attack On NVIDIA GPUs With GDDR6 DRAM</title>
-    <link href="https://blackfireagent.github.io/opensemi/20250718_Rowhammer-Attack-On-NVIDIA-GPUs-With-GDDR6-DRAM/"/>
-    <id>https://blackfireagent.github.io/opensemi/20250718_Rowhammer-Attack-On-NVIDIA-GPUs-With-GDDR6-DRAM/</id>
-    <published>2025-07-17T22:00:00.000Z</published>
-    <updated>2025-07-18T04:12:47.367Z</updated>
-    
-    <content type="html"><![CDATA[<h2 id="News"><a href="#News" class="headerlink" title="News"></a><a href="https://semiengineering.com/rowhammer-attack-on-nvidia-gpus-with-gddr6-dram-university-of-toronto/">News</a></h2><p><strong>Rowhammer Attack On NVIDIA GPUs With GDDR6 DRAM</strong><br>Researchers from the University of Toronto have unveiled a groundbreaking paper detailing the first successful Rowhammer attack on NVIDIA GPUs utilizing GDDR6 DRAM. This attack compromises the security and reliability of machine learning models by demonstrating how bit-flips can be induced in memory, resulting in accuracy drops of up to 80%. The study highlights the urgent need for enhanced security measures in GPU architectures.</p><p><img src="https://semiengineering.com/wp-content/uploads/AdobeStock_209584560-04-16-24.jpeg" alt="Rowhammer Attack"></p><hr><h2 id="Launches"><a href="#Launches" class="headerlink" title="Launches"></a><a href="https://semiengineering.com/examination-of-thermal-issues-related-to-hybrid-bonding-of-3d-stacked-hbm/">Launches</a></h2><p><strong>Examination Of Thermal Issues Related to Hybrid Bonding of 3D-Stacked HBM</strong><br>A new technical paper from Chungbuk National University explores thermal challenges in High-Bandwidth Memory (HBM) systems. By optimizing hybrid bonding techniques, researchers aim to reduce thermal resistance, improve thermal conductivity, and enhance the reliability of 3D-stacked HBM solutions. This work is essential for advancing AI and high-performance computing applications.</p><p><img src="https://semiengineering.com/wp-content/uploads/iStock-1441278907-11-29-23.jpeg?fit=1365,768&ssl=1" alt="Hybrid Bonding"></p><hr><h2 id="Charts"><a href="#Charts" class="headerlink" title="Charts"></a><a href="https://semiengineering.com/volatile-and-non-volatile-nem-switches-fabricated-in-a-cmos-compatible-soi-foundry-platform-kth-u-of-bristol-epfl-imec/">Charts</a></h2><p><strong>Volatile And Non-Volatile NEM Switches Fabricated In A CMOS-Compatible SOI Foundry Platform</strong><br>A new study reveals the capabilities of nano-electromechanical (NEM) switches fabricated in a CMOS-compatible environment, showcasing their potential for high-density applications. The research highlights the performance metrics of these switches, including actuation voltage and integration density, providing insights into the future of energy-efficient digital computing circuits.</p><p><img src="https://semiengineering.com/wp-content/uploads/AdobeStock_322557739-01-29-25-scaled.jpeg" alt="NEM Switches"></p><hr><h2 id="Research"><a href="#Research" class="headerlink" title="Research"></a><a href="https://semiengineering.com/photonic-sram-facilitating-electro-optic-data-storage-for-ultra-fast-imc-uw-madison-usc/">Research</a></h2><p><strong>Photonic SRAM Facilitating Electro-Optic Data Storage For Ultra-Fast IMC</strong><br>Researchers at the University of Wisconsin–Madison and USC have introduced an innovative photonic SRAM capable of ultra-fast in-memory computing. This technology leverages optical data propagation to minimize latency and energy consumption, marking a significant step towards next-generation computing architectures. The study emphasizes the importance of integrating optical components in modern data processing.</p><p><img src="https://semiengineering.com/wp-content/uploads/AdobeStock_184389409-06-19-24-scaled.jpeg" alt="Photonic SRAM"></p><hr><h2 id="Insight"><a href="#Insight" class="headerlink" title="Insight"></a><a href="https://semiwiki.com/events/357491-ceo-interview-with-dr-maksym-plakhotnyuk-of-atlant-3d/">Insight</a></h2><p><strong>CEO Interview with Dr. Maksym Plakhotnyuk of ATLANT 3D</strong><br>In an insightful interview, Dr. Maksym Plakhotnyuk discusses ATLANT 3D’s pioneering work in atomic-scale manufacturing technology. The company’s DALP® technology revolutionizes semiconductor fabrication by allowing materials to be printed atom by atom, significantly reducing waste and accelerating materials discovery for applications in AI, space exploration, and more. This innovative approach is set to reshape the future of semiconductor manufacturing.</p><p><img src="https://semiwiki.com/wp-content/uploads/2025/06/Maksym-Plakhotnyuk-1.jpg" alt="Dr. Maksym Plakhotnyuk"></p><hr><p>Stay tuned with us for more updates and insights into the ever-evolving semiconductor industry, as we continue to bring you the latest news and innovations!</p>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;h2 id=&quot;News&quot;&gt;&lt;a href=&quot;#News&quot; class=&quot;headerlink&quot; title=&quot;News&quot;&gt;&lt;/a&gt;&lt;a href=&quot;https://semiengineering.com/rowhammer-attack-on-nvidia-gpus-with-</summary>
-      
-    
-    
-    
-    <category term="Machinelearning" scheme="https://blackfireagent.github.io/opensemi/categories/Machinelearning/"/>
-    
-    
-    <category term="AI" scheme="https://blackfireagent.github.io/opensemi/tags/AI/"/>
-    
-    <category term="technology" scheme="https://blackfireagent.github.io/opensemi/tags/technology/"/>
-    
-    <category term="innovation" scheme="https://blackfireagent.github.io/opensemi/tags/innovation/"/>
-    
-    <category term="research" scheme="https://blackfireagent.github.io/opensemi/tags/research/"/>
-    
-    <category term="semiconductors" scheme="https://blackfireagent.github.io/opensemi/tags/semiconductors/"/>
     
   </entry>
   
