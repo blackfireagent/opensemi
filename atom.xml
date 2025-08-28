@@ -6,10 +6,42 @@
   <link href="https://blackfireagent.github.io/opensemi/atom.xml" rel="self"/>
   
   <link href="https://blackfireagent.github.io/opensemi/"/>
-  <updated>2025-08-26T04:13:05.226Z</updated>
+  <updated>2025-08-28T04:07:40.957Z</updated>
   <id>https://blackfireagent.github.io/opensemi/</id>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Marvell Unveils Industry&#39;s First 2-nm Custom SRAM for AI Applications</title>
+    <link href="https://blackfireagent.github.io/opensemi/20250828_Marvell-Unveils-Industry&#39;s-First-2-nm-Custom-SRAM-for-AI-Applications/"/>
+    <id>https://blackfireagent.github.io/opensemi/20250828_Marvell-Unveils-Industry&#39;s-First-2-nm-Custom-SRAM-for-AI-Applications/</id>
+    <published>2025-08-27T22:00:00.000Z</published>
+    <updated>2025-08-28T04:07:40.957Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="News"><a href="#News" class="headerlink" title="News"></a><a href="https://www.eetimes.com/two-ways-of-looking-at-the-u-s-government-10-stake-in-intel/">News</a></h2><p><strong>U.S. Government Takes 10% Stake in Intel amid Strategic Manufacturing Initiative</strong><br>The U.S. government has made a bold move by acquiring a 10% equity stake in Intel, a pivotal part of its broader manufacturing initiative aimed at bolstering national security and competitiveness in the semiconductor sector. This investment comes with a backdrop of geopolitical pressures and highlights the challenges Intel faces against competitors like AMD and Nvidia. While some view this as a necessary lifeline for the iconic chipmaker, critics express concerns over government interference in the market.</p><p><img src="https://www.eetimes.com/wp-content/uploads/shutterstock_1169448904-e1663002665413.jpg" alt="U.S. Government Stake in Intel"></p><hr><h2 id="Launches"><a href="#Launches" class="headerlink" title="Launches"></a><a href="https://www.eetimes.com/embedded-sram-adds-ai-horsepower/">Launches</a></h2><p><strong>Marvell Unveils Industry’s First 2-nm Custom SRAM for AI Applications</strong><br>Marvell Technology has launched a groundbreaking 2-nm custom SRAM designed to enhance memory performance in AI data centers. This new SRAM not only delivers high-speed memory capabilities but also significantly reduces power consumption by up to 66% compared to standard SRAM. This innovation aims to optimize memory hierarchy performance for custom XPUs and AI clusters, marking a significant step in the evolution of memory technology.</p><p><img src="https://www.eetimes.com/wp-content/uploads/AdobeStock_752656054.jpeg" alt="Marvell SRAM"></p><hr><h2 id="Charts"><a href="#Charts" class="headerlink" title="Charts"></a><a href="https://www.eetimes.com/chiplets-consolidation-wave-is-just-beginning/">Charts</a></h2><p><strong>The Rising Wave of Chiplet Consolidation</strong><br>The semiconductor industry is witnessing a burgeoning wave of consolidation in chiplet technology. Recent events highlight the growing interest and demand for chiplets as a means to address design complexities and enhance performance. A report indicates that strategic acquisitions are reshaping the chiplet value chain, with companies rapidly acquiring foundational IP and talent to capitalize on this multi-die technology.</p><p><img src="https://www.eetimes.com/wp-content/uploads/Chiplets_AdobeStock_1300342681_sm.jpg" alt="Chiplet Growth"></p><hr><h2 id="Research"><a href="#Research" class="headerlink" title="Research"></a><a href="https://www.eetimes.com/u-s-chip-tariffs-the-impacts-on-the-u-k-and-beyond/">Research</a></h2><p><strong>Impact of Potential U.S. Tariffs on the U.K. Semiconductor Industry</strong><br>Research into the implications of U.S. tariffs reveals significant concerns for the U.K. semiconductor sector. A proposed tariff could double the cost of chips sold from the U.K. to the U.S., jeopardizing margins and threatening the economic security of the U.K. semiconductor firms. The report emphasizes the interdependency and collaborative innovation between the U.S. and U.K. tech sectors, warning of adverse effects on both economies.</p><p><img src="https://www.eetimes.com/wp-content/uploads/Techworks_awards_2024-146_charles-Sturman.jpg" alt="U.K. Semiconductor Industry"></p><hr><h2 id="Insight"><a href="#Insight" class="headerlink" title="Insight"></a><a href="https://www.eetimes.com/iic-shenzhen-2025-exploring-digital-embodiment-and-supply-chain-diversity/">Insight</a></h2><p><strong>Insights from IIC Shenzhen 2025: Exploring Digital Embodiment</strong><br>The upcoming International IC &amp; Component Exhibition in Shenzhen will focus on ‘Digital Embodiment’ and its impact on the semiconductor industry. Key industry leaders will discuss the evolving paradigms of digital and analog technologies, aiming to inspire innovation and collaboration across the ecosystem. This summit will provide a platform for discussing the future of semiconductor technology amid rapidly changing market dynamics.</p><p><img src="https://www.eetimes.com/wp-content/uploads/IIC-Shenzhen-2024.png" alt="IIC Shenzhen 2025"></p><hr><p>Stay tuned for more updates and insights into the ever-evolving semiconductor industry as we continue to cover the latest trends and innovations shaping our future.</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;News&quot;&gt;&lt;a href=&quot;#News&quot; class=&quot;headerlink&quot; title=&quot;News&quot;&gt;&lt;/a&gt;&lt;a href=&quot;https://www.eetimes.com/two-ways-of-looking-at-the-u-s-government</summary>
+      
+    
+    
+    
+    <category term="Etch" scheme="https://blackfireagent.github.io/opensemi/categories/Etch/"/>
+    
+    
+    <category term="AI" scheme="https://blackfireagent.github.io/opensemi/tags/AI/"/>
+    
+    <category term="innovation" scheme="https://blackfireagent.github.io/opensemi/tags/innovation/"/>
+    
+    <category term="semiconductor" scheme="https://blackfireagent.github.io/opensemi/tags/semiconductor/"/>
+    
+    <category term="chiplets" scheme="https://blackfireagent.github.io/opensemi/tags/chiplets/"/>
+    
+    <category term="automotive" scheme="https://blackfireagent.github.io/opensemi/tags/automotive/"/>
+    
+  </entry>
   
   <entry>
     <title>Intel&#39;s Journey Towards Reinvention</title>
@@ -95,9 +127,9 @@
     
     <category term="innovation" scheme="https://blackfireagent.github.io/opensemi/tags/innovation/"/>
     
-    <category term="manufacturing" scheme="https://blackfireagent.github.io/opensemi/tags/manufacturing/"/>
-    
     <category term="semiconductors" scheme="https://blackfireagent.github.io/opensemi/tags/semiconductors/"/>
+    
+    <category term="manufacturing" scheme="https://blackfireagent.github.io/opensemi/tags/manufacturing/"/>
     
     <category term="quantum computing" scheme="https://blackfireagent.github.io/opensemi/tags/quantum-computing/"/>
     
@@ -127,11 +159,11 @@
     
     <category term="semiconductor" scheme="https://blackfireagent.github.io/opensemi/tags/semiconductor/"/>
     
+    <category term="SoC" scheme="https://blackfireagent.github.io/opensemi/tags/SoC/"/>
+    
     <category term="memory" scheme="https://blackfireagent.github.io/opensemi/tags/memory/"/>
     
     <category term="architecture" scheme="https://blackfireagent.github.io/opensemi/tags/architecture/"/>
-    
-    <category term="SoC" scheme="https://blackfireagent.github.io/opensemi/tags/SoC/"/>
     
   </entry>
   
@@ -155,9 +187,9 @@
     <category term="Etch" scheme="https://blackfireagent.github.io/opensemi/categories/Etch/"/>
     
     
-    <category term="manufacturing" scheme="https://blackfireagent.github.io/opensemi/tags/manufacturing/"/>
-    
     <category term="semiconductors" scheme="https://blackfireagent.github.io/opensemi/tags/semiconductors/"/>
+    
+    <category term="manufacturing" scheme="https://blackfireagent.github.io/opensemi/tags/manufacturing/"/>
     
     <category term="quantum computing" scheme="https://blackfireagent.github.io/opensemi/tags/quantum-computing/"/>
     
@@ -602,38 +634,6 @@
     <category term="lithography" scheme="https://blackfireagent.github.io/opensemi/tags/lithography/"/>
     
     <category term="photomask" scheme="https://blackfireagent.github.io/opensemi/tags/photomask/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Agile Analog&#39;s Composa Tool Revolutionizes Analog IP Design</title>
-    <link href="https://blackfireagent.github.io/opensemi/20250722_Agile-Analog&#39;s-Composa-Tool-Revolutionizes-Analog-IP-Design/"/>
-    <id>https://blackfireagent.github.io/opensemi/20250722_Agile-Analog&#39;s-Composa-Tool-Revolutionizes-Analog-IP-Design/</id>
-    <published>2025-07-21T22:00:00.000Z</published>
-    <updated>2025-07-22T04:08:59.258Z</updated>
-    
-    <content type="html"><![CDATA[<h2 id="News"><a href="#News" class="headerlink" title="News"></a><a href="https://www.eetimes.com/and-finally-synopsys-closes-35bn-purchase-of-ansys/">News</a></h2><p><strong>Synopsys Completes $35 Billion Acquisition of Ansys</strong><br>In a significant development, Synopsys has finalized its acquisition of Ansys for $35 billion, overcoming various regulatory hurdles amid trade tensions. This merger aims to deepen the integration of electronic design automation (EDA) with physics-based simulation tools, enhancing design capabilities for increasingly complex intelligent systems.</p><p><img src="https://www.eetimes.com/wp-content/uploads/Synopsys_headquarters-1.jpg" alt="Synopsys headquarters"></p><hr><h2 id="Launches"><a href="#Launches" class="headerlink" title="Launches"></a><a href="https://techxplore.com/news/2025-07-scalable-enables-device-large-language.html">Launches</a></h2><p><strong>New Scalable Transformer Accelerator Unit to Enable On-Device Execution of Large Language Models</strong><br>Researchers from Sejong University have unveiled the Scalable Transformer Accelerator Unit (STAU), a breakthrough designed for efficiently executing large language models directly on embedded systems. This innovation significantly reduces reliance on cloud infrastructure, enhancing the accessibility of AI capabilities on devices.</p><p><img src="https://scx2.b-cdn.net/gfx/news/hires/2025/scalable-transformer-a.jpg" alt="Scalable Transformer Accelerator"></p><hr><h2 id="Charts"><a href="#Charts" class="headerlink" title="Charts"></a><a href="https://semiwiki.com/eda/358463-new-cooling-strategies-for-future-computing/">Charts</a></h2><p><strong>Chip Power Densities and Cooling Challenges</strong><br>A recent panel at DAC 2025 highlighted the alarming increase in chip power densities, rising from 50-100 W&#x2F;cm² in 2010 to 200 W&#x2F;cm² in 2020. Various cooling strategies have been proposed to tackle these challenges, including circuit design adjustments, liquid cooling solutions, and innovative materials.</p><p><img src="https://semiwiki.com/wp-content/uploads/2025/07/thermal-panel-dac-min.jpg" alt="Cooling strategies"></p><hr><h2 id="Research"><a href="#Research" class="headerlink" title="Research"></a><a href="https://www.eetimes.com/rapidus-prototypes-2-nm-transistors-for-2027-ramp/">Research</a></h2><p><strong>Advancements in 2-Nanometer Transistor Technology</strong><br>Japanese startup Rapidus has begun prototyping 2-nanometer gate-all-around transistors, marking a crucial step towards its 2027 production timeline. This initiative, supported by IBM and imec, aims to place Rapidus in direct competition with industry giants like TSMC and Samsung.</p><p><img src="https://www.eetimes.com/wp-content/uploads/Rapidus-Wafer-Photo.webp" alt="2-nanometer wafer"></p><hr><h2 id="Insight"><a href="#Insight" class="headerlink" title="Insight"></a><a href="https://semiwiki.com/ip/358507-agile-analog-update-at-62dac/">Insight</a></h2><p><strong>Agile Analog’s Composa Tool Revolutionizes Analog IP Design</strong><br>At DAC 2025, Agile Analog’s VP of Product Marketing, Chris Morrison, discussed their innovative Composa tool, which automates analog IP design. This tool addresses the shortage of analog designers and accelerates the design process from days to mere minutes, demonstrating a significant advancement in the analog design landscape.</p><p><img src="https://semiwiki.com/wp-content/uploads/2025/07/agile-analog-min.jpeg" alt="Agile Analog Update"></p><hr><p>Stay tuned with us for the latest updates and innovations in the semiconductor industry as we continue to explore the technology shaping our future!</p>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;h2 id=&quot;News&quot;&gt;&lt;a href=&quot;#News&quot; class=&quot;headerlink&quot; title=&quot;News&quot;&gt;&lt;/a&gt;&lt;a href=&quot;https://www.eetimes.com/and-finally-synopsys-closes-35bn-purchase</summary>
-      
-    
-    
-    
-    <category term="Device" scheme="https://blackfireagent.github.io/opensemi/categories/Device/"/>
-    
-    
-    <category term="AI" scheme="https://blackfireagent.github.io/opensemi/tags/AI/"/>
-    
-    <category term="technology" scheme="https://blackfireagent.github.io/opensemi/tags/technology/"/>
-    
-    <category term="innovation" scheme="https://blackfireagent.github.io/opensemi/tags/innovation/"/>
-    
-    <category term="semiconductors" scheme="https://blackfireagent.github.io/opensemi/tags/semiconductors/"/>
-    
-    <category term="cooling" scheme="https://blackfireagent.github.io/opensemi/tags/cooling/"/>
     
   </entry>
   

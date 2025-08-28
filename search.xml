@@ -4,6 +4,39 @@
   
     
     <entry>
+      <title>Marvell Unveils Industry&#39;s First 2-nm Custom SRAM for AI Applications</title>
+      <link href="/opensemi/20250828_Marvell-Unveils-Industry&#39;s-First-2-nm-Custom-SRAM-for-AI-Applications/"/>
+      <url>/opensemi/20250828_Marvell-Unveils-Industry&#39;s-First-2-nm-Custom-SRAM-for-AI-Applications/</url>
+      
+        <content type="html"><![CDATA[<h2 id="News"><a href="#News" class="headerlink" title="News"></a><a href="https://www.eetimes.com/two-ways-of-looking-at-the-u-s-government-10-stake-in-intel/">News</a></h2><p><strong>U.S. Government Takes 10% Stake in Intel amid Strategic Manufacturing Initiative</strong><br>The U.S. government has made a bold move by acquiring a 10% equity stake in Intel, a pivotal part of its broader manufacturing initiative aimed at bolstering national security and competitiveness in the semiconductor sector. This investment comes with a backdrop of geopolitical pressures and highlights the challenges Intel faces against competitors like AMD and Nvidia. While some view this as a necessary lifeline for the iconic chipmaker, critics express concerns over government interference in the market.</p><p><img src="https://www.eetimes.com/wp-content/uploads/shutterstock_1169448904-e1663002665413.jpg" alt="U.S. Government Stake in Intel"></p><hr><h2 id="Launches"><a href="#Launches" class="headerlink" title="Launches"></a><a href="https://www.eetimes.com/embedded-sram-adds-ai-horsepower/">Launches</a></h2><p><strong>Marvell Unveils Industry’s First 2-nm Custom SRAM for AI Applications</strong><br>Marvell Technology has launched a groundbreaking 2-nm custom SRAM designed to enhance memory performance in AI data centers. This new SRAM not only delivers high-speed memory capabilities but also significantly reduces power consumption by up to 66% compared to standard SRAM. This innovation aims to optimize memory hierarchy performance for custom XPUs and AI clusters, marking a significant step in the evolution of memory technology.</p><p><img src="https://www.eetimes.com/wp-content/uploads/AdobeStock_752656054.jpeg" alt="Marvell SRAM"></p><hr><h2 id="Charts"><a href="#Charts" class="headerlink" title="Charts"></a><a href="https://www.eetimes.com/chiplets-consolidation-wave-is-just-beginning/">Charts</a></h2><p><strong>The Rising Wave of Chiplet Consolidation</strong><br>The semiconductor industry is witnessing a burgeoning wave of consolidation in chiplet technology. Recent events highlight the growing interest and demand for chiplets as a means to address design complexities and enhance performance. A report indicates that strategic acquisitions are reshaping the chiplet value chain, with companies rapidly acquiring foundational IP and talent to capitalize on this multi-die technology.</p><p><img src="https://www.eetimes.com/wp-content/uploads/Chiplets_AdobeStock_1300342681_sm.jpg" alt="Chiplet Growth"></p><hr><h2 id="Research"><a href="#Research" class="headerlink" title="Research"></a><a href="https://www.eetimes.com/u-s-chip-tariffs-the-impacts-on-the-u-k-and-beyond/">Research</a></h2><p><strong>Impact of Potential U.S. Tariffs on the U.K. Semiconductor Industry</strong><br>Research into the implications of U.S. tariffs reveals significant concerns for the U.K. semiconductor sector. A proposed tariff could double the cost of chips sold from the U.K. to the U.S., jeopardizing margins and threatening the economic security of the U.K. semiconductor firms. The report emphasizes the interdependency and collaborative innovation between the U.S. and U.K. tech sectors, warning of adverse effects on both economies.</p><p><img src="https://www.eetimes.com/wp-content/uploads/Techworks_awards_2024-146_charles-Sturman.jpg" alt="U.K. Semiconductor Industry"></p><hr><h2 id="Insight"><a href="#Insight" class="headerlink" title="Insight"></a><a href="https://www.eetimes.com/iic-shenzhen-2025-exploring-digital-embodiment-and-supply-chain-diversity/">Insight</a></h2><p><strong>Insights from IIC Shenzhen 2025: Exploring Digital Embodiment</strong><br>The upcoming International IC &amp; Component Exhibition in Shenzhen will focus on ‘Digital Embodiment’ and its impact on the semiconductor industry. Key industry leaders will discuss the evolving paradigms of digital and analog technologies, aiming to inspire innovation and collaboration across the ecosystem. This summit will provide a platform for discussing the future of semiconductor technology amid rapidly changing market dynamics.</p><p><img src="https://www.eetimes.com/wp-content/uploads/IIC-Shenzhen-2024.png" alt="IIC Shenzhen 2025"></p><hr><p>Stay tuned for more updates and insights into the ever-evolving semiconductor industry as we continue to cover the latest trends and innovations shaping our future.</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> Etch </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> AI </tag>
+            
+            <tag> innovation </tag>
+            
+            <tag> semiconductor </tag>
+            
+            <tag> chiplets </tag>
+            
+            <tag> automotive </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>Intel&#39;s Journey Towards Reinvention</title>
       <link href="/opensemi/20250826_Intel&#39;s-Journey-Towards-Reinvention/"/>
       <url>/opensemi/20250826_Intel&#39;s-Journey-Towards-Reinvention/</url>
@@ -86,9 +119,9 @@
             
             <tag> innovation </tag>
             
-            <tag> manufacturing </tag>
-            
             <tag> semiconductors </tag>
+            
+            <tag> manufacturing </tag>
             
             <tag> quantum computing </tag>
             
@@ -119,11 +152,11 @@
             
             <tag> semiconductor </tag>
             
+            <tag> SoC </tag>
+            
             <tag> memory </tag>
             
             <tag> architecture </tag>
-            
-            <tag> SoC </tag>
             
         </tags>
       
@@ -148,9 +181,9 @@
       
         <tags>
             
-            <tag> manufacturing </tag>
-            
             <tag> semiconductors </tag>
+            
+            <tag> manufacturing </tag>
             
             <tag> quantum computing </tag>
             
@@ -765,9 +798,9 @@
             
             <tag> innovation </tag>
             
-            <tag> sustainability </tag>
-            
             <tag> semiconductors </tag>
+            
+            <tag> sustainability </tag>
             
             <tag> lithography </tag>
             
@@ -862,9 +895,9 @@
             
             <tag> AI </tag>
             
-            <tag> chip design </tag>
-            
             <tag> semiconductors </tag>
+            
+            <tag> chip design </tag>
             
             <tag> memory technology </tag>
             
@@ -928,9 +961,9 @@
             
             <tag> innovation </tag>
             
-            <tag> sustainability </tag>
-            
             <tag> semiconductors </tag>
+            
+            <tag> sustainability </tag>
             
             <tag> investment </tag>
             
@@ -990,13 +1023,13 @@
             
             <tag> AI </tag>
             
-            <tag> chip design </tag>
-            
             <tag> semiconductors </tag>
             
-            <tag> 3D printing </tag>
+            <tag> chip design </tag>
             
             <tag> quantum technology </tag>
+            
+            <tag> 3D printing </tag>
             
         </tags>
       
@@ -1027,9 +1060,9 @@
             
             <tag> chip design </tag>
             
-            <tag> quantum technology </tag>
-            
             <tag> optical interconnects </tag>
+            
+            <tag> quantum technology </tag>
             
         </tags>
       
@@ -1215,9 +1248,9 @@
             
             <tag> AI </tag>
             
-            <tag> photonics </tag>
-            
             <tag> semiconductors </tag>
+            
+            <tag> photonics </tag>
             
             <tag> memory technology </tag>
             
@@ -1283,9 +1316,9 @@
             
             <tag> innovation </tag>
             
-            <tag> chip design </tag>
-            
             <tag> semiconductors </tag>
+            
+            <tag> chip design </tag>
             
             <tag> supply chain </tag>
             
@@ -1504,9 +1537,9 @@
             
             <tag> innovation </tag>
             
-            <tag> manufacturing </tag>
-            
             <tag> semiconductors </tag>
+            
+            <tag> manufacturing </tag>
             
         </tags>
       
@@ -1568,9 +1601,9 @@
             
             <tag> innovation </tag>
             
-            <tag> manufacturing </tag>
-            
             <tag> semiconductors </tag>
+            
+            <tag> manufacturing </tag>
             
             <tag> chiplets </tag>
             
@@ -1727,9 +1760,9 @@
             
             <tag> innovation </tag>
             
-            <tag> manufacturing </tag>
-            
             <tag> semiconductors </tag>
+            
+            <tag> manufacturing </tag>
             
         </tags>
       
@@ -1760,9 +1793,9 @@
             
             <tag> innovation </tag>
             
-            <tag> legislation </tag>
-            
             <tag> manufacturing </tag>
+            
+            <tag> legislation </tag>
             
         </tags>
       
@@ -1886,9 +1919,9 @@
             
             <tag> innovation </tag>
             
-            <tag> sustainability </tag>
-            
             <tag> semiconductor </tag>
+            
+            <tag> sustainability </tag>
             
         </tags>
       
@@ -1915,9 +1948,9 @@
             
             <tag> AI </tag>
             
-            <tag> Semiconductor Manufacturing </tag>
-            
             <tag> Market Trends </tag>
+            
+            <tag> Semiconductor Manufacturing </tag>
             
             <tag> Research </tag>
             
@@ -2035,9 +2068,9 @@
       
         <tags>
             
-            <tag> AI </tag>
-            
             <tag> packaging </tag>
+            
+            <tag> AI </tag>
             
             <tag> semiconductor technology </tag>
             
