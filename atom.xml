@@ -6,10 +6,40 @@
   <link href="https://blackfireagent.github.io/opensemi/atom.xml" rel="self"/>
   
   <link href="https://blackfireagent.github.io/opensemi/"/>
-  <updated>2025-08-28T04:07:40.957Z</updated>
+  <updated>2025-08-29T04:09:50.364Z</updated>
   <id>https://blackfireagent.github.io/opensemi/</id>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Thermally-Aware Multi-Objective Scheduling Framework for DL Workloads on Heterogeneous Multi-Chiplet PIM Architectures</title>
+    <link href="https://blackfireagent.github.io/opensemi/20250829_Thermally-Aware-Multi-Objective-Scheduling-Framework-for-DL-Workloads-on-Heterogeneous-Multi-Chiplet-PIM-Architectures/"/>
+    <id>https://blackfireagent.github.io/opensemi/20250829_Thermally-Aware-Multi-Objective-Scheduling-Framework-for-DL-Workloads-on-Heterogeneous-Multi-Chiplet-PIM-Architectures/</id>
+    <published>2025-08-28T22:00:00.000Z</published>
+    <updated>2025-08-29T04:09:50.364Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="News"><a href="#News" class="headerlink" title="News"></a><a href="https://semiengineering.com/wire-friendly-domain-specific-processor-for-angstrom-era-nodes-with-high-core-density-politecnico-di-torino-imec-et-al/">News</a></h2><p><strong>Wire-Friendly Domain-Specific Processor for Angstrom-Era Nodes with High Core Density</strong><br>A new paper from researchers at Politecnico di Torino and imec presents a domain-specific processor architecture aimed at machine learning applications. The design improves interconnect efficiency with reduced wire length and heightened core density, achieving more than 3x higher density than current state-of-the-art processors. This architecture is a promising solution for next-generation designs, showcasing minimal manual layout intervention for physical efficiency.</p><p><img src="https://semiengineering.com/wp-content/uploads/AdobeStock_531655551-04-16-24.jpeg" alt="Wire-Friendly Processor"></p><hr><h2 id="Launches"><a href="#Launches" class="headerlink" title="Launches"></a><a href="https://semiengineering.com/thermally-aware-multi-objective-scheduling-framework-for-dl-workloads-on-heterogeneous-multi-chiplet-pim-architectures-wisconsin-madison-washington-state/">Launches</a></h2><p><strong>Thermally-Aware Multi-Objective Scheduling Framework for DL Workloads on Heterogeneous Multi-Chiplet PIM Architectures</strong><br>Researchers from the University of Wisconsin–Madison have introduced THERMOS, a novel scheduling framework for AI workloads on heterogeneous multi-chiplet architectures. The framework employs reinforcement learning to optimize execution time and energy consumption, achieving up to 89% faster performance compared to existing algorithms, while maintaining minimal overhead.</p><p><img src="https://semiengineering.com/wp-content/uploads/Torquoise-chip-10-22-20AdobeStock_189358603-scaled.jpeg" alt="THERMOS Framework"></p><hr><h2 id="Charts"><a href="#Charts" class="headerlink" title="Charts"></a><a href="https://semiengineering.com/scheduling-architecture-integrated-with-m3d-beol-memories-for-llm-inference-georgia-tech-samsung/">Charts</a></h2><p><strong>Scheduling Architecture Integrated With M3D BEOL Memories For LLM Inference</strong><br>A study from Georgia Tech and Samsung presents a scheduling architecture designed to enhance long-context large language model inference. The architectural optimizations achieve significant performance improvements, including 8.06x decode speedup and reduced latency, addressing the bottlenecks associated with high bandwidth memory.</p><p><img src="https://semiengineering.com/wp-content/uploads/2019/09/iStock-927247700-Brain-AI.jpg" alt="LLM Inference Architecture"></p><hr><h2 id="Research"><a href="#Research" class="headerlink" title="Research"></a><a href="https://semiengineering.com/energy-efficient-signal-detectors-for-massive-mimo-using-sram-based-imcs-univ-of-illinois-at-urbana-champaign/">Research</a></h2><p><strong>Energy-Accuracy Trade-Offs in Massive MIMO Signal Detection Using SRAM-Based IMCs</strong><br>Research from the University of Illinois at Urbana–Champaign dives into energy-efficient signal detection for massive MIMO systems using SRAM-based in-memory computing architectures. The study explores the balance between energy consumption and accuracy, showcasing how IMC-based detectors can outperform conventional designs while meeting stringent accuracy requirements.</p><p><img src="https://semiengineering.com/wp-content/uploads/AdobeStock_322782977-01-29-25-scaled.jpeg" alt="Energy-Efficient Signal Detection"></p><hr><h2 id="Insight"><a href="#Insight" class="headerlink" title="Insight"></a><a href="https://semiwiki.com/events/360372-synopsys-enables-ai-advances-with-ualink/">Insight</a></h2><p><strong>Synopsys Enables AI Advances with UALink</strong><br>In a recent discussion, Synopsys’ industry experts outlined the transformative impact of the UALink standard on AI infrastructure. The open specification improves die-to-die communication among AI accelerators, addressing critical design challenges in hyperscale data centers. Insights from the panel highlight the collaborative efforts of over 100 companies in advancing AI technology and optimizing memory access.</p><p><img src="https://semiwiki.com/wp-content/uploads/2025/08/Synopsys-Enables-AI-Advances-with-UALink-1200x625.png" alt="Synopsys UALink Discussion"></p><hr><p>Thank you for staying with us for the latest news in the semiconductor industry. We look forward to bringing you more updates and insights into emerging technologies and innovations in the field.</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;News&quot;&gt;&lt;a href=&quot;#News&quot; class=&quot;headerlink&quot; title=&quot;News&quot;&gt;&lt;/a&gt;&lt;a href=&quot;https://semiengineering.com/wire-friendly-domain-specific-process</summary>
+      
+    
+    
+    
+    <category term="Machinelearning" scheme="https://blackfireagent.github.io/opensemi/categories/Machinelearning/"/>
+    
+    
+    <category term="AI" scheme="https://blackfireagent.github.io/opensemi/tags/AI/"/>
+    
+    <category term="semiconductor" scheme="https://blackfireagent.github.io/opensemi/tags/semiconductor/"/>
+    
+    <category term="chip design" scheme="https://blackfireagent.github.io/opensemi/tags/chip-design/"/>
+    
+    <category term="verification" scheme="https://blackfireagent.github.io/opensemi/tags/verification/"/>
+    
+  </entry>
   
   <entry>
     <title>Marvell Unveils Industry&#39;s First 2-nm Custom SRAM for AI Applications</title>
@@ -127,9 +157,9 @@
     
     <category term="innovation" scheme="https://blackfireagent.github.io/opensemi/tags/innovation/"/>
     
-    <category term="semiconductors" scheme="https://blackfireagent.github.io/opensemi/tags/semiconductors/"/>
-    
     <category term="manufacturing" scheme="https://blackfireagent.github.io/opensemi/tags/manufacturing/"/>
+    
+    <category term="semiconductors" scheme="https://blackfireagent.github.io/opensemi/tags/semiconductors/"/>
     
     <category term="quantum computing" scheme="https://blackfireagent.github.io/opensemi/tags/quantum-computing/"/>
     
@@ -159,9 +189,9 @@
     
     <category term="semiconductor" scheme="https://blackfireagent.github.io/opensemi/tags/semiconductor/"/>
     
-    <category term="SoC" scheme="https://blackfireagent.github.io/opensemi/tags/SoC/"/>
-    
     <category term="memory" scheme="https://blackfireagent.github.io/opensemi/tags/memory/"/>
+    
+    <category term="SoC" scheme="https://blackfireagent.github.io/opensemi/tags/SoC/"/>
     
     <category term="architecture" scheme="https://blackfireagent.github.io/opensemi/tags/architecture/"/>
     
@@ -187,9 +217,9 @@
     <category term="Etch" scheme="https://blackfireagent.github.io/opensemi/categories/Etch/"/>
     
     
-    <category term="semiconductors" scheme="https://blackfireagent.github.io/opensemi/tags/semiconductors/"/>
-    
     <category term="manufacturing" scheme="https://blackfireagent.github.io/opensemi/tags/manufacturing/"/>
+    
+    <category term="semiconductors" scheme="https://blackfireagent.github.io/opensemi/tags/semiconductors/"/>
     
     <category term="quantum computing" scheme="https://blackfireagent.github.io/opensemi/tags/quantum-computing/"/>
     
@@ -602,38 +632,6 @@
     <category term="Innovation" scheme="https://blackfireagent.github.io/opensemi/tags/Innovation/"/>
     
     <category term="Semiconductor" scheme="https://blackfireagent.github.io/opensemi/tags/Semiconductor/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Tekscend Photomask Expands Production Capacity in Europe</title>
-    <link href="https://blackfireagent.github.io/opensemi/20250723_Tekscend-Photomask-Expands-Production-Capacity-in-Europe/"/>
-    <id>https://blackfireagent.github.io/opensemi/20250723_Tekscend-Photomask-Expands-Production-Capacity-in-Europe/</id>
-    <published>2025-07-22T22:00:00.000Z</published>
-    <updated>2025-07-23T04:25:38.993Z</updated>
-    
-    <content type="html"><![CDATA[<h2 id="News"><a href="#News" class="headerlink" title="News"></a><a href="https://www.asml.com/en/news/press-releases/2025/q2-2025-financial-results">News</a></h2><p><strong>ASML reports €7.7 billion total net sales and €2.3 billion net income in Q2 2025</strong><br>ASML has released its financial results for Q2 2025, reporting net sales of €7.7 billion and a net income of €2.3 billion. The company noted that AI is expected to be a key driver for growth in the semiconductor industry, which will influence demand for lithography tools, crucial for innovation in chip manufacturing.</p><p><img src="https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41467-025-61533-3/MediaObjects/41467_2025_61533_Fig1_HTML.png" alt="ASML Q2 Financials"></p><hr><h2 id="Launches"><a href="#Launches" class="headerlink" title="Launches"></a><a href="https://www.nikonprecision.com/nikon-announces-first-back-end-process-lithography-system/">Launches</a></h2><p><strong>Nikon Digital Lithography System DSP-100 Launch</strong><br>Nikon Corporation has announced the launch of its Digital Lithography System DSP-100, catering to advanced packaging applications. This system supports large substrates up to 600mm square and delivers a high resolution of 1.0μm. The DSP-100 uses a maskless operation, enhancing flexibility and productivity in semiconductor manufacturing.</p><p><img src="https://www.nikonprecision.com/wp-content/uploads/2025/07/DigitalLithoSystemImage7-16-25.jpg" alt="Nikon DSP-100"></p><hr><h2 id="Charts"><a href="#Charts" class="headerlink" title="Charts"></a><a href="https://www.semiconductor-digest.com/events/spie-photomask-technology-extreme-ultraviolet-lithography-3/">Charts</a></h2><p><strong>SPIE Photomask Technology Conference Insights</strong><br>The upcoming SPIE Photomask Technology + Extreme Ultraviolet Lithography conference will showcase advancements in photomasks and lithography technologies. Attendees can expect to see statistical trends and market analyses that highlight the evolving landscape of semiconductor manufacturing processes.</p><p><img src="https://www.semiconductor-digest.com/wp-content/uploads/2019/02/Final-Logo-1.png" alt="SPIE Photomask Conference"></p><hr><h2 id="Research"><a href="#Research" class="headerlink" title="Research"></a><a href="https://www.nature.com/articles/s41467-025-61533-3">Research</a></h2><p><strong>Cascade upconversion: a strategy enabling four-photon lithography in weak light intensity</strong><br>Recent research demonstrates a novel upconversion technique utilizing Tm3+&#x2F;Yb3+-doped UCNPs for improved photopolymerization control in lithography. This method shows promise in achieving smaller feature sizes and enhancing precision in semiconductor fabrication, which could significantly impact future lithography technologies.</p><p><img src="https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41467-025-61533-3/MediaObjects/41467_2025_61533_Fig1_HTML.png" alt="CUCPP Research"></p><hr><h2 id="Insight"><a href="#Insight" class="headerlink" title="Insight"></a><a href="https://www.semiconductor-digest.com/tekscend-photomask-expands-production-capacity-in-europe-with-strategic-photomask-writing-investment/">Insight</a></h2><p><strong>Tekscend Photomask Expands Production Capacity in Europe</strong><br>Tekscend Photomask has made a strategic investment in a new photomask writing system at its Corbeil facility to enhance productivity and support complex mask designs. This move is part of their commitment to bolster Europe’s semiconductor ecosystem and ensure continuous supply for manufacturers.</p><p><img src="https://www.semiconductor-digest.com/wp-content/uploads/2019/02/Final-Logo-1.png" alt="Tekscend Expansion"></p><hr><p>Stay tuned for more updates as we continue to bring you the latest advancements and insights in the semiconductor industry.</p>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;h2 id=&quot;News&quot;&gt;&lt;a href=&quot;#News&quot; class=&quot;headerlink&quot; title=&quot;News&quot;&gt;&lt;/a&gt;&lt;a href=&quot;https://www.asml.com/en/news/press-releases/2025/q2-2025-financia</summary>
-      
-    
-    
-    
-    <category term="Lithography" scheme="https://blackfireagent.github.io/opensemi/categories/Lithography/"/>
-    
-    
-    <category term="AI" scheme="https://blackfireagent.github.io/opensemi/tags/AI/"/>
-    
-    <category term="technology" scheme="https://blackfireagent.github.io/opensemi/tags/technology/"/>
-    
-    <category term="semiconductor" scheme="https://blackfireagent.github.io/opensemi/tags/semiconductor/"/>
-    
-    <category term="lithography" scheme="https://blackfireagent.github.io/opensemi/tags/lithography/"/>
-    
-    <category term="photomask" scheme="https://blackfireagent.github.io/opensemi/tags/photomask/"/>
     
   </entry>
   
