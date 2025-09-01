@@ -6,10 +6,40 @@
   <link href="https://blackfireagent.github.io/opensemi/atom.xml" rel="self"/>
   
   <link href="https://blackfireagent.github.io/opensemi/"/>
-  <updated>2025-08-29T04:09:50.364Z</updated>
+  <updated>2025-09-01T04:15:34.803Z</updated>
   <id>https://blackfireagent.github.io/opensemi/</id>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>CEO Interview with Nir Minerbi of Classiq</title>
+    <link href="https://blackfireagent.github.io/opensemi/20250901_CEO-Interview-with-Nir-Minerbi-of-Classiq/"/>
+    <id>https://blackfireagent.github.io/opensemi/20250901_CEO-Interview-with-Nir-Minerbi-of-Classiq/</id>
+    <published>2025-08-31T22:00:00.000Z</published>
+    <updated>2025-09-01T04:15:34.803Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="News"><a href="#News" class="headerlink" title="News"></a><a href="https://www.semiconductor-digest.com/us-commerce-department-halts-7-4b-semiconductor-research-grant-deal-with-natcast/">News</a></h2><p><strong>US Commerce Department Halts $7.4B Semiconductor Research Grant Deal with Natcast</strong><br>The US Commerce Department has taken over responsibility for $7.4 billion in semiconductor research funding originally allocated to the National Center for the Advancement of Semiconductor Technology (Natcast). This move has raised concerns about the future of semiconductor leadership in the US, as the agency claims Natcast was created illegally and may not fulfill its intended mission. </p><p><img src="https://www.semiconductor-digest.com/wp-content/uploads/2025/08/54106551682_d1bb90306f_z.jpg" alt="image title"></p><hr><h2 id="Launches"><a href="#Launches" class="headerlink" title="Launches"></a><a href="https://www.semiconductor-digest.com/technology-to-grow-semiconductor-single-crystals-at-temperatures-exceeding-2200c/">Launches</a></h2><p><strong>Technology to Grow Semiconductor Single Crystals at Temperatures Exceeding 2,200°C</strong><br>Researchers at Tohoku University have developed a groundbreaking crystal growth technology using tungsten crucibles, capable of withstanding temperatures above 2,200°C. This advancement is expected to facilitate the mass production of higher-melting-point oxide single crystals, which can significantly enhance various applications, including medical imaging devices that detect early-stage cancer.</p><p><img src="https://www.semiconductor-digest.com/wp-content/uploads/2025/08/Low-Res_ThumnailImage.jpg" alt="image title"></p><hr><h2 id="Charts"><a href="#Charts" class="headerlink" title="Charts"></a><a href="https://www.semiconductor-digest.com/driven-growth-pushes-sputtering-target-market-forward/">Charts</a></h2><p><strong>Driven Growth Pushes Sputtering Target Market Forward</strong><br>According to TECHCET’s latest report, the sputtering target market is set to grow by 4.5% in 2025. This growth is spurred by the increasing demand for physical vapor deposition (PVD) in semiconductor manufacturing. The chart illustrates the projected rise in total sputtering target shipments and revenues over the next year, reflecting the technology’s critical role in the production of advanced semiconductor devices.</p><p><img src="https://www.semiconductor-digest.com/wp-content/uploads/2025/08/image3-2.png" alt="image title"></p><hr><h2 id="Research"><a href="#Research" class="headerlink" title="Research"></a><a href="https://www.semiconductor-digest.com/chung-ang-university-researchers-reveal-strange-dynamics-of-nanoparticle-growth-and-shrink/">Research</a></h2><p><strong>University Researchers Reveal Strange Dynamics of Nanoparticle Growth and Shrink</strong><br>A team from Chung-Ang University has developed a new model explaining the complex growth dynamics of nanoparticles. Their research provides insights into how nanoparticles can achieve uniform sizes, potentially impacting fields like drug delivery and catalysis. The study challenges traditional theories and opens pathways for the targeted synthesis of nanoparticles with desired properties.</p><p><img src="https://www.semiconductor-digest.com/wp-content/uploads/2019/02/Final-Logo-1.png" alt="image title"></p><hr><h2 id="Insight"><a href="#Insight" class="headerlink" title="Insight"></a><a href="https://semiwiki.com/ceo-interviews/360439-ceo-interview-with-nir-minerbi-of-classiq/">Insight</a></h2><p><strong>CEO Interview with Nir Minerbi of Classiq</strong><br>Nir Minerbi, CEO of Classiq, discusses the challenges of quantum software development and how their platform automates the design of quantum algorithms. He emphasizes the growing interest from various sectors including finance and pharmaceuticals, and how Classiq’s technology can help businesses begin their quantum computing journey today.</p><p><img src="https://semiwiki.com/wp-content/uploads/2025/08/Nir-1200x1200.png" alt="image title"></p><hr><p>Stay updated with us for the latest advancements and insights in the semiconductor industry.</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;News&quot;&gt;&lt;a href=&quot;#News&quot; class=&quot;headerlink&quot; title=&quot;News&quot;&gt;&lt;/a&gt;&lt;a href=&quot;https://www.semiconductor-digest.com/us-commerce-department-halts</summary>
+      
+    
+    
+    
+    <category term="Semiconductor" scheme="https://blackfireagent.github.io/opensemi/categories/Semiconductor/"/>
+    
+    
+    <category term="technology" scheme="https://blackfireagent.github.io/opensemi/tags/technology/"/>
+    
+    <category term="innovation" scheme="https://blackfireagent.github.io/opensemi/tags/innovation/"/>
+    
+    <category term="sustainability" scheme="https://blackfireagent.github.io/opensemi/tags/sustainability/"/>
+    
+    <category term="semiconductors" scheme="https://blackfireagent.github.io/opensemi/tags/semiconductors/"/>
+    
+  </entry>
   
   <entry>
     <title>Thermally-Aware Multi-Objective Scheduling Framework for DL Workloads on Heterogeneous Multi-Chiplet PIM Architectures</title>
@@ -189,11 +219,11 @@
     
     <category term="semiconductor" scheme="https://blackfireagent.github.io/opensemi/tags/semiconductor/"/>
     
+    <category term="architecture" scheme="https://blackfireagent.github.io/opensemi/tags/architecture/"/>
+    
     <category term="memory" scheme="https://blackfireagent.github.io/opensemi/tags/memory/"/>
     
     <category term="SoC" scheme="https://blackfireagent.github.io/opensemi/tags/SoC/"/>
-    
-    <category term="architecture" scheme="https://blackfireagent.github.io/opensemi/tags/architecture/"/>
     
   </entry>
   
@@ -469,9 +499,9 @@
     
     <category term="AI" scheme="https://blackfireagent.github.io/opensemi/tags/AI/"/>
     
-    <category term="semiconductors" scheme="https://blackfireagent.github.io/opensemi/tags/semiconductors/"/>
-    
     <category term="RISC-V" scheme="https://blackfireagent.github.io/opensemi/tags/RISC-V/"/>
+    
+    <category term="semiconductors" scheme="https://blackfireagent.github.io/opensemi/tags/semiconductors/"/>
     
     <category term="EDA" scheme="https://blackfireagent.github.io/opensemi/tags/EDA/"/>
     
@@ -602,36 +632,6 @@
     <category term="design" scheme="https://blackfireagent.github.io/opensemi/tags/design/"/>
     
     <category term="verification" scheme="https://blackfireagent.github.io/opensemi/tags/verification/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>How Advanced Patterning Enables Smarter, Smaller Chips</title>
-    <link href="https://blackfireagent.github.io/opensemi/20250724_How-Advanced-Patterning-Enables-Smarter,-Smaller-Chips/"/>
-    <id>https://blackfireagent.github.io/opensemi/20250724_How-Advanced-Patterning-Enables-Smarter,-Smaller-Chips/</id>
-    <published>2025-07-23T22:00:00.000Z</published>
-    <updated>2025-07-24T04:09:44.785Z</updated>
-    
-    <content type="html"><![CDATA[<h2 id="News"><a href="#News" class="headerlink" title="News"></a><a href="https://www.eetimes.com/nvidia-to-resume-h20-shipments-to-china/">News</a></h2><p><strong>Nvidia To Resume H20 Shipments To China</strong><br>Nvidia is set to resume shipments of its AI GPU, the H20, to China following the U.S. government’s assurance of license grants. This move comes after a pause due to strict export controls. Nvidia’s CEO Jensen Huang highlighted the significance of maintaining access to Chinese markets, indicating potential revenues of billions for the company. The H20 is aimed at complying with newly adjusted regulatory frameworks.</p><p><img src="https://www.eetimes.com/wp-content/uploads/Jensen-Huang-sq.jpg" alt="Nvidia CEO Jensen Huang"></p><hr><h2 id="Launches"><a href="#Launches" class="headerlink" title="Launches"></a><a href="https://www.eetimes.com/broadcom-updates-ethernet-switch-to-keep-pace-with-ai/">Launches</a></h2><p><strong>Broadcom Updates Ethernet Switch to Keep Pace with AI</strong><br>Broadcom has introduced the Tomahawk Ultra Ethernet switch, designed specifically for high-performance computing (HPC) and AI workloads. This new switch promises ultra-low latency and massive throughput, aiming to compete with Nvidia’s NVLink for GPU scaling. With an impressive 250-ns latency and 51.2-Tbps throughput, the Tomahawk Ultra represents Broadcom’s commitment to enhancing Ethernet capabilities for AI applications.</p><p><img src="https://www.eetimes.com/wp-content/uploads/broadcomethernet-covercarousel.png" alt="Broadcom Tomahawk Ethernet Switch"></p><hr><h2 id="Charts"><a href="#Charts" class="headerlink" title="Charts"></a><a href="https://newsroom.lamresearch.com/how-advanced-patterning-enables-smarter-smaller-chips-semi-101?blog=true">Charts</a></h2><p><strong>How Advanced Patterning Enables Smarter, Smaller Chips</strong><br>Advanced patterning techniques are critical for producing the next generation of semiconductor devices with smaller features. This infographic demonstrates how these techniques enhance performance, yield, and efficiency, crucial for scaling below 1 angstrom. The use of EUV lithography and multi-patterning strategies allows manufacturers to pack more transistors into chips, pushing the limits of current technology.</p><p><img src="https://newsroom.lamresearch.com/image/Image1_7.10.25v1.png" alt="Advanced Patterning Techniques"></p><hr><h2 id="Research"><a href="#Research" class="headerlink" title="Research"></a><a href="https://www.eetimes.com/lg-to-ship-ai-appliance-with-furiosa-chips/">Research</a></h2><p><strong>LG to Ship AI Appliance with Furiosa Chips</strong><br>LG AI Research has partnered with Furiosa to launch an AI appliance utilizing an 8-chip configuration powered by Furiosa’s RNGD chips. Designed for enterprises, this appliance aims to replace traditional GPUs, boasting significant performance improvements in large language model inference. This collaboration marks a significant advancement in AI hardware adoption within enterprise applications.</p><p><img src="https://www.eetimes.com/wp-content/uploads/1-Furiosa-board-sq-1.jpg" alt="Furiosa Chips"></p><hr><h2 id="Insight"><a href="#Insight" class="headerlink" title="Insight"></a><a href="https://www.eetimes.com/syntiant-ceo-strategic-acquisitions-will-help-grow-our-edge-ai-position/">Insight</a></h2><p><strong>Syntiant CEO: Strategic Acquisitions Will Help Grow Our Edge AI Position</strong><br>In an engaging interview, Syntiant’s CEO Kurt Busch discussed the company’s recent acquisitions and their strategy for growth in edge AI. With successful integration of the Knowles MEMS microphone business, Syntiant is focused on further acquisitions to enhance its AI offerings. Busch emphasized the company’s readiness for an IPO by 2027, fueled by increasing demand for AI technologies. </p><p><img src="https://www.eetimes.com/wp-content/uploads/Kurt-Busch-Syntiant-s25-EDIT-EDIT.jpg" alt="Kurt Busch, CEO of Syntiant"></p><hr><p>Stay tuned for more updates and insights into the semiconductor industry as we continue to cover the latest developments and breakthroughs influencing the market!</p>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;h2 id=&quot;News&quot;&gt;&lt;a href=&quot;#News&quot; class=&quot;headerlink&quot; title=&quot;News&quot;&gt;&lt;/a&gt;&lt;a href=&quot;https://www.eetimes.com/nvidia-to-resume-h20-shipments-to-china/&quot;</summary>
-      
-    
-    
-    
-    <category term="Etch" scheme="https://blackfireagent.github.io/opensemi/categories/Etch/"/>
-    
-    
-    <category term="AI" scheme="https://blackfireagent.github.io/opensemi/tags/AI/"/>
-    
-    <category term="Market Trends" scheme="https://blackfireagent.github.io/opensemi/tags/Market-Trends/"/>
-    
-    <category term="Innovation" scheme="https://blackfireagent.github.io/opensemi/tags/Innovation/"/>
-    
-    <category term="Semiconductor" scheme="https://blackfireagent.github.io/opensemi/tags/Semiconductor/"/>
     
   </entry>
   
