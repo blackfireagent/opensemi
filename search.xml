@@ -4,6 +4,39 @@
   
     
     <entry>
+      <title>U.S. Export Waiver Revocations Put Samsung and SK hynix in Limbo</title>
+      <link href="/opensemi/20250902_U.S.-Export-Waiver-Revocations-Put-Samsung-and-SK-hynix-in-Limbo/"/>
+      <url>/opensemi/20250902_U.S.-Export-Waiver-Revocations-Put-Samsung-and-SK-hynix-in-Limbo/</url>
+      
+        <content type="html"><![CDATA[<h2 id="News"><a href="#News" class="headerlink" title="News"></a><a href="https://www.eetimes.com/u-s-export-waiver-revocations-put-samsung-and-sk-hynix-in-limbo/">News</a></h2><p><strong>U.S. Export Waiver Revocations Put Samsung and SK hynix in Limbo</strong><br>The U.S. has revoked validated end-user waivers for Intel, Samsung, and SK hynix, impacting their ability to export advanced chip fabrication equipment to China. This move creates regulatory uncertainty for semiconductor firms and may push South Korean companies to shift their production strategies.</p><p><img src="https://www.eetimes.com/wp-content/uploads/Hero-image-1.png" alt="image title"></p><hr><h2 id="Launches"><a href="#Launches" class="headerlink" title="Launches"></a><a href="https://www.eetimes.com/cambricon-rises-as-chinas-ai-chip-champion/">Launches</a></h2><p><strong>Cambricon Rises as China’s AI Chip Champion</strong><br>Cambricon Technologies has become the most valuable stock in China, signaling a shift towards AI chips in the market. The company’s stock surged significantly due to its compatibility with domestic AI models, highlighting the growing investor confidence in homegrown chip technologies.</p><p><img src="https://www.eetimes.com/wp-content/uploads/20211103071500531.jpg" alt="image title"></p><hr><h2 id="Charts"><a href="#Charts" class="headerlink" title="Charts"></a><a href="https://semiwiki.com/chiplet/360036-chiplets-providing-commercially-valuable-patent-protection-for-modular-products/">Charts</a></h2><p><strong>Chiplets: Providing Commercially Valuable Patent Protection</strong><br>A comparative analysis of chiplet-based SoCs versus traditional monolithic SoCs reveals the complexities of patent enforcement. The use of chiplets complicates direct infringement claims but offers increased yield and design flexibility, which may influence future semiconductor innovation.</p><p><img src="https://semiwiki.com/wp-content/uploads/2025/08/Screenshot-2025-07-27-at-08.32.09.png" alt="image title"></p><hr><h2 id="Research"><a href="#Research" class="headerlink" title="Research"></a><a href="https://semiengineering.com/hardware-technologies-and-algorithms-for-vector-symbolic-architectures-purdue-univ-georgia-tech/">Research</a></h2><p><strong>Hardware Technologies and Algorithms for Vector Symbolic Architectures</strong><br>Research from Purdue University and Georgia Tech discusses advancements in hardware solutions for vector-symbolic computing. The paper outlines the co-design of algorithms and hardware to optimize performance, addressing key challenges in cognitive applications.</p><p><img src="https://semiengineering.com/wp-content/uploads/iStock-1441278907-11-29-23.jpeg?fit=1365,768&ssl=1" alt="image title"></p><hr><h2 id="Insight"><a href="#Insight" class="headerlink" title="Insight"></a><a href="https://www.eetimes.com/cornami-targets-fhe-encrypted-ai-in-real-time/">Insight</a></h2><p><strong>Encrypted AI in Real Time</strong><br>Cornami’s recent presentation highlighted its advancements in AI inference using fully homomorphic encryption (FHE). The company aims to provide significant performance advantages for AI workloads while addressing data security, showcasing the potential of FHE in practical applications.</p><p><img src="https://www.eetimes.com/wp-content/uploads/FHE-AI-sq.jpg" alt="image title"></p><hr><p>Stay tuned for more updates on the latest trends, innovations, and challenges in the semiconductor industry. Your go-to resource for all things semiconductor!</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> Device </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> AI </tag>
+            
+            <tag> semiconductors </tag>
+            
+            <tag> chip design </tag>
+            
+            <tag> 6G </tag>
+            
+            <tag> thermal management </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>CEO Interview with Nir Minerbi of Classiq</title>
       <link href="/opensemi/20250901_CEO-Interview-with-Nir-Minerbi-of-Classiq/"/>
       <url>/opensemi/20250901_CEO-Interview-with-Nir-Minerbi-of-Classiq/</url>
@@ -181,9 +214,9 @@
             
             <tag> innovation </tag>
             
-            <tag> manufacturing </tag>
-            
             <tag> semiconductors </tag>
+            
+            <tag> manufacturing </tag>
             
             <tag> quantum computing </tag>
             
@@ -214,11 +247,11 @@
             
             <tag> semiconductor </tag>
             
-            <tag> architecture </tag>
-            
             <tag> memory </tag>
             
             <tag> SoC </tag>
+            
+            <tag> architecture </tag>
             
         </tags>
       
@@ -243,9 +276,9 @@
       
         <tags>
             
-            <tag> manufacturing </tag>
-            
             <tag> semiconductors </tag>
+            
+            <tag> manufacturing </tag>
             
             <tag> quantum computing </tag>
             
@@ -503,9 +536,9 @@
             
             <tag> AI </tag>
             
-            <tag> RISC-V </tag>
-            
             <tag> semiconductors </tag>
+            
+            <tag> RISC-V </tag>
             
             <tag> EDA </tag>
             
@@ -957,13 +990,13 @@
             
             <tag> AI </tag>
             
-            <tag> chip design </tag>
-            
             <tag> semiconductors </tag>
             
-            <tag> memory technology </tag>
+            <tag> chip design </tag>
             
             <tag> EDA </tag>
+            
+            <tag> memory technology </tag>
             
         </tags>
       
@@ -1085,9 +1118,9 @@
             
             <tag> AI </tag>
             
-            <tag> chip design </tag>
-            
             <tag> semiconductors </tag>
+            
+            <tag> chip design </tag>
             
             <tag> quantum technology </tag>
             
@@ -1310,9 +1343,9 @@
             
             <tag> AI </tag>
             
-            <tag> photonics </tag>
-            
             <tag> semiconductors </tag>
+            
+            <tag> photonics </tag>
             
             <tag> memory technology </tag>
             
@@ -1378,9 +1411,9 @@
             
             <tag> innovation </tag>
             
-            <tag> chip design </tag>
-            
             <tag> semiconductors </tag>
+            
+            <tag> chip design </tag>
             
             <tag> supply chain </tag>
             
@@ -1544,39 +1577,6 @@
     
     
     <entry>
-      <title>Safeguard power domain compatibility by finding missing level shifters</title>
-      <link href="/opensemi/20250518_Safeguard-power-domain-compatibility-by-finding-missing-level-shifters/"/>
-      <url>/opensemi/20250518_Safeguard-power-domain-compatibility-by-finding-missing-level-shifters/</url>
-      
-        <content type="html"><![CDATA[<h2 id="News"><a href="#News" class="headerlink" title="News"></a><a href="https://www.semiconductor-digest.com/renesas-partners-with-indian-government-to-drive-innovation-through-startups-and-industry-academia-collaboration/">News</a></h2><p><strong>Renesas Partners with Indian Government to Drive Innovation Through Startups and Industry</strong><br>Renesas Electronics Corporation has announced a partnership with the Indian government aimed at supporting local startups and academic institutions in VLSI and embedded semiconductor systems. This initiative is part of Renesas’ broader strategy to deepen its market presence in India, with ambitious plans to generate over 10% of its global revenue from the region by 2030.</p><p><img src="https://www.semiconductor-digest.com/wp-content/uploads/2025/05/unnamed.jpg" alt="Renesas Partnership"></p><hr><h2 id="Launches"><a href="#Launches" class="headerlink" title="Launches"></a><a href="https://www.semiconductor-digest.com/curvilinear-technology-a-game-changer-for-the-logic-technology-roadmap/">Launches</a></h2><p><strong>Curvilinear Technology: A Game Changer for the Logic Technology Roadmap</strong><br>Imec has introduced curvilinear design techniques in optical proximity correction (OPC) and mask writing, which promise to reduce errors and improve the process window for advanced semiconductor manufacturing. This innovative approach is expected to enhance chip performance while reducing costs in future semiconductor nodes.</p><p><img src="https://www.semiconductor-digest.com/wp-content/uploads/2025/05/Figure-8-Wafer-level-printing.jpg" alt="Curvilinear Technology"></p><hr><h2 id="Charts"><a href="#Charts" class="headerlink" title="Charts"></a><a href="https://semiwiki.com/events/355791-webinar-achieving-seamless-1-6-tbps-interoperability-with-samtec-and-synopsys/">Charts</a></h2><p><strong>Achieving 1.6 Tbps Interoperability</strong><br>A recent webinar explored the critical role of 224G SerDes technology in achieving high-speed data transfers, essential for supporting AI workloads. The discussion highlighted the required interoperability testing and the evolving needs for system design in the semiconductor industry.</p><p><img src="https://semiwiki.com/wp-content/uploads/2025/05/Webinar-Achieving-Seamless-1.6-Tbps-Interoperability-with-Samtec-and-Synopsys.png" alt="Webinar on Interoperability"></p><hr><h2 id="Research"><a href="#Research" class="headerlink" title="Research"></a><a href="https://techxplore.com/news/2025-05-strategy-fabricate-highly-thin-tin.html">Research</a></h2><p><strong>A new strategy to fabricate highly performing thin-film tin perovskite transistors</strong><br>Researchers at Pohang University have developed a novel approach to create high-performance p-channel thin-film transistors using tin-halide perovskites. Their method utilizes vapor deposition techniques, achieving excellent mobility and stability, potentially paving the way for broader applications in semiconductor technology.</p><p><img src="https://scx2.b-cdn.net/gfx/news/hires/2025/a-new-strategy-to-fabr-1.jpg" alt="Tin Perovskite Transistors"></p><hr><h2 id="Insight"><a href="#Insight" class="headerlink" title="Insight"></a><a href="https://semiwiki.com/eda/355809-safeguard-power-domain-compatibility-by-finding-missing-level-shifters/">Insight</a></h2><p><strong>Safeguard power domain compatibility by finding missing level shifters</strong><br>An insightful article discusses the critical role of level shifters in mixed signal design and their impact on signal integrity and device performance. With advanced EDA tools, designers can identify potential issues early in the design phase, ensuring reliable operation in integrated circuits.</p><p><img src="https://semiwiki.com/wp-content/uploads/2025/05/fig1-missing-level-shifters-1200x676.jpg" alt="Level Shifters"></p><hr><p>Stay tuned for more updates on the latest advancements and trends in the semiconductor industry!</p>]]></content>
-      
-      
-      <categories>
-          
-          <category> Semiconductor </category>
-          
-      </categories>
-      
-      
-        <tags>
-            
-            <tag> AI </tag>
-            
-            <tag> technology </tag>
-            
-            <tag> innovation </tag>
-            
-            <tag> manufacturing </tag>
-            
-            <tag> semiconductors </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
       <title>NSR-S636E ArF Immersion Scanner</title>
       <link href="/opensemi/20250518_NSR-S636E-ArF-Immersion-Scanner/"/>
       <url>/opensemi/20250518_NSR-S636E-ArF-Immersion-Scanner/</url>
@@ -1602,6 +1602,39 @@
             <tag> EUV </tag>
             
             <tag> optics </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>Safeguard power domain compatibility by finding missing level shifters</title>
+      <link href="/opensemi/20250518_Safeguard-power-domain-compatibility-by-finding-missing-level-shifters/"/>
+      <url>/opensemi/20250518_Safeguard-power-domain-compatibility-by-finding-missing-level-shifters/</url>
+      
+        <content type="html"><![CDATA[<h2 id="News"><a href="#News" class="headerlink" title="News"></a><a href="https://www.semiconductor-digest.com/renesas-partners-with-indian-government-to-drive-innovation-through-startups-and-industry-academia-collaboration/">News</a></h2><p><strong>Renesas Partners with Indian Government to Drive Innovation Through Startups and Industry</strong><br>Renesas Electronics Corporation has announced a partnership with the Indian government aimed at supporting local startups and academic institutions in VLSI and embedded semiconductor systems. This initiative is part of Renesas’ broader strategy to deepen its market presence in India, with ambitious plans to generate over 10% of its global revenue from the region by 2030.</p><p><img src="https://www.semiconductor-digest.com/wp-content/uploads/2025/05/unnamed.jpg" alt="Renesas Partnership"></p><hr><h2 id="Launches"><a href="#Launches" class="headerlink" title="Launches"></a><a href="https://www.semiconductor-digest.com/curvilinear-technology-a-game-changer-for-the-logic-technology-roadmap/">Launches</a></h2><p><strong>Curvilinear Technology: A Game Changer for the Logic Technology Roadmap</strong><br>Imec has introduced curvilinear design techniques in optical proximity correction (OPC) and mask writing, which promise to reduce errors and improve the process window for advanced semiconductor manufacturing. This innovative approach is expected to enhance chip performance while reducing costs in future semiconductor nodes.</p><p><img src="https://www.semiconductor-digest.com/wp-content/uploads/2025/05/Figure-8-Wafer-level-printing.jpg" alt="Curvilinear Technology"></p><hr><h2 id="Charts"><a href="#Charts" class="headerlink" title="Charts"></a><a href="https://semiwiki.com/events/355791-webinar-achieving-seamless-1-6-tbps-interoperability-with-samtec-and-synopsys/">Charts</a></h2><p><strong>Achieving 1.6 Tbps Interoperability</strong><br>A recent webinar explored the critical role of 224G SerDes technology in achieving high-speed data transfers, essential for supporting AI workloads. The discussion highlighted the required interoperability testing and the evolving needs for system design in the semiconductor industry.</p><p><img src="https://semiwiki.com/wp-content/uploads/2025/05/Webinar-Achieving-Seamless-1.6-Tbps-Interoperability-with-Samtec-and-Synopsys.png" alt="Webinar on Interoperability"></p><hr><h2 id="Research"><a href="#Research" class="headerlink" title="Research"></a><a href="https://techxplore.com/news/2025-05-strategy-fabricate-highly-thin-tin.html">Research</a></h2><p><strong>A new strategy to fabricate highly performing thin-film tin perovskite transistors</strong><br>Researchers at Pohang University have developed a novel approach to create high-performance p-channel thin-film transistors using tin-halide perovskites. Their method utilizes vapor deposition techniques, achieving excellent mobility and stability, potentially paving the way for broader applications in semiconductor technology.</p><p><img src="https://scx2.b-cdn.net/gfx/news/hires/2025/a-new-strategy-to-fabr-1.jpg" alt="Tin Perovskite Transistors"></p><hr><h2 id="Insight"><a href="#Insight" class="headerlink" title="Insight"></a><a href="https://semiwiki.com/eda/355809-safeguard-power-domain-compatibility-by-finding-missing-level-shifters/">Insight</a></h2><p><strong>Safeguard power domain compatibility by finding missing level shifters</strong><br>An insightful article discusses the critical role of level shifters in mixed signal design and their impact on signal integrity and device performance. With advanced EDA tools, designers can identify potential issues early in the design phase, ensuring reliable operation in integrated circuits.</p><p><img src="https://semiwiki.com/wp-content/uploads/2025/05/fig1-missing-level-shifters-1200x676.jpg" alt="Level Shifters"></p><hr><p>Stay tuned for more updates on the latest advancements and trends in the semiconductor industry!</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> Semiconductor </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> AI </tag>
+            
+            <tag> technology </tag>
+            
+            <tag> innovation </tag>
+            
+            <tag> semiconductors </tag>
+            
+            <tag> manufacturing </tag>
             
         </tags>
       
@@ -1663,9 +1696,9 @@
             
             <tag> innovation </tag>
             
-            <tag> manufacturing </tag>
-            
             <tag> semiconductors </tag>
+            
+            <tag> manufacturing </tag>
             
             <tag> chiplets </tag>
             
@@ -1822,9 +1855,9 @@
             
             <tag> innovation </tag>
             
-            <tag> manufacturing </tag>
-            
             <tag> semiconductors </tag>
+            
+            <tag> manufacturing </tag>
             
         </tags>
       
@@ -1855,9 +1888,9 @@
             
             <tag> innovation </tag>
             
-            <tag> legislation </tag>
-            
             <tag> manufacturing </tag>
+            
+            <tag> legislation </tag>
             
         </tags>
       
@@ -2010,9 +2043,9 @@
             
             <tag> AI </tag>
             
-            <tag> Market Trends </tag>
-            
             <tag> Semiconductor Manufacturing </tag>
+            
+            <tag> Market Trends </tag>
             
             <tag> Research </tag>
             
@@ -2130,9 +2163,9 @@
       
         <tags>
             
-            <tag> AI </tag>
-            
             <tag> packaging </tag>
+            
+            <tag> AI </tag>
             
             <tag> semiconductor technology </tag>
             

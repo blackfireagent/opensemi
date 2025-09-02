@@ -6,10 +6,42 @@
   <link href="https://blackfireagent.github.io/opensemi/atom.xml" rel="self"/>
   
   <link href="https://blackfireagent.github.io/opensemi/"/>
-  <updated>2025-09-01T04:15:34.803Z</updated>
+  <updated>2025-09-02T04:13:05.511Z</updated>
   <id>https://blackfireagent.github.io/opensemi/</id>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>U.S. Export Waiver Revocations Put Samsung and SK hynix in Limbo</title>
+    <link href="https://blackfireagent.github.io/opensemi/20250902_U.S.-Export-Waiver-Revocations-Put-Samsung-and-SK-hynix-in-Limbo/"/>
+    <id>https://blackfireagent.github.io/opensemi/20250902_U.S.-Export-Waiver-Revocations-Put-Samsung-and-SK-hynix-in-Limbo/</id>
+    <published>2025-09-01T22:00:00.000Z</published>
+    <updated>2025-09-02T04:13:05.511Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="News"><a href="#News" class="headerlink" title="News"></a><a href="https://www.eetimes.com/u-s-export-waiver-revocations-put-samsung-and-sk-hynix-in-limbo/">News</a></h2><p><strong>U.S. Export Waiver Revocations Put Samsung and SK hynix in Limbo</strong><br>The U.S. has revoked validated end-user waivers for Intel, Samsung, and SK hynix, impacting their ability to export advanced chip fabrication equipment to China. This move creates regulatory uncertainty for semiconductor firms and may push South Korean companies to shift their production strategies.</p><p><img src="https://www.eetimes.com/wp-content/uploads/Hero-image-1.png" alt="image title"></p><hr><h2 id="Launches"><a href="#Launches" class="headerlink" title="Launches"></a><a href="https://www.eetimes.com/cambricon-rises-as-chinas-ai-chip-champion/">Launches</a></h2><p><strong>Cambricon Rises as China’s AI Chip Champion</strong><br>Cambricon Technologies has become the most valuable stock in China, signaling a shift towards AI chips in the market. The company’s stock surged significantly due to its compatibility with domestic AI models, highlighting the growing investor confidence in homegrown chip technologies.</p><p><img src="https://www.eetimes.com/wp-content/uploads/20211103071500531.jpg" alt="image title"></p><hr><h2 id="Charts"><a href="#Charts" class="headerlink" title="Charts"></a><a href="https://semiwiki.com/chiplet/360036-chiplets-providing-commercially-valuable-patent-protection-for-modular-products/">Charts</a></h2><p><strong>Chiplets: Providing Commercially Valuable Patent Protection</strong><br>A comparative analysis of chiplet-based SoCs versus traditional monolithic SoCs reveals the complexities of patent enforcement. The use of chiplets complicates direct infringement claims but offers increased yield and design flexibility, which may influence future semiconductor innovation.</p><p><img src="https://semiwiki.com/wp-content/uploads/2025/08/Screenshot-2025-07-27-at-08.32.09.png" alt="image title"></p><hr><h2 id="Research"><a href="#Research" class="headerlink" title="Research"></a><a href="https://semiengineering.com/hardware-technologies-and-algorithms-for-vector-symbolic-architectures-purdue-univ-georgia-tech/">Research</a></h2><p><strong>Hardware Technologies and Algorithms for Vector Symbolic Architectures</strong><br>Research from Purdue University and Georgia Tech discusses advancements in hardware solutions for vector-symbolic computing. The paper outlines the co-design of algorithms and hardware to optimize performance, addressing key challenges in cognitive applications.</p><p><img src="https://semiengineering.com/wp-content/uploads/iStock-1441278907-11-29-23.jpeg?fit=1365,768&ssl=1" alt="image title"></p><hr><h2 id="Insight"><a href="#Insight" class="headerlink" title="Insight"></a><a href="https://www.eetimes.com/cornami-targets-fhe-encrypted-ai-in-real-time/">Insight</a></h2><p><strong>Encrypted AI in Real Time</strong><br>Cornami’s recent presentation highlighted its advancements in AI inference using fully homomorphic encryption (FHE). The company aims to provide significant performance advantages for AI workloads while addressing data security, showcasing the potential of FHE in practical applications.</p><p><img src="https://www.eetimes.com/wp-content/uploads/FHE-AI-sq.jpg" alt="image title"></p><hr><p>Stay tuned for more updates on the latest trends, innovations, and challenges in the semiconductor industry. Your go-to resource for all things semiconductor!</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;News&quot;&gt;&lt;a href=&quot;#News&quot; class=&quot;headerlink&quot; title=&quot;News&quot;&gt;&lt;/a&gt;&lt;a href=&quot;https://www.eetimes.com/u-s-export-waiver-revocations-put-samsung</summary>
+      
+    
+    
+    
+    <category term="Device" scheme="https://blackfireagent.github.io/opensemi/categories/Device/"/>
+    
+    
+    <category term="AI" scheme="https://blackfireagent.github.io/opensemi/tags/AI/"/>
+    
+    <category term="semiconductors" scheme="https://blackfireagent.github.io/opensemi/tags/semiconductors/"/>
+    
+    <category term="chip design" scheme="https://blackfireagent.github.io/opensemi/tags/chip-design/"/>
+    
+    <category term="6G" scheme="https://blackfireagent.github.io/opensemi/tags/6G/"/>
+    
+    <category term="thermal management" scheme="https://blackfireagent.github.io/opensemi/tags/thermal-management/"/>
+    
+  </entry>
   
   <entry>
     <title>CEO Interview with Nir Minerbi of Classiq</title>
@@ -187,9 +219,9 @@
     
     <category term="innovation" scheme="https://blackfireagent.github.io/opensemi/tags/innovation/"/>
     
-    <category term="manufacturing" scheme="https://blackfireagent.github.io/opensemi/tags/manufacturing/"/>
-    
     <category term="semiconductors" scheme="https://blackfireagent.github.io/opensemi/tags/semiconductors/"/>
+    
+    <category term="manufacturing" scheme="https://blackfireagent.github.io/opensemi/tags/manufacturing/"/>
     
     <category term="quantum computing" scheme="https://blackfireagent.github.io/opensemi/tags/quantum-computing/"/>
     
@@ -219,11 +251,11 @@
     
     <category term="semiconductor" scheme="https://blackfireagent.github.io/opensemi/tags/semiconductor/"/>
     
-    <category term="architecture" scheme="https://blackfireagent.github.io/opensemi/tags/architecture/"/>
-    
     <category term="memory" scheme="https://blackfireagent.github.io/opensemi/tags/memory/"/>
     
     <category term="SoC" scheme="https://blackfireagent.github.io/opensemi/tags/SoC/"/>
+    
+    <category term="architecture" scheme="https://blackfireagent.github.io/opensemi/tags/architecture/"/>
     
   </entry>
   
@@ -247,9 +279,9 @@
     <category term="Etch" scheme="https://blackfireagent.github.io/opensemi/categories/Etch/"/>
     
     
-    <category term="manufacturing" scheme="https://blackfireagent.github.io/opensemi/tags/manufacturing/"/>
-    
     <category term="semiconductors" scheme="https://blackfireagent.github.io/opensemi/tags/semiconductors/"/>
+    
+    <category term="manufacturing" scheme="https://blackfireagent.github.io/opensemi/tags/manufacturing/"/>
     
     <category term="quantum computing" scheme="https://blackfireagent.github.io/opensemi/tags/quantum-computing/"/>
     
@@ -499,9 +531,9 @@
     
     <category term="AI" scheme="https://blackfireagent.github.io/opensemi/tags/AI/"/>
     
-    <category term="RISC-V" scheme="https://blackfireagent.github.io/opensemi/tags/RISC-V/"/>
-    
     <category term="semiconductors" scheme="https://blackfireagent.github.io/opensemi/tags/semiconductors/"/>
+    
+    <category term="RISC-V" scheme="https://blackfireagent.github.io/opensemi/tags/RISC-V/"/>
     
     <category term="EDA" scheme="https://blackfireagent.github.io/opensemi/tags/EDA/"/>
     
@@ -600,38 +632,6 @@
     <category term="semiconductors" scheme="https://blackfireagent.github.io/opensemi/tags/semiconductors/"/>
     
     <category term="electronics" scheme="https://blackfireagent.github.io/opensemi/tags/electronics/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Tag-Based Memory Verification System for RISC-V</title>
-    <link href="https://blackfireagent.github.io/opensemi/20250725_Tag-Based-Memory-Verification-System-for-RISC-V/"/>
-    <id>https://blackfireagent.github.io/opensemi/20250725_Tag-Based-Memory-Verification-System-for-RISC-V/</id>
-    <published>2025-07-24T22:00:00.000Z</published>
-    <updated>2025-07-25T04:11:12.316Z</updated>
-    
-    <content type="html"><![CDATA[<h2 id="News"><a href="#News" class="headerlink" title="News"></a><a href="https://semiengineering.com/tag-based-memory-verification-system-for-risc-v-inha-univ-intel-labs-et-al/">News</a></h2><p><strong>Tag-Based Memory Verification System for RISC-V</strong><br>Researchers from Inha University and Intel Labs have introduced a novel tag-based memory verification system tailored for embedded RISC-V processors. This system significantly enhances memory safety by integrating hardware-level mechanisms that detect heap-related vulnerabilities. The implementation shows promising performance improvements while maintaining low overhead, marking a substantial step forward in securing embedded systems.</p><p><img src="https://semiengineering.com/wp-content/uploads/AdobeStock_78507548-feb-13-2023-scaled.jpeg" alt="Tag-Based Memory Verification"></p><hr><h2 id="Launches"><a href="#Launches" class="headerlink" title="Launches"></a><a href="https://semiwiki.com/semiconductor-services/alchip/358440-alchip-launches-2nm-design-platform-for-hpc-and-ai-asics-eyes-tsmc-n2-and-a16-roadmap/">Launches</a></h2><p><strong>Alchip Launches 2nm Design Platform for HPC and AI ASICs</strong><br>Alchip Technologies has launched its groundbreaking 2nm Design Platform, aimed at enhancing custom silicon design for high-performance computing and AI applications. This platform supports advanced chiplet integration strategies, allowing seamless combination of different node technologies to optimize performance and design flexibility, positioning Alchip at the forefront of TSMC’s next-generation semiconductor technologies.</p><p><img src="https://semiwiki.com/wp-content/uploads/2025/07/Alchip-TSMC-N2-announcement-SemiWiki.jpg" alt="Alchip 2nm Platform"></p><hr><h2 id="Charts"><a href="#Charts" class="headerlink" title="Charts"></a><a href="https://semiengineering.com/dl-compiler-framework-for-more-efficient-inter-core-connected-ai-chips-uiuc-microsoft/">Charts</a></h2><p><strong>DL Compiler Framework For More Efficient Inter-Core Connected AI Chips</strong><br>The University of Illinois Urbana-Champaign and Microsoft have unveiled the Elk compiler framework, which optimizes inter-core connected AI chips. The framework systematically balances compute, communication, and I&#x2F;O tasks, achieving impressive performance metrics. This is a crucial advance in maximizing the efficiency of AI chips in handling large models, illustrated with performance comparison charts and efficiency metrics.</p><p><img src="https://semiengineering.com/wp-content/uploads/AdobeStock_576655008-June-15-2023-scaled.jpeg" alt="Elk Framework"></p><hr><h2 id="Research"><a href="#Research" class="headerlink" title="Research"></a><a href="https://semiwiki.com/artificial-intelligence/357929-siemens-proposes-unified-static-and-formal-verification-with-ai/">Research</a></h2><p><strong>Siemens Proposes Unified Static and Formal Verification with AI</strong><br>Siemens has introduced a novel approach to verification by combining static and formal methods with AI. This new offering, Questa One SFV, aims to simplify license management while enhancing the accuracy of verification processes. The research highlights how AI can improve the efficacy of traditional verification methods, paving the way for broader applications in semiconductor design.</p><p><img src="https://semiwiki.com/wp-content/uploads/2025/07/Siemens-Proposes-Unified-Static-and-Formal-Verification-with-AI-min.png" alt="Siemens Verification AI"></p><hr><h2 id="Insight"><a href="#Insight" class="headerlink" title="Insight"></a><a href="https://semiwiki.com/ceo-interviews/357999-ceo-interview-with-shelly-henry-of-mooreslabai/">Insight</a></h2><p><strong>Executive Interview with Shelly Henry of MooresLabAI</strong><br>In an insightful interview, Shelly Henry, CEO of MooresLabAI, discusses the transformative potential of AI in semiconductor development. The VerifAgent™ AI platform promises to accelerate verification processes significantly, addressing the industry’s talent shortage while reducing costs. Henry emphasizes the importance of tailored AI solutions in enhancing semiconductor design efficiency.</p><p><img src="https://semiwiki.com/wp-content/uploads/2025/07/image001-3-1200x1200.jpg" alt="Shelly Henry Interview"></p><hr><p>Stay tuned for more cutting-edge updates and insights from the semiconductor world as we continue to track innovations that shape our industry!</p>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;h2 id=&quot;News&quot;&gt;&lt;a href=&quot;#News&quot; class=&quot;headerlink&quot; title=&quot;News&quot;&gt;&lt;/a&gt;&lt;a href=&quot;https://semiengineering.com/tag-based-memory-verification-system-</summary>
-      
-    
-    
-    
-    <category term="Machinelearning" scheme="https://blackfireagent.github.io/opensemi/categories/Machinelearning/"/>
-    
-    
-    <category term="AI" scheme="https://blackfireagent.github.io/opensemi/tags/AI/"/>
-    
-    <category term="technology" scheme="https://blackfireagent.github.io/opensemi/tags/technology/"/>
-    
-    <category term="semiconductors" scheme="https://blackfireagent.github.io/opensemi/tags/semiconductors/"/>
-    
-    <category term="design" scheme="https://blackfireagent.github.io/opensemi/tags/design/"/>
-    
-    <category term="verification" scheme="https://blackfireagent.github.io/opensemi/tags/verification/"/>
     
   </entry>
   
