@@ -6,10 +6,40 @@
   <link href="https://blackfireagent.github.io/opensemi/atom.xml" rel="self"/>
   
   <link href="https://blackfireagent.github.io/opensemi/"/>
-  <updated>2025-09-02T04:13:05.511Z</updated>
+  <updated>2025-09-04T04:08:05.549Z</updated>
   <id>https://blackfireagent.github.io/opensemi/</id>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Cognichip’s ‘Artificial Chip Intelligence’ Will Rely On Data</title>
+    <link href="https://blackfireagent.github.io/opensemi/20250904_Cognichip%E2%80%99s-%E2%80%98Artificial-Chip-Intelligence%E2%80%99-Will-Rely-On-Data/"/>
+    <id>https://blackfireagent.github.io/opensemi/20250904_Cognichip%E2%80%99s-%E2%80%98Artificial-Chip-Intelligence%E2%80%99-Will-Rely-On-Data/</id>
+    <published>2025-09-03T22:00:00.000Z</published>
+    <updated>2025-09-04T04:08:05.549Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="News"><a href="#News" class="headerlink" title="News"></a><a href="https://www.eetimes.com/manufacturing-contraction-slows-in-august/">News</a></h2><p><strong>Manufacturing Contraction Slows in August</strong><br>Economic activity in the U.S. manufacturing sector continued to contract for the sixth consecutive month, though at a slower rate than in July. The Manufacturing PMI registered 48.7%, reflecting challenges driven by tariffs and headcount management. Despite the contraction, new orders showed growth, indicating a mixed signal for the semiconductor sector.</p><p><img src="https://www.eetimes.com/wp-content/uploads/2021/09/media-1306382-joshiauto-manufacturing-mexico.jpg" alt="Manufacturing"></p><hr><h2 id="Launches"><a href="#Launches" class="headerlink" title="Launches"></a><a href="https://www.eetimes.com/vaire-demos-energy-recovery-with-reversible-computing-test-chip/">Launches</a></h2><p><strong>Vaire Demos Energy Recovery With Reversible Computing Test Chip</strong><br>British startup Vaire has unveiled its first test chip, Ice River, showcasing a reversible computing system capable of energy recovery. Utilizing a unique adiabatic resonator design in 22nm CMOS, the chip achieved an energy recovery factor of 1.77, paving the way for more efficient computing solutions in the semiconductor industry.</p><p><img src="https://www.eetimes.com/wp-content/uploads/Vaire-Ice-River.jpg" alt="Vaire Ice River"></p><hr><h2 id="Charts"><a href="#Charts" class="headerlink" title="Charts"></a><a href="https://newsroom.lamresearch.com/breaking-the-copper-bottleneck-with-molybdenum-hybrid-metallization?blog=true">Charts</a></h2><p><strong>Breaking the Copper Bottleneck With Molybdenum Hybrid Metallization</strong><br>New research indicates that hybrid metallization using molybdenum could reduce total via&#x2F;line resistance by about 55%. This development addresses challenges related to copper interconnects in advanced semiconductor devices, providing a viable alternative that could enhance performance in future technologies.</p><p><img src="/opensemi/nan" alt="Resistance Chart"></p><hr><h2 id="Research"><a href="#Research" class="headerlink" title="Research"></a><a href="https://www.semiconductor-today.com/news_items/2024/jun/kaust-130624.shtml">Research</a></h2><p><strong>Etching-free Pixel Definition for InGaN Micro-LEDs</strong><br>Researchers at KAUST have proposed a novel technique using selective thermal oxidation (STO) for electrically isolating InGaN micro-LED arrays, eliminating the need for plasma etching. This method shows promise for improving the efficiency and integration of micro-LEDs in applications such as AR&#x2F;VR and micro-displays.</p><p><img src="http://www.semiconductor-today.com/news_items/2024/jun/24062_kaust_f1.jpg" alt="InGaN Micro-LED"></p><hr><h2 id="Insight"><a href="#Insight" class="headerlink" title="Insight"></a><a href="https://www.eetimes.com/cognichips-artificial-chip-intelligence-will-rely-on-data/">Insight</a></h2><p><strong>Cognichip’s ‘Artificial Chip Intelligence’ Will Rely On Data</strong><br>Cognichip is pioneering a new segment in semiconductor design through AI-enabled chip design. The company aims to lower barriers for startups by leveraging data-driven models to streamline chip development. The approach could revolutionize how semiconductor companies innovate and compete in a rapidly evolving market.</p><p><img src="https://www.eetimes.com/wp-content/uploads/AI-chip-sq.jpg" alt="AI Chip Design"></p><hr><p>Stay tuned for more updates and innovations from the semiconductor industry as we continue to track the latest developments and insights.</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;News&quot;&gt;&lt;a href=&quot;#News&quot; class=&quot;headerlink&quot; title=&quot;News&quot;&gt;&lt;/a&gt;&lt;a href=&quot;https://www.eetimes.com/manufacturing-contraction-slows-in-august</summary>
+      
+    
+    
+    
+    <category term="Etch" scheme="https://blackfireagent.github.io/opensemi/categories/Etch/"/>
+    
+    
+    <category term="market trends" scheme="https://blackfireagent.github.io/opensemi/tags/market-trends/"/>
+    
+    <category term="technology" scheme="https://blackfireagent.github.io/opensemi/tags/technology/"/>
+    
+    <category term="innovation" scheme="https://blackfireagent.github.io/opensemi/tags/innovation/"/>
+    
+    <category term="semiconductors" scheme="https://blackfireagent.github.io/opensemi/tags/semiconductors/"/>
+    
+  </entry>
   
   <entry>
     <title>U.S. Export Waiver Revocations Put Samsung and SK hynix in Limbo</title>
@@ -33,9 +63,9 @@
     
     <category term="AI" scheme="https://blackfireagent.github.io/opensemi/tags/AI/"/>
     
-    <category term="semiconductors" scheme="https://blackfireagent.github.io/opensemi/tags/semiconductors/"/>
-    
     <category term="chip design" scheme="https://blackfireagent.github.io/opensemi/tags/chip-design/"/>
+    
+    <category term="semiconductors" scheme="https://blackfireagent.github.io/opensemi/tags/semiconductors/"/>
     
     <category term="6G" scheme="https://blackfireagent.github.io/opensemi/tags/6G/"/>
     
@@ -219,9 +249,9 @@
     
     <category term="innovation" scheme="https://blackfireagent.github.io/opensemi/tags/innovation/"/>
     
-    <category term="semiconductors" scheme="https://blackfireagent.github.io/opensemi/tags/semiconductors/"/>
-    
     <category term="manufacturing" scheme="https://blackfireagent.github.io/opensemi/tags/manufacturing/"/>
+    
+    <category term="semiconductors" scheme="https://blackfireagent.github.io/opensemi/tags/semiconductors/"/>
     
     <category term="quantum computing" scheme="https://blackfireagent.github.io/opensemi/tags/quantum-computing/"/>
     
@@ -253,9 +283,9 @@
     
     <category term="memory" scheme="https://blackfireagent.github.io/opensemi/tags/memory/"/>
     
-    <category term="SoC" scheme="https://blackfireagent.github.io/opensemi/tags/SoC/"/>
-    
     <category term="architecture" scheme="https://blackfireagent.github.io/opensemi/tags/architecture/"/>
+    
+    <category term="SoC" scheme="https://blackfireagent.github.io/opensemi/tags/SoC/"/>
     
   </entry>
   
@@ -279,9 +309,9 @@
     <category term="Etch" scheme="https://blackfireagent.github.io/opensemi/categories/Etch/"/>
     
     
-    <category term="semiconductors" scheme="https://blackfireagent.github.io/opensemi/tags/semiconductors/"/>
-    
     <category term="manufacturing" scheme="https://blackfireagent.github.io/opensemi/tags/manufacturing/"/>
+    
+    <category term="semiconductors" scheme="https://blackfireagent.github.io/opensemi/tags/semiconductors/"/>
     
     <category term="quantum computing" scheme="https://blackfireagent.github.io/opensemi/tags/quantum-computing/"/>
     
@@ -600,38 +630,6 @@
     <category term="quantum computing" scheme="https://blackfireagent.github.io/opensemi/tags/quantum-computing/"/>
     
     <category term="energy efficiency" scheme="https://blackfireagent.github.io/opensemi/tags/energy-efficiency/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Charge Density Wave Materials May Speed Up Electronics</title>
-    <link href="https://blackfireagent.github.io/opensemi/20250728_Charge-Density-Wave-Materials-May-Speed-Up-Electronics/"/>
-    <id>https://blackfireagent.github.io/opensemi/20250728_Charge-Density-Wave-Materials-May-Speed-Up-Electronics/</id>
-    <published>2025-07-27T22:00:00.000Z</published>
-    <updated>2025-07-28T04:16:53.615Z</updated>
-    
-    <content type="html"><![CDATA[<h2 id="News"><a href="#News" class="headerlink" title="News"></a><a href="https://www.semiconductor-digest.com/jaclyn-kellon-phd-joins-sia-team/">News</a></h2><p><strong>Jaclyn Kellon, PhD Joins SIA Team</strong><br>The Semiconductor Industry Association (SIA) has appointed Jaclyn Kellon as a director focusing on global policy, particularly in supply chain security and cybersecurity. Her experience at the U.S. Department of State and the National Nanotechnology Coordination Office will bolster SIA’s efforts in navigating complex global semiconductor challenges.</p><p><img src="https://www.semiconductor-digest.com/wp-content/uploads/2019/02/Final-Logo-1.png" alt="Jaclyn Kellon"></p><hr><h2 id="Launches"><a href="#Launches" class="headerlink" title="Launches"></a><a href="https://www.semiconductor-digest.com/teledyne-hirel-semiconductors-announces-high-density-16-gbyte-ddr4-module/">Launches</a></h2><p><strong>Teledyne HiRel Semiconductors Announces High-Density 16 GByte DDR4 Module</strong><br>Teledyne HiRel has launched the TDD416Y12NEPBM01, a compact DDR4 memory module designed for high-speed applications in constrained spaces. This innovation promises significant power savings and enhanced performance, making it ideal for modern embedded platforms.</p><p><img src="https://www.semiconductor-digest.com/wp-content/uploads/2019/02/Final-Logo-1.png" alt="Teledyne DDR4 Module"></p><hr><h2 id="Charts"><a href="#Charts" class="headerlink" title="Charts"></a><a href="https://www.semiconductordigest.com/paving-the-way-for-integrated-photonic-chips/">Charts</a></h2><p><strong>Key Innovations in Integrated Photonic Chips</strong><br>Recent advancements in monolithically integrating indium arsenide quantum dot lasers on silicon photonic chiplets signify a step forward for data communications. This chart visualizes the potential impact of these innovations on the photonics landscape, highlighting the scalability and efficiency of integrated systems.</p><p><img src="https://www.eetimes.com/wp-content/uploads/photonic.jpg" alt="Integrated Photonic Chips"></p><hr><h2 id="Research"><a href="#Research" class="headerlink" title="Research"></a><a href="https://spectrum.ieee.org/charge-density-wave">Research</a></h2><p><strong>Charge Density Wave Materials May Speed Up Electronics</strong><br>Researchers have discovered a new phase of tantalum disulfide that could revolutionize electronics by enabling faster data processing and in-memory computing. This research opens the door to more energy-efficient electronic devices, potentially reshaping the semiconductor landscape.</p><p><img src="https://spectrum.ieee.org/charge-density-wave" alt="Charge Density Wave"></p><hr><h2 id="Insight"><a href="#Insight" class="headerlink" title="Insight"></a><a href="https://semiengineering.com/chiplet-ecosystem-slowly-emerges/">Insight</a></h2><p><strong>Chiplet Ecosystem Slowly Emerges</strong><br>Industry experts discuss the progress and challenges surrounding chiplet design, emphasizing the importance of a collaborative ecosystem. The discussion highlights how chiplets can enhance flexibility and efficiency while addressing the complexities of integration.</p><p><img src="https://semiengineering.com/wp-content/uploads/AdobeStock_278047901-05-25-scaled.jpeg" alt="Chiplet Ecosystem"></p><hr><p>Thank you for staying tuned for the latest updates in the semiconductor industry. We look forward to bringing you more insights and developments in the coming weeks!</p>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;h2 id=&quot;News&quot;&gt;&lt;a href=&quot;#News&quot; class=&quot;headerlink&quot; title=&quot;News&quot;&gt;&lt;/a&gt;&lt;a href=&quot;https://www.semiconductor-digest.com/jaclyn-kellon-phd-joins-sia-</summary>
-      
-    
-    
-    
-    <category term="Semiconductor" scheme="https://blackfireagent.github.io/opensemi/categories/Semiconductor/"/>
-    
-    
-    <category term="AI" scheme="https://blackfireagent.github.io/opensemi/tags/AI/"/>
-    
-    <category term="technology" scheme="https://blackfireagent.github.io/opensemi/tags/technology/"/>
-    
-    <category term="research" scheme="https://blackfireagent.github.io/opensemi/tags/research/"/>
-    
-    <category term="semiconductors" scheme="https://blackfireagent.github.io/opensemi/tags/semiconductors/"/>
-    
-    <category term="electronics" scheme="https://blackfireagent.github.io/opensemi/tags/electronics/"/>
     
   </entry>
   

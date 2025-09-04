@@ -4,6 +4,37 @@
   
     
     <entry>
+      <title>Cognichip’s ‘Artificial Chip Intelligence’ Will Rely On Data</title>
+      <link href="/opensemi/20250904_Cognichip%E2%80%99s-%E2%80%98Artificial-Chip-Intelligence%E2%80%99-Will-Rely-On-Data/"/>
+      <url>/opensemi/20250904_Cognichip%E2%80%99s-%E2%80%98Artificial-Chip-Intelligence%E2%80%99-Will-Rely-On-Data/</url>
+      
+        <content type="html"><![CDATA[<h2 id="News"><a href="#News" class="headerlink" title="News"></a><a href="https://www.eetimes.com/manufacturing-contraction-slows-in-august/">News</a></h2><p><strong>Manufacturing Contraction Slows in August</strong><br>Economic activity in the U.S. manufacturing sector continued to contract for the sixth consecutive month, though at a slower rate than in July. The Manufacturing PMI registered 48.7%, reflecting challenges driven by tariffs and headcount management. Despite the contraction, new orders showed growth, indicating a mixed signal for the semiconductor sector.</p><p><img src="https://www.eetimes.com/wp-content/uploads/2021/09/media-1306382-joshiauto-manufacturing-mexico.jpg" alt="Manufacturing"></p><hr><h2 id="Launches"><a href="#Launches" class="headerlink" title="Launches"></a><a href="https://www.eetimes.com/vaire-demos-energy-recovery-with-reversible-computing-test-chip/">Launches</a></h2><p><strong>Vaire Demos Energy Recovery With Reversible Computing Test Chip</strong><br>British startup Vaire has unveiled its first test chip, Ice River, showcasing a reversible computing system capable of energy recovery. Utilizing a unique adiabatic resonator design in 22nm CMOS, the chip achieved an energy recovery factor of 1.77, paving the way for more efficient computing solutions in the semiconductor industry.</p><p><img src="https://www.eetimes.com/wp-content/uploads/Vaire-Ice-River.jpg" alt="Vaire Ice River"></p><hr><h2 id="Charts"><a href="#Charts" class="headerlink" title="Charts"></a><a href="https://newsroom.lamresearch.com/breaking-the-copper-bottleneck-with-molybdenum-hybrid-metallization?blog=true">Charts</a></h2><p><strong>Breaking the Copper Bottleneck With Molybdenum Hybrid Metallization</strong><br>New research indicates that hybrid metallization using molybdenum could reduce total via&#x2F;line resistance by about 55%. This development addresses challenges related to copper interconnects in advanced semiconductor devices, providing a viable alternative that could enhance performance in future technologies.</p><p><img src="/opensemi/nan" alt="Resistance Chart"></p><hr><h2 id="Research"><a href="#Research" class="headerlink" title="Research"></a><a href="https://www.semiconductor-today.com/news_items/2024/jun/kaust-130624.shtml">Research</a></h2><p><strong>Etching-free Pixel Definition for InGaN Micro-LEDs</strong><br>Researchers at KAUST have proposed a novel technique using selective thermal oxidation (STO) for electrically isolating InGaN micro-LED arrays, eliminating the need for plasma etching. This method shows promise for improving the efficiency and integration of micro-LEDs in applications such as AR&#x2F;VR and micro-displays.</p><p><img src="http://www.semiconductor-today.com/news_items/2024/jun/24062_kaust_f1.jpg" alt="InGaN Micro-LED"></p><hr><h2 id="Insight"><a href="#Insight" class="headerlink" title="Insight"></a><a href="https://www.eetimes.com/cognichips-artificial-chip-intelligence-will-rely-on-data/">Insight</a></h2><p><strong>Cognichip’s ‘Artificial Chip Intelligence’ Will Rely On Data</strong><br>Cognichip is pioneering a new segment in semiconductor design through AI-enabled chip design. The company aims to lower barriers for startups by leveraging data-driven models to streamline chip development. The approach could revolutionize how semiconductor companies innovate and compete in a rapidly evolving market.</p><p><img src="https://www.eetimes.com/wp-content/uploads/AI-chip-sq.jpg" alt="AI Chip Design"></p><hr><p>Stay tuned for more updates and innovations from the semiconductor industry as we continue to track the latest developments and insights.</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> Etch </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> market trends </tag>
+            
+            <tag> technology </tag>
+            
+            <tag> innovation </tag>
+            
+            <tag> semiconductors </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>U.S. Export Waiver Revocations Put Samsung and SK hynix in Limbo</title>
       <link href="/opensemi/20250902_U.S.-Export-Waiver-Revocations-Put-Samsung-and-SK-hynix-in-Limbo/"/>
       <url>/opensemi/20250902_U.S.-Export-Waiver-Revocations-Put-Samsung-and-SK-hynix-in-Limbo/</url>
@@ -22,9 +53,9 @@
             
             <tag> AI </tag>
             
-            <tag> semiconductors </tag>
-            
             <tag> chip design </tag>
+            
+            <tag> semiconductors </tag>
             
             <tag> 6G </tag>
             
@@ -214,9 +245,9 @@
             
             <tag> innovation </tag>
             
-            <tag> semiconductors </tag>
-            
             <tag> manufacturing </tag>
+            
+            <tag> semiconductors </tag>
             
             <tag> quantum computing </tag>
             
@@ -249,9 +280,9 @@
             
             <tag> memory </tag>
             
-            <tag> SoC </tag>
-            
             <tag> architecture </tag>
+            
+            <tag> SoC </tag>
             
         </tags>
       
@@ -276,9 +307,9 @@
       
         <tags>
             
-            <tag> semiconductors </tag>
-            
             <tag> manufacturing </tag>
+            
+            <tag> semiconductors </tag>
             
             <tag> quantum computing </tag>
             
@@ -990,9 +1021,9 @@
             
             <tag> AI </tag>
             
-            <tag> semiconductors </tag>
-            
             <tag> chip design </tag>
+            
+            <tag> semiconductors </tag>
             
             <tag> EDA </tag>
             
@@ -1118,13 +1149,13 @@
             
             <tag> AI </tag>
             
-            <tag> semiconductors </tag>
-            
             <tag> chip design </tag>
             
-            <tag> quantum technology </tag>
+            <tag> semiconductors </tag>
             
             <tag> 3D printing </tag>
+            
+            <tag> quantum technology </tag>
             
         </tags>
       
@@ -1155,9 +1186,9 @@
             
             <tag> chip design </tag>
             
-            <tag> optical interconnects </tag>
-            
             <tag> quantum technology </tag>
+            
+            <tag> optical interconnects </tag>
             
         </tags>
       
@@ -1343,9 +1374,9 @@
             
             <tag> AI </tag>
             
-            <tag> semiconductors </tag>
-            
             <tag> photonics </tag>
+            
+            <tag> semiconductors </tag>
             
             <tag> memory technology </tag>
             
@@ -1411,9 +1442,9 @@
             
             <tag> innovation </tag>
             
-            <tag> semiconductors </tag>
-            
             <tag> chip design </tag>
+            
+            <tag> semiconductors </tag>
             
             <tag> supply chain </tag>
             
@@ -1632,9 +1663,9 @@
             
             <tag> innovation </tag>
             
-            <tag> semiconductors </tag>
-            
             <tag> manufacturing </tag>
+            
+            <tag> semiconductors </tag>
             
         </tags>
       
@@ -1696,9 +1727,9 @@
             
             <tag> innovation </tag>
             
-            <tag> semiconductors </tag>
-            
             <tag> manufacturing </tag>
+            
+            <tag> semiconductors </tag>
             
             <tag> chiplets </tag>
             
@@ -1855,9 +1886,9 @@
             
             <tag> innovation </tag>
             
-            <tag> semiconductors </tag>
-            
             <tag> manufacturing </tag>
+            
+            <tag> semiconductors </tag>
             
         </tags>
       
@@ -1888,9 +1919,9 @@
             
             <tag> innovation </tag>
             
-            <tag> manufacturing </tag>
-            
             <tag> legislation </tag>
+            
+            <tag> manufacturing </tag>
             
         </tags>
       
