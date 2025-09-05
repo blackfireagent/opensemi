@@ -4,6 +4,39 @@
   
     
     <entry>
+      <title>Cross-Node Scaling Potential of SOT-MRAM for Last-Level Caches</title>
+      <link href="/opensemi/20250905_Cross-Node-Scaling-Potential-of-SOT-MRAM-for-Last-Level-Caches/"/>
+      <url>/opensemi/20250905_Cross-Node-Scaling-Potential-of-SOT-MRAM-for-Last-Level-Caches/</url>
+      
+        <content type="html"><![CDATA[<h2 id="News"><a href="#News" class="headerlink" title="News"></a><a href="https://semiwiki.com/semiconductor-manufacturers/intel/361110-intels-ipu-e2200-redefining-data-center-infrastructure/">News</a></h2><p><strong>Intel’s IPU E2200 Redefining Data Center Infrastructure</strong><br>Intel has unveiled its second-generation Infrastructure Processing Unit (IPU) E2200, designed to offload infrastructure services from CPUs, thereby enhancing efficiency and security in data centers. The new architecture supports flexible deployment models, making it suitable for AI clusters and storage acceleration, while delivering up to 400 Gbps of networking throughput.</p><p><img src="https://semiwiki.com/wp-content/uploads/2025/09/Hot-Chips-Logo-2025-1.jpg" alt="Intel IPU E2200"></p><hr><h2 id="Launches"><a href="#Launches" class="headerlink" title="Launches"></a><a href="https://semiengineering.com/alchips-3dic-test-chip-a-leap-forward-for-ai-and-hpc-innovation/">Launches</a></h2><p><strong>Alchip’s 3DIC Test Chip: A Leap Forward for AI and HPC Innovation</strong><br>Alchip Technologies has successfully tape-out its 3D IC test chip, integrating a 3nm top die with a 5nm base die using TSMC’s SoIC-X packaging technology. This milestone validates Alchip’s advanced 3D IC ecosystem, addressing power density and thermal dissipation challenges crucial for AI and high-performance computing applications.</p><p><img src="https://semiwiki.com/wp-content/uploads/2025/08/Alchip-3D-IC-Test-Chip-TSMC-N2.jpg" alt="Alchip 3DIC Test Chip"></p><hr><h2 id="Charts"><a href="#Charts" class="headerlink" title="Charts"></a><a href="https://semiengineering.com/tools-models-and-system-support-for-pim-architectures-with-dram-focus-eth-zurich/">Charts</a></h2><p><strong>Tools, Models and System Support for PIM Architectures</strong><br>Researchers from ETH Zurich have published a technical paper outlining new methodologies and frameworks for Processing-in-Memory (PIM) architectures. The paper introduces tools like DAMOV and MIMDRAM, which aim to optimize memory-related data movement and programmability, enhancing overall system performance.</p><p><img src="https://semiengineering.com/wp-content/uploads/AdobeStock_164317986-AI-scaled.jpeg" alt="PIM Architectures"></p><hr><h2 id="Research"><a href="#Research" class="headerlink" title="Research"></a><a href="https://semiengineering.com/cross-node-scaling-potential-of-sot-mram-for-last-level-caches-imec/">Research</a></h2><p><strong>Cross-Node Scaling Potential of SOT-MRAM for Last-Level Caches</strong><br>A recent study from imec explores the scalability of SOT-MRAM for last-level caches, identifying challenges and proposing solutions to enhance bitcell area efficiency. The findings highlight the potential for SOT-MRAM to meet the demands of future technology nodes, particularly in heterogeneous system scaling.</p><p><img src="https://semiengineering.com/wp-content/uploads/AdobeStock_1104488381-03-26-2025-scaled.jpeg" alt="SOT-MRAM Scaling"></p><hr><h2 id="Insight"><a href="#Insight" class="headerlink" title="Insight"></a><a href="https://semiwiki.com/artificial-intelligence/359755-two-perspectives-on-automated-code-generation/">Insight</a></h2><p><strong>Two Perspectives on Automated Code Generation</strong><br>This article delves into the impact of GenAI applications on hardware design, discussing studies on automated code generation tools like CoPilot. Key insights reveal the potential benefits and challenges of AI-assisted programming, emphasizing the importance of human oversight in achieving optimal code quality.</p><p><img src="https://semiwiki.com/wp-content/uploads/2025/07/pair-programming.jpeg" alt="Automated Code Generation"></p><hr><p>Stay tuned for more updates as we continue to bring you the latest insights and innovations in the semiconductor industry!</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> Machinelearning </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> AI </tag>
+            
+            <tag> innovation </tag>
+            
+            <tag> semiconductors </tag>
+            
+            <tag> memory </tag>
+            
+            <tag> architecture </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>Cognichip’s ‘Artificial Chip Intelligence’ Will Rely On Data</title>
       <link href="/opensemi/20250904_Cognichip%E2%80%99s-%E2%80%98Artificial-Chip-Intelligence%E2%80%99-Will-Rely-On-Data/"/>
       <url>/opensemi/20250904_Cognichip%E2%80%99s-%E2%80%98Artificial-Chip-Intelligence%E2%80%99-Will-Rely-On-Data/</url>
@@ -245,9 +278,9 @@
             
             <tag> innovation </tag>
             
-            <tag> manufacturing </tag>
-            
             <tag> semiconductors </tag>
+            
+            <tag> manufacturing </tag>
             
             <tag> quantum computing </tag>
             
@@ -280,9 +313,9 @@
             
             <tag> memory </tag>
             
-            <tag> architecture </tag>
-            
             <tag> SoC </tag>
+            
+            <tag> architecture </tag>
             
         </tags>
       
@@ -307,9 +340,9 @@
       
         <tags>
             
-            <tag> manufacturing </tag>
-            
             <tag> semiconductors </tag>
+            
+            <tag> manufacturing </tag>
             
             <tag> quantum computing </tag>
             
@@ -1663,9 +1696,9 @@
             
             <tag> innovation </tag>
             
-            <tag> manufacturing </tag>
-            
             <tag> semiconductors </tag>
+            
+            <tag> manufacturing </tag>
             
         </tags>
       
@@ -1727,9 +1760,9 @@
             
             <tag> innovation </tag>
             
-            <tag> manufacturing </tag>
-            
             <tag> semiconductors </tag>
+            
+            <tag> manufacturing </tag>
             
             <tag> chiplets </tag>
             
@@ -1886,9 +1919,9 @@
             
             <tag> innovation </tag>
             
-            <tag> manufacturing </tag>
-            
             <tag> semiconductors </tag>
+            
+            <tag> manufacturing </tag>
             
         </tags>
       
@@ -1919,9 +1952,9 @@
             
             <tag> innovation </tag>
             
-            <tag> legislation </tag>
-            
             <tag> manufacturing </tag>
+            
+            <tag> legislation </tag>
             
         </tags>
       
@@ -2194,9 +2227,9 @@
       
         <tags>
             
-            <tag> packaging </tag>
-            
             <tag> AI </tag>
+            
+            <tag> packaging </tag>
             
             <tag> semiconductor technology </tag>
             
