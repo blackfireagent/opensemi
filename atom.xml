@@ -6,10 +6,42 @@
   <link href="https://blackfireagent.github.io/opensemi/atom.xml" rel="self"/>
   
   <link href="https://blackfireagent.github.io/opensemi/"/>
-  <updated>2025-09-08T04:13:21.868Z</updated>
+  <updated>2025-09-09T04:13:24.274Z</updated>
   <id>https://blackfireagent.github.io/opensemi/</id>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>New Non-Volatile Memory Platform Based on Covalent Organic Frameworks</title>
+    <link href="https://blackfireagent.github.io/opensemi/20250909_New-Non-Volatile-Memory-Platform-Based-on-Covalent-Organic-Frameworks/"/>
+    <id>https://blackfireagent.github.io/opensemi/20250909_New-Non-Volatile-Memory-Platform-Based-on-Covalent-Organic-Frameworks/</id>
+    <published>2025-09-08T22:00:00.000Z</published>
+    <updated>2025-09-09T04:13:24.274Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="News"><a href="#News" class="headerlink" title="News"></a><a href="https://www.eetimes.com/sifive-unleashes-second-generation-risc-v-ip/">News</a></h2><p><strong>SiFive Unleashes Second-Generation RISC-V IP</strong><br>SiFive has launched its second-generation Intelligence family of processors, featuring five RISC-V-based products aimed at accelerating AI workloads. This new lineup includes the X100 series, which is designed for high-performance edge and datacenter applications, addressing critical challenges in AI deployment and memory management. With strong early adoption, SiFive is poised to capitalize on the growing demand for AI solutions.</p><p><img src="https://www.eetimes.com/wp-content/uploads/x390.jpg" alt="SiFive Launch"></p><hr><h2 id="Launches"><a href="#Launches" class="headerlink" title="Launches"></a><a href="https://techxplore.com/news/2025-09-microsoft-analog-optical-energy-efficient.html">Launches</a></h2><p><strong>Microsoft’s Analog Optical Computer Boosts Energy Efficiency for AI</strong><br>Microsoft, in collaboration with Cambridge University, has developed a new analog optical computer (AOC) prototype that promises up to 100 times the energy efficiency of leading GPUs. This innovative design avoids digital conversions and significantly enhances the performance of AI inference and optimization tasks, making strides toward sustainable computing.</p><p><img src="https://scx2.b-cdn.net/gfx/news/hires/2025/can-microsofts-analog.jpg" alt="Microsoft AOC"></p><hr><h2 id="Charts"><a href="#Charts" class="headerlink" title="Charts"></a><a href="https://www.eetimes.com/cadence-bolsters-multiphysics-simulation-with-3-16bn-acquisition/">Charts</a></h2><p><strong>Cadence Acquires Hexagon AB’s Design &amp; Engineering Unit</strong><br>Cadence Design Systems has made a strategic $3.16 billion acquisition of Hexagon AB’s design and engineering unit to enhance its multiphysics simulation capabilities. This move follows Cadence’s earlier acquisition of Beta CAE Systems and marks a significant shift towards AI-driven design in simulation tools.</p><p><img src="https://www.eetimes.com/wp-content/uploads/Hero-image-Hexagon.jpg" alt="Cadence Acquisition"></p><hr><h2 id="Research"><a href="#Research" class="headerlink" title="Research"></a><a href="https://techxplore.com/news/2025-09-volatile-memory-platform-built-covalent.html">Research</a></h2><p><strong>New Non-Volatile Memory Platform Based on Covalent Organic Frameworks</strong><br>Researchers at the Institute of Science Tokyo have developed a new material platform for non-volatile memories using covalent organic frameworks (COFs). This breakthrough allows for high-density data storage with improved thermal stability, opening new avenues for future memory technologies.</p><p><img src="https://scx2.b-cdn.net/gfx/news/hires/2025/new-non-volatile-memor.jpg" alt="Non-volatile Memory"></p><hr><h2 id="Insight"><a href="#Insight" class="headerlink" title="Insight"></a><a href="https://techxplore.com/news/2025-09-scientist-discusses-artificial-synapses-mimic.html">Insight</a></h2><p><strong>Development of Artificial Synapses for Next-Gen AI Chips</strong><br>Dr. Eunho Lee from Seoul National University discusses his research on improving electrolyte-based organic transistors to create efficient artificial synapses. This innovation promises to enhance the energy efficiency of AI hardware, paving the way for adaptive learning systems in wearables and bio-interfaces.</p><p><img src="https://scx2.b-cdn.net/gfx/news/hires/2025/seoultech-scientist-de.jpg" alt="Artificial Synapses"></p><hr><p>Stay tuned for more updates as we continue to cover the latest developments in the semiconductor industry and their implications for technology and innovation.</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;News&quot;&gt;&lt;a href=&quot;#News&quot; class=&quot;headerlink&quot; title=&quot;News&quot;&gt;&lt;/a&gt;&lt;a href=&quot;https://www.eetimes.com/sifive-unleashes-second-generation-risc-v</summary>
+      
+    
+    
+    
+    <category term="Device" scheme="https://blackfireagent.github.io/opensemi/categories/Device/"/>
+    
+    
+    <category term="AI" scheme="https://blackfireagent.github.io/opensemi/tags/AI/"/>
+    
+    <category term="technology" scheme="https://blackfireagent.github.io/opensemi/tags/technology/"/>
+    
+    <category term="innovation" scheme="https://blackfireagent.github.io/opensemi/tags/innovation/"/>
+    
+    <category term="research" scheme="https://blackfireagent.github.io/opensemi/tags/research/"/>
+    
+    <category term="semiconductors" scheme="https://blackfireagent.github.io/opensemi/tags/semiconductors/"/>
+    
+  </entry>
   
   <entry>
     <title>Oxygen Defects Help Unlock the Secret of Next-Generation Memory</title>
@@ -127,9 +159,9 @@
     
     <category term="AI" scheme="https://blackfireagent.github.io/opensemi/tags/AI/"/>
     
-    <category term="chip design" scheme="https://blackfireagent.github.io/opensemi/tags/chip-design/"/>
-    
     <category term="semiconductors" scheme="https://blackfireagent.github.io/opensemi/tags/semiconductors/"/>
+    
+    <category term="chip design" scheme="https://blackfireagent.github.io/opensemi/tags/chip-design/"/>
     
     <category term="6G" scheme="https://blackfireagent.github.io/opensemi/tags/6G/"/>
     
@@ -600,38 +632,6 @@
     <category term="market trends" scheme="https://blackfireagent.github.io/opensemi/tags/market-trends/"/>
     
     <category term="innovation" scheme="https://blackfireagent.github.io/opensemi/tags/innovation/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>SNUG India 2025 Showcases AI and Modular Chips</title>
-    <link href="https://blackfireagent.github.io/opensemi/20250731_SNUG-India-2025-Showcases-AI-and-Modular-Chips/"/>
-    <id>https://blackfireagent.github.io/opensemi/20250731_SNUG-India-2025-Showcases-AI-and-Modular-Chips/</id>
-    <published>2025-07-30T22:00:00.000Z</published>
-    <updated>2025-07-31T04:11:32.353Z</updated>
-    
-    <content type="html"><![CDATA[<h2 id="News"><a href="#News" class="headerlink" title="News"></a><a href="https://www.eetimes.com/barcelona-bsc-celebrates-tape-out-of-cinco-ranch-chips/">News</a></h2><p><strong>Barcelona BSC Celebrates Tape-out of Cinco Ranch Chips</strong><br>The Barcelona Supercomputing Center has successfully completed the tape-out of test chips for the Cinco Ranch RISC-V processor, marking a significant step towards achieving European technological sovereignty in HPC chip design. This initiative, backed by Intel and the Spanish government, aims to develop sovereign supercomputing technologies that will enhance Europe’s capabilities in AI and autonomous systems.</p><p><img src="https://www.eetimes.com/wp-content/uploads/bsc-building-7.jpg" alt="Barcelona Supercomputing Center"></p><hr><h2 id="Launches"><a href="#Launches" class="headerlink" title="Launches"></a><a href="https://www.eetimes.com/snug-india-2025-ai-modular-chips-and-indias-semiconductor-future/">Launches</a></h2><p><strong>SNUG India 2025 Showcases AI and Modular Chips</strong><br>At the SNUG India 2025 conference, Synopsys revealed how AI is revolutionizing chip design and emphasized the transition towards modular chip architectures. The growing complexity of chip projects has led to increased demand for advanced EDA tools, with Synopsys integrating AI to enhance workflow efficiency and reduce error rates.</p><p><img src="https://www.eetimes.com/wp-content/uploads/6068925236520273762.jpg" alt="SNUG India 2025"></p><hr><h2 id="Charts"><a href="#Charts" class="headerlink" title="Charts"></a><a href="https://www.eetimes.com/cadence-found-guilty-of-illegally-supplying-china-military/">Charts</a></h2><p><strong>Cadence’s Export Violations Highlight Industry Challenges</strong><br>Cadence Design Systems faced significant penalties for illegally exporting semiconductor design tools to a Chinese military university. This case underscores the increasing regulatory scrutiny in the semiconductor industry and the challenges companies face in complying with export control laws.</p><p><img src="https://www.eetimes.com/wp-content/uploads/cadence-building.png" alt="Cadence"></p><hr><h2 id="Research"><a href="#Research" class="headerlink" title="Research"></a><a href="https://newsroom.lamresearch.com/semulator3d-sheds-light-on-tier-bending-in-3d-nand-flash-memory?blog=true">Research</a></h2><p><strong>SEMulator3D® Advances 3D NAND Flash Memory Design</strong><br>The Semiverse Solutions team has conducted groundbreaking research using SEMulator3D to analyze tier bending and collapse in 3D NAND flash memory. Their findings suggest that optimizing the intrinsic stress and thickness of silicon nitride and oxide layers can significantly enhance manufacturing yields in next-generation memory devices.</p><p><img src="https://newsroom.lamresearch.com/image/Figure+2+-+3D+NAND+Flash+Memory++A+Study+of+Tier+Bending+using+SEMulator3D.jpg" alt="SEMulator3D"></p><hr><h2 id="Insight"><a href="#Insight" class="headerlink" title="Insight"></a><a href="https://www.tel.com/news/sustainability/2025/20250730_002.html">Insight</a></h2><p><strong>Tokyo Electron’s Commitment to ESG Standards</strong><br>Tokyo Electron has been selected for several prestigious ESG indexes, reinforcing its commitment to sustainability and responsible corporate governance. This recognition highlights the company’s efforts to contribute positively to society through advanced semiconductor technologies, aligning with global sustainability goals.</p><p><img src="https://www.tel.com/news/sustainability/2025/en479q00000000qw.jpg" alt="Tokyo Electron ESG"></p><hr><p>Stay with us for the latest updates and insights in the semiconductor industry, as we continue to explore innovations, strategic partnerships, and regulatory changes shaping the future.</p>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;h2 id=&quot;News&quot;&gt;&lt;a href=&quot;#News&quot; class=&quot;headerlink&quot; title=&quot;News&quot;&gt;&lt;/a&gt;&lt;a href=&quot;https://www.eetimes.com/barcelona-bsc-celebrates-tape-out-of-cinc</summary>
-      
-    
-    
-    
-    <category term="Etch" scheme="https://blackfireagent.github.io/opensemi/categories/Etch/"/>
-    
-    
-    <category term="AI" scheme="https://blackfireagent.github.io/opensemi/tags/AI/"/>
-    
-    <category term="semiconductors" scheme="https://blackfireagent.github.io/opensemi/tags/semiconductors/"/>
-    
-    <category term="RISC-V" scheme="https://blackfireagent.github.io/opensemi/tags/RISC-V/"/>
-    
-    <category term="EDA" scheme="https://blackfireagent.github.io/opensemi/tags/EDA/"/>
-    
-    <category term="ESG" scheme="https://blackfireagent.github.io/opensemi/tags/ESG/"/>
     
   </entry>
   
