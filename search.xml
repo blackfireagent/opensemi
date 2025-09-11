@@ -4,6 +4,39 @@
   
     
     <entry>
+      <title>Semicon India 2025- PM Modi Maps Vision To Target Global Chip Industry</title>
+      <link href="/opensemi/20250911_Semicon-India-2025--PM-Modi-Maps-Vision-To-Target-Global-Chip-Industry/"/>
+      <url>/opensemi/20250911_Semicon-India-2025--PM-Modi-Maps-Vision-To-Target-Global-Chip-Industry/</url>
+      
+        <content type="html"><![CDATA[<h2 id="News"><a href="#News" class="headerlink" title="News"></a><a href="https://www.eetimes.com/nvidia-specializes-gpu-for-first-stage-of-transformer-inference/">News</a></h2><p><strong>Nvidia Specializes GPU for First Stage of Transformer Inference</strong><br>At the AI Infra Summit, Nvidia unveiled its next-gen GPU, the Rubin-CPX, specifically engineered for transformer inference workloads. This new model promises to enhance performance in the context phase of data processing, offering up to 30 PFLOPS and tripling attention performance compared to previous generations. The investment in Nvidia’s orchestration software could see returns of up to $5 billion for token factories.</p><p><img src="https://www.eetimes.com/wp-content/uploads/Nvida-Rubin-CPX-sq.jpg" alt="Nvidia Rubin-CPX"></p><hr><h2 id="Launches"><a href="#Launches" class="headerlink" title="Launches"></a><a href="https://www.eetimes.com/arm-unveils-lumex-platform-boosting-ai-processing-at-edge/">Launches</a></h2><p><strong>Arm Unveils Lumex Platform, Boosting AI Processing at Edge</strong><br>Arm has launched its Lumex Compute Subsystem, aimed at enhancing on-device AI processing across consumer electronics. The platform integrates powerful CPUs and advanced GPUs to meet growing demands for real-time AI capabilities. With the new Scalable Matrix Extension, Arm’s CPUs now serve as primary AI accelerators, promising significant performance gains for mobile and consumer applications.</p><p><img src="https://www.eetimes.com/wp-content/uploads/Arm_Lumex_DevicesGroup.jpg" alt="Arm Lumex"></p><hr><h2 id="Charts"><a href="#Charts" class="headerlink" title="Charts"></a><a href="https://newsroom.lamresearch.com/what-is-advanced-packaging-semi-101?blog=true">Charts</a></h2><p><strong>What Is Advanced Packaging?</strong><br>Advanced packaging is becoming essential for the efficient manufacturing of next-gen chips. This market is projected to grow significantly, reaching $119.4 billion by 2032. Techniques like 3D integration and Chip on Wafer on Substrate (CoWoS) are crucial for enhancing performance while maintaining compact designs necessary for AI applications.</p><p><img src="https://newsroom.lamresearch.com/image/Lam_Dep_VECTOR_TEOS3D_Hero.jpg" alt="Advanced Packaging Overview"></p><hr><h2 id="Research"><a href="#Research" class="headerlink" title="Research"></a><a href="https://www.eetimes.com/semicon-india-2025-pm-modi-maps-vision-to-target-global-chip-industry/">Research</a></h2><p><strong>Semicon India 2025: PM Modi Maps Vision To Target Global Chip Industry</strong><br>At Semicon India 2025, Prime Minister Modi emphasized the importance of semiconductor innovation, unveiling the country’s first indigenous 32-bit microprocessor. The event saw multiple MoUs focused on establishing a robust semiconductor ecosystem in India, highlighting the shift towards designing domestic chips and fostering local talent in the semiconductor sector.</p><p><img src="https://www.eetimes.com/wp-content/uploads/image_9a9b51.png" alt="Semicon India 2025"></p><hr><h2 id="Insight"><a href="#Insight" class="headerlink" title="Insight"></a><a href="https://www.tel.com/news/topics/2025/20250905_001.html">Insight</a></h2><p><strong>Announcement of New Development Site in Bengaluru, India</strong><br>Tokyo Electron has established a new development site in Bengaluru aimed at advancing semiconductor technology and software development. This strategic move is part of TEL’s commitment to contributing to India’s growing semiconductor ecosystem and enhancing technological innovation through collaborations with local universities and institutions.</p><p><img src="https://www.tel.com/irta3a00000001ah-img/irta3a00000001ar.png" alt="TEL Bengaluru"></p><hr><p>Stay tuned for more updates and insights as we continue to track the evolving semiconductor landscape and its implications for the industry.</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> Etch </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> AI </tag>
+            
+            <tag> innovation </tag>
+            
+            <tag> semiconductors </tag>
+            
+            <tag> advanced packaging </tag>
+            
+            <tag> India </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>New Non-Volatile Memory Platform Based on Covalent Organic Frameworks</title>
       <link href="/opensemi/20250909_New-Non-Volatile-Memory-Platform-Based-on-Covalent-Organic-Frameworks/"/>
       <url>/opensemi/20250909_New-Non-Volatile-Memory-Platform-Based-on-Covalent-Organic-Frameworks/</url>
@@ -152,9 +185,9 @@
             
             <tag> AI </tag>
             
-            <tag> semiconductors </tag>
-            
             <tag> chip design </tag>
+            
+            <tag> semiconductors </tag>
             
             <tag> 6G </tag>
             
@@ -379,9 +412,9 @@
             
             <tag> memory </tag>
             
-            <tag> architecture </tag>
-            
             <tag> SoC </tag>
+            
+            <tag> architecture </tag>
             
         </tags>
       
@@ -1120,9 +1153,9 @@
             
             <tag> AI </tag>
             
-            <tag> semiconductors </tag>
-            
             <tag> chip design </tag>
+            
+            <tag> semiconductors </tag>
             
             <tag> memory technology </tag>
             
@@ -1248,13 +1281,13 @@
             
             <tag> AI </tag>
             
-            <tag> semiconductors </tag>
-            
             <tag> chip design </tag>
             
-            <tag> quantum technology </tag>
+            <tag> semiconductors </tag>
             
             <tag> 3D printing </tag>
+            
+            <tag> quantum technology </tag>
             
         </tags>
       
@@ -1285,9 +1318,9 @@
             
             <tag> chip design </tag>
             
-            <tag> optical interconnects </tag>
-            
             <tag> quantum technology </tag>
+            
+            <tag> optical interconnects </tag>
             
         </tags>
       
@@ -1473,9 +1506,9 @@
             
             <tag> AI </tag>
             
-            <tag> semiconductors </tag>
-            
             <tag> photonics </tag>
+            
+            <tag> semiconductors </tag>
             
             <tag> memory technology </tag>
             
@@ -1541,9 +1574,9 @@
             
             <tag> innovation </tag>
             
-            <tag> semiconductors </tag>
-            
             <tag> chip design </tag>
+            
+            <tag> semiconductors </tag>
             
             <tag> supply chain </tag>
             
@@ -1570,9 +1603,9 @@
       
         <tags>
             
-            <tag> Semiconductor Technology </tag>
-            
             <tag> Market Trends </tag>
+            
+            <tag> Semiconductor Technology </tag>
             
             <tag> EUV Lithography </tag>
             
@@ -2175,9 +2208,9 @@
             
             <tag> Semiconductor Manufacturing </tag>
             
-            <tag> Market Trends </tag>
-            
             <tag> Research </tag>
+            
+            <tag> Market Trends </tag>
             
             <tag> Technology </tag>
             
@@ -2206,11 +2239,11 @@
             
             <tag> AI </tag>
             
+            <tag> Market Trends </tag>
+            
             <tag> Semiconductor Technology </tag>
             
             <tag> Chip Design </tag>
-            
-            <tag> Market Trends </tag>
             
         </tags>
       

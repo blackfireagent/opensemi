@@ -6,10 +6,42 @@
   <link href="https://blackfireagent.github.io/opensemi/atom.xml" rel="self"/>
   
   <link href="https://blackfireagent.github.io/opensemi/"/>
-  <updated>2025-09-09T04:13:24.274Z</updated>
+  <updated>2025-09-11T04:08:43.360Z</updated>
   <id>https://blackfireagent.github.io/opensemi/</id>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Semicon India 2025- PM Modi Maps Vision To Target Global Chip Industry</title>
+    <link href="https://blackfireagent.github.io/opensemi/20250911_Semicon-India-2025--PM-Modi-Maps-Vision-To-Target-Global-Chip-Industry/"/>
+    <id>https://blackfireagent.github.io/opensemi/20250911_Semicon-India-2025--PM-Modi-Maps-Vision-To-Target-Global-Chip-Industry/</id>
+    <published>2025-09-10T22:00:00.000Z</published>
+    <updated>2025-09-11T04:08:43.360Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="News"><a href="#News" class="headerlink" title="News"></a><a href="https://www.eetimes.com/nvidia-specializes-gpu-for-first-stage-of-transformer-inference/">News</a></h2><p><strong>Nvidia Specializes GPU for First Stage of Transformer Inference</strong><br>At the AI Infra Summit, Nvidia unveiled its next-gen GPU, the Rubin-CPX, specifically engineered for transformer inference workloads. This new model promises to enhance performance in the context phase of data processing, offering up to 30 PFLOPS and tripling attention performance compared to previous generations. The investment in Nvidia’s orchestration software could see returns of up to $5 billion for token factories.</p><p><img src="https://www.eetimes.com/wp-content/uploads/Nvida-Rubin-CPX-sq.jpg" alt="Nvidia Rubin-CPX"></p><hr><h2 id="Launches"><a href="#Launches" class="headerlink" title="Launches"></a><a href="https://www.eetimes.com/arm-unveils-lumex-platform-boosting-ai-processing-at-edge/">Launches</a></h2><p><strong>Arm Unveils Lumex Platform, Boosting AI Processing at Edge</strong><br>Arm has launched its Lumex Compute Subsystem, aimed at enhancing on-device AI processing across consumer electronics. The platform integrates powerful CPUs and advanced GPUs to meet growing demands for real-time AI capabilities. With the new Scalable Matrix Extension, Arm’s CPUs now serve as primary AI accelerators, promising significant performance gains for mobile and consumer applications.</p><p><img src="https://www.eetimes.com/wp-content/uploads/Arm_Lumex_DevicesGroup.jpg" alt="Arm Lumex"></p><hr><h2 id="Charts"><a href="#Charts" class="headerlink" title="Charts"></a><a href="https://newsroom.lamresearch.com/what-is-advanced-packaging-semi-101?blog=true">Charts</a></h2><p><strong>What Is Advanced Packaging?</strong><br>Advanced packaging is becoming essential for the efficient manufacturing of next-gen chips. This market is projected to grow significantly, reaching $119.4 billion by 2032. Techniques like 3D integration and Chip on Wafer on Substrate (CoWoS) are crucial for enhancing performance while maintaining compact designs necessary for AI applications.</p><p><img src="https://newsroom.lamresearch.com/image/Lam_Dep_VECTOR_TEOS3D_Hero.jpg" alt="Advanced Packaging Overview"></p><hr><h2 id="Research"><a href="#Research" class="headerlink" title="Research"></a><a href="https://www.eetimes.com/semicon-india-2025-pm-modi-maps-vision-to-target-global-chip-industry/">Research</a></h2><p><strong>Semicon India 2025: PM Modi Maps Vision To Target Global Chip Industry</strong><br>At Semicon India 2025, Prime Minister Modi emphasized the importance of semiconductor innovation, unveiling the country’s first indigenous 32-bit microprocessor. The event saw multiple MoUs focused on establishing a robust semiconductor ecosystem in India, highlighting the shift towards designing domestic chips and fostering local talent in the semiconductor sector.</p><p><img src="https://www.eetimes.com/wp-content/uploads/image_9a9b51.png" alt="Semicon India 2025"></p><hr><h2 id="Insight"><a href="#Insight" class="headerlink" title="Insight"></a><a href="https://www.tel.com/news/topics/2025/20250905_001.html">Insight</a></h2><p><strong>Announcement of New Development Site in Bengaluru, India</strong><br>Tokyo Electron has established a new development site in Bengaluru aimed at advancing semiconductor technology and software development. This strategic move is part of TEL’s commitment to contributing to India’s growing semiconductor ecosystem and enhancing technological innovation through collaborations with local universities and institutions.</p><p><img src="https://www.tel.com/irta3a00000001ah-img/irta3a00000001ar.png" alt="TEL Bengaluru"></p><hr><p>Stay tuned for more updates and insights as we continue to track the evolving semiconductor landscape and its implications for the industry.</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;News&quot;&gt;&lt;a href=&quot;#News&quot; class=&quot;headerlink&quot; title=&quot;News&quot;&gt;&lt;/a&gt;&lt;a href=&quot;https://www.eetimes.com/nvidia-specializes-gpu-for-first-stage-of</summary>
+      
+    
+    
+    
+    <category term="Etch" scheme="https://blackfireagent.github.io/opensemi/categories/Etch/"/>
+    
+    
+    <category term="AI" scheme="https://blackfireagent.github.io/opensemi/tags/AI/"/>
+    
+    <category term="innovation" scheme="https://blackfireagent.github.io/opensemi/tags/innovation/"/>
+    
+    <category term="semiconductors" scheme="https://blackfireagent.github.io/opensemi/tags/semiconductors/"/>
+    
+    <category term="advanced packaging" scheme="https://blackfireagent.github.io/opensemi/tags/advanced-packaging/"/>
+    
+    <category term="India" scheme="https://blackfireagent.github.io/opensemi/tags/India/"/>
+    
+  </entry>
   
   <entry>
     <title>New Non-Volatile Memory Platform Based on Covalent Organic Frameworks</title>
@@ -159,9 +191,9 @@
     
     <category term="AI" scheme="https://blackfireagent.github.io/opensemi/tags/AI/"/>
     
-    <category term="semiconductors" scheme="https://blackfireagent.github.io/opensemi/tags/semiconductors/"/>
-    
     <category term="chip design" scheme="https://blackfireagent.github.io/opensemi/tags/chip-design/"/>
+    
+    <category term="semiconductors" scheme="https://blackfireagent.github.io/opensemi/tags/semiconductors/"/>
     
     <category term="6G" scheme="https://blackfireagent.github.io/opensemi/tags/6G/"/>
     
@@ -379,9 +411,9 @@
     
     <category term="memory" scheme="https://blackfireagent.github.io/opensemi/tags/memory/"/>
     
-    <category term="architecture" scheme="https://blackfireagent.github.io/opensemi/tags/architecture/"/>
-    
     <category term="SoC" scheme="https://blackfireagent.github.io/opensemi/tags/SoC/"/>
+    
+    <category term="architecture" scheme="https://blackfireagent.github.io/opensemi/tags/architecture/"/>
     
   </entry>
   
@@ -602,36 +634,6 @@
     <category term="semiconductors" scheme="https://blackfireagent.github.io/opensemi/tags/semiconductors/"/>
     
     <category term="startups" scheme="https://blackfireagent.github.io/opensemi/tags/startups/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Flexible Optoelectronic Device with Minimal Defects Fabricated at Just 90°C</title>
-    <link href="https://blackfireagent.github.io/opensemi/20250804_Flexible-Optoelectronic-Device-with-Minimal-Defects-Fabricated-at-Just-90%C2%B0C/"/>
-    <id>https://blackfireagent.github.io/opensemi/20250804_Flexible-Optoelectronic-Device-with-Minimal-Defects-Fabricated-at-Just-90%C2%B0C/</id>
-    <published>2025-08-03T22:00:00.000Z</published>
-    <updated>2025-08-04T04:18:29.091Z</updated>
-    
-    <content type="html"><![CDATA[<h2 id="News"><a href="#News" class="headerlink" title="News"></a><a href="https://www.semiconductor-digest.com/semi-nbmc-opens-call-to-fund-integrated-biosensing-platforms/">News</a></h2><p><strong>Court Rules in Favor of Infineon in Patent Infringement Case Against Innoscience</strong><br>The Munich District Court ruled in favor of Infineon Technologies in a patent infringement case regarding gallium nitride (GaN) technology, prohibiting Innoscience from manufacturing infringing products in Germany. This ruling emphasizes the importance of IP in the semiconductor industry and Infineon’s commitment to protecting its innovations.</p><p><img src="https://www.semiconductor-digest.com/wp-content/uploads/2019/02/Final-Logo-1.png" alt="Infineon"></p><hr><h2 id="Launches"><a href="#Launches" class="headerlink" title="Launches"></a><a href="https://www.eetimes.com/ambiq-stock-soars-after-ipo-as-it-rides-edge-ai-wave/">Launches</a></h2><p><strong>Ambiq Stock Soars After IPO As It Rides Edge AI Wave</strong><br>Ambiq Micro has launched its IPO with shares skyrocketing post-offering, indicating strong market confidence in the company’s edge AI technologies. The firm emphasizes energy-efficient AI solutions that are becoming increasingly critical as demand for local processing grows.</p><p><img src="https://www.eetimes.com/wp-content/uploads/ambiq-IPO.jpeg" alt="Ambiq"></p><hr><h2 id="Charts"><a href="#Charts" class="headerlink" title="Charts"></a><a href="https://www.semiconductor-digest.com/semi-reports-worldwide-silicon-wafer-shipments-increase-10-year-on-year-in-q2-2025/">Charts</a></h2><p><strong>SEMI Reports Worldwide Silicon Wafer Shipments Increase 10% Year</strong><br>Recent data shows a significant 9.6% year-on-year increase in worldwide silicon wafer shipments, driven by strong demand for AI data-center chips. This trend indicates a recovery in specific business sectors and highlights the ongoing demand for semiconductor components.</p><p><img src="https://www.semiconductor-digest.com/wp-content/uploads/2025/07/vcsPRAsset_3390533_117882_e466a560-4996-4f67-989a-ff92462cfe40_0.png" alt="Silicon Wafer Shipments"></p><hr><h2 id="Research"><a href="#Research" class="headerlink" title="Research"></a><a href="https://techxplore.com/news/2025-08-flexible-optoelectronic-device-minimal-defects.html">Research</a></h2><p><strong>Flexible Optoelectronic Device with Minimal Defects Fabricated at Just 90°C</strong><br>Researchers have developed a groundbreaking flexible optoelectronic device using low-temperature processing, which significantly reduces production costs while maintaining high performance. This advancement could revolutionize the production of wearable electronics and sensors by enhancing efficiency and reducing thermal constraints.</p><p><img src="https://scx2.b-cdn.net/gfx/news/2025/dramatically-lower-tem.jpg" alt="Flexible Device"></p><hr><h2 id="Insight"><a href="#Insight" class="headerlink" title="Insight"></a><a href="https://semiengineering.com/how-ai-will-impact-chip-design-and-designers/">Insight</a></h2><p><strong>How AI Will Impact Chip Design And Designers</strong><br>Industry experts discuss the transformative role of AI in chip design, emphasizing its potential to enhance productivity and streamline workflows. The conversation highlights the balancing act between integrating AI technologies and maintaining human expertise in design processes.</p><p><img src="https://semiengineering.com/wp-content/uploads/wafer-11-07-24-AdobeStock_531475555.jpeg" alt="AI in Chip Design"></p><hr><p>Stay tuned for more updates and insights from the semiconductor industry as we navigate the evolving landscape of technology and innovation. Thank you for being part of our community!</p>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;h2 id=&quot;News&quot;&gt;&lt;a href=&quot;#News&quot; class=&quot;headerlink&quot; title=&quot;News&quot;&gt;&lt;/a&gt;&lt;a href=&quot;https://www.semiconductor-digest.com/semi-nbmc-opens-call-to-fund</summary>
-      
-    
-    
-    
-    <category term="Semiconductor" scheme="https://blackfireagent.github.io/opensemi/categories/Semiconductor/"/>
-    
-    
-    <category term="AI" scheme="https://blackfireagent.github.io/opensemi/tags/AI/"/>
-    
-    <category term="semiconductor technology" scheme="https://blackfireagent.github.io/opensemi/tags/semiconductor-technology/"/>
-    
-    <category term="market trends" scheme="https://blackfireagent.github.io/opensemi/tags/market-trends/"/>
-    
-    <category term="innovation" scheme="https://blackfireagent.github.io/opensemi/tags/innovation/"/>
     
   </entry>
   
