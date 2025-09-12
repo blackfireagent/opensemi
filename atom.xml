@@ -6,10 +6,43 @@
   <link href="https://blackfireagent.github.io/opensemi/atom.xml" rel="self"/>
   
   <link href="https://blackfireagent.github.io/opensemi/"/>
-  <updated>2025-09-11T04:08:43.360Z</updated>
+  <updated>2025-09-12T04:11:01.679Z</updated>
   <id>https://blackfireagent.github.io/opensemi/</id>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Compromising Spectre v2 HW Mitigations By Exploiting BPRC</title>
+    <link href="https://blackfireagent.github.io/opensemi/20250912_Compromising-Spectre-v2-HW-Mitigations-By-Exploiting-BPRC/"/>
+    <id>https://blackfireagent.github.io/opensemi/20250912_Compromising-Spectre-v2-HW-Mitigations-By-Exploiting-BPRC/</id>
+    <published>2025-09-11T22:00:00.000Z</published>
+    <updated>2025-09-12T04:11:01.679Z</updated>
+    
+    <content type="html"><![CDATA[<p>Stay tuned for more updates as we continue to explore the latest advancements in the semiconductor industry!</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;Stay tuned for more updates as we continue to explore the latest advancements in the semiconductor industry!&lt;/p&gt;
+</summary>
+      
+    
+    
+    
+    <category term="Machinelearning" scheme="https://blackfireagent.github.io/opensemi/categories/Machinelearning/"/>
+    
+    
+    <category term="AI" scheme="https://blackfireagent.github.io/opensemi/tags/AI/"/>
+    
+    <category term="innovation" scheme="https://blackfireagent.github.io/opensemi/tags/innovation/"/>
+    
+    <category term="research" scheme="https://blackfireagent.github.io/opensemi/tags/research/"/>
+    
+    <category term="semiconductors" scheme="https://blackfireagent.github.io/opensemi/tags/semiconductors/"/>
+    
+    <category term="security" scheme="https://blackfireagent.github.io/opensemi/tags/security/"/>
+    
+  </entry>
   
   <entry>
     <title>Semicon India 2025- PM Modi Maps Vision To Target Global Chip Industry</title>
@@ -602,38 +635,6 @@
     <category term="research" scheme="https://blackfireagent.github.io/opensemi/tags/research/"/>
     
     <category term="flexible devices" scheme="https://blackfireagent.github.io/opensemi/tags/flexible-devices/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>CEO Interview with Andrew Skafel of Edgewater Wireless</title>
-    <link href="https://blackfireagent.github.io/opensemi/20250805_CEO-Interview-with-Andrew-Skafel-of-Edgewater-Wireless/"/>
-    <id>https://blackfireagent.github.io/opensemi/20250805_CEO-Interview-with-Andrew-Skafel-of-Edgewater-Wireless/</id>
-    <published>2025-08-04T22:00:00.000Z</published>
-    <updated>2025-08-05T04:16:43.955Z</updated>
-    
-    <content type="html"><![CDATA[<h2 id="News"><a href="#News" class="headerlink" title="News"></a><a href="https://www.eetimes.com/the-bright-side-of-intel-exodus-chip-startups/">News</a></h2><p><strong>The Bright Side of Intel Exodus: Chip Startups</strong><br>Intel’s ongoing layoffs are sparking a wave of innovation as former engineers establish new semiconductor startups. Notable departures include Gang Duan, a leading expert on chip packaging, who has joined Samsung, and several others who are turning their expertise into new ventures, signaling a vibrant shift in the industry landscape.</p><p><img src="https://www.eetimes.com/wp-content/uploads/2024/09/Intel-Noyce-sized.jpg" alt="Intel Exodus"></p><hr><h2 id="Launches"><a href="#Launches" class="headerlink" title="Launches"></a><a href="https://www.eetimes.com/ambiq-stock-soars-after-ipo-as-it-rides-edge-ai-wave/">Launches</a></h2><p><strong>Ambiq Stock Soars After IPO As It Rides Edge AI Wave</strong><br>Ambiq Micro’s IPO has seen its share price surge, reflecting investor confidence in the shift of AI processing from the cloud to edge devices. With their sub-threshold power optimized technology, Ambiq aims to meet the demand for energy-efficient AI in various sectors, including personal devices and industrial applications.</p><p><img src="https://www.eetimes.com/wp-content/uploads/ambiq-IPO.jpeg" alt="Ambiq IPO"></p><hr><h2 id="Charts"><a href="#Charts" class="headerlink" title="Charts"></a><a href="https://techxplore.com/news/2025-07-flexible-transmitter-chip-wireless-devices.html">Charts</a></h2><p><strong>Flexible Transmitter Chip Could Make Wireless Devices More Energy Efficient</strong><br>MIT researchers have developed a new flexible transmitter chip that enhances the energy efficiency of wireless communications. The innovative modulation scheme allows for improved data transmission reliability and could significantly boost battery life for IoT devices, aligning with future 6G technology requirements.</p><p><img src="https://scx2.b-cdn.net/gfx/news/hires/2025/network-6g.jpg" alt="Wireless Device Efficiency"></p><hr><h2 id="Research"><a href="#Research" class="headerlink" title="Research"></a><a href="https://semiengineering.com/overview-of-the-end-to-end-autonomous-driving-through-v2x-challenge-tsinghua-hk-univ-stanford-tu-munich-et-al/">Research</a></h2><p><strong>Overview Of The End-to-End Autonomous Driving through V2X Challenge</strong><br>A collaborative research paper from top universities outlines challenges in V2X communication for autonomous driving. The study emphasizes the need for efficient data integration from multiple sources, paving the way for safer and more reliable autonomous systems through enhanced cooperative driving technologies.</p><p><img src="https://semiengineering.com/wp-content/uploads/AdobeStock_310321486-11-7-24-Car-scaled.jpeg" alt="Autonomous Driving Research"></p><hr><h2 id="Insight"><a href="#Insight" class="headerlink" title="Insight"></a><a href="https://semiwiki.com/ceo-interviews/359734-ceo-interview-with-andrew-skafel-of-edgewater-wireless/">Insight</a></h2><p><strong>CEO Interview with Andrew Skafel of Edgewater Wireless</strong><br>In an insightful interview, Andrew Skafel discusses Edgewater Wireless’s innovative Wi-Fi Spectrum Slicing technology and its implications for enhancing wireless performance. The company’s focus on AI-driven solutions and strategic partnerships positions it uniquely within the competitive Wi-Fi landscape, promising significant advancements in connectivity.</p><p><img src="https://semiwiki.com/wp-content/uploads/2025/08/Skafel-pic.png" alt="Andrew Skafel"></p><hr><p>Stay tuned for more updates and insights as we continue to track the dynamic developments in the semiconductor industry!</p>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;h2 id=&quot;News&quot;&gt;&lt;a href=&quot;#News&quot; class=&quot;headerlink&quot; title=&quot;News&quot;&gt;&lt;/a&gt;&lt;a href=&quot;https://www.eetimes.com/the-bright-side-of-intel-exodus-chip-star</summary>
-      
-    
-    
-    
-    <category term="Device" scheme="https://blackfireagent.github.io/opensemi/categories/Device/"/>
-    
-    
-    <category term="AI" scheme="https://blackfireagent.github.io/opensemi/tags/AI/"/>
-    
-    <category term="innovation" scheme="https://blackfireagent.github.io/opensemi/tags/innovation/"/>
-    
-    <category term="research" scheme="https://blackfireagent.github.io/opensemi/tags/research/"/>
-    
-    <category term="semiconductors" scheme="https://blackfireagent.github.io/opensemi/tags/semiconductors/"/>
-    
-    <category term="startups" scheme="https://blackfireagent.github.io/opensemi/tags/startups/"/>
     
   </entry>
   
