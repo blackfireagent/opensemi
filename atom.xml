@@ -6,10 +6,42 @@
   <link href="https://blackfireagent.github.io/opensemi/atom.xml" rel="self"/>
   
   <link href="https://blackfireagent.github.io/opensemi/"/>
-  <updated>2025-09-22T04:16:09.313Z</updated>
+  <updated>2025-09-23T04:18:03.932Z</updated>
   <id>https://blackfireagent.github.io/opensemi/</id>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>CEO Interview with Adam Khan of Diamond Quanta</title>
+    <link href="https://blackfireagent.github.io/opensemi/20250923_CEO-Interview-with-Adam-Khan-of-Diamond-Quanta/"/>
+    <id>https://blackfireagent.github.io/opensemi/20250923_CEO-Interview-with-Adam-Khan-of-Diamond-Quanta/</id>
+    <published>2025-09-22T16:00:00.000Z</published>
+    <updated>2025-09-23T04:18:03.932Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="News"><a href="#News" class="headerlink" title="News"></a><a href="https://www.eetimes.com/startup-to-take-on-ai-inference-with-huge-sip-custom-memory/">News</a></h2><p><strong>Startup To Take On AI Inference With Huge SiP, Custom Memory</strong><br>Euclyd, a European AI chip startup, unveiled its ambitious Craftwerk hardware architecture at the AI Infra Summit, aiming to revolutionize AI inference with lower power and cost per token. The design features 16,384 SIMD processors and custom Ultra Bandwidth Memory (UBM), promising to significantly enhance the performance of data center AI workloads.</p><p><img src="https://www.eetimes.com/wp-content/uploads/craftwerk-in-hand.png" alt="Euclyd Craftwerk"></p><hr><h2 id="Launches"><a href="#Launches" class="headerlink" title="Launches"></a><a href="https://semiwiki.com/semiconductor-manufacturers/361808-mediatek-dimensity-9500-revolutionizing-flagship-smartphones-with-ai-gaming-and-efficiency/">Launches</a></h2><p><strong>MediaTek Dimensity 9500 Unleashes Best</strong><br>MediaTek has launched its flagship Dimensity 9500 SoC, designed to dominate the premium mobile chipset market. This chipset boasts a third-generation All Big Core CPU architecture and advanced AI capabilities, enabling efficient processing and personalized user experiences for next-gen smartphones.</p><p><img src="https://semiwiki.com/wp-content/uploads/2025/09/MediaTek-Dimensity9500-EN-Transparent-1200x1161.jpg" alt="MediaTek Dimensity 9500"></p><hr><h2 id="Charts"><a href="#Charts" class="headerlink" title="Charts"></a><a href="https://www.eetimes.com/ai-factories-fuel-global-battle-over-supercomputing-interconnects/">Charts</a></h2><p><strong>AI Factories Fuel Global Battle Over Supercomputing Interconnects</strong><br>The market for advanced interconnection networks is projected to reach $40.2 billion in 2024, driven by the need for high-speed communication in AI applications. This analysis highlights the competition between proprietary standards like InfiniBand and emerging open standards, emphasizing the critical role of high-speed interconnects in supercomputing performance.</p><p><img src="https://www.eetimes.com/wp-content/uploads/pdg8867_1.jpg" alt="Interconnect Market Growth"></p><hr><h2 id="Research"><a href="#Research" class="headerlink" title="Research"></a><a href="https://techxplore.com/news/2025-09-miniaturized-ion-3d-quantum-hardware.html">Research</a></h2><p><strong>Miniaturized Ion Traps Show Promise of 3D Printing for Quantum-Computing Hardware</strong><br>Researchers have successfully miniaturized quadrupole ion traps using 3D printing techniques, paving the way for scalable quantum computing. These traps, now capable of high-frequency operation and improved coherence, represent a significant advancement in quantum hardware development.</p><p><img src="https://scx2.b-cdn.net/gfx/news/2025/miniaturized-ion-traps-1.jpg" alt="Miniaturized Ion Trap"></p><hr><h2 id="Insight"><a href="#Insight" class="headerlink" title="Insight"></a><a href="https://semiwiki.com/semiconductor-services/silicon-catalyst/361756-ceo-interview-with-adam-khan-of-diamond-quanta/">Insight</a></h2><p><strong>CEO Interview with Adam Khan of Diamond Quanta</strong><br>Adam Khan discusses the transformative potential of diamond semiconductors, focusing on their applications in high-temperature and high-voltage environments. He emphasizes the company’s commitment to overcoming reliability challenges in modern electronics and the strategic path towards market adoption of diamond-based technologies.</p><p><img src="https://semiwiki.com/wp-content/uploads/2025/09/Adam_Khan_Diamond_Quanta.jpg.webp" alt="Adam Khan, Diamond Quanta"></p><hr><p>Stay tuned for more updates in the semiconductor industry, as we continue to bring you the latest innovations and trends impacting the field.</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;News&quot;&gt;&lt;a href=&quot;#News&quot; class=&quot;headerlink&quot; title=&quot;News&quot;&gt;&lt;/a&gt;&lt;a href=&quot;https://www.eetimes.com/startup-to-take-on-ai-inference-with-huge</summary>
+      
+    
+    
+    
+    <category term="Device" scheme="https://blackfireagent.github.io/opensemi/categories/Device/"/>
+    
+    
+    <category term="AI" scheme="https://blackfireagent.github.io/opensemi/tags/AI/"/>
+    
+    <category term="innovation" scheme="https://blackfireagent.github.io/opensemi/tags/innovation/"/>
+    
+    <category term="semiconductors" scheme="https://blackfireagent.github.io/opensemi/tags/semiconductors/"/>
+    
+    <category term="quantum computing" scheme="https://blackfireagent.github.io/opensemi/tags/quantum-computing/"/>
+    
+    <category term="memory" scheme="https://blackfireagent.github.io/opensemi/tags/memory/"/>
+    
+  </entry>
   
   <entry>
     <title>iDEAL Semiconductor Announces Polar Semiconductor as Manufacturing Partner for SuperQ Power Devices</title>
@@ -438,9 +470,9 @@
     
     <category term="innovation" scheme="https://blackfireagent.github.io/opensemi/tags/innovation/"/>
     
-    <category term="semiconductors" scheme="https://blackfireagent.github.io/opensemi/tags/semiconductors/"/>
-    
     <category term="manufacturing" scheme="https://blackfireagent.github.io/opensemi/tags/manufacturing/"/>
+    
+    <category term="semiconductors" scheme="https://blackfireagent.github.io/opensemi/tags/semiconductors/"/>
     
     <category term="quantum computing" scheme="https://blackfireagent.github.io/opensemi/tags/quantum-computing/"/>
     
@@ -470,11 +502,11 @@
     
     <category term="semiconductor" scheme="https://blackfireagent.github.io/opensemi/tags/semiconductor/"/>
     
+    <category term="SoC" scheme="https://blackfireagent.github.io/opensemi/tags/SoC/"/>
+    
     <category term="memory" scheme="https://blackfireagent.github.io/opensemi/tags/memory/"/>
     
     <category term="architecture" scheme="https://blackfireagent.github.io/opensemi/tags/architecture/"/>
-    
-    <category term="SoC" scheme="https://blackfireagent.github.io/opensemi/tags/SoC/"/>
     
   </entry>
   
@@ -498,9 +530,9 @@
     <category term="Etch" scheme="https://blackfireagent.github.io/opensemi/categories/Etch/"/>
     
     
-    <category term="semiconductors" scheme="https://blackfireagent.github.io/opensemi/tags/semiconductors/"/>
-    
     <category term="manufacturing" scheme="https://blackfireagent.github.io/opensemi/tags/manufacturing/"/>
+    
+    <category term="semiconductors" scheme="https://blackfireagent.github.io/opensemi/tags/semiconductors/"/>
     
     <category term="quantum computing" scheme="https://blackfireagent.github.io/opensemi/tags/quantum-computing/"/>
     
@@ -599,38 +631,6 @@
     <category term="EDA" scheme="https://blackfireagent.github.io/opensemi/tags/EDA/"/>
     
     <category term="SoC" scheme="https://blackfireagent.github.io/opensemi/tags/SoC/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Koduri Unveils GPU Hardware IP and Software Startup</title>
-    <link href="https://blackfireagent.github.io/opensemi/20250807_Koduri-Unveils-GPU-Hardware-IP-and-Software-Startup/"/>
-    <id>https://blackfireagent.github.io/opensemi/20250807_Koduri-Unveils-GPU-Hardware-IP-and-Software-Startup/</id>
-    <published>2025-08-06T16:00:00.000Z</published>
-    <updated>2025-08-07T04:09:31.646Z</updated>
-    
-    <content type="html"><![CDATA[<h2 id="News"><a href="#News" class="headerlink" title="News"></a><a href="https://www.eetimes.com/skywater-quadruples-capacity-with-infineon-acquisition/">News</a></h2><p><strong>SkyWater Quadruples Capacity with Infineon Acquisition</strong><br>SkyWater’s recent acquisition of Infineon’s Austin fab is set to quadruple its manufacturing capacity to 400,000 wafers annually. This move aims to bolster domestic production of foundational chips amid increasing concerns over reliance on overseas manufacturing for critical components. The fab is expected to support industries including defense and quantum computing, while SkyWater explores further capacity acquisitions from IDMs transitioning to fabless models.</p><p><img src="https://www.eetimes.com/wp-content/uploads/image_5a33f2.png" alt="SkyWater"></p><hr><h2 id="Launches"><a href="#Launches" class="headerlink" title="Launches"></a><a href="https://www.eetimes.com/koduri-unveils-gpu-hardware-ip-and-software-startup/">Launches</a></h2><p><strong>Koduri Unveils GPU Hardware IP and Software Startup</strong><br>Raja Koduri’s new startup, Oxmiq Labs, has launched with $20 million in seed funding to revolutionize the GPU technology stack. The company focuses on a software-first approach, introducing products like OxPython for code portability and Capsule for dynamic GPU container management. Oxmiq aims to enhance compatibility across different hardware, addressing a critical issue in AI and GPU ecosystems.</p><p><img src="https://www.eetimes.com/wp-content/uploads/Oxmiq-software-sq.jpg" alt="Oxmiq Labs"></p><hr><h2 id="Charts"><a href="#Charts" class="headerlink" title="Charts"></a><a href="https://newsroom.lamresearch.com/what-is-node-infographic-semi-101?blog=true">Charts</a></h2><p><strong>What Is a Node?</strong><br>This informative piece breaks down the concept of semiconductor nodes, explaining how the term has evolved alongside technology advancements. The chart highlights how modern nodes signify device generations and their implications for performance and efficiency, illustrating the current landscape where leading-edge chips operate at 3 nm and 2 nm scales.</p><p><img src="https://newsroom.lamresearch.com/image/Graphic.png" alt="Node Infographic"></p><hr><h2 id="Research"><a href="#Research" class="headerlink" title="Research"></a><a href="https://newsroom.lamresearch.com/how-semiverse-solutions-is-transforming-semiconductor-engineering-education-in-the-united-states?blog=true">Research</a></h2><p><strong>How Semiverse® Solutions Is Transforming Semiconductor Engineering Education in the United States</strong><br>Lam Research is addressing a talent shortage in the U.S. semiconductor industry by partnering with universities to implement Semiverse® Solutions. This initiative provides access to advanced semiconductor technologies through virtualization, enabling students to learn critical skills in a cost-effective manner, ultimately preparing them for roles in a rapidly evolving industry.</p><p><img src="/opensemi/nan" alt="Semiverse Solutions"></p><hr><h2 id="Insight"><a href="#Insight" class="headerlink" title="Insight"></a><a href="https://www.eetimes.com/china-unyielding-ascent-in-risc-v/">Insight</a></h2><p><strong>China Unyielding Ascent in RISC</strong><br>At the RISC-V Summit in Shanghai, China showcased its commitment to developing a robust RISC-V ecosystem, driven by government support for self-reliance in technology. This insight highlights China’s strategic investments in EDA tools and semiconductor manufacturing, emphasizing the nation’s rapid progress towards technological independence and its implications for global competition.</p><p><img src="https://www.eetimes.com/wp-content/uploads/ROC1469.jpg" alt="RISC-V Summit"></p><hr><p>Stay tuned for more updates and insights into the semiconductor industry as we continue to bring you the latest news and developments!</p>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;h2 id=&quot;News&quot;&gt;&lt;a href=&quot;#News&quot; class=&quot;headerlink&quot; title=&quot;News&quot;&gt;&lt;/a&gt;&lt;a href=&quot;https://www.eetimes.com/skywater-quadruples-capacity-with-infineo</summary>
-      
-    
-    
-    
-    <category term="Etch" scheme="https://blackfireagent.github.io/opensemi/categories/Etch/"/>
-    
-    
-    <category term="market trends" scheme="https://blackfireagent.github.io/opensemi/tags/market-trends/"/>
-    
-    <category term="technology" scheme="https://blackfireagent.github.io/opensemi/tags/technology/"/>
-    
-    <category term="innovation" scheme="https://blackfireagent.github.io/opensemi/tags/innovation/"/>
-    
-    <category term="semiconductors" scheme="https://blackfireagent.github.io/opensemi/tags/semiconductors/"/>
-    
-    <category term="education" scheme="https://blackfireagent.github.io/opensemi/tags/education/"/>
     
   </entry>
   
