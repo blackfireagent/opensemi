@@ -6,10 +6,42 @@
   <link href="https://blackfireagent.github.io/opensemi/atom.xml" rel="self"/>
   
   <link href="https://blackfireagent.github.io/opensemi/"/>
-  <updated>2025-09-23T04:18:03.932Z</updated>
+  <updated>2025-09-24T04:22:07.237Z</updated>
   <id>https://blackfireagent.github.io/opensemi/</id>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>EUV Resist Degradation with Outgassing at Higher Doses</title>
+    <link href="https://blackfireagent.github.io/opensemi/20250924_EUV-Resist-Degradation-with-Outgassing-at-Higher-Doses/"/>
+    <id>https://blackfireagent.github.io/opensemi/20250924_EUV-Resist-Degradation-with-Outgassing-at-Higher-Doses/</id>
+    <published>2025-09-23T16:00:00.000Z</published>
+    <updated>2025-09-24T04:22:07.237Z</updated>
+    
+    <content type="html"><![CDATA[<h2 id="News"><a href="#News" class="headerlink" title="News"></a><a href="https://semiwiki.com/lithography/361580-euv-lithography-without-pellicles-accounting-for-low-yields/">News</a></h2><p><strong>EUV Lithography Without Pellicles Accounting for Low Yields</strong><br>Recent findings highlight the significant yield challenges faced in EUV lithography due to the absence of pellicles. Pellicles are crucial for protecting EUV masks from particle contamination. However, their potential for damage under EUV light limits their usage, leading to reported yields of less than 70%. This situation necessitates enhanced inspection protocols, though increased inspection frequency can hinder overall productivity.</p><p><img src="https://semiwiki.com/wp-content/uploads/2025/09/https3A2F2Fsubstack-post-media.s3.amazonaws.com2Fpublic2Fimages2F0559c55c-2e9e-44e5-aee4-f9a23a50ce7f_860x580.jpg" alt="EUV Lithography"></p><hr><h2 id="Launches"><a href="#Launches" class="headerlink" title="Launches"></a><a href="https://semiwiki.com/eda/361059-ai-driven-ecad-library-creation-streamlining-semiconductor-design/">Launches</a></h2><p><strong>Driven ECAD Library Creation Streamlining Semiconductor Design</strong><br>Footprint AI has launched a groundbreaking platform aimed at automating the creation of ECAD libraries. By leveraging AI to extract data from millions of datasheets, it significantly reduces the time and potential errors associated with manual library generation. The platform ensures that libraries are tailored to specific manufacturing requirements early in the design process, promoting efficiency and reliability.</p><p><img src="https://semiwiki.com/wp-content/uploads/2025/08/DAC-62-Systems-on-Chips-8-1200x377.jpg" alt="Footprint AI"></p><hr><h2 id="Charts"><a href="#Charts" class="headerlink" title="Charts"></a><a href="https://www.semiconductor-digest.com/ebeam-initiative-survey-of-semiconductor-luminaries-predicts-continued-growth-in-photomask-market-this-year/">Charts</a></h2><p><strong>eBeam Initiative Survey Predicts Continued Growth in Photomask Market</strong><br>The latest eBeam Initiative survey indicates optimism in the photomask market, with 64% of industry leaders predicting revenue growth in 2025. The survey reveals a focus on investment in mask writing technologies, with EUV lithography and curvilinear masks emerging as key trends shaping the future of photomasks.</p><p><img src="https://www.semiconductor-digest.com/wp-content/uploads/2019/02/Final-Logo-1.png" alt="Photomask Growth Chart"></p><hr><h2 id="Research"><a href="#Research" class="headerlink" title="Research"></a><a href="https://www.nature.com/articles/s41467-025-62676-z">Research</a></h2><p><strong>Light-driven Lattice Soft Microrobot with Multimodal Locomotion</strong><br>Groundbreaking research introduces a light-driven lattice soft microrobot (LSMR) capable of rapid and controlled locomotion. This innovative design utilizes laser direct writing to create lightweight lattice structures that can deform in response to light, enabling sophisticated movement patterns akin to biological organisms. This research opens pathways for advanced microrobotics applications in various fields.</p><p><img src="https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41467-025-62676-z/MediaObjects/41467_2025_62676_Fig1_HTML.png" alt="Microrobot Development"></p><hr><h2 id="Insight"><a href="#Insight" class="headerlink" title="Insight"></a><a href="https://semiwiki.com/lithography/361476-euv-resist-degradation-with-outgassing-at-higher-doses/">Insight</a></h2><p><strong>EUV Resist Degradation with Outgassing at Higher Doses</strong><br>An expert discussion reveals the complexities of dosing in EUV lithography. Higher doses, while reducing photon shot noise, can lead to resist degradation and performance issues due to outgassing. This insight emphasizes the need for a balanced approach to optimize productivity without compromising resist integrity, a critical consideration for manufacturers aiming for high-quality output.</p><p><img src="https://semiwiki.com/wp-content/uploads/2025/09/EUV-Resist-Degradation-with-Outgassing-at-Higher-Doses.jpg" alt="EUV Resist Analysis"></p><hr><p>Stay tuned for more updates and insights into the evolving semiconductor landscape as we bring you the latest news and developments in the industry.</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h2 id=&quot;News&quot;&gt;&lt;a href=&quot;#News&quot; class=&quot;headerlink&quot; title=&quot;News&quot;&gt;&lt;/a&gt;&lt;a href=&quot;https://semiwiki.com/lithography/361580-euv-lithography-without-p</summary>
+      
+    
+    
+    
+    <category term="Lithography" scheme="https://blackfireagent.github.io/opensemi/categories/Lithography/"/>
+    
+    
+    <category term="AI" scheme="https://blackfireagent.github.io/opensemi/tags/AI/"/>
+    
+    <category term="innovation" scheme="https://blackfireagent.github.io/opensemi/tags/innovation/"/>
+    
+    <category term="semiconductors" scheme="https://blackfireagent.github.io/opensemi/tags/semiconductors/"/>
+    
+    <category term="EUV" scheme="https://blackfireagent.github.io/opensemi/tags/EUV/"/>
+    
+    <category term="photomasks" scheme="https://blackfireagent.github.io/opensemi/tags/photomasks/"/>
+    
+  </entry>
   
   <entry>
     <title>CEO Interview with Adam Khan of Diamond Quanta</title>
@@ -158,9 +190,9 @@
     
     <category term="AI" scheme="https://blackfireagent.github.io/opensemi/tags/AI/"/>
     
-    <category term="technology" scheme="https://blackfireagent.github.io/opensemi/tags/technology/"/>
-    
     <category term="innovation" scheme="https://blackfireagent.github.io/opensemi/tags/innovation/"/>
+    
+    <category term="technology" scheme="https://blackfireagent.github.io/opensemi/tags/technology/"/>
     
     <category term="research" scheme="https://blackfireagent.github.io/opensemi/tags/research/"/>
     
@@ -192,9 +224,9 @@
     
     <category term="technology" scheme="https://blackfireagent.github.io/opensemi/tags/technology/"/>
     
-    <category term="sustainability" scheme="https://blackfireagent.github.io/opensemi/tags/sustainability/"/>
-    
     <category term="semiconductors" scheme="https://blackfireagent.github.io/opensemi/tags/semiconductors/"/>
+    
+    <category term="sustainability" scheme="https://blackfireagent.github.io/opensemi/tags/sustainability/"/>
     
     <category term="regulations" scheme="https://blackfireagent.github.io/opensemi/tags/regulations/"/>
     
@@ -254,9 +286,9 @@
     
     <category term="market trends" scheme="https://blackfireagent.github.io/opensemi/tags/market-trends/"/>
     
-    <category term="technology" scheme="https://blackfireagent.github.io/opensemi/tags/technology/"/>
-    
     <category term="innovation" scheme="https://blackfireagent.github.io/opensemi/tags/innovation/"/>
+    
+    <category term="technology" scheme="https://blackfireagent.github.io/opensemi/tags/technology/"/>
     
     <category term="semiconductors" scheme="https://blackfireagent.github.io/opensemi/tags/semiconductors/"/>
     
@@ -284,9 +316,9 @@
     
     <category term="AI" scheme="https://blackfireagent.github.io/opensemi/tags/AI/"/>
     
-    <category term="chip design" scheme="https://blackfireagent.github.io/opensemi/tags/chip-design/"/>
-    
     <category term="semiconductors" scheme="https://blackfireagent.github.io/opensemi/tags/semiconductors/"/>
+    
+    <category term="chip design" scheme="https://blackfireagent.github.io/opensemi/tags/chip-design/"/>
     
     <category term="6G" scheme="https://blackfireagent.github.io/opensemi/tags/6G/"/>
     
@@ -314,13 +346,13 @@
     <category term="Semiconductor" scheme="https://blackfireagent.github.io/opensemi/categories/Semiconductor/"/>
     
     
-    <category term="technology" scheme="https://blackfireagent.github.io/opensemi/tags/technology/"/>
-    
     <category term="innovation" scheme="https://blackfireagent.github.io/opensemi/tags/innovation/"/>
     
-    <category term="sustainability" scheme="https://blackfireagent.github.io/opensemi/tags/sustainability/"/>
+    <category term="technology" scheme="https://blackfireagent.github.io/opensemi/tags/technology/"/>
     
     <category term="semiconductors" scheme="https://blackfireagent.github.io/opensemi/tags/semiconductors/"/>
+    
+    <category term="sustainability" scheme="https://blackfireagent.github.io/opensemi/tags/sustainability/"/>
     
   </entry>
   
@@ -470,9 +502,9 @@
     
     <category term="innovation" scheme="https://blackfireagent.github.io/opensemi/tags/innovation/"/>
     
-    <category term="manufacturing" scheme="https://blackfireagent.github.io/opensemi/tags/manufacturing/"/>
-    
     <category term="semiconductors" scheme="https://blackfireagent.github.io/opensemi/tags/semiconductors/"/>
+    
+    <category term="manufacturing" scheme="https://blackfireagent.github.io/opensemi/tags/manufacturing/"/>
     
     <category term="quantum computing" scheme="https://blackfireagent.github.io/opensemi/tags/quantum-computing/"/>
     
@@ -502,9 +534,9 @@
     
     <category term="semiconductor" scheme="https://blackfireagent.github.io/opensemi/tags/semiconductor/"/>
     
-    <category term="SoC" scheme="https://blackfireagent.github.io/opensemi/tags/SoC/"/>
-    
     <category term="memory" scheme="https://blackfireagent.github.io/opensemi/tags/memory/"/>
+    
+    <category term="SoC" scheme="https://blackfireagent.github.io/opensemi/tags/SoC/"/>
     
     <category term="architecture" scheme="https://blackfireagent.github.io/opensemi/tags/architecture/"/>
     
@@ -530,9 +562,9 @@
     <category term="Etch" scheme="https://blackfireagent.github.io/opensemi/categories/Etch/"/>
     
     
-    <category term="manufacturing" scheme="https://blackfireagent.github.io/opensemi/tags/manufacturing/"/>
-    
     <category term="semiconductors" scheme="https://blackfireagent.github.io/opensemi/tags/semiconductors/"/>
+    
+    <category term="manufacturing" scheme="https://blackfireagent.github.io/opensemi/tags/manufacturing/"/>
     
     <category term="quantum computing" scheme="https://blackfireagent.github.io/opensemi/tags/quantum-computing/"/>
     
@@ -599,38 +631,6 @@
     <category term="Semiconductor Innovation" scheme="https://blackfireagent.github.io/opensemi/tags/Semiconductor-Innovation/"/>
     
     <category term="Collaboration" scheme="https://blackfireagent.github.io/opensemi/tags/Collaboration/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Noise Margin Enhancing ULVR SRAM Cell</title>
-    <link href="https://blackfireagent.github.io/opensemi/20250808_Noise-Margin-Enhancing-ULVR-SRAM-Cell/"/>
-    <id>https://blackfireagent.github.io/opensemi/20250808_Noise-Margin-Enhancing-ULVR-SRAM-Cell/</id>
-    <published>2025-08-07T16:00:00.000Z</published>
-    <updated>2025-08-08T04:10:50.060Z</updated>
-    
-    <content type="html"><![CDATA[<h2 id="News"><a href="#News" class="headerlink" title="News"></a><a href="https://semiengineering.com/noise-margin-enhancing-ulvr-sram-cell-tokyo-institute-of-technology/">News</a></h2><p><strong>Noise Margin Enhancing ULVR SRAM Cell</strong><br>Researchers at the Tokyo Institute of Technology have published a new technical paper on a novel ultralow-voltage retention (ULVR) SRAM cell. This design significantly enhances noise immunity at ultralow voltages, demonstrating superior performance over conventional cells. The proposed 8T cell design can reduce standby power by approximately 93% compared to traditional 6T-SRAM macros, ensuring robustness in various operating modes.</p><p><img src="https://semiengineering.com/wp-content/uploads/iStock-884383840-Interconnects-eBook-Feb-2024.jpeg?fit=1365,768&ssl=1" alt="Noise Margin Enhancing ULVR SRAM Cell"></p><hr><h2 id="Launches"><a href="#Launches" class="headerlink" title="Launches"></a><a href="https://semiengineering.com/epitaxial-growth-of-up-to-120-si-sige-bilayers-in-view-of-3d-dram-applications-imec-ghent-univ/">Launches</a></h2><p><strong>Epitaxial Growth Of Up To 120 Si&#x2F;SiGe Bilayers</strong><br>Imec and Ghent University have reported on the successful epitaxial growth of Si&#x2F;SiGe multi-stacks aimed at 3D DRAM applications. Their research focuses on overcoming challenges in layer thickness and interface sharpness, crucial for efficient 3D dynamic random access memory devices. The work demonstrates the potential for high etching selectivity and manageable misfit dislocations, paving the way for advanced memory technologies.</p><p><img src="https://semiengineering.com/wp-content/uploads/AdobeStock_486012090-02-13-23-scaled.jpeg" alt="Epitaxial Growth"></p><hr><h2 id="Charts"><a href="#Charts" class="headerlink" title="Charts"></a><a href="https://semiengineering.com/llm-inference-core-bottlenecks-imposed-by-memory-compute-capacity-synchronization-overheads-nvidia/">Charts</a></h2><p><strong>LLM Inference: Core Bottlenecks Imposed By Memory, Compute Capacity</strong><br>NVIDIA has released a detailed analysis of the performance bottlenecks encountered in large language model (LLM) inference. Their research highlights the critical role of memory bandwidth and synchronization latencies in maximizing throughput. Key findings indicate that high memory bandwidth and reduced synchronization latencies are essential for effective LLM deployment, providing a framework for future hardware advancements.</p><p><img src="https://semiengineering.com/wp-content/uploads/AdobeStock_322782977-01-29-25-scaled.jpeg" alt="LLM Inference Bottlenecks"></p><hr><h2 id="Research"><a href="#Research" class="headerlink" title="Research"></a><a href="https://semiwiki.com/semiconductor-services/netapp/359819-agentic-ai-and-the-eda-revolution-why-data-mobility-security-and-availability-matter-more-than-ever/">Research</a></h2><p><strong>Agentic AI and the EDA Revolution</strong><br>The emergence of Agentic AI is revolutionizing the EDA and semiconductor industries by addressing chip design complexities and a shortage of skilled engineers. As highlighted in recent discussions at industry events, effective data mobility, security, and availability are vital for leveraging Agentic AI’s potential, enabling smarter automation in semiconductor design processes.</p><p><img src="https://semiwiki.com/wp-content/uploads/2025/07/Synopsys-GPU-QATK-webinar-banners-400x400-px.jpg" alt="Agentic AI in EDA"></p><hr><h2 id="Insight"><a href="#Insight" class="headerlink" title="Insight"></a><a href="https://semiwiki.com/events/359574-dac-techtalk-a-siemens-and-nvidia-perspective-on-unlocking-the-power-of-ai-in-eda/">Insight</a></h2><p><strong>DAC TechTalk – A Siemens and NVIDIA Perspective</strong><br>At the recent DAC event, Siemens and NVIDIA discussed the transformative impact of AI on semiconductor design. Emphasizing the necessity for AI in overcoming design complexity and time-to-market challenges, the presentation outlined how their collaboration is set to enhance design quality and productivity, showcasing real-world results and future directions for AI in EDA.</p><p><img src="https://semiwiki.com/wp-content/uploads/2025/07/DAC-TechTalk-%E2%80%93-A-Siemens-and-NVIDIA-Perspective-on-Unlocking-the-Power-of-AI-in-EDA.jpg" alt="DAC TechTalk"></p><hr><p>Stay tuned for more updates and insights into the ever-evolving semiconductor landscape!</p>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;h2 id=&quot;News&quot;&gt;&lt;a href=&quot;#News&quot; class=&quot;headerlink&quot; title=&quot;News&quot;&gt;&lt;/a&gt;&lt;a href=&quot;https://semiengineering.com/noise-margin-enhancing-ulvr-sram-cell</summary>
-      
-    
-    
-    
-    <category term="Machinelearning" scheme="https://blackfireagent.github.io/opensemi/categories/Machinelearning/"/>
-    
-    
-    <category term="AI" scheme="https://blackfireagent.github.io/opensemi/tags/AI/"/>
-    
-    <category term="technology" scheme="https://blackfireagent.github.io/opensemi/tags/technology/"/>
-    
-    <category term="semiconductors" scheme="https://blackfireagent.github.io/opensemi/tags/semiconductors/"/>
-    
-    <category term="EDA" scheme="https://blackfireagent.github.io/opensemi/tags/EDA/"/>
-    
-    <category term="SoC" scheme="https://blackfireagent.github.io/opensemi/tags/SoC/"/>
     
   </entry>
   

@@ -4,6 +4,39 @@
   
     
     <entry>
+      <title>EUV Resist Degradation with Outgassing at Higher Doses</title>
+      <link href="/opensemi/20250924_EUV-Resist-Degradation-with-Outgassing-at-Higher-Doses/"/>
+      <url>/opensemi/20250924_EUV-Resist-Degradation-with-Outgassing-at-Higher-Doses/</url>
+      
+        <content type="html"><![CDATA[<h2 id="News"><a href="#News" class="headerlink" title="News"></a><a href="https://semiwiki.com/lithography/361580-euv-lithography-without-pellicles-accounting-for-low-yields/">News</a></h2><p><strong>EUV Lithography Without Pellicles Accounting for Low Yields</strong><br>Recent findings highlight the significant yield challenges faced in EUV lithography due to the absence of pellicles. Pellicles are crucial for protecting EUV masks from particle contamination. However, their potential for damage under EUV light limits their usage, leading to reported yields of less than 70%. This situation necessitates enhanced inspection protocols, though increased inspection frequency can hinder overall productivity.</p><p><img src="https://semiwiki.com/wp-content/uploads/2025/09/https3A2F2Fsubstack-post-media.s3.amazonaws.com2Fpublic2Fimages2F0559c55c-2e9e-44e5-aee4-f9a23a50ce7f_860x580.jpg" alt="EUV Lithography"></p><hr><h2 id="Launches"><a href="#Launches" class="headerlink" title="Launches"></a><a href="https://semiwiki.com/eda/361059-ai-driven-ecad-library-creation-streamlining-semiconductor-design/">Launches</a></h2><p><strong>Driven ECAD Library Creation Streamlining Semiconductor Design</strong><br>Footprint AI has launched a groundbreaking platform aimed at automating the creation of ECAD libraries. By leveraging AI to extract data from millions of datasheets, it significantly reduces the time and potential errors associated with manual library generation. The platform ensures that libraries are tailored to specific manufacturing requirements early in the design process, promoting efficiency and reliability.</p><p><img src="https://semiwiki.com/wp-content/uploads/2025/08/DAC-62-Systems-on-Chips-8-1200x377.jpg" alt="Footprint AI"></p><hr><h2 id="Charts"><a href="#Charts" class="headerlink" title="Charts"></a><a href="https://www.semiconductor-digest.com/ebeam-initiative-survey-of-semiconductor-luminaries-predicts-continued-growth-in-photomask-market-this-year/">Charts</a></h2><p><strong>eBeam Initiative Survey Predicts Continued Growth in Photomask Market</strong><br>The latest eBeam Initiative survey indicates optimism in the photomask market, with 64% of industry leaders predicting revenue growth in 2025. The survey reveals a focus on investment in mask writing technologies, with EUV lithography and curvilinear masks emerging as key trends shaping the future of photomasks.</p><p><img src="https://www.semiconductor-digest.com/wp-content/uploads/2019/02/Final-Logo-1.png" alt="Photomask Growth Chart"></p><hr><h2 id="Research"><a href="#Research" class="headerlink" title="Research"></a><a href="https://www.nature.com/articles/s41467-025-62676-z">Research</a></h2><p><strong>Light-driven Lattice Soft Microrobot with Multimodal Locomotion</strong><br>Groundbreaking research introduces a light-driven lattice soft microrobot (LSMR) capable of rapid and controlled locomotion. This innovative design utilizes laser direct writing to create lightweight lattice structures that can deform in response to light, enabling sophisticated movement patterns akin to biological organisms. This research opens pathways for advanced microrobotics applications in various fields.</p><p><img src="https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41467-025-62676-z/MediaObjects/41467_2025_62676_Fig1_HTML.png" alt="Microrobot Development"></p><hr><h2 id="Insight"><a href="#Insight" class="headerlink" title="Insight"></a><a href="https://semiwiki.com/lithography/361476-euv-resist-degradation-with-outgassing-at-higher-doses/">Insight</a></h2><p><strong>EUV Resist Degradation with Outgassing at Higher Doses</strong><br>An expert discussion reveals the complexities of dosing in EUV lithography. Higher doses, while reducing photon shot noise, can lead to resist degradation and performance issues due to outgassing. This insight emphasizes the need for a balanced approach to optimize productivity without compromising resist integrity, a critical consideration for manufacturers aiming for high-quality output.</p><p><img src="https://semiwiki.com/wp-content/uploads/2025/09/EUV-Resist-Degradation-with-Outgassing-at-Higher-Doses.jpg" alt="EUV Resist Analysis"></p><hr><p>Stay tuned for more updates and insights into the evolving semiconductor landscape as we bring you the latest news and developments in the industry.</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> Lithography </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> AI </tag>
+            
+            <tag> innovation </tag>
+            
+            <tag> semiconductors </tag>
+            
+            <tag> EUV </tag>
+            
+            <tag> photomasks </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>CEO Interview with Adam Khan of Diamond Quanta</title>
       <link href="/opensemi/20250923_CEO-Interview-with-Adam-Khan-of-Diamond-Quanta/"/>
       <url>/opensemi/20250923_CEO-Interview-with-Adam-Khan-of-Diamond-Quanta/</url>
@@ -150,9 +183,9 @@
             
             <tag> AI </tag>
             
-            <tag> technology </tag>
-            
             <tag> innovation </tag>
+            
+            <tag> technology </tag>
             
             <tag> research </tag>
             
@@ -185,9 +218,9 @@
             
             <tag> technology </tag>
             
-            <tag> sustainability </tag>
-            
             <tag> semiconductors </tag>
+            
+            <tag> sustainability </tag>
             
             <tag> regulations </tag>
             
@@ -249,9 +282,9 @@
             
             <tag> market trends </tag>
             
-            <tag> technology </tag>
-            
             <tag> innovation </tag>
+            
+            <tag> technology </tag>
             
             <tag> semiconductors </tag>
             
@@ -280,9 +313,9 @@
             
             <tag> AI </tag>
             
-            <tag> chip design </tag>
-            
             <tag> semiconductors </tag>
+            
+            <tag> chip design </tag>
             
             <tag> 6G </tag>
             
@@ -311,13 +344,13 @@
       
         <tags>
             
-            <tag> technology </tag>
-            
             <tag> innovation </tag>
             
-            <tag> sustainability </tag>
+            <tag> technology </tag>
             
             <tag> semiconductors </tag>
+            
+            <tag> sustainability </tag>
             
         </tags>
       
@@ -472,9 +505,9 @@
             
             <tag> innovation </tag>
             
-            <tag> manufacturing </tag>
-            
             <tag> semiconductors </tag>
+            
+            <tag> manufacturing </tag>
             
             <tag> quantum computing </tag>
             
@@ -505,9 +538,9 @@
             
             <tag> semiconductor </tag>
             
-            <tag> SoC </tag>
-            
             <tag> memory </tag>
+            
+            <tag> SoC </tag>
             
             <tag> architecture </tag>
             
@@ -534,9 +567,9 @@
       
         <tags>
             
-            <tag> manufacturing </tag>
-            
             <tag> semiconductors </tag>
+            
+            <tag> manufacturing </tag>
             
             <tag> quantum computing </tag>
             
@@ -664,9 +697,9 @@
             
             <tag> market trends </tag>
             
-            <tag> technology </tag>
-            
             <tag> innovation </tag>
+            
+            <tag> technology </tag>
             
             <tag> semiconductors </tag>
             
@@ -1021,9 +1054,9 @@
             
             <tag> AI </tag>
             
-            <tag> technology </tag>
-            
             <tag> innovation </tag>
+            
+            <tag> technology </tag>
             
             <tag> semiconductors </tag>
             
@@ -1083,9 +1116,9 @@
             
             <tag> AI </tag>
             
-            <tag> technology </tag>
-            
             <tag> innovation </tag>
+            
+            <tag> technology </tag>
             
             <tag> research </tag>
             
@@ -1114,9 +1147,9 @@
       
         <tags>
             
-            <tag> technology </tag>
-            
             <tag> innovation </tag>
+            
+            <tag> technology </tag>
             
             <tag> semiconductor </tag>
             
@@ -1151,9 +1184,9 @@
             
             <tag> innovation </tag>
             
-            <tag> sustainability </tag>
-            
             <tag> semiconductors </tag>
+            
+            <tag> sustainability </tag>
             
             <tag> lithography </tag>
             
@@ -1248,9 +1281,9 @@
             
             <tag> AI </tag>
             
-            <tag> chip design </tag>
-            
             <tag> semiconductors </tag>
+            
+            <tag> chip design </tag>
             
             <tag> memory technology </tag>
             
@@ -1279,9 +1312,9 @@
       
         <tags>
             
-            <tag> technology </tag>
-            
             <tag> innovation </tag>
+            
+            <tag> technology </tag>
             
             <tag> semiconductors </tag>
             
@@ -1314,9 +1347,9 @@
             
             <tag> innovation </tag>
             
-            <tag> sustainability </tag>
-            
             <tag> semiconductors </tag>
+            
+            <tag> sustainability </tag>
             
             <tag> investment </tag>
             
@@ -1376,9 +1409,9 @@
             
             <tag> AI </tag>
             
-            <tag> chip design </tag>
-            
             <tag> semiconductors </tag>
+            
+            <tag> chip design </tag>
             
             <tag> 3D printing </tag>
             
@@ -1601,9 +1634,9 @@
             
             <tag> AI </tag>
             
-            <tag> photonics </tag>
-            
             <tag> semiconductors </tag>
+            
+            <tag> photonics </tag>
             
             <tag> memory technology </tag>
             
@@ -1636,9 +1669,9 @@
             
             <tag> market trends </tag>
             
-            <tag> technology </tag>
-            
             <tag> innovation </tag>
+            
+            <tag> technology </tag>
             
             <tag> semiconductors </tag>
             
@@ -1669,9 +1702,9 @@
             
             <tag> innovation </tag>
             
-            <tag> chip design </tag>
-            
             <tag> semiconductors </tag>
+            
+            <tag> chip design </tag>
             
             <tag> supply chain </tag>
             
@@ -1758,9 +1791,9 @@
       
         <tags>
             
-            <tag> technology </tag>
-            
             <tag> innovation </tag>
+            
+            <tag> technology </tag>
             
             <tag> investment </tag>
             
@@ -1791,9 +1824,9 @@
       
         <tags>
             
-            <tag> technology </tag>
-            
             <tag> innovation </tag>
+            
+            <tag> technology </tag>
             
             <tag> semiconductors </tag>
             
@@ -1886,13 +1919,13 @@
             
             <tag> AI </tag>
             
-            <tag> technology </tag>
-            
             <tag> innovation </tag>
             
-            <tag> manufacturing </tag>
+            <tag> technology </tag>
             
             <tag> semiconductors </tag>
+            
+            <tag> manufacturing </tag>
             
         </tags>
       
@@ -1954,9 +1987,9 @@
             
             <tag> innovation </tag>
             
-            <tag> manufacturing </tag>
-            
             <tag> semiconductors </tag>
+            
+            <tag> manufacturing </tag>
             
             <tag> chiplets </tag>
             
@@ -2080,9 +2113,9 @@
             
             <tag> AI </tag>
             
-            <tag> technology </tag>
-            
             <tag> innovation </tag>
+            
+            <tag> technology </tag>
             
             <tag> semiconductor industry </tag>
             
@@ -2113,9 +2146,9 @@
             
             <tag> innovation </tag>
             
-            <tag> manufacturing </tag>
-            
             <tag> semiconductors </tag>
+            
+            <tag> manufacturing </tag>
             
         </tags>
       
@@ -2142,13 +2175,13 @@
             
             <tag> AI </tag>
             
-            <tag> technology </tag>
-            
             <tag> innovation </tag>
             
-            <tag> legislation </tag>
+            <tag> technology </tag>
             
             <tag> manufacturing </tag>
+            
+            <tag> legislation </tag>
             
         </tags>
       
@@ -2208,9 +2241,9 @@
             
             <tag> market trends </tag>
             
-            <tag> technology </tag>
-            
             <tag> innovation </tag>
+            
+            <tag> technology </tag>
             
             <tag> semiconductor </tag>
             
@@ -2241,9 +2274,9 @@
             
             <tag> market trends </tag>
             
-            <tag> technology </tag>
-            
             <tag> innovation </tag>
+            
+            <tag> technology </tag>
             
         </tags>
       
@@ -2268,13 +2301,13 @@
       
         <tags>
             
-            <tag> technology </tag>
-            
             <tag> innovation </tag>
             
-            <tag> sustainability </tag>
+            <tag> technology </tag>
             
             <tag> semiconductor </tag>
+            
+            <tag> sustainability </tag>
             
         </tags>
       
