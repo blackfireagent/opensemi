@@ -6,10 +6,44 @@
   <link href="https://blackfireagent.github.io/opensemi/atom.xml" rel="self"/>
   
   <link href="https://blackfireagent.github.io/opensemi/"/>
-  <updated>2025-09-24T04:22:07.237Z</updated>
+  <updated>2025-09-26T05:50:22.302Z</updated>
   <id>https://blackfireagent.github.io/opensemi/</id>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Cost-Effective, Orthogonal Approach to Resilient Memory Design</title>
+    <link href="https://blackfireagent.github.io/opensemi/20250926_Cost-Effective,-Orthogonal-Approach-to-Resilient-Memory-Design/"/>
+    <id>https://blackfireagent.github.io/opensemi/20250926_Cost-Effective,-Orthogonal-Approach-to-Resilient-Memory-Design/</id>
+    <published>2025-09-25T16:00:00.000Z</published>
+    <updated>2025-09-26T05:50:22.302Z</updated>
+    
+    <content type="html"><![CDATA[<div style="display: flex; justify-content: center;">  <audio controls>    <source src="/opensemi/podcasts/20250926_machinelearning_newsletter_gpt-4o-mini.mp3" type="audio/mpeg">    Your browser does not support the audio element.  </audio></div><h2 id="News"><a href="#News" class="headerlink" title="News"></a><a href="https://semiengineering.com/cost-effective-orthogonal-approach-to-resilient-memory-design-univ-of-central-florida-ut-san-antonio-rochester/">News</a></h2><p><strong>Cost-Effective, Orthogonal Approach to Resilient Memory Design</strong><br>A new paper from researchers at the University of Central Florida, UT San Antonio, and Rochester introduces SCREME, a scalable framework for resilient memory design. This approach challenges traditional Error Correction Codes (ECC) by proposing the use of cost-effective, lower-performance chips, which can help meet the growing demands for reliability in memory technology. The insights aim to optimize memory space utilization and enhance performance.</p><p><img src="https://semiengineering.com/wp-content/uploads/iStock-522782562-memory-03-25-24.jpeg?fit=1254,836&ssl=1" alt="Resilient Memory Design"></p><hr><h2 id="Launches"><a href="#Launches" class="headerlink" title="Launches"></a><a href="https://semiengineering.com/kan-acceleration-algorithm-hardware-co-design-approach-georgia-tech-national-tsing-hua-univ-tsmc/">Launches</a></h2><p><strong>KAN Acceleration: Algorithm Hardware Co-Design Approach</strong><br>Researchers from Georgia Tech, National Tsing Hua University, and TSMC have unveiled a new algorithm-hardware co-design framework for optimizing Kolmogorov-Arnold Networks (KAN). This innovative architecture enhances deep neural network capabilities while minimizing the need for extensive hardware resources. The paper details circuit-level optimizations that improve performance and reduce power consumption significantly, paving the way for large-scale KAN implementations.</p><p><img src="https://semiengineering.com/wp-content/uploads/AdobeStock_297039243-06-19-24.jpeg?fit=1200,675&ssl=1" alt="KAN Acceleration"></p><hr><h2 id="Charts"><a href="#Charts" class="headerlink" title="Charts"></a><a href="https://semiengineering.com/hw-sw-co-designed-system-with-3-core-optimization-pathways-for-long-context-agentic-llm-inference-cambridge-icl/">Charts</a></h2><p><strong>HW-SW Co-Designed System With 3 Core Optimization Pathways For Long-Context Agentic LLM Inference</strong><br>A new study from Cambridge and Imperial College London presents PLENA, a system designed to optimize long-context LLM inference. The research showcases a significant increase in hardware utilization and throughput when compared to existing accelerators, demonstrating the impact of innovative hardware-software co-design strategies on efficiency in AI applications.</p><p><img src="https://semiengineering.com/wp-content/uploads/AdobeStock_322782977-01-29-25-scaled.jpeg" alt="Long-Context LLM Inference"></p><hr><h2 id="Research"><a href="#Research" class="headerlink" title="Research"></a><a href="https://semiengineering.com/analog-plus-3d-optics-to-accelerate-ai-inference-and-combinatorial-optimization-microsoft-cambridge/">Research</a></h2><p><strong>Analog Plus 3D Optics to Accelerate AI Inference and Combinatorial Optimization</strong><br>Microsoft Research has published findings on an analog optical computer that integrates analog electronics with 3D optics for enhanced AI inference and optimization tasks. This innovative approach avoids traditional digital conversions, significantly improving energy efficiency. The research highlights case studies that demonstrate the potential of this technology to tackle complex AI and optimization challenges more sustainably.</p><p><img src="https://semiengineering.com/wp-content/uploads/AdobeStock_876124851-March-26-2025-scaled.jpeg" alt="Analog Optical Computer"></p><hr><h2 id="Insight"><a href="#Insight" class="headerlink" title="Insight"></a><a href="https://semiwiki.com/artificial-intelligence/361744-sifive-launches-second-generation-intelligence-family-of-risc-v-cores/">Insight</a></h2><p><strong>Generation Intelligence Family of RISC-V Cores Launched by SiFive</strong><br>SiFive’s launch of its second-generation Intelligence Family of RISC-V processor IP cores marks a significant advancement in AI processing. The new X100 series promises to outperform current competitors while focusing on low power requirements. The leadership team discusses the implications of these innovations for AI-driven compute, solidifying RISC-V’s position as a strong alternative in the semiconductor landscape.</p><p><img src="https://semiwiki.com/wp-content/uploads/2025/09/SiFive-2nd-Gen-Intelligence-Family-1200x750.png" alt="SiFive Intelligence Family"></p><hr><p>Stay tuned for more updates and breakthroughs in the semiconductor industry as we continue to bring you the latest news and insights!</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;div style=&quot;display: flex; justify-content: center;&quot;&gt;
+  &lt;audio controls&gt;
+    &lt;source src=&quot;/opensemi/podcasts/20250926_machinelearning_newsle</summary>
+      
+    
+    
+    
+    <category term="Machinelearning" scheme="https://blackfireagent.github.io/opensemi/categories/Machinelearning/"/>
+    
+    
+    <category term="AI" scheme="https://blackfireagent.github.io/opensemi/tags/AI/"/>
+    
+    <category term="semiconductors" scheme="https://blackfireagent.github.io/opensemi/tags/semiconductors/"/>
+    
+    <category term="RISC-V" scheme="https://blackfireagent.github.io/opensemi/tags/RISC-V/"/>
+    
+    <category term="memory design" scheme="https://blackfireagent.github.io/opensemi/tags/memory-design/"/>
+    
+    <category term="hardware acceleration" scheme="https://blackfireagent.github.io/opensemi/tags/hardware-acceleration/"/>
+    
+  </entry>
   
   <entry>
     <title>EUV Resist Degradation with Outgassing at Higher Doses</title>
@@ -316,9 +350,9 @@
     
     <category term="AI" scheme="https://blackfireagent.github.io/opensemi/tags/AI/"/>
     
-    <category term="semiconductors" scheme="https://blackfireagent.github.io/opensemi/tags/semiconductors/"/>
-    
     <category term="chip design" scheme="https://blackfireagent.github.io/opensemi/tags/chip-design/"/>
+    
+    <category term="semiconductors" scheme="https://blackfireagent.github.io/opensemi/tags/semiconductors/"/>
     
     <category term="6G" scheme="https://blackfireagent.github.io/opensemi/tags/6G/"/>
     
@@ -534,11 +568,11 @@
     
     <category term="semiconductor" scheme="https://blackfireagent.github.io/opensemi/tags/semiconductor/"/>
     
-    <category term="SoC" scheme="https://blackfireagent.github.io/opensemi/tags/SoC/"/>
-    
     <category term="memory" scheme="https://blackfireagent.github.io/opensemi/tags/memory/"/>
     
     <category term="architecture" scheme="https://blackfireagent.github.io/opensemi/tags/architecture/"/>
+    
+    <category term="SoC" scheme="https://blackfireagent.github.io/opensemi/tags/SoC/"/>
     
   </entry>
   
@@ -603,34 +637,6 @@
     <category term="research" scheme="https://blackfireagent.github.io/opensemi/tags/research/"/>
     
     <category term="memory" scheme="https://blackfireagent.github.io/opensemi/tags/memory/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Function Organic Molecule May Advance Display Technologies and Medical Imaging</title>
-    <link href="https://blackfireagent.github.io/opensemi/20250811_Function-Organic-Molecule-May-Advance-Display-Technologies-and-Medical-Imaging/"/>
-    <id>https://blackfireagent.github.io/opensemi/20250811_Function-Organic-Molecule-May-Advance-Display-Technologies-and-Medical-Imaging/</id>
-    <published>2025-08-10T16:00:00.000Z</published>
-    <updated>2025-08-11T04:13:45.254Z</updated>
-    
-    <content type="html"><![CDATA[<h2 id="News"><a href="#News" class="headerlink" title="News"></a><a href="https://www.semiconductor-digest.com/globalfoundries-expands-partnership-with-apple/">News</a></h2><p><strong>GlobalFoundries Expands Partnership with Apple</strong><br>GlobalFoundries has entered a significant agreement with Apple to enhance semiconductor manufacturing in the U.S. This partnership aims to accelerate investments in power-efficient and AI-enabling technologies essential for mobile computing. The collaboration highlights a commitment to strengthen the U.S. supply chain and innovation in semiconductor technology.</p><p><img src="https://www.semiconductor-digest.com/wp-content/uploads/2019/02/Final-Logo-1.png" alt="GlobalFoundries and Apple Partnership"></p><hr><h2 id="Launches"><a href="#Launches" class="headerlink" title="Launches"></a><a href="https://www.semiconductor-digest.com/deepx-and-baidu-form-ai-ecosystem-partnership/">Launches</a></h2><p><strong>DEEPX and Baidu Form AI Ecosystem Partnership</strong><br>DEEPX has partnered with Baidu to develop a robust AI ecosystem based on Baidu’s PaddlePaddle framework, enhancing industrial AI applications. Their collaboration focuses on creating innovative products and expanding AI capabilities across various sectors, especially in robotics and autonomous driving.</p><p><img src="https://www.semiconductor-digest.com/wp-content/uploads/2019/02/Final-Logo-1.png" alt="DEEPX and Baidu Partnership"></p><hr><h2 id="Charts"><a href="#Charts" class="headerlink" title="Charts"></a><a href="https://www.semiconductor-digest.com/prof-hiroshi-ishiguro-to-share-how-humanoid-robotics-will-reshape-society-at-semicon-taiwan-2025/">Charts</a></h2><p><strong>Prof. Hiroshi Ishiguro to Share Insights on Humanoid Robotics</strong><br>As robotics technology gains momentum, Prof. Hiroshi Ishiguro will address its impact on the semiconductor industry at SEMICON Taiwan 2025. The MEMS sensor market is projected to reach $29 billion by 2030, showcasing significant growth driven by advances in robotics and AI integration.</p><p><img src="https://www.semiconductor-digest.com/wp-content/uploads/2025/08/MEMS-Sensors-Forum-%E2%80%93-Expanding-the-Sensing-Horizon-Ushering-in-the-Robotics-Era.jpg.jpeg" alt="Hiroshi Ishiguro at SEMICON Taiwan"></p><hr><h2 id="Research"><a href="#Research" class="headerlink" title="Research"></a><a href="https://www.semiconductor-digest.com/dual-function-organic-molecule-may-advance-display-technologies-and-medical-imaging/">Research</a></h2><p><strong>Function Organic Molecule May Advance Display Technologies and Medical Imaging</strong><br>Researchers at Kyushu University have developed a novel organic molecule that exhibits dual functionality—efficient light emission for displays and strong light absorption for biomedical applications. This breakthrough could significantly enhance OLED efficiency and medical imaging techniques, marking a pivotal advancement in material science.</p><p><img src="https://www.semiconductor-digest.com/wp-content/uploads/2019/02/Final-Logo-1.png" alt="Organic Molecule Research"></p><hr><h2 id="Insight"><a href="#Insight" class="headerlink" title="Insight"></a><a href="https://semiwiki.com/ceo-interviews/359276-ceo-interview-with-bob-owen-of-owens-design/">Insight</a></h2><p><strong>CEO Interview with Bob Owen of Owens Design</strong><br>Bob Owen, CEO of Owens Design, discusses the company’s innovative approach to semiconductor equipment manufacturing. He emphasizes the importance of early engagement with clients to develop tools tailored to specific needs, enabling rapid scalability and minimizing risks in high-tech manufacturing.</p><p><img src="https://semiwiki.com/wp-content/uploads/2025/07/Bob-Fung-Photo-916x1200.jpg" alt="CEO Bob Owen"></p><hr><p>Stay tuned for more updates and insights into the semiconductor industry as we continue to explore the latest trends and innovations driving the future of technology.</p>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;h2 id=&quot;News&quot;&gt;&lt;a href=&quot;#News&quot; class=&quot;headerlink&quot; title=&quot;News&quot;&gt;&lt;/a&gt;&lt;a href=&quot;https://www.semiconductor-digest.com/globalfoundries-expands-part</summary>
-      
-    
-    
-    
-    <category term="Semiconductor" scheme="https://blackfireagent.github.io/opensemi/categories/Semiconductor/"/>
-    
-    
-    <category term="AI" scheme="https://blackfireagent.github.io/opensemi/tags/AI/"/>
-    
-    <category term="Semiconductor Innovation" scheme="https://blackfireagent.github.io/opensemi/tags/Semiconductor-Innovation/"/>
-    
-    <category term="Collaboration" scheme="https://blackfireagent.github.io/opensemi/tags/Collaboration/"/>
     
   </entry>
   

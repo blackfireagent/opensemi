@@ -4,6 +4,39 @@
   
     
     <entry>
+      <title>Cost-Effective, Orthogonal Approach to Resilient Memory Design</title>
+      <link href="/opensemi/20250926_Cost-Effective,-Orthogonal-Approach-to-Resilient-Memory-Design/"/>
+      <url>/opensemi/20250926_Cost-Effective,-Orthogonal-Approach-to-Resilient-Memory-Design/</url>
+      
+        <content type="html"><![CDATA[<div style="display: flex; justify-content: center;">  <audio controls>    <source src="/opensemi/podcasts/20250926_machinelearning_newsletter_gpt-4o-mini.mp3" type="audio/mpeg">    Your browser does not support the audio element.  </audio></div><h2 id="News"><a href="#News" class="headerlink" title="News"></a><a href="https://semiengineering.com/cost-effective-orthogonal-approach-to-resilient-memory-design-univ-of-central-florida-ut-san-antonio-rochester/">News</a></h2><p><strong>Cost-Effective, Orthogonal Approach to Resilient Memory Design</strong><br>A new paper from researchers at the University of Central Florida, UT San Antonio, and Rochester introduces SCREME, a scalable framework for resilient memory design. This approach challenges traditional Error Correction Codes (ECC) by proposing the use of cost-effective, lower-performance chips, which can help meet the growing demands for reliability in memory technology. The insights aim to optimize memory space utilization and enhance performance.</p><p><img src="https://semiengineering.com/wp-content/uploads/iStock-522782562-memory-03-25-24.jpeg?fit=1254,836&ssl=1" alt="Resilient Memory Design"></p><hr><h2 id="Launches"><a href="#Launches" class="headerlink" title="Launches"></a><a href="https://semiengineering.com/kan-acceleration-algorithm-hardware-co-design-approach-georgia-tech-national-tsing-hua-univ-tsmc/">Launches</a></h2><p><strong>KAN Acceleration: Algorithm Hardware Co-Design Approach</strong><br>Researchers from Georgia Tech, National Tsing Hua University, and TSMC have unveiled a new algorithm-hardware co-design framework for optimizing Kolmogorov-Arnold Networks (KAN). This innovative architecture enhances deep neural network capabilities while minimizing the need for extensive hardware resources. The paper details circuit-level optimizations that improve performance and reduce power consumption significantly, paving the way for large-scale KAN implementations.</p><p><img src="https://semiengineering.com/wp-content/uploads/AdobeStock_297039243-06-19-24.jpeg?fit=1200,675&ssl=1" alt="KAN Acceleration"></p><hr><h2 id="Charts"><a href="#Charts" class="headerlink" title="Charts"></a><a href="https://semiengineering.com/hw-sw-co-designed-system-with-3-core-optimization-pathways-for-long-context-agentic-llm-inference-cambridge-icl/">Charts</a></h2><p><strong>HW-SW Co-Designed System With 3 Core Optimization Pathways For Long-Context Agentic LLM Inference</strong><br>A new study from Cambridge and Imperial College London presents PLENA, a system designed to optimize long-context LLM inference. The research showcases a significant increase in hardware utilization and throughput when compared to existing accelerators, demonstrating the impact of innovative hardware-software co-design strategies on efficiency in AI applications.</p><p><img src="https://semiengineering.com/wp-content/uploads/AdobeStock_322782977-01-29-25-scaled.jpeg" alt="Long-Context LLM Inference"></p><hr><h2 id="Research"><a href="#Research" class="headerlink" title="Research"></a><a href="https://semiengineering.com/analog-plus-3d-optics-to-accelerate-ai-inference-and-combinatorial-optimization-microsoft-cambridge/">Research</a></h2><p><strong>Analog Plus 3D Optics to Accelerate AI Inference and Combinatorial Optimization</strong><br>Microsoft Research has published findings on an analog optical computer that integrates analog electronics with 3D optics for enhanced AI inference and optimization tasks. This innovative approach avoids traditional digital conversions, significantly improving energy efficiency. The research highlights case studies that demonstrate the potential of this technology to tackle complex AI and optimization challenges more sustainably.</p><p><img src="https://semiengineering.com/wp-content/uploads/AdobeStock_876124851-March-26-2025-scaled.jpeg" alt="Analog Optical Computer"></p><hr><h2 id="Insight"><a href="#Insight" class="headerlink" title="Insight"></a><a href="https://semiwiki.com/artificial-intelligence/361744-sifive-launches-second-generation-intelligence-family-of-risc-v-cores/">Insight</a></h2><p><strong>Generation Intelligence Family of RISC-V Cores Launched by SiFive</strong><br>SiFive’s launch of its second-generation Intelligence Family of RISC-V processor IP cores marks a significant advancement in AI processing. The new X100 series promises to outperform current competitors while focusing on low power requirements. The leadership team discusses the implications of these innovations for AI-driven compute, solidifying RISC-V’s position as a strong alternative in the semiconductor landscape.</p><p><img src="https://semiwiki.com/wp-content/uploads/2025/09/SiFive-2nd-Gen-Intelligence-Family-1200x750.png" alt="SiFive Intelligence Family"></p><hr><p>Stay tuned for more updates and breakthroughs in the semiconductor industry as we continue to bring you the latest news and insights!</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> Machinelearning </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> AI </tag>
+            
+            <tag> semiconductors </tag>
+            
+            <tag> RISC-V </tag>
+            
+            <tag> memory design </tag>
+            
+            <tag> hardware acceleration </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>EUV Resist Degradation with Outgassing at Higher Doses</title>
       <link href="/opensemi/20250924_EUV-Resist-Degradation-with-Outgassing-at-Higher-Doses/"/>
       <url>/opensemi/20250924_EUV-Resist-Degradation-with-Outgassing-at-Higher-Doses/</url>
@@ -313,9 +346,9 @@
             
             <tag> AI </tag>
             
-            <tag> semiconductors </tag>
-            
             <tag> chip design </tag>
+            
+            <tag> semiconductors </tag>
             
             <tag> 6G </tag>
             
@@ -538,11 +571,11 @@
             
             <tag> semiconductor </tag>
             
-            <tag> SoC </tag>
-            
             <tag> memory </tag>
             
             <tag> architecture </tag>
+            
+            <tag> SoC </tag>
             
         </tags>
       
@@ -1281,9 +1314,9 @@
             
             <tag> AI </tag>
             
-            <tag> semiconductors </tag>
-            
             <tag> chip design </tag>
+            
+            <tag> semiconductors </tag>
             
             <tag> memory technology </tag>
             
@@ -1409,9 +1442,9 @@
             
             <tag> AI </tag>
             
-            <tag> semiconductors </tag>
-            
             <tag> chip design </tag>
+            
+            <tag> semiconductors </tag>
             
             <tag> quantum technology </tag>
             
@@ -1700,9 +1733,9 @@
             
             <tag> AI </tag>
             
-            <tag> semiconductors </tag>
-            
             <tag> photonics </tag>
+            
+            <tag> semiconductors </tag>
             
             <tag> memory technology </tag>
             
@@ -1768,9 +1801,9 @@
             
             <tag> innovation </tag>
             
-            <tag> semiconductors </tag>
-            
             <tag> chip design </tag>
+            
+            <tag> semiconductors </tag>
             
             <tag> supply chain </tag>
             
@@ -2400,9 +2433,9 @@
             
             <tag> AI </tag>
             
-            <tag> Market Trends </tag>
-            
             <tag> Semiconductor Manufacturing </tag>
+            
+            <tag> Market Trends </tag>
             
             <tag> Research </tag>
             
