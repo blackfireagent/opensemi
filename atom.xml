@@ -190,9 +190,9 @@
     
     <category term="AI" scheme="https://blackfireagent.github.io/opensemi/tags/AI/"/>
     
-    <category term="innovation" scheme="https://blackfireagent.github.io/opensemi/tags/innovation/"/>
-    
     <category term="technology" scheme="https://blackfireagent.github.io/opensemi/tags/technology/"/>
+    
+    <category term="innovation" scheme="https://blackfireagent.github.io/opensemi/tags/innovation/"/>
     
     <category term="research" scheme="https://blackfireagent.github.io/opensemi/tags/research/"/>
     
@@ -224,9 +224,9 @@
     
     <category term="technology" scheme="https://blackfireagent.github.io/opensemi/tags/technology/"/>
     
-    <category term="semiconductors" scheme="https://blackfireagent.github.io/opensemi/tags/semiconductors/"/>
-    
     <category term="sustainability" scheme="https://blackfireagent.github.io/opensemi/tags/sustainability/"/>
+    
+    <category term="semiconductors" scheme="https://blackfireagent.github.io/opensemi/tags/semiconductors/"/>
     
     <category term="regulations" scheme="https://blackfireagent.github.io/opensemi/tags/regulations/"/>
     
@@ -286,9 +286,9 @@
     
     <category term="market trends" scheme="https://blackfireagent.github.io/opensemi/tags/market-trends/"/>
     
-    <category term="innovation" scheme="https://blackfireagent.github.io/opensemi/tags/innovation/"/>
-    
     <category term="technology" scheme="https://blackfireagent.github.io/opensemi/tags/technology/"/>
+    
+    <category term="innovation" scheme="https://blackfireagent.github.io/opensemi/tags/innovation/"/>
     
     <category term="semiconductors" scheme="https://blackfireagent.github.io/opensemi/tags/semiconductors/"/>
     
@@ -346,13 +346,13 @@
     <category term="Semiconductor" scheme="https://blackfireagent.github.io/opensemi/categories/Semiconductor/"/>
     
     
-    <category term="innovation" scheme="https://blackfireagent.github.io/opensemi/tags/innovation/"/>
-    
     <category term="technology" scheme="https://blackfireagent.github.io/opensemi/tags/technology/"/>
     
-    <category term="semiconductors" scheme="https://blackfireagent.github.io/opensemi/tags/semiconductors/"/>
+    <category term="innovation" scheme="https://blackfireagent.github.io/opensemi/tags/innovation/"/>
     
     <category term="sustainability" scheme="https://blackfireagent.github.io/opensemi/tags/sustainability/"/>
+    
+    <category term="semiconductors" scheme="https://blackfireagent.github.io/opensemi/tags/semiconductors/"/>
     
   </entry>
   
@@ -502,9 +502,9 @@
     
     <category term="innovation" scheme="https://blackfireagent.github.io/opensemi/tags/innovation/"/>
     
-    <category term="semiconductors" scheme="https://blackfireagent.github.io/opensemi/tags/semiconductors/"/>
-    
     <category term="manufacturing" scheme="https://blackfireagent.github.io/opensemi/tags/manufacturing/"/>
+    
+    <category term="semiconductors" scheme="https://blackfireagent.github.io/opensemi/tags/semiconductors/"/>
     
     <category term="quantum computing" scheme="https://blackfireagent.github.io/opensemi/tags/quantum-computing/"/>
     
@@ -534,9 +534,9 @@
     
     <category term="semiconductor" scheme="https://blackfireagent.github.io/opensemi/tags/semiconductor/"/>
     
-    <category term="memory" scheme="https://blackfireagent.github.io/opensemi/tags/memory/"/>
-    
     <category term="SoC" scheme="https://blackfireagent.github.io/opensemi/tags/SoC/"/>
+    
+    <category term="memory" scheme="https://blackfireagent.github.io/opensemi/tags/memory/"/>
     
     <category term="architecture" scheme="https://blackfireagent.github.io/opensemi/tags/architecture/"/>
     
@@ -562,9 +562,9 @@
     <category term="Etch" scheme="https://blackfireagent.github.io/opensemi/categories/Etch/"/>
     
     
-    <category term="semiconductors" scheme="https://blackfireagent.github.io/opensemi/tags/semiconductors/"/>
-    
     <category term="manufacturing" scheme="https://blackfireagent.github.io/opensemi/tags/manufacturing/"/>
+    
+    <category term="semiconductors" scheme="https://blackfireagent.github.io/opensemi/tags/semiconductors/"/>
     
     <category term="quantum computing" scheme="https://blackfireagent.github.io/opensemi/tags/quantum-computing/"/>
     
