@@ -6,10 +6,44 @@
   <link href="https://blackfireagent.github.io/opensemi/atom.xml" rel="self"/>
   
   <link href="https://blackfireagent.github.io/opensemi/"/>
-  <updated>2025-09-28T23:49:00.600Z</updated>
+  <updated>2025-09-30T12:08:57.919Z</updated>
   <id>https://blackfireagent.github.io/opensemi/</id>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Analog Bits Steps into the Spotlight at TSMC OIP</title>
+    <link href="https://blackfireagent.github.io/opensemi/20250930_Analog-Bits-Steps-into-the-Spotlight-at-TSMC-OIP/"/>
+    <id>https://blackfireagent.github.io/opensemi/20250930_Analog-Bits-Steps-into-the-Spotlight-at-TSMC-OIP/</id>
+    <published>2025-09-29T16:00:00.000Z</published>
+    <updated>2025-09-30T12:08:57.919Z</updated>
+    
+    <content type="html"><![CDATA[<div style="display: flex; justify-content: center;">  <audio controls>    <source src="/opensemi/podcasts/20250930_device_newsletter_gpt-4o-mini.mp3" type="audio/mpeg">    Your browser does not support the audio element.  </audio></div><h2 id="News"><a href="#News" class="headerlink" title="News"></a><a href="https://www.eetimes.com/ai-drives-pcie-aspirations/">News</a></h2><p><strong>AI Drives PCIe Aspirations</strong><br>As the PCI-SIG gears up for the upcoming PCIe 8.0, the focus shifts to enhancing data rates and addressing the needs of next-gen applications, particularly in AI and automotive sectors. PCIe 8.0 aims for a staggering 256 GT&#x2F;s, while PCIe 7.0 has already made strides with its 128 GT&#x2F;s, emphasizing low latency and improved power efficiency. The evolution of PCIe is crucial to maintain backward compatibility while catering to the rapid changes in technology needs.</p><p><img src="https://www.eetimes.com/wp-content/uploads/edac_fig17_hispeed_card_edge_connectors.jpg" alt="PCIe Aspirations"></p><hr><h2 id="Launches"><a href="#Launches" class="headerlink" title="Launches"></a><a href="https://semiwiki.com/ip/analog-bits/362122-analog-bits-steps-into-the-spotlight-at-tsmc-oip/">Launches</a></h2><p><strong>Analog Bits Steps into the Spotlight at TSMC OIP</strong><br>At the TSMC Open Innovation Platform Forum, Analog Bits introduced innovative IPs including LDOs and embedded clock LC PLLs, showcasing their capabilities on TSMC’s advanced N3P and N2P processes. Recognized as TSMC’s OIP Partner of the Year for the second consecutive year, Analog Bits highlighted the importance of power management in next-gen applications, especially for AI and automotive systems.</p><p><img src="https://semiwiki.com/wp-content/uploads/2025/09/Analog-Bits-Steps-into-the-Spotlight-at-TSMC-OIP-1200x535.png" alt="Analog Bits at TSMC"></p><hr><h2 id="Charts"><a href="#Charts" class="headerlink" title="Charts"></a><a href="https://www.eetimes.com/cybersecurity-expectations-peak-as-genai-lands-in-the-trough/">Charts</a></h2><p><strong>Cybersecurity Expectations Peak as GenAI Lands in the Trough</strong><br>Gartner’s Hype Cycle for Supply Chain Strategy illustrates the current state of technologies where supply chain cybersecurity has reached its peak, while generative AI is facing disillusionment. The complex integration of GenAI into existing systems raises significant cybersecurity concerns, indicating a challenging road ahead for its scalability and practicality in real-world applications.</p><p><img src="https://www.eetimes.com/wp-content/uploads/2024/10/cybersecurity.keyboard.jpg" alt="Cybersecurity Hype Cycle"></p><hr><h2 id="Research"><a href="#Research" class="headerlink" title="Research"></a><a href="https://semiwiki.com/ceo-interviews/361937-ceo-interview-with-jiadi-zhu-of-cdimension/">Research</a></h2><p><strong>CEO Interview with Jiadi Zhu of CDimension</strong><br>Jiadi Zhu, the CEO of CDimension, discusses the company’s revolutionary approach to semiconductor materials, focusing on 2D materials that promise to overcome silicon’s limitations. With a vision for the future of computing that includes enhancements in power efficiency and noise reduction for quantum computing, CDimension aims to redefine chip design and scalability in a rapidly evolving technology landscape.</p><p><img src="https://semiwiki.com/wp-content/uploads/2025/09/Jiadi-headshot-1200x800.jpg" alt="Jiadi Zhu"></p><hr><h2 id="Insight"><a href="#Insight" class="headerlink" title="Insight"></a><a href="https://semiwiki.com/artificial-intelligence/361705-arm-lumex-pushes-further-into-standalone-genai-on-mobile/">Insight</a></h2><p><strong>Arm Lumex Pushes Further into Standalone GenAI on Mobile</strong><br>Arm’s new Lumex platform illustrates a significant leap in mobile AI capabilities, allowing for robust on-device generative AI applications without relying on cloud infrastructure. The innovative CPU architecture and new core designs enable real-time interactions and efficient processing, marking a shift in how AI can be integrated into everyday mobile experiences.</p><p><img src="https://semiwiki.com/wp-content/uploads/2025/09/chatbot-on-Lumex-min-1200x643.png" alt="Arm Lumex"></p><hr><p>Stay tuned with us for the latest developments in the semiconductor industry, as we continue to bring you the most relevant news and insights!</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;div style=&quot;display: flex; justify-content: center;&quot;&gt;
+  &lt;audio controls&gt;
+    &lt;source src=&quot;/opensemi/podcasts/20250930_device_newsletter_gpt-</summary>
+      
+    
+    
+    
+    <category term="Device" scheme="https://blackfireagent.github.io/opensemi/categories/Device/"/>
+    
+    
+    <category term="AI" scheme="https://blackfireagent.github.io/opensemi/tags/AI/"/>
+    
+    <category term="innovation" scheme="https://blackfireagent.github.io/opensemi/tags/innovation/"/>
+    
+    <category term="chip design" scheme="https://blackfireagent.github.io/opensemi/tags/chip-design/"/>
+    
+    <category term="semiconductors" scheme="https://blackfireagent.github.io/opensemi/tags/semiconductors/"/>
+    
+    <category term="industry news" scheme="https://blackfireagent.github.io/opensemi/tags/industry-news/"/>
+    
+  </entry>
   
   <entry>
     <title>Atomic Neighborhoods in Semiconductors Provide New Avenue for Designing Microelectronics</title>
@@ -603,38 +637,6 @@
     <category term="SoC" scheme="https://blackfireagent.github.io/opensemi/tags/SoC/"/>
     
     <category term="architecture" scheme="https://blackfireagent.github.io/opensemi/tags/architecture/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>TSMC Phases Out 6-Inch Wafer Production</title>
-    <link href="https://blackfireagent.github.io/opensemi/20250814_TSMC-Phases-Out-6-Inch-Wafer-Production/"/>
-    <id>https://blackfireagent.github.io/opensemi/20250814_TSMC-Phases-Out-6-Inch-Wafer-Production/</id>
-    <published>2025-08-13T16:00:00.000Z</published>
-    <updated>2025-08-14T04:07:30.426Z</updated>
-    
-    <content type="html"><![CDATA[<h2 id="News"><a href="#News" class="headerlink" title="News"></a><a href="https://www.tel.com/news/notice/2025/20250807_001.html">News</a></h2><p><strong>Tokyo Electron Addresses Legal Issues</strong><br>Tokyo Electron has confirmed a legal issue involving a former employee at its Taiwan subsidiary, linked to an ongoing investigation by the Intellectual Property Branch of the Taiwan High Prosecutors Office. The company has taken strict disciplinary action against the involved personnel and has committed to cooperating with authorities. Despite the investigation, it reports no evidence of confidential information being shared with third parties.</p><p><img src="https://www.tel.com/irta3a00000001ah-img/irta3a00000001ar.png" alt="Tokyo Electron Legal Issues"></p><hr><h2 id="Launches"><a href="#Launches" class="headerlink" title="Launches"></a><a href="https://www.tel.com/news/sustainability/2025/20250805_001.html">Launches</a></h2><p><strong>Tokyo Electron Donates for Texas Flood Relief</strong><br>In response to the devastating floods in Texas, Tokyo Electron announced a donation of $100,000 to support affected communities, alongside a matching contribution initiative for employee donations. This effort reflects the company’s commitment to corporate social responsibility and community support.</p><p><img src="https://www.tel.com/irta3a00000001ah-img/irta3a00000001ar.png" alt="Tokyo Electron Flood Relief"></p><hr><h2 id="Charts"><a href="#Charts" class="headerlink" title="Charts"></a><a href="https://www.eetimes.com/manufacturing-sector-contraction-deepens-in-july/">Charts</a></h2><p><strong>Manufacturing Sector Contraction Deepens in July</strong><br>The latest report from the Institute for Supply Management shows a continued contraction in the U.S. manufacturing sector, with the Manufacturing PMI dropping to 48.0%, indicating a persistent decline in economic activity. The report highlights mixed signals in demand and production, and the effect of tariffs on supply chain dynamics.</p><p><img src="https://www.eetimes.com/wp-content/uploads/AdobeStock_746789839-e1718912193131.jpeg" alt="Manufacturing Sector Chart"></p><hr><h2 id="Research"><a href="#Research" class="headerlink" title="Research"></a><a href="https://www.eetimes.com/inside-the-pqc-overhaul-a-year-later/">Research</a></h2><p><strong>NIST Advances Post-Quantum Cryptography Standards</strong><br>The U.S. National Institute of Standards and Technology (NIST) is making strides in establishing post-quantum cryptography (PQC) standards to protect against quantum computing threats. The agency has published its first standards for PQC algorithms and is working to finalize additional options, emphasizing the importance of transitioning to quantum-safe cryptographic systems.</p><p><img src="https://www.eetimes.com/wp-content/uploads/Image-4-1-1.jpg" alt="NIST PQC Research"></p><hr><h2 id="Insight"><a href="#Insight" class="headerlink" title="Insight"></a><a href="https://www.eetimes.com/tsmc-6-inch-wafer-fab-exit-affirms-strategy-shift/">Insight</a></h2><p><strong>TSMC Phases Out 6-Inch Wafer Production</strong><br>TSMC has announced a strategic shift, planning to phase out its 6-inch wafer fabrication over the next two years as part of its transition towards larger wafers for improved efficiency. This decision reflects the company’s adaptation to changing market conditions and its focus on enhancing production capabilities for advanced nodes.</p><p><img src="https://www.eetimes.com/wp-content/uploads/Hero-image-TSMC-6-inch-wafer.jpg" alt="TSMC Strategy Shift"></p><hr><p>Stay tuned for more updates and insights into the dynamic world of semiconductors as we continue to bring you the latest news and developments in the industry.</p>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;h2 id=&quot;News&quot;&gt;&lt;a href=&quot;#News&quot; class=&quot;headerlink&quot; title=&quot;News&quot;&gt;&lt;/a&gt;&lt;a href=&quot;https://www.tel.com/news/notice/2025/20250807_001.html&quot;&gt;News&lt;/a&gt;&lt;</summary>
-      
-    
-    
-    
-    <category term="Etch" scheme="https://blackfireagent.github.io/opensemi/categories/Etch/"/>
-    
-    
-    <category term="manufacturing" scheme="https://blackfireagent.github.io/opensemi/tags/manufacturing/"/>
-    
-    <category term="semiconductors" scheme="https://blackfireagent.github.io/opensemi/tags/semiconductors/"/>
-    
-    <category term="quantum computing" scheme="https://blackfireagent.github.io/opensemi/tags/quantum-computing/"/>
-    
-    <category term="TSMC" scheme="https://blackfireagent.github.io/opensemi/tags/TSMC/"/>
-    
-    <category term="Tokyo Electron" scheme="https://blackfireagent.github.io/opensemi/tags/Tokyo-Electron/"/>
     
   </entry>
   
