@@ -6,10 +6,40 @@
   <link href="https://blackfireagent.github.io/opensemi/atom.xml" rel="self"/>
   
   <link href="https://blackfireagent.github.io/opensemi/"/>
-  <updated>2025-09-30T12:08:57.919Z</updated>
+  <updated>2025-10-02T22:17:53.563Z</updated>
   <id>https://blackfireagent.github.io/opensemi/</id>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Double Duty Logic Block Architecture Enabling Concurrent LUT and Adder Chain Usage</title>
+    <link href="https://blackfireagent.github.io/opensemi/20251003_Double-Duty-Logic-Block-Architecture-Enabling-Concurrent-LUT-and-Adder-Chain-Usage/"/>
+    <id>https://blackfireagent.github.io/opensemi/20251003_Double-Duty-Logic-Block-Architecture-Enabling-Concurrent-LUT-and-Adder-Chain-Usage/</id>
+    <published>2025-10-02T16:00:00.000Z</published>
+    <updated>2025-10-02T22:17:53.563Z</updated>
+    
+    <content type="html"><![CDATA[<div style="display: flex; justify-content: center;">  <audio controls>    <source src="/opensemi/podcasts/20251003_machinelearning_newsletter_gpt-4o-mini.mp3" type="audio/mpeg">    Your browser does not support the audio element.  </audio></div><h2 id="News"><a href="#News" class="headerlink" title="News"></a><a href="https://semiengineering.com/double-duty-logic-block-architecture-enabling-concurrent-lut-and-adder-chain-usage-nanyang-technological-univ-et-al/">News</a></h2><p><strong>Double Duty Logic Block Architecture Enabling Concurrent LUT and Adder Chain Usage</strong><br>A recent paper by researchers at Nanyang Technological University and partners introduces the Double Duty logic block architecture, allowing for concurrent usage of look-up tables (LUTs) and adder chains in FPGAs. This approach enhances arithmetic density and reduces area by up to 21.6% in adder-intensive circuits, while maintaining critical path delay.</p><p><img src="https://semiengineering.com/wp-content/uploads/AdobeStock_1104488381-03-26-2025-scaled.jpeg" alt="Double Duty FPGA"></p><hr><h2 id="Launches"><a href="#Launches" class="headerlink" title="Launches"></a><a href="https://semiwiki.com/events/362123-webinar-the-path-to-smaller-denser-and-faster-with-cpx-samtecs-co-packaged-copper-and-optics/">Launches</a></h2><p><strong>The path to smaller denser and faster</strong><br>Samtec is set to host a webinar on October 21, discussing its innovative co-packaged copper (CPC) and co-packaged optics (CPO) technology, termed CPX. This development allows for advanced speeds of 224 Gbps, effectively integrating copper and optics for improved performance in data centers and AI applications.</p><p><img src="https://semiwiki.com/wp-content/uploads/2025/09/Webinar-%E2%80%93-The-Path-to-Smaller-Denser-and-Faster-with-CPX-Samtecs-Co-Packaged-Copper-and-Optics-1200x398.png" alt="Samtec Webinar"></p><hr><h2 id="Charts"><a href="#Charts" class="headerlink" title="Charts"></a><a href="https://semiwiki.com/3dic/361970-ai-everywhere-in-the-chip-lifecycle-synopsys-at-ai-infra-summit-2025/">Charts</a></h2><p><strong>AI Everywhere in the Chip Lifecycle: Synopsys at AI Infra Summit</strong><br>At the AI Infra Summit, Synopsys illustrated how AI influences every phase of chip development, reducing design times by up to 40% and improving energy efficiency due to the expected fifty-fold growth in AI workloads by 2028. Their unified AI-driven ecosystem integrates design and verification, streamlining the semiconductor development process.</p><p><img src="https://semiwiki.com/wp-content/uploads/2025/09/Godwin-Talk-Summary-AI-Infra-Summit-2025-1200x750.png" alt="AI Infra Summit"></p><hr><h2 id="Research"><a href="#Research" class="headerlink" title="Research"></a><a href="https://semiwiki.com/artificial-intelligence/361711-neurosymbolic-code-generation-innovation-in-verification/">Research</a></h2><p><strong>Neurosymbolic code generation. Innovation in Verification</strong><br>A novel research paper from Rice University and collaborators proposes a neurosymbolic approach to automated code generation, significantly enhancing the accuracy of Java method generation. The method integrates symbolic reasoning with neural networks, achieving an impressive 86% success rate in syntax correctness checks compared to traditional large language models.</p><p><img src="https://semiwiki.com/wp-content/uploads/2025/09/Innovation-New.jpeg" alt="Neurosymbolic Code Generation"></p><hr><h2 id="Insight"><a href="#Insight" class="headerlink" title="Insight"></a><a href="https://semiwiki.com/artificial-intelligence/tekstart/361951-ceo-interview-with-howard-prakash-of-tekstart/">Insight</a></h2><p><strong>CEO Interview with Howard Pakosh of TekStart</strong><br>Howard Pakosh, CEO of TekStart, discusses the evolution of his company into a venture builder focused on semiconductors and AI. He highlights the challenges of supply chain fragility and energy efficiency while showcasing their Newport initiative, which delivers performance-per-watt advancements for Edge AI applications, addressing critical needs in various sectors.</p><p><img src="https://semiwiki.com/wp-content/uploads/2025/09/HP_biopic_2-740x1200.jpg" alt="Howard Pakosh"></p><hr><p>Stay tuned for more updates as we continue to bring you the latest in semiconductor and AI technology advancements.</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;div style=&quot;display: flex; justify-content: center;&quot;&gt;
+  &lt;audio controls&gt;
+    &lt;source src=&quot;/opensemi/podcasts/20251003_machinelearning_newsle</summary>
+      
+    
+    
+    
+    <category term="Machinelearning" scheme="https://blackfireagent.github.io/opensemi/categories/Machinelearning/"/>
+    
+    
+    <category term="AI" scheme="https://blackfireagent.github.io/opensemi/tags/AI/"/>
+    
+    <category term="Innovation" scheme="https://blackfireagent.github.io/opensemi/tags/Innovation/"/>
+    
+    <category term="Semiconductors" scheme="https://blackfireagent.github.io/opensemi/tags/Semiconductors/"/>
+    
+  </entry>
   
   <entry>
     <title>Analog Bits Steps into the Spotlight at TSMC OIP</title>
@@ -37,9 +67,9 @@
     
     <category term="innovation" scheme="https://blackfireagent.github.io/opensemi/tags/innovation/"/>
     
-    <category term="chip design" scheme="https://blackfireagent.github.io/opensemi/tags/chip-design/"/>
-    
     <category term="semiconductors" scheme="https://blackfireagent.github.io/opensemi/tags/semiconductors/"/>
+    
+    <category term="chip design" scheme="https://blackfireagent.github.io/opensemi/tags/chip-design/"/>
     
     <category term="industry news" scheme="https://blackfireagent.github.io/opensemi/tags/industry-news/"/>
     
@@ -414,9 +444,9 @@
     
     <category term="AI" scheme="https://blackfireagent.github.io/opensemi/tags/AI/"/>
     
-    <category term="chip design" scheme="https://blackfireagent.github.io/opensemi/tags/chip-design/"/>
-    
     <category term="semiconductors" scheme="https://blackfireagent.github.io/opensemi/tags/semiconductors/"/>
+    
+    <category term="chip design" scheme="https://blackfireagent.github.io/opensemi/tags/chip-design/"/>
     
     <category term="6G" scheme="https://blackfireagent.github.io/opensemi/tags/6G/"/>
     
@@ -605,38 +635,6 @@
     <category term="semiconductors" scheme="https://blackfireagent.github.io/opensemi/tags/semiconductors/"/>
     
     <category term="quantum computing" scheme="https://blackfireagent.github.io/opensemi/tags/quantum-computing/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>In-NAND Self-Encryption Architecture In A 4D-NAND Structure</title>
-    <link href="https://blackfireagent.github.io/opensemi/20250815_In-NAND-Self-Encryption-Architecture-In-A-4D-NAND-Structure/"/>
-    <id>https://blackfireagent.github.io/opensemi/20250815_In-NAND-Self-Encryption-Architecture-In-A-4D-NAND-Structure/</id>
-    <published>2025-08-14T16:00:00.000Z</published>
-    <updated>2025-08-15T04:10:02.360Z</updated>
-    
-    <content type="html"><![CDATA[<h2 id="News"><a href="#News" class="headerlink" title="News"></a><a href="https://semiwiki.com/ip/ceva/359828-webinar-what-it-really-takes-to-build-a-future-proof-ai-architecture/">News</a></h2><p><strong>What It Really Takes to Build a Future-Proof AI Architecture</strong><br>Ceva hosted a webinar discussing the necessity of specialized AI inference chips for edge devices, addressing how these chips can meet specific embedded requirements while maintaining energy efficiency. The discussion emphasized the importance of designing flexible architectures that can adapt to rapid advancements in AI technology.</p><p><img src="https://semiwiki.com/wp-content/uploads/2025/08/AI-Inference-Use-Cases-from-Edge-to-Cloud-1200x498.png" alt="AI Inference Use Cases"></p><hr><h2 id="Launches"><a href="#Launches" class="headerlink" title="Launches"></a><a href="https://semiwiki.com/semiconductor-services/359711-architecting-your-next-soc-join-the-live-discussion-on-tradeoffs-ip-and-ecosystem-realities/">Launches</a></h2><p><strong>Architecting Your Next SoC: Join the Live Discussion on Tradeoffs…</strong><br>A live webinar was held to explore the complexities involved in designing a system-on-chip (SoC). Experts discussed the trade-offs in architecture, IP selection, and ecosystem realities, aiming to equip attendees with actionable strategies for navigating the challenges in SoC design.</p><p><img src="https://semiwiki.com/wp-content/uploads/2025/07/sqr-1.png" alt="SoC Architecture"></p><hr><h2 id="Charts"><a href="#Charts" class="headerlink" title="Charts"></a><a href="https://semiengineering.com/ltram-and-stram-specialized-memory-architectures-leveraging-workload-specific-access-characteristics-stanford-microsoft/">Charts</a></h2><p><strong>LtRAM And StRAM: Specialized Memory Architectures</strong><br>A new paper from Stanford and Microsoft presents a proposal for specialized memory architectures: Long-term RAM (LtRAM) and Short-term RAM (StRAM). The authors argue that such architectures can optimize performance based on specific application access patterns, addressing the limitations of traditional memory hierarchies.</p><p><img src="https://semiengineering.com/wp-content/uploads/iStock-522782562-memory-03-25-24.jpeg" alt="Memory Architecture"></p><hr><h2 id="Research"><a href="#Research" class="headerlink" title="Research"></a><a href="https://semiengineering.com/in-nand-self-encryption-architecture-in-a-4d-nand-structure-dgist-georgia-tech-et-al/">Research</a></h2><p><strong>In-NAND Self-Encryption Architecture In A 4D-NAND Structure</strong><br>The researchers from DGIST and Georgia Tech introduce FlashVault, an innovative architecture that embeds a cryptographic engine within NAND flash chips. This design allows for enhanced data security at zero area overhead, significantly improving performance for various cryptographic algorithms.</p><p><img src="https://semiengineering.com/wp-content/uploads/AdobeStock_362074973-security-07-23-scaled.jpeg" alt="FlashVault Architecture"></p><hr><h2 id="Insight"><a href="#Insight" class="headerlink" title="Insight"></a><a href="https://semiwiki.com/artificial-intelligence/359520-a-quick-tour-through-prompt-engineering-as-it-might-apply-to-debug/">Insight</a></h2><p><strong>A Quick Tour Through Prompt Engineering as it Might Apply to Debug</strong><br>This article explores the emerging discipline of prompt engineering, particularly its importance in optimizing large language model (LLM) interactions for hardware debugging. With techniques like Chain of Thought prompting and in-context learning, the article emphasizes the need for engineers to adapt their approach to leverage LLMs effectively in debugging processes.</p><p><img src="https://semiwiki.com/wp-content/uploads/2025/08/Prompt-ENgineering-example-1.png" alt="Prompt Engineering"></p><hr><p>Stay tuned for more insights and developments in the semiconductor industry as we continue to bring you the latest news and innovations!</p>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;h2 id=&quot;News&quot;&gt;&lt;a href=&quot;#News&quot; class=&quot;headerlink&quot; title=&quot;News&quot;&gt;&lt;/a&gt;&lt;a href=&quot;https://semiwiki.com/ip/ceva/359828-webinar-what-it-really-takes-</summary>
-      
-    
-    
-    
-    <category term="Machinelearning" scheme="https://blackfireagent.github.io/opensemi/categories/Machinelearning/"/>
-    
-    
-    <category term="AI" scheme="https://blackfireagent.github.io/opensemi/tags/AI/"/>
-    
-    <category term="semiconductor" scheme="https://blackfireagent.github.io/opensemi/tags/semiconductor/"/>
-    
-    <category term="memory" scheme="https://blackfireagent.github.io/opensemi/tags/memory/"/>
-    
-    <category term="SoC" scheme="https://blackfireagent.github.io/opensemi/tags/SoC/"/>
-    
-    <category term="architecture" scheme="https://blackfireagent.github.io/opensemi/tags/architecture/"/>
     
   </entry>
   
