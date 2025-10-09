@@ -6,10 +6,42 @@
   <link href="https://blackfireagent.github.io/opensemi/atom.xml" rel="self"/>
   
   <link href="https://blackfireagent.github.io/opensemi/"/>
-  <updated>2025-10-08T04:25:03.173Z</updated>
+  <updated>2025-10-09T04:11:32.751Z</updated>
   <id>https://blackfireagent.github.io/opensemi/</id>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Emerson Leverages AI to Address Complexity in Test and Measurement</title>
+    <link href="https://blackfireagent.github.io/opensemi/20251009_Emerson-Leverages-AI-to-Address-Complexity-in-Test-and-Measurement/"/>
+    <id>https://blackfireagent.github.io/opensemi/20251009_Emerson-Leverages-AI-to-Address-Complexity-in-Test-and-Measurement/</id>
+    <published>2025-10-08T22:00:00.000Z</published>
+    <updated>2025-10-09T04:11:32.751Z</updated>
+    
+    <content type="html"><![CDATA[<div style="display: flex; justify-content: center;">  <audio controls>    <source src="/opensemi/podcasts/20251009_etch_newsletter_gpt-4o-mini.mp3" type="audio/mpeg">    Your browser does not support the audio element.  </audio></div><h2 id="News"><a href="#News" class="headerlink" title="News"></a><a href="https://www.semiconductor-digest.com/qualcomm-to-acquire-arduino/">News</a></h2><p><strong>Qualcomm To Acquire Arduino</strong><br>Qualcomm Technologies announced its acquisition of Arduino, aiming to democratize access to edge computing and AI for developers worldwide. This acquisition follows Qualcomm’s earlier purchases of Edge Impulse and Foundries.io, expanding its reach to over 33 million active Arduino users. Arduino will maintain its independent brand and community spirit while enhancing its development tools, including the new Arduino UNO Q, designed for AI-powered solutions.</p><p><img src="https://www.eetimes.com/wp-content/uploads/Qualcomm-Arduino-Uno.jpeg" alt="Qualcomm Arduino"></p><hr><h2 id="Launches"><a href="#Launches" class="headerlink" title="Launches"></a><a href="https://www.semiconductor-digest.com/acm-research-unveils-ultra-ecdp-electrochemical-deplating-tool-for-compound-semiconductor-gold-etch-processes/">Launches</a></h2><p><strong>ACM Research Unveils Ultra ECDP Electrochemical Deplating Tool for Compound Semiconductor Gold Etch Processes</strong><br>ACM Research has launched the Ultra ECDP tool for electrochemical gold etching, specifically designed for compound semiconductor manufacturing. This innovative tool improves uniformity and surface finish while addressing challenges in gold etching. It is engineered for various substrates and is compatible with both 6-inch and 8-inch wafer platforms, supporting multiple manufacturing environments.</p><p><img src="https://www.semiconductor-digest.com/wp-content/uploads/2019/02/Final-Logo-1.png" alt="ACM Ultra ECDP Tool"></p><hr><h2 id="Charts"><a href="#Charts" class="headerlink" title="Charts"></a><a href="https://newsroom.lamresearch.com/fabtex-yield-optimizer-improves-processes-for-high-volume-manufacturing?blog=true">Charts</a></h2><p><strong>Volume Semiconductor Manufacturing Yield Improvement</strong><br>Lam Research has introduced the Fabtex™ Yield Optimizer, a groundbreaking software solution designed to enhance yield in high volume manufacturing (HVM) at fabs. Leveraging AI, machine learning, and virtual silicon digital twins, Fabtex significantly reduces process variability and time-to-market by identifying issues early in the manufacturing process. This innovative approach promises to enhance yield while minimizing wafer testing and waste.</p><p><img src="https://newsroom.lamresearch.com/image/Fabtex-Value-Proposition-REV-10-1C.jpg" alt="Yield Improvement Chart"></p><hr><h2 id="Research"><a href="#Research" class="headerlink" title="Research"></a><a href="https://www.semiconductor-digest.com/imec-achieves-new-milestones-in-single-patterning-high-na-euv-lithography-for-both-damascene-and-direct-metal-etch-metallization-processes/">Research</a></h2><p><strong>Imec Achieves New Milestones in Single Patterning High NA EUV Lithography</strong><br>At the 2025 SPIE Photomask Technology + EUV Lithography Conference, imec presented significant advancements in single print High NA EUV lithography. They achieved 20nm pitch line structures with a critical dimension of 13nm, essential for damascene metallization processes. These breakthroughs are poised to drive the semiconductor industry toward high volume manufacturing of sub-2nm logic technology, crucial for future innovations.</p><p><img src="https://www.semiconductor-digest.com/wp-content/uploads/2019/02/Final-Logo-1.png" alt="Imec Milestones"></p><hr><h2 id="Insight"><a href="#Insight" class="headerlink" title="Insight"></a><a href="https://www.eetimes.com/emerson-leverages-ai-to-address-complexity-in-test-and-measurement/">Insight</a></h2><p><strong>Emerson Leverages AI to Address Complexity in Test and Measurement</strong><br>At Publitek Connect 2025, Emerson unveiled its AI platform, Nigel, designed to simplify complex test and measurement workflows. This tool aids engineers in analyzing code and identifying hardware needs, improving efficiency in semiconductor testing. With a focus on integrating AI across its product lines, Emerson aims to enhance customer experience and adapt to the increasing complexity of modern semiconductor devices.</p><p><img src="https://www.eetimes.com/wp-content/uploads/emerson-expands-ai-capabilities-into-test-measurement-software-portfolio-en-us-11902676.jpg" alt="Emerson AI"></p><hr><p>Stay tuned for more updates as we continue to bring you the latest in the semiconductor industry!</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;div style=&quot;display: flex; justify-content: center;&quot;&gt;
+  &lt;audio controls&gt;
+    &lt;source src=&quot;/opensemi/podcasts/20251009_etch_newsletter_gpt-4o</summary>
+      
+    
+    
+    
+    <category term="Etch" scheme="https://blackfireagent.github.io/opensemi/categories/Etch/"/>
+    
+    
+    <category term="AI" scheme="https://blackfireagent.github.io/opensemi/tags/AI/"/>
+    
+    <category term="innovation" scheme="https://blackfireagent.github.io/opensemi/tags/innovation/"/>
+    
+    <category term="semiconductor" scheme="https://blackfireagent.github.io/opensemi/tags/semiconductor/"/>
+    
+    <category term="advanced packaging" scheme="https://blackfireagent.github.io/opensemi/tags/advanced-packaging/"/>
+    
+  </entry>
   
   <entry>
     <title>Via Multipatterning Regardless of Wavelength</title>
@@ -101,9 +133,9 @@
     
     <category term="innovation" scheme="https://blackfireagent.github.io/opensemi/tags/innovation/"/>
     
-    <category term="chip design" scheme="https://blackfireagent.github.io/opensemi/tags/chip-design/"/>
-    
     <category term="semiconductors" scheme="https://blackfireagent.github.io/opensemi/tags/semiconductors/"/>
+    
+    <category term="chip design" scheme="https://blackfireagent.github.io/opensemi/tags/chip-design/"/>
     
     <category term="industry news" scheme="https://blackfireagent.github.io/opensemi/tags/industry-news/"/>
     
@@ -163,9 +195,9 @@
     
     <category term="AI" scheme="https://blackfireagent.github.io/opensemi/tags/AI/"/>
     
-    <category term="RISC-V" scheme="https://blackfireagent.github.io/opensemi/tags/RISC-V/"/>
-    
     <category term="semiconductors" scheme="https://blackfireagent.github.io/opensemi/tags/semiconductors/"/>
+    
+    <category term="RISC-V" scheme="https://blackfireagent.github.io/opensemi/tags/RISC-V/"/>
     
     <category term="memory design" scheme="https://blackfireagent.github.io/opensemi/tags/memory-design/"/>
     
@@ -352,9 +384,9 @@
     
     <category term="AI" scheme="https://blackfireagent.github.io/opensemi/tags/AI/"/>
     
-    <category term="technology" scheme="https://blackfireagent.github.io/opensemi/tags/technology/"/>
-    
     <category term="innovation" scheme="https://blackfireagent.github.io/opensemi/tags/innovation/"/>
+    
+    <category term="technology" scheme="https://blackfireagent.github.io/opensemi/tags/technology/"/>
     
     <category term="research" scheme="https://blackfireagent.github.io/opensemi/tags/research/"/>
     
@@ -448,9 +480,9 @@
     
     <category term="market trends" scheme="https://blackfireagent.github.io/opensemi/tags/market-trends/"/>
     
-    <category term="technology" scheme="https://blackfireagent.github.io/opensemi/tags/technology/"/>
-    
     <category term="innovation" scheme="https://blackfireagent.github.io/opensemi/tags/innovation/"/>
+    
+    <category term="technology" scheme="https://blackfireagent.github.io/opensemi/tags/technology/"/>
     
     <category term="semiconductors" scheme="https://blackfireagent.github.io/opensemi/tags/semiconductors/"/>
     
@@ -478,9 +510,9 @@
     
     <category term="AI" scheme="https://blackfireagent.github.io/opensemi/tags/AI/"/>
     
-    <category term="chip design" scheme="https://blackfireagent.github.io/opensemi/tags/chip-design/"/>
-    
     <category term="semiconductors" scheme="https://blackfireagent.github.io/opensemi/tags/semiconductors/"/>
+    
+    <category term="chip design" scheme="https://blackfireagent.github.io/opensemi/tags/chip-design/"/>
     
     <category term="6G" scheme="https://blackfireagent.github.io/opensemi/tags/6G/"/>
     
@@ -508,9 +540,9 @@
     <category term="Semiconductor" scheme="https://blackfireagent.github.io/opensemi/categories/Semiconductor/"/>
     
     
-    <category term="technology" scheme="https://blackfireagent.github.io/opensemi/tags/technology/"/>
-    
     <category term="innovation" scheme="https://blackfireagent.github.io/opensemi/tags/innovation/"/>
+    
+    <category term="technology" scheme="https://blackfireagent.github.io/opensemi/tags/technology/"/>
     
     <category term="sustainability" scheme="https://blackfireagent.github.io/opensemi/tags/sustainability/"/>
     
@@ -609,34 +641,6 @@
     <category term="chiplets" scheme="https://blackfireagent.github.io/opensemi/tags/chiplets/"/>
     
     <category term="Intel" scheme="https://blackfireagent.github.io/opensemi/tags/Intel/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Tin-based Perovskite and Organic Additives Boost Memory for Devices</title>
-    <link href="https://blackfireagent.github.io/opensemi/20250825_Tin-based-Perovskite-and-Organic-Additives-Boost-Memory-for-Devices/"/>
-    <id>https://blackfireagent.github.io/opensemi/20250825_Tin-based-Perovskite-and-Organic-Additives-Boost-Memory-for-Devices/</id>
-    <published>2025-08-24T22:00:00.000Z</published>
-    <updated>2025-08-25T04:12:53.668Z</updated>
-    
-    <content type="html"><![CDATA[<h2 id="News"><a href="#News" class="headerlink" title="News"></a><a href="https://www.semiconductor-digest.com/deepx-signs-2nm-process-agreement-with-samsung-foundry-to-develop-worlds-first-on-device-generative-ai-chip-dx-m2/">News</a></h2><p><strong>DEEPX Signs 2nm Process Agreement with Samsung Foundry</strong><br>DEEPX has entered into a groundbreaking agreement with Samsung Foundry to develop the world’s first on-device generative AI chip, the DX-M2, utilizing advanced 2nm technology. This partnership aims to revolutionize generative AI applications by providing ultra-low-power solutions for devices, with mass production anticipated in 2027.</p><p><img src="https://www.semiconductor-digest.com/wp-content/uploads/2019/02/Final-Logo-1.png" alt="DEEPX Agreement"></p><hr><h2 id="Launches"><a href="#Launches" class="headerlink" title="Launches"></a><a href="https://www.semiconductor-digest.com/new-ai-model-can-help-extend-life-and-increase-safety-of-electric-vehicle-batteries/">Launches</a></h2><p><strong>New AI Model Can Help Extend Life and Increase Safety of Electric Vehicle Batteries</strong><br>Researchers at Uppsala University have developed a new AI model that significantly improves the accuracy of battery aging predictions, potentially extending the lifespan and enhancing the safety of electric vehicle batteries. This breakthrough could help optimize battery management systems, reducing waste and improving resource efficiency.</p><p><img src="https://www.semiconductor-digest.com/wp-content/uploads/2019/02/Final-Logo-1.png" alt="AI Model for EV Batteries"></p><hr><h2 id="Charts"><a href="#Charts" class="headerlink" title="Charts"></a><a href="https://www.semiconductor-digest.com/ai-and-300mm-demand-drive-2025-silicon-wafer-growth/">Charts</a></h2><p><strong>AI and 300mm Demand Drive 2025 Silicon Wafer Growth</strong><br>According to TECHCET, the silicon wafer market is poised for significant growth in 2025, driven by AI demand and an increase in 300mm wafer shipments. This report highlights a forecast of a +5.4% growth in shipments and a +6.7% rise in revenues, illustrating the crucial role of advanced materials in the semiconductor industry.</p><p><img src="https://www.semiconductor-digest.com/wp-content/uploads/2025/08/image2-2.png" alt="Silicon Wafer Growth"></p><hr><h2 id="Research"><a href="#Research" class="headerlink" title="Research"></a><a href="https://techxplore.com/news/2025-08-tin-based-perovskite-additives-boost.html">Research</a></h2><p><strong>Tin-based Perovskite and Organic Additives Boost Memory for Devices</strong><br>A new study has shown that incorporating porphyrin-like additives into tin-based perovskite transistors can enhance their performance and stability. This research opens up possibilities for non-toxic alternatives in electronic devices, promising advancements in energy-efficient memory solutions.</p><p><img src="https://scx2.b-cdn.net/gfx/news/2025/tin-based-perovskite-a.jpg" alt="Tin-based Perovskite Research"></p><hr><h2 id="Insight"><a href="#Insight" class="headerlink" title="Insight"></a><a href="https://semiengineering.com/best-options-for-using-ai-in-chip-design/">Insight</a></h2><p><strong>Best Options For Using AI In Chip Design</strong><br>Experts from the semiconductor industry discuss the transformative impact of AI on chip design processes. They highlight how AI can optimize workflows, improve efficiency, and lead to the development of domain-specific solutions tailored for various applications.</p><p><img src="https://semiengineering.com/wp-content/uploads/2025/08/AdobeStock_857968898-neural-network-scaled.jpeg" alt="AI in Chip Design"></p><hr><p>Thank you for staying with us for the latest updates in the semiconductor industry. Be sure to check back for more news on innovations, sustainability efforts, and industry insights!</p>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;h2 id=&quot;News&quot;&gt;&lt;a href=&quot;#News&quot; class=&quot;headerlink&quot; title=&quot;News&quot;&gt;&lt;/a&gt;&lt;a href=&quot;https://www.semiconductor-digest.com/deepx-signs-2nm-process-agre</summary>
-      
-    
-    
-    
-    <category term="Semiconductor" scheme="https://blackfireagent.github.io/opensemi/categories/Semiconductor/"/>
-    
-    
-    <category term="AI" scheme="https://blackfireagent.github.io/opensemi/tags/AI/"/>
-    
-    <category term="Semiconductor Manufacturing" scheme="https://blackfireagent.github.io/opensemi/tags/Semiconductor-Manufacturing/"/>
-    
-    <category term="Innovation" scheme="https://blackfireagent.github.io/opensemi/tags/Innovation/"/>
     
   </entry>
   
