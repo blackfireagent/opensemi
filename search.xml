@@ -4,6 +4,39 @@
   
     
     <entry>
+      <title>CEO Interview with Howard Pakosh of TekStart</title>
+      <link href="/opensemi/20251010_CEO-Interview-with-Howard-Pakosh-of-TekStart/"/>
+      <url>/opensemi/20251010_CEO-Interview-with-Howard-Pakosh-of-TekStart/</url>
+      
+        <content type="html"><![CDATA[<div style="display: flex; justify-content: center;">  <audio controls>    <source src="/opensemi/podcasts/20251010_machinelearning_newsletter_gpt-4o-mini.mp3" type="audio/mpeg">    Your browser does not support the audio element.  </audio></div><h2 id="News"><a href="#News" class="headerlink" title="News"></a><a href="https://semiengineering.com/double-duty-logic-block-architecture-enabling-concurrent-lut-and-adder-chain-usage-nanyang-technological-univ-et-al/">News</a></h2><p><strong>Double Duty Logic Block Architecture Enabling Concurrent LUT and Adder Chain Usage</strong><br>A new technical paper from researchers at Nanyang Technological University and other institutions presents the “Double Duty” FPGA architecture, which allows for concurrent use of LUTs and adder chains. This innovation enhances arithmetic density in FPGAs, achieving significant area reductions without affecting critical path delay. The proposed architecture promises a 9.7% improvement in area-delay product, making it a significant advancement for FPGA applications. </p><p><img src="https://semiengineering.com/wp-content/uploads/AdobeStock_1104488381-03-26-2025-scaled.jpeg" alt="Double Duty FPGA Architecture"></p><hr><h2 id="Launches"><a href="#Launches" class="headerlink" title="Launches"></a><a href="https://semiwiki.com/events/362123-webinar-the-path-to-smaller-denser-and-faster-with-cpx-samtecs-co-packaged-copper-and-optics/">Launches</a></h2><p><strong>The path to smaller denser and faster</strong><br>Samtec is set to host a webinar discussing its new co-packaged copper (CPC) and co-packaged optics (CPO) solutions, termed CPX, which enable advanced speeds of 224 Gbps. This integration aims to enhance performance in data centers and AI systems, addressing the common narrative that “copper is dead.” The event will showcase how combining copper and optical technologies can optimize interconnect strategies.</p><p><img src="https://semiwiki.com/wp-content/uploads/2025/09/Webinar-%E2%80%93-The-Path-to-Smaller-Denser-and-Faster-with-CPX-Samtecs-Co-Packaged-Copper-and-Optics-1200x398.png" alt="Webinar on CPX Technology"></p><hr><h2 id="Charts"><a href="#Charts" class="headerlink" title="Charts"></a><a href="https://semiwiki.com/3dic/361970-ai-everywhere-in-the-chip-lifecycle-synopsys-at-ai-infra-summit-2025/">Charts</a></h2><p><strong>AI Everywhere in the Chip Lifecycle: Synopsys at AI Infra Summit</strong><br>Synopsys showcased an AI-driven ecosystem that integrates energy efficiency and accelerated design processes at the AI Infra Summit 2025. Key charts from the presentation illustrated how AI is now an end-to-end engine driving chip development, with the potential to reduce design times by up to 40% and improve energy efficiency amidst soaring AI workloads.</p><p><img src="https://semiwiki.com/wp-content/uploads/2025/09/Godwin-Talk-Summary-AI-Infra-Summit-2025-1200x750.png" alt="AI in Chip Lifecycle"></p><hr><h2 id="Research"><a href="#Research" class="headerlink" title="Research"></a><a href="https://semiengineering.com/in-sram-computing-architecture-tailored-for-cryptographic-acceleration-within-mcus-uc-riverside/">Research</a></h2><p><strong>In-SRAM Computing Architecture Tailored For Cryptographic Acceleration Within MCUs</strong><br>Researchers from UC Riverside have introduced CryptoSRAM, an innovative in-SRAM computing architecture that enhances cryptographic operations directly within microcontroller units (MCUs). This architecture reportedly achieves throughput improvements of up to 74× for AES encryption compared to traditional software implementations, addressing performance and energy costs in IoT devices.</p><p><img src="https://semiengineering.com/wp-content/uploads/Security-AdobeStock_328668955-01-29-25-scaled.jpeg" alt="CryptoSRAM Architecture"></p><hr><h2 id="Insight"><a href="#Insight" class="headerlink" title="Insight"></a><a href="https://semiwiki.com/artificial-intelligence/tekstart/361951-ceo-interview-with-howard-prakash-of-tekstart/">Insight</a></h2><p><strong>CEO Interview with Howard Pakosh of TekStart</strong><br>In this insightful interview, Howard Pakosh discusses how TekStart has transitioned into a venture builder focused on semiconductors and AI. He highlights the innovative solutions being developed, particularly through their ChipStart business unit, which addresses critical industry challenges like energy efficiency and supply chain fragility, particularly in Edge AI applications.</p><p><img src="https://semiwiki.com/wp-content/uploads/2025/09/HP_biopic_2-740x1200.jpg" alt="Howard Pakosh, CEO of TekStart"></p><hr><p>Stay tuned for more updates as we continue to bring you the latest innovations and trends in the semiconductor industry!</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> Machinelearning </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> AI </tag>
+            
+            <tag> innovation </tag>
+            
+            <tag> chip design </tag>
+            
+            <tag> semiconductors </tag>
+            
+            <tag> architecture </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>Emerson Leverages AI to Address Complexity in Test and Measurement</title>
       <link href="/opensemi/20251009_Emerson-Leverages-AI-to-Address-Complexity-in-Test-and-Measurement/"/>
       <url>/opensemi/20251009_Emerson-Leverages-AI-to-Address-Complexity-in-Test-and-Measurement/</url>
@@ -117,9 +150,9 @@
             
             <tag> innovation </tag>
             
-            <tag> semiconductors </tag>
-            
             <tag> chip design </tag>
+            
+            <tag> semiconductors </tag>
             
             <tag> industry news </tag>
             
@@ -371,9 +404,9 @@
             
             <tag> AI </tag>
             
-            <tag> innovation </tag>
-            
             <tag> technology </tag>
+            
+            <tag> innovation </tag>
             
             <tag> research </tag>
             
@@ -470,9 +503,9 @@
             
             <tag> market trends </tag>
             
-            <tag> innovation </tag>
-            
             <tag> technology </tag>
+            
+            <tag> innovation </tag>
             
             <tag> semiconductors </tag>
             
@@ -501,9 +534,9 @@
             
             <tag> AI </tag>
             
-            <tag> semiconductors </tag>
-            
             <tag> chip design </tag>
+            
+            <tag> semiconductors </tag>
             
             <tag> 6G </tag>
             
@@ -532,9 +565,9 @@
       
         <tags>
             
-            <tag> innovation </tag>
-            
             <tag> technology </tag>
+            
+            <tag> innovation </tag>
             
             <tag> sustainability </tag>
             
@@ -726,9 +759,9 @@
             
             <tag> semiconductor </tag>
             
-            <tag> SoC </tag>
-            
             <tag> memory </tag>
+            
+            <tag> SoC </tag>
             
             <tag> architecture </tag>
             
@@ -885,9 +918,9 @@
             
             <tag> market trends </tag>
             
-            <tag> innovation </tag>
-            
             <tag> technology </tag>
+            
+            <tag> innovation </tag>
             
             <tag> semiconductors </tag>
             
@@ -1242,9 +1275,9 @@
             
             <tag> AI </tag>
             
-            <tag> innovation </tag>
-            
             <tag> technology </tag>
+            
+            <tag> innovation </tag>
             
             <tag> semiconductors </tag>
             
@@ -1304,9 +1337,9 @@
             
             <tag> AI </tag>
             
-            <tag> innovation </tag>
-            
             <tag> technology </tag>
+            
+            <tag> innovation </tag>
             
             <tag> research </tag>
             
@@ -1335,9 +1368,9 @@
       
         <tags>
             
-            <tag> innovation </tag>
-            
             <tag> technology </tag>
+            
+            <tag> innovation </tag>
             
             <tag> semiconductor </tag>
             
@@ -1469,9 +1502,9 @@
             
             <tag> AI </tag>
             
-            <tag> semiconductors </tag>
-            
             <tag> chip design </tag>
+            
+            <tag> semiconductors </tag>
             
             <tag> memory technology </tag>
             
@@ -1500,9 +1533,9 @@
       
         <tags>
             
-            <tag> innovation </tag>
-            
             <tag> technology </tag>
+            
+            <tag> innovation </tag>
             
             <tag> semiconductors </tag>
             
@@ -1597,9 +1630,9 @@
             
             <tag> AI </tag>
             
-            <tag> semiconductors </tag>
-            
             <tag> chip design </tag>
+            
+            <tag> semiconductors </tag>
             
             <tag> 3D printing </tag>
             
@@ -1661,9 +1694,9 @@
       
         <tags>
             
-            <tag> innovation </tag>
-            
             <tag> technology </tag>
+            
+            <tag> innovation </tag>
             
             <tag> semiconductor </tag>
             
@@ -1694,9 +1727,9 @@
       
         <tags>
             
-            <tag> innovation </tag>
-            
             <tag> technology </tag>
+            
+            <tag> innovation </tag>
             
             <tag> semiconductor </tag>
             
@@ -1888,9 +1921,9 @@
             
             <tag> AI </tag>
             
-            <tag> semiconductors </tag>
-            
             <tag> photonics </tag>
+            
+            <tag> semiconductors </tag>
             
             <tag> memory technology </tag>
             
@@ -1923,9 +1956,9 @@
             
             <tag> market trends </tag>
             
-            <tag> innovation </tag>
-            
             <tag> technology </tag>
+            
+            <tag> innovation </tag>
             
             <tag> semiconductors </tag>
             
@@ -1956,9 +1989,9 @@
             
             <tag> innovation </tag>
             
-            <tag> semiconductors </tag>
-            
             <tag> chip design </tag>
+            
+            <tag> semiconductors </tag>
             
             <tag> supply chain </tag>
             
@@ -1985,9 +2018,9 @@
       
         <tags>
             
-            <tag> Market Trends </tag>
-            
             <tag> Semiconductor Technology </tag>
+            
+            <tag> Market Trends </tag>
             
             <tag> EUV Lithography </tag>
             
@@ -2045,9 +2078,9 @@
       
         <tags>
             
-            <tag> innovation </tag>
-            
             <tag> technology </tag>
+            
+            <tag> innovation </tag>
             
             <tag> investment </tag>
             
@@ -2078,9 +2111,9 @@
       
         <tags>
             
-            <tag> innovation </tag>
-            
             <tag> technology </tag>
+            
+            <tag> innovation </tag>
             
             <tag> semiconductors </tag>
             
@@ -2173,9 +2206,9 @@
             
             <tag> AI </tag>
             
-            <tag> innovation </tag>
-            
             <tag> technology </tag>
+            
+            <tag> innovation </tag>
             
             <tag> manufacturing </tag>
             
@@ -2367,9 +2400,9 @@
             
             <tag> AI </tag>
             
-            <tag> innovation </tag>
-            
             <tag> technology </tag>
+            
+            <tag> innovation </tag>
             
             <tag> semiconductor industry </tag>
             
@@ -2429,9 +2462,9 @@
             
             <tag> AI </tag>
             
-            <tag> innovation </tag>
-            
             <tag> technology </tag>
+            
+            <tag> innovation </tag>
             
             <tag> legislation </tag>
             
@@ -2495,9 +2528,9 @@
             
             <tag> market trends </tag>
             
-            <tag> innovation </tag>
-            
             <tag> technology </tag>
+            
+            <tag> innovation </tag>
             
             <tag> semiconductor </tag>
             
@@ -2528,9 +2561,9 @@
             
             <tag> market trends </tag>
             
-            <tag> innovation </tag>
-            
             <tag> technology </tag>
+            
+            <tag> innovation </tag>
             
         </tags>
       
@@ -2555,13 +2588,13 @@
       
         <tags>
             
-            <tag> innovation </tag>
-            
             <tag> technology </tag>
             
-            <tag> semiconductor </tag>
+            <tag> innovation </tag>
             
             <tag> sustainability </tag>
+            
+            <tag> semiconductor </tag>
             
         </tags>
       
@@ -2590,9 +2623,9 @@
             
             <tag> Semiconductor Manufacturing </tag>
             
-            <tag> Research </tag>
-            
             <tag> Market Trends </tag>
+            
+            <tag> Research </tag>
             
             <tag> Technology </tag>
             
@@ -2621,11 +2654,11 @@
             
             <tag> AI </tag>
             
-            <tag> Market Trends </tag>
-            
             <tag> Semiconductor Technology </tag>
             
             <tag> Chip Design </tag>
+            
+            <tag> Market Trends </tag>
             
         </tags>
       
@@ -2708,9 +2741,9 @@
       
         <tags>
             
-            <tag> AI </tag>
-            
             <tag> packaging </tag>
+            
+            <tag> AI </tag>
             
             <tag> semiconductor technology </tag>
             

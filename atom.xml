@@ -6,10 +6,44 @@
   <link href="https://blackfireagent.github.io/opensemi/atom.xml" rel="self"/>
   
   <link href="https://blackfireagent.github.io/opensemi/"/>
-  <updated>2025-10-09T04:11:32.751Z</updated>
+  <updated>2025-10-10T04:14:47.857Z</updated>
   <id>https://blackfireagent.github.io/opensemi/</id>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>CEO Interview with Howard Pakosh of TekStart</title>
+    <link href="https://blackfireagent.github.io/opensemi/20251010_CEO-Interview-with-Howard-Pakosh-of-TekStart/"/>
+    <id>https://blackfireagent.github.io/opensemi/20251010_CEO-Interview-with-Howard-Pakosh-of-TekStart/</id>
+    <published>2025-10-09T22:00:00.000Z</published>
+    <updated>2025-10-10T04:14:47.857Z</updated>
+    
+    <content type="html"><![CDATA[<div style="display: flex; justify-content: center;">  <audio controls>    <source src="/opensemi/podcasts/20251010_machinelearning_newsletter_gpt-4o-mini.mp3" type="audio/mpeg">    Your browser does not support the audio element.  </audio></div><h2 id="News"><a href="#News" class="headerlink" title="News"></a><a href="https://semiengineering.com/double-duty-logic-block-architecture-enabling-concurrent-lut-and-adder-chain-usage-nanyang-technological-univ-et-al/">News</a></h2><p><strong>Double Duty Logic Block Architecture Enabling Concurrent LUT and Adder Chain Usage</strong><br>A new technical paper from researchers at Nanyang Technological University and other institutions presents the “Double Duty” FPGA architecture, which allows for concurrent use of LUTs and adder chains. This innovation enhances arithmetic density in FPGAs, achieving significant area reductions without affecting critical path delay. The proposed architecture promises a 9.7% improvement in area-delay product, making it a significant advancement for FPGA applications. </p><p><img src="https://semiengineering.com/wp-content/uploads/AdobeStock_1104488381-03-26-2025-scaled.jpeg" alt="Double Duty FPGA Architecture"></p><hr><h2 id="Launches"><a href="#Launches" class="headerlink" title="Launches"></a><a href="https://semiwiki.com/events/362123-webinar-the-path-to-smaller-denser-and-faster-with-cpx-samtecs-co-packaged-copper-and-optics/">Launches</a></h2><p><strong>The path to smaller denser and faster</strong><br>Samtec is set to host a webinar discussing its new co-packaged copper (CPC) and co-packaged optics (CPO) solutions, termed CPX, which enable advanced speeds of 224 Gbps. This integration aims to enhance performance in data centers and AI systems, addressing the common narrative that “copper is dead.” The event will showcase how combining copper and optical technologies can optimize interconnect strategies.</p><p><img src="https://semiwiki.com/wp-content/uploads/2025/09/Webinar-%E2%80%93-The-Path-to-Smaller-Denser-and-Faster-with-CPX-Samtecs-Co-Packaged-Copper-and-Optics-1200x398.png" alt="Webinar on CPX Technology"></p><hr><h2 id="Charts"><a href="#Charts" class="headerlink" title="Charts"></a><a href="https://semiwiki.com/3dic/361970-ai-everywhere-in-the-chip-lifecycle-synopsys-at-ai-infra-summit-2025/">Charts</a></h2><p><strong>AI Everywhere in the Chip Lifecycle: Synopsys at AI Infra Summit</strong><br>Synopsys showcased an AI-driven ecosystem that integrates energy efficiency and accelerated design processes at the AI Infra Summit 2025. Key charts from the presentation illustrated how AI is now an end-to-end engine driving chip development, with the potential to reduce design times by up to 40% and improve energy efficiency amidst soaring AI workloads.</p><p><img src="https://semiwiki.com/wp-content/uploads/2025/09/Godwin-Talk-Summary-AI-Infra-Summit-2025-1200x750.png" alt="AI in Chip Lifecycle"></p><hr><h2 id="Research"><a href="#Research" class="headerlink" title="Research"></a><a href="https://semiengineering.com/in-sram-computing-architecture-tailored-for-cryptographic-acceleration-within-mcus-uc-riverside/">Research</a></h2><p><strong>In-SRAM Computing Architecture Tailored For Cryptographic Acceleration Within MCUs</strong><br>Researchers from UC Riverside have introduced CryptoSRAM, an innovative in-SRAM computing architecture that enhances cryptographic operations directly within microcontroller units (MCUs). This architecture reportedly achieves throughput improvements of up to 74× for AES encryption compared to traditional software implementations, addressing performance and energy costs in IoT devices.</p><p><img src="https://semiengineering.com/wp-content/uploads/Security-AdobeStock_328668955-01-29-25-scaled.jpeg" alt="CryptoSRAM Architecture"></p><hr><h2 id="Insight"><a href="#Insight" class="headerlink" title="Insight"></a><a href="https://semiwiki.com/artificial-intelligence/tekstart/361951-ceo-interview-with-howard-prakash-of-tekstart/">Insight</a></h2><p><strong>CEO Interview with Howard Pakosh of TekStart</strong><br>In this insightful interview, Howard Pakosh discusses how TekStart has transitioned into a venture builder focused on semiconductors and AI. He highlights the innovative solutions being developed, particularly through their ChipStart business unit, which addresses critical industry challenges like energy efficiency and supply chain fragility, particularly in Edge AI applications.</p><p><img src="https://semiwiki.com/wp-content/uploads/2025/09/HP_biopic_2-740x1200.jpg" alt="Howard Pakosh, CEO of TekStart"></p><hr><p>Stay tuned for more updates as we continue to bring you the latest innovations and trends in the semiconductor industry!</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;div style=&quot;display: flex; justify-content: center;&quot;&gt;
+  &lt;audio controls&gt;
+    &lt;source src=&quot;/opensemi/podcasts/20251010_machinelearning_newsle</summary>
+      
+    
+    
+    
+    <category term="Machinelearning" scheme="https://blackfireagent.github.io/opensemi/categories/Machinelearning/"/>
+    
+    
+    <category term="AI" scheme="https://blackfireagent.github.io/opensemi/tags/AI/"/>
+    
+    <category term="innovation" scheme="https://blackfireagent.github.io/opensemi/tags/innovation/"/>
+    
+    <category term="chip design" scheme="https://blackfireagent.github.io/opensemi/tags/chip-design/"/>
+    
+    <category term="semiconductors" scheme="https://blackfireagent.github.io/opensemi/tags/semiconductors/"/>
+    
+    <category term="architecture" scheme="https://blackfireagent.github.io/opensemi/tags/architecture/"/>
+    
+  </entry>
   
   <entry>
     <title>Emerson Leverages AI to Address Complexity in Test and Measurement</title>
@@ -133,9 +167,9 @@
     
     <category term="innovation" scheme="https://blackfireagent.github.io/opensemi/tags/innovation/"/>
     
-    <category term="semiconductors" scheme="https://blackfireagent.github.io/opensemi/tags/semiconductors/"/>
-    
     <category term="chip design" scheme="https://blackfireagent.github.io/opensemi/tags/chip-design/"/>
+    
+    <category term="semiconductors" scheme="https://blackfireagent.github.io/opensemi/tags/semiconductors/"/>
     
     <category term="industry news" scheme="https://blackfireagent.github.io/opensemi/tags/industry-news/"/>
     
@@ -384,9 +418,9 @@
     
     <category term="AI" scheme="https://blackfireagent.github.io/opensemi/tags/AI/"/>
     
-    <category term="innovation" scheme="https://blackfireagent.github.io/opensemi/tags/innovation/"/>
-    
     <category term="technology" scheme="https://blackfireagent.github.io/opensemi/tags/technology/"/>
+    
+    <category term="innovation" scheme="https://blackfireagent.github.io/opensemi/tags/innovation/"/>
     
     <category term="research" scheme="https://blackfireagent.github.io/opensemi/tags/research/"/>
     
@@ -480,9 +514,9 @@
     
     <category term="market trends" scheme="https://blackfireagent.github.io/opensemi/tags/market-trends/"/>
     
-    <category term="innovation" scheme="https://blackfireagent.github.io/opensemi/tags/innovation/"/>
-    
     <category term="technology" scheme="https://blackfireagent.github.io/opensemi/tags/technology/"/>
+    
+    <category term="innovation" scheme="https://blackfireagent.github.io/opensemi/tags/innovation/"/>
     
     <category term="semiconductors" scheme="https://blackfireagent.github.io/opensemi/tags/semiconductors/"/>
     
@@ -510,9 +544,9 @@
     
     <category term="AI" scheme="https://blackfireagent.github.io/opensemi/tags/AI/"/>
     
-    <category term="semiconductors" scheme="https://blackfireagent.github.io/opensemi/tags/semiconductors/"/>
-    
     <category term="chip design" scheme="https://blackfireagent.github.io/opensemi/tags/chip-design/"/>
+    
+    <category term="semiconductors" scheme="https://blackfireagent.github.io/opensemi/tags/semiconductors/"/>
     
     <category term="6G" scheme="https://blackfireagent.github.io/opensemi/tags/6G/"/>
     
@@ -540,9 +574,9 @@
     <category term="Semiconductor" scheme="https://blackfireagent.github.io/opensemi/categories/Semiconductor/"/>
     
     
-    <category term="innovation" scheme="https://blackfireagent.github.io/opensemi/tags/innovation/"/>
-    
     <category term="technology" scheme="https://blackfireagent.github.io/opensemi/tags/technology/"/>
+    
+    <category term="innovation" scheme="https://blackfireagent.github.io/opensemi/tags/innovation/"/>
     
     <category term="sustainability" scheme="https://blackfireagent.github.io/opensemi/tags/sustainability/"/>
     
@@ -609,38 +643,6 @@
     <category term="chiplets" scheme="https://blackfireagent.github.io/opensemi/tags/chiplets/"/>
     
     <category term="automotive" scheme="https://blackfireagent.github.io/opensemi/tags/automotive/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Intel&#39;s Journey Towards Reinvention</title>
-    <link href="https://blackfireagent.github.io/opensemi/20250826_Intel&#39;s-Journey-Towards-Reinvention/"/>
-    <id>https://blackfireagent.github.io/opensemi/20250826_Intel&#39;s-Journey-Towards-Reinvention/</id>
-    <published>2025-08-25T22:00:00.000Z</published>
-    <updated>2025-08-26T04:13:05.226Z</updated>
-    
-    <content type="html"><![CDATA[<h2 id="News"><a href="#News" class="headerlink" title="News"></a><a href="https://www.eetimes.com/two-ways-of-looking-at-the-u-s-government-10-stake-in-intel/">News</a></h2><p><strong>Intel’s Pearl Harbor Moment</strong><br>Intel’s recent governmental stake acquisition reflects a significant shift in the U.S. semiconductor landscape, as the government takes a proactive approach to secure national interests amidst geopolitical challenges. This intervention, described as both a strategic investment and a lifeline for Intel, raises questions about the balance between government involvement and market dynamics.</p><p><img src="https://www.eetimes.com/wp-content/uploads/shutterstock_1169448904-e1663002665413.jpg" alt="Intel&#39;s Pearl Harbor Moment"></p><hr><h2 id="Launches"><a href="#Launches" class="headerlink" title="Launches"></a><a href="https://www.eetimes.com/chiplets-consolidation-wave-is-just-beginning/">Launches</a></h2><p><strong>Chiplets Consolidation Wave is Just Beginning</strong><br>The chiplet era is officially underway, with companies like AMD licensing key technologies to enhance AI chiplet designs. The trend toward chiplet integration aims to reduce costs and improve performance, as seen in the recent surge of interest and developments shared during industry events.</p><p><img src="https://www.eetimes.com/wp-content/uploads/Chiplets_AdobeStock_1300342681_sm.jpg" alt="Chiplets"></p><hr><h2 id="Charts"><a href="#Charts" class="headerlink" title="Charts"></a><a href="https://www.eetimes.com/u-s-chip-tariffs-the-impacts-on-the-u-k-and-beyond/">Charts</a></h2><p><strong>U.S. Chip Tariffs: The Impacts on the U.K. And Beyond</strong><br>The potential imposition of U.S. tariffs poses significant risks for the U.K. semiconductor industry, doubling chip prices and squeezing margins. The infographic highlights the interconnectedness of global chip production and the critical need for collaboration to navigate these challenges effectively.</p><p><img src="https://www.eetimes.com/wp-content/uploads/Techworks_awards_2024-146_charles-Sturman.jpg" alt="U.S. Chip Tariffs Impact"></p><hr><h2 id="Research"><a href="#Research" class="headerlink" title="Research"></a><a href="https://techxplore.com/news/2025-08-terahertz-quantum-free-multi-core.html">Research</a></h2><p><strong>How Terahertz Beams and a Quantum-Inspired Receiver Could Free Multi-Core Processors from the Wiring Bottleneck</strong><br>This groundbreaking research explores the use of terahertz wave communication to eliminate wiring bottlenecks in multi-core processors. The innovative architecture promises to enhance bandwidth and reduce energy consumption, paving the way for advancements in both classical and quantum computing.</p><p><img src="https://scx2.b-cdn.net/gfx/news/2025/how-terahertz-beams-an.jpg" alt="Terahertz Communication"></p><hr><h2 id="Insight"><a href="#Insight" class="headerlink" title="Insight"></a><a href="https://semiwiki.com/semiconductor-manufacturers/intel/360583-intels-pearl-harbor-moment/">Insight</a></h2><p><strong>Intel’s Journey Towards Reinvention</strong><br>In a detailed analysis, industry experts reflect on Intel’s past missteps and its current strategic shift toward innovation and collaboration. With new leadership and government backing, Intel aims to reclaim its position in the semiconductor hierarchy, focusing on advanced technologies and partnerships.</p><p><img src="https://semiwiki.com/wp-content/uploads/2025/08/Pearl-Harbor-Memorial-Hawaii-4-1200x695.jpg" alt="Intel&#39;s Reinvention"></p><hr><p>Stay tuned for more updates and insights as we continue to track the dynamic evolution of the semiconductor industry!</p>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;h2 id=&quot;News&quot;&gt;&lt;a href=&quot;#News&quot; class=&quot;headerlink&quot; title=&quot;News&quot;&gt;&lt;/a&gt;&lt;a href=&quot;https://www.eetimes.com/two-ways-of-looking-at-the-u-s-government</summary>
-      
-    
-    
-    
-    <category term="Device" scheme="https://blackfireagent.github.io/opensemi/categories/Device/"/>
-    
-    
-    <category term="AI" scheme="https://blackfireagent.github.io/opensemi/tags/AI/"/>
-    
-    <category term="innovation" scheme="https://blackfireagent.github.io/opensemi/tags/innovation/"/>
-    
-    <category term="semiconductors" scheme="https://blackfireagent.github.io/opensemi/tags/semiconductors/"/>
-    
-    <category term="chiplets" scheme="https://blackfireagent.github.io/opensemi/tags/chiplets/"/>
-    
-    <category term="Intel" scheme="https://blackfireagent.github.io/opensemi/tags/Intel/"/>
     
   </entry>
   
