@@ -6,10 +6,44 @@
   <link href="https://blackfireagent.github.io/opensemi/atom.xml" rel="self"/>
   
   <link href="https://blackfireagent.github.io/opensemi/"/>
-  <updated>2025-10-13T04:23:53.395Z</updated>
+  <updated>2025-10-14T04:19:26.202Z</updated>
   <id>https://blackfireagent.github.io/opensemi/</id>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Cinch Details CIN-APSE Interconnect Evolution for Harsh Environments</title>
+    <link href="https://blackfireagent.github.io/opensemi/20251014_Cinch-Details-CIN-APSE-Interconnect-Evolution-for-Harsh-Environments/"/>
+    <id>https://blackfireagent.github.io/opensemi/20251014_Cinch-Details-CIN-APSE-Interconnect-Evolution-for-Harsh-Environments/</id>
+    <published>2025-10-13T22:00:00.000Z</published>
+    <updated>2025-10-14T04:19:26.202Z</updated>
+    
+    <content type="html"><![CDATA[<div style="display: flex; justify-content: center;">  <audio controls>    <source src="/opensemi/podcasts/20251014_device_newsletter_gpt-4o-mini.mp3" type="audio/mpeg">    Your browser does not support the audio element.  </audio></div><h2 id="News"><a href="#News" class="headerlink" title="News"></a><a href="https://www.eetimes.com/arizona-benefits-from-tsmc-intel-as-semicon-west-debuts-in-phoenix/">News</a></h2><p><strong>Arizona Benefits from TSMC, Intel, SEMICON West Debuts In Area</strong><br>Arizona is seeing a significant surge in investment with over $210 billion dedicated to chip manufacturing since 2020, highlighted by the successful SEMICON West 2025 event. This year’s attendance doubled compared to last year, showcasing the growing semiconductor ecosystem in the state. Key players like TSMC and Intel are establishing strong local bases, emphasizing the importance of talent and supply chain resilience in driving future growth.</p><p><img src="https://www.eetimes.com/wp-content/uploads/Semicon-west-2025-in-Phoenix-source_SEMI.jpg" alt="SEMICON West 2025"></p><hr><h2 id="Launches"><a href="#Launches" class="headerlink" title="Launches"></a><a href="https://www.eetimes.com/cinch-details-cinapse-interconnect-evolution-for-harsh-environments/">Launches</a></h2><p><strong>Cinch Details CIN:APSE Interconnect Evolution for Harsh Environments</strong><br>Cinch Connectivity Solutions unveiled its innovative CIN:APSE interconnect technology at Plublitek Connect 2025. This solderless, compression-based connector is designed for high-reliability applications, capable of withstanding extreme conditions. With its unique design, it offers significant flexibility in configurations and applications, making it suitable for critical environments such as space and defense.</p><p><img src="https://www.eetimes.com/wp-content/uploads/Screenshot-2025-10-09-at-20.50.14-e1760037372904.png" alt="Cinch Technology"></p><hr><h2 id="Charts"><a href="#Charts" class="headerlink" title="Charts"></a><a href="https://www.eetimes.com/optics-shine-light-on-brain-functions/">Charts</a></h2><p><strong>The Future of Optoelectronic Devices for Medical Applications</strong><br>Recent advancements showcased at the SPRC Symposium highlight the transformative potential of optogenetics in neuroscience, with significant implications for medical devices. Key presentations revealed how light-sensitive proteins can manipulate neuronal behavior, paving the way for innovative treatments and technologies in the healthcare sector.</p><p><img src="https://www.eetimes.com/wp-content/uploads/deisseroth-brain-activity.jpeg" alt="Optoelectronic Devices"></p><hr><h2 id="Research"><a href="#Research" class="headerlink" title="Research"></a><a href="https://techxplore.com/news/2025-10-ai-powered-method-global-chip.html">Research</a></h2><p><strong>AI-powered Method Helps Protect Global Chip Supply Chains from Cyber Threats</strong><br>Researchers at the University of Missouri have developed a novel AI-driven method that detects hardware trojans with an impressive 97% accuracy. This innovative approach leverages large language models to scan chip designs for hidden vulnerabilities, offering a more efficient and transparent solution to enhance cybersecurity in semiconductor manufacturing.</p><p><img src="https://scx2.b-cdn.net/gfx/news/2025/new-ai-powered-method.jpg" alt="AI Trojan Detection"></p><hr><h2 id="Insight"><a href="#Insight" class="headerlink" title="Insight"></a><a href="https://semiwiki.com/ceo-interviews/362398-ceo-interview-with-dr-gary-spittle-of-sonical/">Insight</a></h2><p><strong>CEO Interview with Gary Spittle of Sonical</strong><br>In an engaging conversation, Gary Spittle, founder of Sonical, shares insights on the evolution of hearables into intelligent, upgradeable devices through their operating system, CosmOS. He discusses the potential for hearables to become a new platform for personal computing, emphasizing sustainability and customization while opening avenues for innovative applications in health monitoring and immersive audio experiences.</p><p><img src="https://semiwiki.com/wp-content/uploads/2025/10/GarySpittle-Sonical-1077x1200.jpeg" alt="Gary Spittle"></p><hr><p>Stay tuned for further updates and insights in the semiconductor sector as we continue to track the latest trends and innovations shaping the future of technology!</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;div style=&quot;display: flex; justify-content: center;&quot;&gt;
+  &lt;audio controls&gt;
+    &lt;source src=&quot;/opensemi/podcasts/20251014_device_newsletter_gpt-</summary>
+      
+    
+    
+    
+    <category term="Device" scheme="https://blackfireagent.github.io/opensemi/categories/Device/"/>
+    
+    
+    <category term="AI" scheme="https://blackfireagent.github.io/opensemi/tags/AI/"/>
+    
+    <category term="technology" scheme="https://blackfireagent.github.io/opensemi/tags/technology/"/>
+    
+    <category term="innovation" scheme="https://blackfireagent.github.io/opensemi/tags/innovation/"/>
+    
+    <category term="semiconductors" scheme="https://blackfireagent.github.io/opensemi/tags/semiconductors/"/>
+    
+    <category term="cybersecurity" scheme="https://blackfireagent.github.io/opensemi/tags/cybersecurity/"/>
+    
+  </entry>
   
   <entry>
     <title>Global 300mm Fab Equipment Spending Expected to Total $374 Billion Over Next Three Years</title>
@@ -35,9 +69,9 @@
     
     <category term="AI" scheme="https://blackfireagent.github.io/opensemi/tags/AI/"/>
     
-    <category term="Semiconductor Manufacturing" scheme="https://blackfireagent.github.io/opensemi/tags/Semiconductor-Manufacturing/"/>
-    
     <category term="Advanced Packaging" scheme="https://blackfireagent.github.io/opensemi/tags/Advanced-Packaging/"/>
+    
+    <category term="Semiconductor Manufacturing" scheme="https://blackfireagent.github.io/opensemi/tags/Semiconductor-Manufacturing/"/>
     
     <category term="Innovation" scheme="https://blackfireagent.github.io/opensemi/tags/Innovation/"/>
     
@@ -613,36 +647,6 @@
     <category term="sustainability" scheme="https://blackfireagent.github.io/opensemi/tags/sustainability/"/>
     
     <category term="semiconductors" scheme="https://blackfireagent.github.io/opensemi/tags/semiconductors/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Thermally-Aware Multi-Objective Scheduling Framework for DL Workloads on Heterogeneous Multi-Chiplet PIM Architectures</title>
-    <link href="https://blackfireagent.github.io/opensemi/20250829_Thermally-Aware-Multi-Objective-Scheduling-Framework-for-DL-Workloads-on-Heterogeneous-Multi-Chiplet-PIM-Architectures/"/>
-    <id>https://blackfireagent.github.io/opensemi/20250829_Thermally-Aware-Multi-Objective-Scheduling-Framework-for-DL-Workloads-on-Heterogeneous-Multi-Chiplet-PIM-Architectures/</id>
-    <published>2025-08-28T22:00:00.000Z</published>
-    <updated>2025-08-29T04:09:50.364Z</updated>
-    
-    <content type="html"><![CDATA[<h2 id="News"><a href="#News" class="headerlink" title="News"></a><a href="https://semiengineering.com/wire-friendly-domain-specific-processor-for-angstrom-era-nodes-with-high-core-density-politecnico-di-torino-imec-et-al/">News</a></h2><p><strong>Wire-Friendly Domain-Specific Processor for Angstrom-Era Nodes with High Core Density</strong><br>A new paper from researchers at Politecnico di Torino and imec presents a domain-specific processor architecture aimed at machine learning applications. The design improves interconnect efficiency with reduced wire length and heightened core density, achieving more than 3x higher density than current state-of-the-art processors. This architecture is a promising solution for next-generation designs, showcasing minimal manual layout intervention for physical efficiency.</p><p><img src="https://semiengineering.com/wp-content/uploads/AdobeStock_531655551-04-16-24.jpeg" alt="Wire-Friendly Processor"></p><hr><h2 id="Launches"><a href="#Launches" class="headerlink" title="Launches"></a><a href="https://semiengineering.com/thermally-aware-multi-objective-scheduling-framework-for-dl-workloads-on-heterogeneous-multi-chiplet-pim-architectures-wisconsin-madison-washington-state/">Launches</a></h2><p><strong>Thermally-Aware Multi-Objective Scheduling Framework for DL Workloads on Heterogeneous Multi-Chiplet PIM Architectures</strong><br>Researchers from the University of Wisconsin–Madison have introduced THERMOS, a novel scheduling framework for AI workloads on heterogeneous multi-chiplet architectures. The framework employs reinforcement learning to optimize execution time and energy consumption, achieving up to 89% faster performance compared to existing algorithms, while maintaining minimal overhead.</p><p><img src="https://semiengineering.com/wp-content/uploads/Torquoise-chip-10-22-20AdobeStock_189358603-scaled.jpeg" alt="THERMOS Framework"></p><hr><h2 id="Charts"><a href="#Charts" class="headerlink" title="Charts"></a><a href="https://semiengineering.com/scheduling-architecture-integrated-with-m3d-beol-memories-for-llm-inference-georgia-tech-samsung/">Charts</a></h2><p><strong>Scheduling Architecture Integrated With M3D BEOL Memories For LLM Inference</strong><br>A study from Georgia Tech and Samsung presents a scheduling architecture designed to enhance long-context large language model inference. The architectural optimizations achieve significant performance improvements, including 8.06x decode speedup and reduced latency, addressing the bottlenecks associated with high bandwidth memory.</p><p><img src="https://semiengineering.com/wp-content/uploads/2019/09/iStock-927247700-Brain-AI.jpg" alt="LLM Inference Architecture"></p><hr><h2 id="Research"><a href="#Research" class="headerlink" title="Research"></a><a href="https://semiengineering.com/energy-efficient-signal-detectors-for-massive-mimo-using-sram-based-imcs-univ-of-illinois-at-urbana-champaign/">Research</a></h2><p><strong>Energy-Accuracy Trade-Offs in Massive MIMO Signal Detection Using SRAM-Based IMCs</strong><br>Research from the University of Illinois at Urbana–Champaign dives into energy-efficient signal detection for massive MIMO systems using SRAM-based in-memory computing architectures. The study explores the balance between energy consumption and accuracy, showcasing how IMC-based detectors can outperform conventional designs while meeting stringent accuracy requirements.</p><p><img src="https://semiengineering.com/wp-content/uploads/AdobeStock_322782977-01-29-25-scaled.jpeg" alt="Energy-Efficient Signal Detection"></p><hr><h2 id="Insight"><a href="#Insight" class="headerlink" title="Insight"></a><a href="https://semiwiki.com/events/360372-synopsys-enables-ai-advances-with-ualink/">Insight</a></h2><p><strong>Synopsys Enables AI Advances with UALink</strong><br>In a recent discussion, Synopsys’ industry experts outlined the transformative impact of the UALink standard on AI infrastructure. The open specification improves die-to-die communication among AI accelerators, addressing critical design challenges in hyperscale data centers. Insights from the panel highlight the collaborative efforts of over 100 companies in advancing AI technology and optimizing memory access.</p><p><img src="https://semiwiki.com/wp-content/uploads/2025/08/Synopsys-Enables-AI-Advances-with-UALink-1200x625.png" alt="Synopsys UALink Discussion"></p><hr><p>Thank you for staying with us for the latest news in the semiconductor industry. We look forward to bringing you more updates and insights into emerging technologies and innovations in the field.</p>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;h2 id=&quot;News&quot;&gt;&lt;a href=&quot;#News&quot; class=&quot;headerlink&quot; title=&quot;News&quot;&gt;&lt;/a&gt;&lt;a href=&quot;https://semiengineering.com/wire-friendly-domain-specific-process</summary>
-      
-    
-    
-    
-    <category term="Machinelearning" scheme="https://blackfireagent.github.io/opensemi/categories/Machinelearning/"/>
-    
-    
-    <category term="AI" scheme="https://blackfireagent.github.io/opensemi/tags/AI/"/>
-    
-    <category term="semiconductor" scheme="https://blackfireagent.github.io/opensemi/tags/semiconductor/"/>
-    
-    <category term="chip design" scheme="https://blackfireagent.github.io/opensemi/tags/chip-design/"/>
-    
-    <category term="verification" scheme="https://blackfireagent.github.io/opensemi/tags/verification/"/>
     
   </entry>
   
