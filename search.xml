@@ -4,6 +4,39 @@
   
     
     <entry>
+      <title>System-HW Co-Design Approach Combines Mono3D DRAM, NMP, and GPU Acceleration</title>
+      <link href="/opensemi/20251017_System-HW-Co-Design-Approach-Combines-Mono3D-DRAM,-NMP,-and-GPU-Acceleration/"/>
+      <url>/opensemi/20251017_System-HW-Co-Design-Approach-Combines-Mono3D-DRAM,-NMP,-and-GPU-Acceleration/</url>
+      
+        <content type="html"><![CDATA[<div style="display: flex; justify-content: center;">  <audio controls>    <source src="/opensemi/podcasts/20251017_machinelearning_newsletter_gpt-4o-mini.mp3" type="audio/mpeg">    Your browser does not support the audio element.  </audio></div><h2 id="News"><a href="#News" class="headerlink" title="News"></a><a href="https://semiwiki.com/security/362587-secure-ic-and-silicon-labs-raise-the-bar-for-hardware-security/">News</a></h2><p><strong>IC and Silicon Labs Raise the Bar for Hardware Security</strong><br>Cybersecurity is becoming increasingly critical as AI-driven attacks escalate, necessitating enhanced hardware security measures. Secure-IC’s Securyzr™ neo Core Platform has been integrated into Silicon Labs’ SiXG301 SoC, establishing a Root of Trust that offers advanced protection against sophisticated threats. This collaboration has achieved the first-ever PSA Level 4 certification, providing robust assurance against physical and cyber attacks in connected devices.</p><p><img src="https://semiwiki.com/wp-content/uploads/2025/10/Secure-IC-and-Silicon-Labs-Raise-the-Bar-for-Hardware-Security.png" alt="Secure-IC and Silicon Labs"></p><hr><h2 id="Launches"><a href="#Launches" class="headerlink" title="Launches"></a><a href="https://semiengineering.com/on-package-memory-with-ucie-to-improve-bandwidth-density-and-power-efficiency-amd-intel-corp/">Launches</a></h2><p><strong>On-Package Memory With UCIe To Improve Bandwidth Density And Power Efficiency</strong><br>Researchers at AMD and Intel have introduced a novel approach to on-package memory that leverages Universal Chiplet Interconnect Express (UCIe) technology. This development aims to enhance bandwidth density by up to 10x and reduce power consumption by up to 3x, addressing the growing demand for efficient memory solutions in AI and high-performance computing applications.</p><p><img src="https://semiengineering.com/wp-content/uploads/AdobeStock_993766061-03-26-2025-scaled.jpeg" alt="On-Package Memory"></p><hr><h2 id="Charts"><a href="#Charts" class="headerlink" title="Charts"></a><a href="https://semiwiki.com/automotive/362517-why-choose-pcie-5-0-for-power-performance-and-bandwidth-at-the-edge/">Charts</a></h2><p><strong>Why Choose PCIe 5.0 for Power, Performance and Bandwidth at the Edge</strong><br>The latest webinar by Synopsys highlights the continued relevance of PCIe 5.0 in the era of Edge AI and high-performance applications. The chart showcases how PCIe 5.0 delivers high bandwidth and low latency, making it an ideal choice for a variety of sectors including automotive and data centers, while supporting the exponential growth of AI workloads.</p><p><img src="https://semiwiki.com/wp-content/uploads/2025/10/PCIe-5.0-Impact-Across-Markets-1200x677.jpg" alt="PCIe 5.0 Impact"></p><hr><h2 id="Research"><a href="#Research" class="headerlink" title="Research"></a><a href="https://semiengineering.com/system-hw-co-design-approach-combines-mono3d-dram-nmp-and-gpu-acceleration-ucsd-georgia-tech-uiuc-illinois-tech/">Research</a></h2><p><strong>System-HW Co-Design Approach Combines Mono3D DRAM, NMP, and GPU Acceleration</strong><br>A groundbreaking paper from researchers at UCSD and other institutions introduces “Stratum,” a co-design framework that integrates Mono3D DRAM with near-memory processing and GPU acceleration. This novel approach significantly improves decoding throughput by 8.29x and energy efficiency by 7.66x, offering a promising solution for deploying large-scale language models effectively.</p><p><img src="https://semiengineering.com/wp-content/uploads/AdobeStock_322557739-01-29-25-scaled.jpeg" alt="System-HW Co-Design"></p><hr><h2 id="Insight"><a href="#Insight" class="headerlink" title="Insight"></a><a href="https://semiengineering.com/heterogeneous-system-with-specialized-hw-for-disaggregated-llm-inference-princeton-univ-univ-of-washington/">Insight</a></h2><p><strong>Heterogeneous System With Specialized HW For Disaggregated LLM Inference</strong><br>A panel discussion featuring experts from Princeton University and University of Washington unveiled insights into their latest research on specialized hardware for disaggregated LLM inference. The proposed SPAD architecture optimizes performance and cost, achieving significant hardware savings while meeting the demands of modern AI applications. This approach emphasizes the importance of tailored hardware solutions in the evolving landscape of machine learning.</p><p><img src="https://semiengineering.com/wp-content/uploads/AdobeStock_876124851-March-26-2025-scaled.jpeg" alt="Specialized HW"></p><hr><p>Stay connected with us for the latest updates in the semiconductor industry as we continue to explore innovations and trends shaping the future.</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> Machinelearning </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> AI </tag>
+            
+            <tag> semiconductors </tag>
+            
+            <tag> hardware security </tag>
+            
+            <tag> design innovation </tag>
+            
+            <tag> chip technology </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>Cinch Details CIN-APSE Interconnect Evolution for Harsh Environments</title>
       <link href="/opensemi/20251014_Cinch-Details-CIN-APSE-Interconnect-Evolution-for-Harsh-Environments/"/>
       <url>/opensemi/20251014_Cinch-Details-CIN-APSE-Interconnect-Evolution-for-Harsh-Environments/</url>
@@ -2219,39 +2252,6 @@
     
     
     <entry>
-      <title>NSR-S636E ArF Immersion Scanner</title>
-      <link href="/opensemi/20250518_NSR-S636E-ArF-Immersion-Scanner/"/>
-      <url>/opensemi/20250518_NSR-S636E-ArF-Immersion-Scanner/</url>
-      
-        <content type="html"><![CDATA[<h2 id="News"><a href="#News" class="headerlink" title="News"></a><a href="https://spectrum.ieee.org/high-na-euv">News</a></h2><p><strong>This Machine Could Keep Moore’s Law on Track</strong><br>ASML is pioneering high-numerical-aperture EUV lithography, aiming for commercial deployment in 2025. This advancement is crucial for maintaining Moore’s Law by enabling the production of increasingly smaller chip features, essential for next-generation devices.</p><p><img src="https://spectrum.ieee.org/media-library/a-white-box-with-vertical-lines-dwarfs-two-people-in-white-coveralls.jpg?id=34683341&width=1200&height=899" alt="ASML lithography machine"></p><hr><h2 id="Launches"><a href="#Launches" class="headerlink" title="Launches"></a><a href="https://www.nikonprecision.com/nikon-releases-nsr-s636e-arf-immersion-scanner/">Launches</a></h2><p><strong>NSR-S636E ArF Immersion Scanner</strong><br>Nikon introduces its NSR-S636E ArF immersion scanner, the most productive lithography system in its history, designed for critical layers in semiconductor manufacturing. This system enhances overlay accuracy and throughput, catering to the needs of advanced 3D semiconductor devices.</p><p><img src="https://www.nikonprecision.com/wp-content/uploads/2023/12/NSR-S636E-Larger-ImageA-scaled-e1701819763953-1024x890.jpg" alt="Nikon NSR-S636E"></p><hr><h2 id="Charts"><a href="#Charts" class="headerlink" title="Charts"></a><a href="https://spectrum.ieee.org/transistor-density">Charts</a></h2><p><strong>The State of the Transistor in 3 Charts</strong><br>This article provides a comprehensive overview of the advancements in transistor technology over the past 75 years, emphasizing the exponential growth in transistor density and the ongoing miniaturization efforts critical for future semiconductor innovations.</p><p><img src="https://spectrum.ieee.org/media-library/a-photo-of-3-different-transistors.png?id=32153247&width=1200&height=844" alt="Transistor advancements"></p><hr><h2 id="Research"><a href="#Research" class="headerlink" title="Research"></a><a href="https://semiengineering.com/scalable-approach-for-fabricating-sub-10nm-nanogaps/">Research</a></h2><p><strong>Scalable Approach For Fabricating Sub-10nm Nanogaps</strong><br>Researchers have developed a progressive wafer-scale method for creating sub-10 nm nanogap structures, which promises significant advancements in semiconductor fabrication techniques, enhancing performance and scalability.</p><p><img src="https://semiengineering.com/wp-content/uploads/AdobeStock_416615461-01-29-25-scaled.jpeg" alt="Sub-10nm nanogaps"></p><hr><h2 id="Insight"><a href="#Insight" class="headerlink" title="Insight"></a><a href="https://phys.org/news/2023-12/method-fabricate-optical-devices-specifications.html">Insight</a></h2><p><strong>A New Method to Fabricate Optical Devices That More Closely Match Their Design Specifications</strong><br>MIT and the Chinese University of Hong Kong researchers have developed a machine learning-based digital simulator for photolithography that significantly enhances the precision of optical device manufacturing, paving the way for improved performance in applications ranging from mobile cameras to telecommunications.</p><p><img src="https://scx2.b-cdn.net/gfx/news/2023/method-enables-optical.jpg" alt="Optical device fabrication"></p><hr><p>Stay tuned for more updates as we continue to bring you the latest news and innovations in the semiconductor industry!</p>]]></content>
-      
-      
-      <categories>
-          
-          <category> Lithography </category>
-          
-      </categories>
-      
-      
-        <tags>
-            
-            <tag> innovation </tag>
-            
-            <tag> semiconductor </tag>
-            
-            <tag> lithography </tag>
-            
-            <tag> EUV </tag>
-            
-            <tag> optics </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
       <title>Safeguard power domain compatibility by finding missing level shifters</title>
       <link href="/opensemi/20250518_Safeguard-power-domain-compatibility-by-finding-missing-level-shifters/"/>
       <url>/opensemi/20250518_Safeguard-power-domain-compatibility-by-finding-missing-level-shifters/</url>
@@ -2277,6 +2277,39 @@
             <tag> manufacturing </tag>
             
             <tag> semiconductors </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>NSR-S636E ArF Immersion Scanner</title>
+      <link href="/opensemi/20250518_NSR-S636E-ArF-Immersion-Scanner/"/>
+      <url>/opensemi/20250518_NSR-S636E-ArF-Immersion-Scanner/</url>
+      
+        <content type="html"><![CDATA[<h2 id="News"><a href="#News" class="headerlink" title="News"></a><a href="https://spectrum.ieee.org/high-na-euv">News</a></h2><p><strong>This Machine Could Keep Moore’s Law on Track</strong><br>ASML is pioneering high-numerical-aperture EUV lithography, aiming for commercial deployment in 2025. This advancement is crucial for maintaining Moore’s Law by enabling the production of increasingly smaller chip features, essential for next-generation devices.</p><p><img src="https://spectrum.ieee.org/media-library/a-white-box-with-vertical-lines-dwarfs-two-people-in-white-coveralls.jpg?id=34683341&width=1200&height=899" alt="ASML lithography machine"></p><hr><h2 id="Launches"><a href="#Launches" class="headerlink" title="Launches"></a><a href="https://www.nikonprecision.com/nikon-releases-nsr-s636e-arf-immersion-scanner/">Launches</a></h2><p><strong>NSR-S636E ArF Immersion Scanner</strong><br>Nikon introduces its NSR-S636E ArF immersion scanner, the most productive lithography system in its history, designed for critical layers in semiconductor manufacturing. This system enhances overlay accuracy and throughput, catering to the needs of advanced 3D semiconductor devices.</p><p><img src="https://www.nikonprecision.com/wp-content/uploads/2023/12/NSR-S636E-Larger-ImageA-scaled-e1701819763953-1024x890.jpg" alt="Nikon NSR-S636E"></p><hr><h2 id="Charts"><a href="#Charts" class="headerlink" title="Charts"></a><a href="https://spectrum.ieee.org/transistor-density">Charts</a></h2><p><strong>The State of the Transistor in 3 Charts</strong><br>This article provides a comprehensive overview of the advancements in transistor technology over the past 75 years, emphasizing the exponential growth in transistor density and the ongoing miniaturization efforts critical for future semiconductor innovations.</p><p><img src="https://spectrum.ieee.org/media-library/a-photo-of-3-different-transistors.png?id=32153247&width=1200&height=844" alt="Transistor advancements"></p><hr><h2 id="Research"><a href="#Research" class="headerlink" title="Research"></a><a href="https://semiengineering.com/scalable-approach-for-fabricating-sub-10nm-nanogaps/">Research</a></h2><p><strong>Scalable Approach For Fabricating Sub-10nm Nanogaps</strong><br>Researchers have developed a progressive wafer-scale method for creating sub-10 nm nanogap structures, which promises significant advancements in semiconductor fabrication techniques, enhancing performance and scalability.</p><p><img src="https://semiengineering.com/wp-content/uploads/AdobeStock_416615461-01-29-25-scaled.jpeg" alt="Sub-10nm nanogaps"></p><hr><h2 id="Insight"><a href="#Insight" class="headerlink" title="Insight"></a><a href="https://phys.org/news/2023-12/method-fabricate-optical-devices-specifications.html">Insight</a></h2><p><strong>A New Method to Fabricate Optical Devices That More Closely Match Their Design Specifications</strong><br>MIT and the Chinese University of Hong Kong researchers have developed a machine learning-based digital simulator for photolithography that significantly enhances the precision of optical device manufacturing, paving the way for improved performance in applications ranging from mobile cameras to telecommunications.</p><p><img src="https://scx2.b-cdn.net/gfx/news/2023/method-enables-optical.jpg" alt="Optical device fabrication"></p><hr><p>Stay tuned for more updates as we continue to bring you the latest news and innovations in the semiconductor industry!</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> Lithography </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> innovation </tag>
+            
+            <tag> semiconductor </tag>
+            
+            <tag> lithography </tag>
+            
+            <tag> EUV </tag>
+            
+            <tag> optics </tag>
             
         </tags>
       
