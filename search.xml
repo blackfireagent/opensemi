@@ -4,6 +4,67 @@
   
     
     <entry>
+      <title>GlobalFoundries, Infineon, Silicon Box, STATS ChipPAC, and TIER IV Join imec Automotive Chiplet Program</title>
+      <link href="/opensemi/20251020_GlobalFoundries,-Infineon,-Silicon-Box,-STATS-ChipPAC,-and-TIER-IV-Join-imec-Automotive-Chiplet-Program/"/>
+      <url>/opensemi/20251020_GlobalFoundries,-Infineon,-Silicon-Box,-STATS-ChipPAC,-and-TIER-IV-Join-imec-Automotive-Chiplet-Program/</url>
+      
+        <content type="html"><![CDATA[<div style="display: flex; justify-content: center;">  <audio controls>    <source src="/opensemi/podcasts/20251020_semiconductor_newsletter_gemini-2.5-flash.mp3" type="audio/mpeg">    Your browser does not support the audio element.  </audio></div><h2 id="News"><a href="#News" class="headerlink" title="News"></a><a href="https://www.imec-int.com/en/press/GlobalFoundries-Infineon-silicon-box-STATS-ChipPAC-TIER-IV-Join-imec-Automotive-Chiplet-Program">News</a></h2><p><strong>GlobalFoundries, Infineon, Silicon Box, STATS ChipPAC, and TIER IV Join imec Automotive Chiplet Program</strong><br>Imec has announced that leading industry players, including GlobalFoundries (GF), Infineon, Silicon Box, STATS ChipPAC, and Japanese autonomous driving technology developer TIER IV, have joined its Automotive Chiplet Program (ACP). This collaborative research initiative aims to accelerate the development and adoption of advanced chiplet architectures and packaging technologies specifically tailored for the stringent safety and reliability demands of the automotive sector. As vehicles increasingly evolve into high-performance, software-defined platforms, traditional monolithic chip designs face growing challenges. Chiplets offer a scalable, flexible, and cost-effective alternative. As a foundry partner, GF will contribute its advanced manufacturing capabilities and global fab footprint to support the development of automotive-ready, chiplet-based platforms and the qualification of critical interconnect technologies. This move highlights a significant industry collaboration to drive innovation in automotive semiconductors.</p><p><img src="https://www.imec-int.com/sites/default/files/2025-10/Header_AdobeStock_1557709119.jpg" alt="imec Automotive Chiplet Program"></p><hr><h2 id="Launches"><a href="#Launches" class="headerlink" title="Launches"></a><a href="https://www.eetimes.com/google-open-sources-npu-ip-synaptics-implements-it/">Launches</a></h2><p><strong>Google Open-Sources Coral NPU IP, Synaptics Implements It in Astra IoT SoCs</strong><br>Google Research has open-sourced its Coral NPU IP (previously codenamed Kelvin), a 4-way superscalar 32-bit RISC-V CPU, to foster growth in the edge AI ecosystem by mitigating fragmentation and bolstering security. Synaptics is the first company to implement this NPU in silicon, integrating it into its Astra SL2610 series of AI-enabled IoT device SoCs. Google’s initiative aims to provide an open-standards-based platform, offering flexibility and extensibility without requiring licensing fees. Synaptics’ Torq solution combines the Coral NPU with its proprietary T1 AI accelerator, supported by an open-source toolchain based on MLIR&#x2F;IREE. This development is set to simplify and accelerate the deployment of AI workloads across various IoT applications, from smart appliances to drones.</p><p><img src="https://www.eetimes.com/wp-content/uploads/Earbud.jpg" alt="Google Coral NPU Synaptics IoT Earbud"></p><hr><h2 id="Charts"><a href="#Charts" class="headerlink" title="Charts"></a><a href="https://techxplore.com/news/2025-10-taiwanese-chipmaker-tsmc-net-profit.html">Charts</a></h2><p><strong>Taiwanese chipmaker TSMC sees nearly 40% jump in its net profit thanks to the AI boom</strong><br>Taiwan Semiconductor Manufacturing Corp. (TSMC), the world’s leading semiconductor foundry, reported a remarkable financial performance for the July-September quarter. The company announced a record net profit of NT$452.3 billion ($15 billion), marking a nearly 40% year-on-year increase. This substantial surge in profitability is largely attributed to the unprecedented demand driven by the artificial intelligence (AI) boom. TSMC’s revenue also saw a significant 30% jump compared to the previous year, surpassing market expectations. The company continues to make substantial investments, including over $100 billion in the U.S. (with up to $40 billion at its new 300mm site in Sherman, Texas) and additional fabs in Japan, to ensure a geopolitically dependable and robust manufacturing capacity capable of meeting the “unyielding” global demand for its advanced semiconductor products, particularly those fueling the AI revolution.</p><p><img src="https://scx2.b-cdn.net/gfx/news/hires/2025/taiwanese-chipmaker-ts.jpg" alt="TSMC Net Profit"></p><hr><h2 id="Research"><a href="#Research" class="headerlink" title="Research"></a><a href="https://www.semiconductor-digest.com/kaist-develops-an-ai-semiconductor-brain-combining-transformers-intelligence-and-mambas-efficiency/">Research</a></h2><p><strong>KAIST Develops an AI Semiconductor Brain Combining Transformer’s Intelligence and Mamba’s Efficiency</strong><br>A joint research team, spearheaded by Professor Jongse Park from KAIST School of Computing, in collaboration with Georgia Institute of Technology and Uppsala University, has achieved a significant breakthrough in AI semiconductor technology. They developed “PIMBA,” a core AI semiconductor “brain” based on a novel hybrid Transformer and Mamba structure. This innovative design is implemented as a Processing-in-Memory (PIM) system, enabling direct computation within the memory itself. PIMBA addresses the critical challenges of escalating computational loads and memory demands in Large Language Models (LLMs) like GPT-4 and Llama. By minimizing data movement, PIMBA demonstrated a remarkable 4.1-fold increase in LLM inference speed and an average 2.2-fold reduction in power consumption compared to existing GPU systems, promising a new era for energy-efficient, high-performance AI processing. This research is scheduled for presentation at the 58th International Symposium on Microarchitecture (MICRO 2025).</p><p><img src="https://scx2.b-cdn.net/gfx/news/hires/2025/semiconductor-brain-co.jpg" alt="KAIST PIMBA AI Semiconductor"></p><hr><h2 id="Insight"><a href="#Insight" class="headerlink" title="Insight"></a><a href="https://semiwiki.com/ceo-interviews/362391-ceo-interview-with-dr-bernie-malouin-founder-of-jetcool-and-vp-of-flex-liquid-cooling/">Insight</a></h2><p><strong>CEO Interview with Dr. Bernie Malouin Founder of JetCool and VP of Flex Liquid Cooling</strong><br>In a recent interview, Dr. Bernie Malouin, Founder of JetCool and VP of Flex Liquid Cooling, provided key insights into the escalating challenges of thermal management for AI and High-Performance Computing (HPC) workloads. Malouin emphasized that traditional air cooling systems are increasingly struggling to keep pace with the unprecedented heat generated by modern CPUs and GPUs, leading to significant power and thermal constraints in data centers. JetCool, now a part of Flex, specializes in advanced direct-to-chip SmartPlate™ liquid cooling technology, which boasts over 20% better performance than conventional solutions by precisely targeting hot spots on silicon. The company offers vertically integrated, rack-level solutions that combine power distribution, liquid cooling, and system design, aiming to lower overall power consumption, drastically reduce water usage, and future-proof data center infrastructure against the rapid advancements in AI hardware.</p><p><img src="https://semiwiki.com/wp-content/uploads/2025/10/Bernie-Malouin_Headshot_JetCool.png" alt="Bernie Malouin JetCool Flex"></p><hr><p>Stay tuned for more updates as the semiconductor industry continues to push the boundaries of innovation and efficiency!</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> Semiconductor </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> market trends </tag>
+            
+            <tag> RISC-V </tag>
+            
+            <tag> chiplets </tag>
+            
+            <tag> advanced packaging </tag>
+            
+            <tag> TSMC </tag>
+            
+            <tag> AI semiconductors </tag>
+            
+            <tag> processing-in-memory </tag>
+            
+            <tag> LLMs </tag>
+            
+            <tag> data center cooling </tag>
+            
+            <tag> liquid cooling </tag>
+            
+            <tag> IoT </tag>
+            
+            <tag> automotive electronics </tag>
+            
+            <tag> GlobalFoundries </tag>
+            
+            <tag> imec </tag>
+            
+            <tag> Google </tag>
+            
+            <tag> Synaptics </tag>
+            
+            <tag> KAIST </tag>
+            
+            <tag> Flex </tag>
+            
+            <tag> JetCool </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>System-HW Co-Design Approach Combines Mono3D DRAM, NMP, and GPU Acceleration</title>
       <link href="/opensemi/20251017_System-HW-Co-Design-Approach-Combines-Mono3D-DRAM,-NMP,-and-GPU-Acceleration/"/>
       <url>/opensemi/20251017_System-HW-Co-Design-Approach-Combines-Mono3D-DRAM,-NMP,-and-GPU-Acceleration/</url>
@@ -2115,9 +2176,9 @@
       
         <tags>
             
-            <tag> Semiconductor Technology </tag>
-            
             <tag> Market Trends </tag>
+            
+            <tag> Semiconductor Technology </tag>
             
             <tag> EUV Lithography </tag>
             
@@ -2252,39 +2313,6 @@
     
     
     <entry>
-      <title>Safeguard power domain compatibility by finding missing level shifters</title>
-      <link href="/opensemi/20250518_Safeguard-power-domain-compatibility-by-finding-missing-level-shifters/"/>
-      <url>/opensemi/20250518_Safeguard-power-domain-compatibility-by-finding-missing-level-shifters/</url>
-      
-        <content type="html"><![CDATA[<h2 id="News"><a href="#News" class="headerlink" title="News"></a><a href="https://www.semiconductor-digest.com/renesas-partners-with-indian-government-to-drive-innovation-through-startups-and-industry-academia-collaboration/">News</a></h2><p><strong>Renesas Partners with Indian Government to Drive Innovation Through Startups and Industry</strong><br>Renesas Electronics Corporation has announced a partnership with the Indian government aimed at supporting local startups and academic institutions in VLSI and embedded semiconductor systems. This initiative is part of Renesas’ broader strategy to deepen its market presence in India, with ambitious plans to generate over 10% of its global revenue from the region by 2030.</p><p><img src="https://www.semiconductor-digest.com/wp-content/uploads/2025/05/unnamed.jpg" alt="Renesas Partnership"></p><hr><h2 id="Launches"><a href="#Launches" class="headerlink" title="Launches"></a><a href="https://www.semiconductor-digest.com/curvilinear-technology-a-game-changer-for-the-logic-technology-roadmap/">Launches</a></h2><p><strong>Curvilinear Technology: A Game Changer for the Logic Technology Roadmap</strong><br>Imec has introduced curvilinear design techniques in optical proximity correction (OPC) and mask writing, which promise to reduce errors and improve the process window for advanced semiconductor manufacturing. This innovative approach is expected to enhance chip performance while reducing costs in future semiconductor nodes.</p><p><img src="https://www.semiconductor-digest.com/wp-content/uploads/2025/05/Figure-8-Wafer-level-printing.jpg" alt="Curvilinear Technology"></p><hr><h2 id="Charts"><a href="#Charts" class="headerlink" title="Charts"></a><a href="https://semiwiki.com/events/355791-webinar-achieving-seamless-1-6-tbps-interoperability-with-samtec-and-synopsys/">Charts</a></h2><p><strong>Achieving 1.6 Tbps Interoperability</strong><br>A recent webinar explored the critical role of 224G SerDes technology in achieving high-speed data transfers, essential for supporting AI workloads. The discussion highlighted the required interoperability testing and the evolving needs for system design in the semiconductor industry.</p><p><img src="https://semiwiki.com/wp-content/uploads/2025/05/Webinar-Achieving-Seamless-1.6-Tbps-Interoperability-with-Samtec-and-Synopsys.png" alt="Webinar on Interoperability"></p><hr><h2 id="Research"><a href="#Research" class="headerlink" title="Research"></a><a href="https://techxplore.com/news/2025-05-strategy-fabricate-highly-thin-tin.html">Research</a></h2><p><strong>A new strategy to fabricate highly performing thin-film tin perovskite transistors</strong><br>Researchers at Pohang University have developed a novel approach to create high-performance p-channel thin-film transistors using tin-halide perovskites. Their method utilizes vapor deposition techniques, achieving excellent mobility and stability, potentially paving the way for broader applications in semiconductor technology.</p><p><img src="https://scx2.b-cdn.net/gfx/news/hires/2025/a-new-strategy-to-fabr-1.jpg" alt="Tin Perovskite Transistors"></p><hr><h2 id="Insight"><a href="#Insight" class="headerlink" title="Insight"></a><a href="https://semiwiki.com/eda/355809-safeguard-power-domain-compatibility-by-finding-missing-level-shifters/">Insight</a></h2><p><strong>Safeguard power domain compatibility by finding missing level shifters</strong><br>An insightful article discusses the critical role of level shifters in mixed signal design and their impact on signal integrity and device performance. With advanced EDA tools, designers can identify potential issues early in the design phase, ensuring reliable operation in integrated circuits.</p><p><img src="https://semiwiki.com/wp-content/uploads/2025/05/fig1-missing-level-shifters-1200x676.jpg" alt="Level Shifters"></p><hr><p>Stay tuned for more updates on the latest advancements and trends in the semiconductor industry!</p>]]></content>
-      
-      
-      <categories>
-          
-          <category> Semiconductor </category>
-          
-      </categories>
-      
-      
-        <tags>
-            
-            <tag> AI </tag>
-            
-            <tag> technology </tag>
-            
-            <tag> innovation </tag>
-            
-            <tag> manufacturing </tag>
-            
-            <tag> semiconductors </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
       <title>NSR-S636E ArF Immersion Scanner</title>
       <link href="/opensemi/20250518_NSR-S636E-ArF-Immersion-Scanner/"/>
       <url>/opensemi/20250518_NSR-S636E-ArF-Immersion-Scanner/</url>
@@ -2310,6 +2338,39 @@
             <tag> EUV </tag>
             
             <tag> optics </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>Safeguard power domain compatibility by finding missing level shifters</title>
+      <link href="/opensemi/20250518_Safeguard-power-domain-compatibility-by-finding-missing-level-shifters/"/>
+      <url>/opensemi/20250518_Safeguard-power-domain-compatibility-by-finding-missing-level-shifters/</url>
+      
+        <content type="html"><![CDATA[<h2 id="News"><a href="#News" class="headerlink" title="News"></a><a href="https://www.semiconductor-digest.com/renesas-partners-with-indian-government-to-drive-innovation-through-startups-and-industry-academia-collaboration/">News</a></h2><p><strong>Renesas Partners with Indian Government to Drive Innovation Through Startups and Industry</strong><br>Renesas Electronics Corporation has announced a partnership with the Indian government aimed at supporting local startups and academic institutions in VLSI and embedded semiconductor systems. This initiative is part of Renesas’ broader strategy to deepen its market presence in India, with ambitious plans to generate over 10% of its global revenue from the region by 2030.</p><p><img src="https://www.semiconductor-digest.com/wp-content/uploads/2025/05/unnamed.jpg" alt="Renesas Partnership"></p><hr><h2 id="Launches"><a href="#Launches" class="headerlink" title="Launches"></a><a href="https://www.semiconductor-digest.com/curvilinear-technology-a-game-changer-for-the-logic-technology-roadmap/">Launches</a></h2><p><strong>Curvilinear Technology: A Game Changer for the Logic Technology Roadmap</strong><br>Imec has introduced curvilinear design techniques in optical proximity correction (OPC) and mask writing, which promise to reduce errors and improve the process window for advanced semiconductor manufacturing. This innovative approach is expected to enhance chip performance while reducing costs in future semiconductor nodes.</p><p><img src="https://www.semiconductor-digest.com/wp-content/uploads/2025/05/Figure-8-Wafer-level-printing.jpg" alt="Curvilinear Technology"></p><hr><h2 id="Charts"><a href="#Charts" class="headerlink" title="Charts"></a><a href="https://semiwiki.com/events/355791-webinar-achieving-seamless-1-6-tbps-interoperability-with-samtec-and-synopsys/">Charts</a></h2><p><strong>Achieving 1.6 Tbps Interoperability</strong><br>A recent webinar explored the critical role of 224G SerDes technology in achieving high-speed data transfers, essential for supporting AI workloads. The discussion highlighted the required interoperability testing and the evolving needs for system design in the semiconductor industry.</p><p><img src="https://semiwiki.com/wp-content/uploads/2025/05/Webinar-Achieving-Seamless-1.6-Tbps-Interoperability-with-Samtec-and-Synopsys.png" alt="Webinar on Interoperability"></p><hr><h2 id="Research"><a href="#Research" class="headerlink" title="Research"></a><a href="https://techxplore.com/news/2025-05-strategy-fabricate-highly-thin-tin.html">Research</a></h2><p><strong>A new strategy to fabricate highly performing thin-film tin perovskite transistors</strong><br>Researchers at Pohang University have developed a novel approach to create high-performance p-channel thin-film transistors using tin-halide perovskites. Their method utilizes vapor deposition techniques, achieving excellent mobility and stability, potentially paving the way for broader applications in semiconductor technology.</p><p><img src="https://scx2.b-cdn.net/gfx/news/hires/2025/a-new-strategy-to-fabr-1.jpg" alt="Tin Perovskite Transistors"></p><hr><h2 id="Insight"><a href="#Insight" class="headerlink" title="Insight"></a><a href="https://semiwiki.com/eda/355809-safeguard-power-domain-compatibility-by-finding-missing-level-shifters/">Insight</a></h2><p><strong>Safeguard power domain compatibility by finding missing level shifters</strong><br>An insightful article discusses the critical role of level shifters in mixed signal design and their impact on signal integrity and device performance. With advanced EDA tools, designers can identify potential issues early in the design phase, ensuring reliable operation in integrated circuits.</p><p><img src="https://semiwiki.com/wp-content/uploads/2025/05/fig1-missing-level-shifters-1200x676.jpg" alt="Level Shifters"></p><hr><p>Stay tuned for more updates on the latest advancements and trends in the semiconductor industry!</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> Semiconductor </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> AI </tag>
+            
+            <tag> technology </tag>
+            
+            <tag> innovation </tag>
+            
+            <tag> manufacturing </tag>
+            
+            <tag> semiconductors </tag>
             
         </tags>
       
@@ -2720,9 +2781,9 @@
             
             <tag> Semiconductor Manufacturing </tag>
             
-            <tag> Market Trends </tag>
-            
             <tag> Research </tag>
+            
+            <tag> Market Trends </tag>
             
             <tag> Technology </tag>
             
@@ -2751,11 +2812,11 @@
             
             <tag> AI </tag>
             
+            <tag> Market Trends </tag>
+            
             <tag> Semiconductor Technology </tag>
             
             <tag> Chip Design </tag>
-            
-            <tag> Market Trends </tag>
             
         </tags>
       

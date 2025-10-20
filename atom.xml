@@ -6,10 +6,72 @@
   <link href="https://blackfireagent.github.io/opensemi/atom.xml" rel="self"/>
   
   <link href="https://blackfireagent.github.io/opensemi/"/>
-  <updated>2025-10-17T04:15:00.992Z</updated>
+  <updated>2025-10-20T04:23:23.873Z</updated>
   <id>https://blackfireagent.github.io/opensemi/</id>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>GlobalFoundries, Infineon, Silicon Box, STATS ChipPAC, and TIER IV Join imec Automotive Chiplet Program</title>
+    <link href="https://blackfireagent.github.io/opensemi/20251020_GlobalFoundries,-Infineon,-Silicon-Box,-STATS-ChipPAC,-and-TIER-IV-Join-imec-Automotive-Chiplet-Program/"/>
+    <id>https://blackfireagent.github.io/opensemi/20251020_GlobalFoundries,-Infineon,-Silicon-Box,-STATS-ChipPAC,-and-TIER-IV-Join-imec-Automotive-Chiplet-Program/</id>
+    <published>2025-10-19T22:00:00.000Z</published>
+    <updated>2025-10-20T04:23:23.873Z</updated>
+    
+    <content type="html"><![CDATA[<div style="display: flex; justify-content: center;">  <audio controls>    <source src="/opensemi/podcasts/20251020_semiconductor_newsletter_gemini-2.5-flash.mp3" type="audio/mpeg">    Your browser does not support the audio element.  </audio></div><h2 id="News"><a href="#News" class="headerlink" title="News"></a><a href="https://www.imec-int.com/en/press/GlobalFoundries-Infineon-silicon-box-STATS-ChipPAC-TIER-IV-Join-imec-Automotive-Chiplet-Program">News</a></h2><p><strong>GlobalFoundries, Infineon, Silicon Box, STATS ChipPAC, and TIER IV Join imec Automotive Chiplet Program</strong><br>Imec has announced that leading industry players, including GlobalFoundries (GF), Infineon, Silicon Box, STATS ChipPAC, and Japanese autonomous driving technology developer TIER IV, have joined its Automotive Chiplet Program (ACP). This collaborative research initiative aims to accelerate the development and adoption of advanced chiplet architectures and packaging technologies specifically tailored for the stringent safety and reliability demands of the automotive sector. As vehicles increasingly evolve into high-performance, software-defined platforms, traditional monolithic chip designs face growing challenges. Chiplets offer a scalable, flexible, and cost-effective alternative. As a foundry partner, GF will contribute its advanced manufacturing capabilities and global fab footprint to support the development of automotive-ready, chiplet-based platforms and the qualification of critical interconnect technologies. This move highlights a significant industry collaboration to drive innovation in automotive semiconductors.</p><p><img src="https://www.imec-int.com/sites/default/files/2025-10/Header_AdobeStock_1557709119.jpg" alt="imec Automotive Chiplet Program"></p><hr><h2 id="Launches"><a href="#Launches" class="headerlink" title="Launches"></a><a href="https://www.eetimes.com/google-open-sources-npu-ip-synaptics-implements-it/">Launches</a></h2><p><strong>Google Open-Sources Coral NPU IP, Synaptics Implements It in Astra IoT SoCs</strong><br>Google Research has open-sourced its Coral NPU IP (previously codenamed Kelvin), a 4-way superscalar 32-bit RISC-V CPU, to foster growth in the edge AI ecosystem by mitigating fragmentation and bolstering security. Synaptics is the first company to implement this NPU in silicon, integrating it into its Astra SL2610 series of AI-enabled IoT device SoCs. Google’s initiative aims to provide an open-standards-based platform, offering flexibility and extensibility without requiring licensing fees. Synaptics’ Torq solution combines the Coral NPU with its proprietary T1 AI accelerator, supported by an open-source toolchain based on MLIR&#x2F;IREE. This development is set to simplify and accelerate the deployment of AI workloads across various IoT applications, from smart appliances to drones.</p><p><img src="https://www.eetimes.com/wp-content/uploads/Earbud.jpg" alt="Google Coral NPU Synaptics IoT Earbud"></p><hr><h2 id="Charts"><a href="#Charts" class="headerlink" title="Charts"></a><a href="https://techxplore.com/news/2025-10-taiwanese-chipmaker-tsmc-net-profit.html">Charts</a></h2><p><strong>Taiwanese chipmaker TSMC sees nearly 40% jump in its net profit thanks to the AI boom</strong><br>Taiwan Semiconductor Manufacturing Corp. (TSMC), the world’s leading semiconductor foundry, reported a remarkable financial performance for the July-September quarter. The company announced a record net profit of NT$452.3 billion ($15 billion), marking a nearly 40% year-on-year increase. This substantial surge in profitability is largely attributed to the unprecedented demand driven by the artificial intelligence (AI) boom. TSMC’s revenue also saw a significant 30% jump compared to the previous year, surpassing market expectations. The company continues to make substantial investments, including over $100 billion in the U.S. (with up to $40 billion at its new 300mm site in Sherman, Texas) and additional fabs in Japan, to ensure a geopolitically dependable and robust manufacturing capacity capable of meeting the “unyielding” global demand for its advanced semiconductor products, particularly those fueling the AI revolution.</p><p><img src="https://scx2.b-cdn.net/gfx/news/hires/2025/taiwanese-chipmaker-ts.jpg" alt="TSMC Net Profit"></p><hr><h2 id="Research"><a href="#Research" class="headerlink" title="Research"></a><a href="https://www.semiconductor-digest.com/kaist-develops-an-ai-semiconductor-brain-combining-transformers-intelligence-and-mambas-efficiency/">Research</a></h2><p><strong>KAIST Develops an AI Semiconductor Brain Combining Transformer’s Intelligence and Mamba’s Efficiency</strong><br>A joint research team, spearheaded by Professor Jongse Park from KAIST School of Computing, in collaboration with Georgia Institute of Technology and Uppsala University, has achieved a significant breakthrough in AI semiconductor technology. They developed “PIMBA,” a core AI semiconductor “brain” based on a novel hybrid Transformer and Mamba structure. This innovative design is implemented as a Processing-in-Memory (PIM) system, enabling direct computation within the memory itself. PIMBA addresses the critical challenges of escalating computational loads and memory demands in Large Language Models (LLMs) like GPT-4 and Llama. By minimizing data movement, PIMBA demonstrated a remarkable 4.1-fold increase in LLM inference speed and an average 2.2-fold reduction in power consumption compared to existing GPU systems, promising a new era for energy-efficient, high-performance AI processing. This research is scheduled for presentation at the 58th International Symposium on Microarchitecture (MICRO 2025).</p><p><img src="https://scx2.b-cdn.net/gfx/news/hires/2025/semiconductor-brain-co.jpg" alt="KAIST PIMBA AI Semiconductor"></p><hr><h2 id="Insight"><a href="#Insight" class="headerlink" title="Insight"></a><a href="https://semiwiki.com/ceo-interviews/362391-ceo-interview-with-dr-bernie-malouin-founder-of-jetcool-and-vp-of-flex-liquid-cooling/">Insight</a></h2><p><strong>CEO Interview with Dr. Bernie Malouin Founder of JetCool and VP of Flex Liquid Cooling</strong><br>In a recent interview, Dr. Bernie Malouin, Founder of JetCool and VP of Flex Liquid Cooling, provided key insights into the escalating challenges of thermal management for AI and High-Performance Computing (HPC) workloads. Malouin emphasized that traditional air cooling systems are increasingly struggling to keep pace with the unprecedented heat generated by modern CPUs and GPUs, leading to significant power and thermal constraints in data centers. JetCool, now a part of Flex, specializes in advanced direct-to-chip SmartPlate™ liquid cooling technology, which boasts over 20% better performance than conventional solutions by precisely targeting hot spots on silicon. The company offers vertically integrated, rack-level solutions that combine power distribution, liquid cooling, and system design, aiming to lower overall power consumption, drastically reduce water usage, and future-proof data center infrastructure against the rapid advancements in AI hardware.</p><p><img src="https://semiwiki.com/wp-content/uploads/2025/10/Bernie-Malouin_Headshot_JetCool.png" alt="Bernie Malouin JetCool Flex"></p><hr><p>Stay tuned for more updates as the semiconductor industry continues to push the boundaries of innovation and efficiency!</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;div style=&quot;display: flex; justify-content: center;&quot;&gt;
+  &lt;audio controls&gt;
+    &lt;source src=&quot;/opensemi/podcasts/20251020_semiconductor_newslett</summary>
+      
+    
+    
+    
+    <category term="Semiconductor" scheme="https://blackfireagent.github.io/opensemi/categories/Semiconductor/"/>
+    
+    
+    <category term="market trends" scheme="https://blackfireagent.github.io/opensemi/tags/market-trends/"/>
+    
+    <category term="RISC-V" scheme="https://blackfireagent.github.io/opensemi/tags/RISC-V/"/>
+    
+    <category term="chiplets" scheme="https://blackfireagent.github.io/opensemi/tags/chiplets/"/>
+    
+    <category term="advanced packaging" scheme="https://blackfireagent.github.io/opensemi/tags/advanced-packaging/"/>
+    
+    <category term="TSMC" scheme="https://blackfireagent.github.io/opensemi/tags/TSMC/"/>
+    
+    <category term="AI semiconductors" scheme="https://blackfireagent.github.io/opensemi/tags/AI-semiconductors/"/>
+    
+    <category term="processing-in-memory" scheme="https://blackfireagent.github.io/opensemi/tags/processing-in-memory/"/>
+    
+    <category term="LLMs" scheme="https://blackfireagent.github.io/opensemi/tags/LLMs/"/>
+    
+    <category term="data center cooling" scheme="https://blackfireagent.github.io/opensemi/tags/data-center-cooling/"/>
+    
+    <category term="liquid cooling" scheme="https://blackfireagent.github.io/opensemi/tags/liquid-cooling/"/>
+    
+    <category term="IoT" scheme="https://blackfireagent.github.io/opensemi/tags/IoT/"/>
+    
+    <category term="automotive electronics" scheme="https://blackfireagent.github.io/opensemi/tags/automotive-electronics/"/>
+    
+    <category term="GlobalFoundries" scheme="https://blackfireagent.github.io/opensemi/tags/GlobalFoundries/"/>
+    
+    <category term="imec" scheme="https://blackfireagent.github.io/opensemi/tags/imec/"/>
+    
+    <category term="Google" scheme="https://blackfireagent.github.io/opensemi/tags/Google/"/>
+    
+    <category term="Synaptics" scheme="https://blackfireagent.github.io/opensemi/tags/Synaptics/"/>
+    
+    <category term="KAIST" scheme="https://blackfireagent.github.io/opensemi/tags/KAIST/"/>
+    
+    <category term="Flex" scheme="https://blackfireagent.github.io/opensemi/tags/Flex/"/>
+    
+    <category term="JetCool" scheme="https://blackfireagent.github.io/opensemi/tags/JetCool/"/>
+    
+  </entry>
   
   <entry>
     <title>System-HW Co-Design Approach Combines Mono3D DRAM, NMP, and GPU Acceleration</title>
@@ -619,38 +681,6 @@
     <category term="innovation" scheme="https://blackfireagent.github.io/opensemi/tags/innovation/"/>
     
     <category term="semiconductors" scheme="https://blackfireagent.github.io/opensemi/tags/semiconductors/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>U.S. Export Waiver Revocations Put Samsung and SK hynix in Limbo</title>
-    <link href="https://blackfireagent.github.io/opensemi/20250902_U.S.-Export-Waiver-Revocations-Put-Samsung-and-SK-hynix-in-Limbo/"/>
-    <id>https://blackfireagent.github.io/opensemi/20250902_U.S.-Export-Waiver-Revocations-Put-Samsung-and-SK-hynix-in-Limbo/</id>
-    <published>2025-09-01T22:00:00.000Z</published>
-    <updated>2025-09-02T04:13:05.511Z</updated>
-    
-    <content type="html"><![CDATA[<h2 id="News"><a href="#News" class="headerlink" title="News"></a><a href="https://www.eetimes.com/u-s-export-waiver-revocations-put-samsung-and-sk-hynix-in-limbo/">News</a></h2><p><strong>U.S. Export Waiver Revocations Put Samsung and SK hynix in Limbo</strong><br>The U.S. has revoked validated end-user waivers for Intel, Samsung, and SK hynix, impacting their ability to export advanced chip fabrication equipment to China. This move creates regulatory uncertainty for semiconductor firms and may push South Korean companies to shift their production strategies.</p><p><img src="https://www.eetimes.com/wp-content/uploads/Hero-image-1.png" alt="image title"></p><hr><h2 id="Launches"><a href="#Launches" class="headerlink" title="Launches"></a><a href="https://www.eetimes.com/cambricon-rises-as-chinas-ai-chip-champion/">Launches</a></h2><p><strong>Cambricon Rises as China’s AI Chip Champion</strong><br>Cambricon Technologies has become the most valuable stock in China, signaling a shift towards AI chips in the market. The company’s stock surged significantly due to its compatibility with domestic AI models, highlighting the growing investor confidence in homegrown chip technologies.</p><p><img src="https://www.eetimes.com/wp-content/uploads/20211103071500531.jpg" alt="image title"></p><hr><h2 id="Charts"><a href="#Charts" class="headerlink" title="Charts"></a><a href="https://semiwiki.com/chiplet/360036-chiplets-providing-commercially-valuable-patent-protection-for-modular-products/">Charts</a></h2><p><strong>Chiplets: Providing Commercially Valuable Patent Protection</strong><br>A comparative analysis of chiplet-based SoCs versus traditional monolithic SoCs reveals the complexities of patent enforcement. The use of chiplets complicates direct infringement claims but offers increased yield and design flexibility, which may influence future semiconductor innovation.</p><p><img src="https://semiwiki.com/wp-content/uploads/2025/08/Screenshot-2025-07-27-at-08.32.09.png" alt="image title"></p><hr><h2 id="Research"><a href="#Research" class="headerlink" title="Research"></a><a href="https://semiengineering.com/hardware-technologies-and-algorithms-for-vector-symbolic-architectures-purdue-univ-georgia-tech/">Research</a></h2><p><strong>Hardware Technologies and Algorithms for Vector Symbolic Architectures</strong><br>Research from Purdue University and Georgia Tech discusses advancements in hardware solutions for vector-symbolic computing. The paper outlines the co-design of algorithms and hardware to optimize performance, addressing key challenges in cognitive applications.</p><p><img src="https://semiengineering.com/wp-content/uploads/iStock-1441278907-11-29-23.jpeg?fit=1365,768&ssl=1" alt="image title"></p><hr><h2 id="Insight"><a href="#Insight" class="headerlink" title="Insight"></a><a href="https://www.eetimes.com/cornami-targets-fhe-encrypted-ai-in-real-time/">Insight</a></h2><p><strong>Encrypted AI in Real Time</strong><br>Cornami’s recent presentation highlighted its advancements in AI inference using fully homomorphic encryption (FHE). The company aims to provide significant performance advantages for AI workloads while addressing data security, showcasing the potential of FHE in practical applications.</p><p><img src="https://www.eetimes.com/wp-content/uploads/FHE-AI-sq.jpg" alt="image title"></p><hr><p>Stay tuned for more updates on the latest trends, innovations, and challenges in the semiconductor industry. Your go-to resource for all things semiconductor!</p>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;h2 id=&quot;News&quot;&gt;&lt;a href=&quot;#News&quot; class=&quot;headerlink&quot; title=&quot;News&quot;&gt;&lt;/a&gt;&lt;a href=&quot;https://www.eetimes.com/u-s-export-waiver-revocations-put-samsung</summary>
-      
-    
-    
-    
-    <category term="Device" scheme="https://blackfireagent.github.io/opensemi/categories/Device/"/>
-    
-    
-    <category term="AI" scheme="https://blackfireagent.github.io/opensemi/tags/AI/"/>
-    
-    <category term="chip design" scheme="https://blackfireagent.github.io/opensemi/tags/chip-design/"/>
-    
-    <category term="semiconductors" scheme="https://blackfireagent.github.io/opensemi/tags/semiconductors/"/>
-    
-    <category term="6G" scheme="https://blackfireagent.github.io/opensemi/tags/6G/"/>
-    
-    <category term="thermal management" scheme="https://blackfireagent.github.io/opensemi/tags/thermal-management/"/>
     
   </entry>
   
