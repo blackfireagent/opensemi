@@ -6,10 +6,44 @@
   <link href="https://blackfireagent.github.io/opensemi/atom.xml" rel="self"/>
   
   <link href="https://blackfireagent.github.io/opensemi/"/>
-  <updated>2025-10-21T04:19:59.169Z</updated>
+  <updated>2025-10-22T18:16:45.477Z</updated>
   <id>https://blackfireagent.github.io/opensemi/</id>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Key Functionality</title>
+    <link href="https://blackfireagent.github.io/opensemi/20251022_Key-Functionality/"/>
+    <id>https://blackfireagent.github.io/opensemi/20251022_Key-Functionality/</id>
+    <published>2025-10-21T22:00:00.000Z</published>
+    <updated>2025-10-22T18:16:45.477Z</updated>
+    
+    <content type="html"><![CDATA[<div style="display: flex; justify-content: center;">  <audio controls>    <source src="/opensemi/podcasts/20251022_lithography_newsletter_gemini-2.5-flash.mp3" type="audio/mpeg">    Your browser does not support the audio element.  </audio></div><h2 id="News"><a href="#News" class="headerlink" title="News"></a><a href="https://www.asml.com/en/news/press-releases/2025/asml-mistral-ai-enter-strategic-partnership">News</a></h2><p><strong>ASML and Mistral AI Forge Strategic Partnership to Advance Lithography with AI</strong><br>ASML Holding NV has announced a strategic partnership with France-based AI leader Mistral AI, backed by a significant €1.3 billion investment in Mistral AI’s Series C funding round, resulting in ASML holding an approximately 11% share. This long-term collaboration aims to integrate advanced AI models across ASML’s entire product portfolio, including research, development, and operations. The partnership seeks to:</p><ul><li>Deliver innovative products and solutions to ASML customers.</li><li>Accelerate time to market and enhance the performance of holistic lithography systems.</li><li>Explore potential for joint research to address future opportunities in the semiconductor and AI value chain.</li></ul><p>As part of the investment, ASML Chief Financial Officer Roger Dassen will join Mistral AI’s Strategic Committee, providing an advisory role in the AI company’s future strategy and technology decisions.</p><hr><h2 id="Launches"><a href="#Launches" class="headerlink" title="Launches"></a><a href="https://www.nature.com/articles/s41377-025-01974-z">Launches</a></h2><p><strong>3D Printable Photochromic Materials Enable All-Optical Processors</strong><br>Researchers have developed novel 3D-printable photochromic materials that enable all-optical processors capable of performing arithmetic operations using light. These materials, based on an oligomer and photoinitiator doped with photochromic molecules (SP or BTF6), dynamically switch between colorless and colored states upon exposure to UV and green light.</p><ul><li><strong>Key Functionality</strong>: The photochromic properties allow for dynamic control of light signals, enabling multi-step photoswitching.</li><li><strong>Arithmetic Operations</strong>: Demonstrated arithmetic operations like addition and division, and logic gates (NOT, NOR), by precisely controlling light transmission through the material.</li><li><strong>Architectural Innovation</strong>: The technology supports new architectures, including 3D spiral-shaped components for parallel processing, where each element can be individually addressed.</li><li><strong>Enhanced Stability</strong>: BTF6-doped samples exhibit exceptional thermal stability, retaining their encoded configurations for over twelve months, making them highly suitable for long-term data storage applications.</li></ul><p><img src="https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41377-025-01974-z/MediaObjects/41377_2025_1974_Figa_HTML.png" alt="3D printable photochromic materials"></p><hr><h2 id="Charts"><a href="#Charts" class="headerlink" title="Charts"></a><a href="https://www.trendforce.com/news/2025/09/18/news-samsung-reportedly-outsources-photomasks-for-the-first-time-eyes-new-masks-tech-for-euv/">Charts</a></h2><p><strong>Samsung Ventures into Photomask Outsourcing While Eyeing New EUV Mask Technologies</strong><br>Samsung is reportedly initiating its first-time outsourcing of lower-end photomasks, specifically i-line and KrF masks for memory chip production, to external suppliers such as PKL and potentially Tekscend Photomask. This strategic shift is driven by several factors:</p><ul><li><strong>Resource Reallocation</strong>: Allows Samsung to dedicate internal resources and R&amp;D efforts towards advanced ArF and <strong>EUV photomask</strong> production for cutting-edge logic chips.</li><li><strong>Market Dynamics</strong>: The South Korean photomask market, valued around the mid-700 billion won range last year, is experiencing high demand with domestic manufacturers operating above 90% capacity, indicating potential supply chain impacts for rival foundries.</li><li><strong>Technological Push</strong>: Samsung is accelerating the adoption of Phase Shift Masks (PSM) in logic semiconductor manufacturing, developing methods to apply PSM to <strong>EUV lithography</strong> processes to achieve enhanced precision for sub-3nm patterning.</li><li><strong>Increasing Demand</strong>: The number of photomasks required for advanced DRAMs has surged from 30-40 to over 60, primarily due to the increasing complexity of multi-patterning techniques.</li></ul><p><img src="https://img.trendforce.com/blog/wp-content/uploads/2025/09/17162846/Tekscend-photomask-japan-20250917-624x447.jpg" alt="Photomask image"></p><hr><h2 id="Research"><a href="#Research" class="headerlink" title="Research"></a><a href="https://semiengineering.com/first-stage-of-nanoscale-imaging-in-positive-tone-euv-photoresists-the-impact-of-polymer-sequence-berkeley-lab-columbia-hill/">Research</a></h2><p><strong>Unraveling Nanoscale Imaging in Positive-Tone EUV Photoresists</strong><br>A new technical paper by researchers at Lawrence Berkeley National Laboratory and Columbia Hill Technical Consulting investigates the initial stages of nanoscale imaging in positive-tone Extreme Ultraviolet (<strong>EUV</strong>) photoresists. The study focuses on understanding how polymer chain structure influences the radiolytic process that defines image resolution.</p><ul><li><strong>Process Overview</strong>: EUV exposure in photoresists is a radiolytic process that generates electrons, radicals, and ions, which are critical for defining the printed image.</li><li><strong>Research Focus</strong>: The study simulated the sub-picosecond stages of imaging, specifically evaluating the influence of defined sequence and random copolymer structures on radiolytic spur formation—clusters of species formed by electron-polymer interactions.</li><li><strong>Key Finding</strong>: Computational results, validated against literature on electron thermalization, revealed that the polymer sequence has no significant effect on spur composition. This implies that potential imaging improvements from polymer sequence control would likely arise from subsequent lithographic process steps rather than the initial EUV exposure itself.</li></ul><p><img src="https://semiengineering.com/wp-content/uploads/AdobeStock_560372105-04-15-24.jpeg" alt="EUV Photoresist Image"></p><hr><h2 id="Insight"><a href="#Insight" class="headerlink" title="Insight"></a><a href="https://semiwiki.com/lithography/362824-how-secondary-electrons-worsen-euv-stochastics/">Insight</a></h2><p><strong>Understanding How Secondary Electrons Worsen EUV Stochastics and Limit Dose Returns</strong><br>In <strong>EUV lithography</strong>, increasing dose leads to diminishing returns in reducing stochastic effects, as electron noise increasingly dominates over photon noise. A recent analysis highlights the direct contribution of electrons to these stochastic variations:</p><ul><li><strong>Electron Variability</strong>: Each absorbed EUV photon releases a random number of photoelectrons and subsequent secondary electrons, creating significant statistical fluctuations in energy deposition.</li><li><strong>Dose Limitations</strong>: Unlike classical photon shot noise, which decreases with increasing dose, electron noise exhibits an asymptotic limit. This means that at higher doses, electron noise becomes the dominant factor, severely limiting further improvements in stochastic behavior.</li><li><strong>Blurring and Defects</strong>: Electron scattering causes a blurring effect that reduces image contrast. Local fluctuations in electron density are more likely to cross printing thresholds, potentially leading to critical defects such as microbridging, especially along feature edges.</li><li><strong>Scaling Challenges</strong>: As feature sizes shrink to 10 nm half-pitch and below, pixel sizes decrease, resulting in fewer absorbed photons per pixel even with increased dose. This exacerbates both photon and electron noise, leading to higher probabilities of defect formation.</li></ul><p><img src="https://semiwiki.com/wp-content/uploads/2025/10/How-Secondary-Electrons-Worsen-EUV-Stochastics-1.jpg" alt="EUV Stochastic Image"></p><hr><p>Stay tuned for more cutting-edge developments and insights shaping the semiconductor landscape!</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;div style=&quot;display: flex; justify-content: center;&quot;&gt;
+  &lt;audio controls&gt;
+    &lt;source src=&quot;/opensemi/podcasts/20251022_lithography_newsletter</summary>
+      
+    
+    
+    
+    <category term="Lithography" scheme="https://blackfireagent.github.io/opensemi/categories/Lithography/"/>
+    
+    
+    <category term="photomask" scheme="https://blackfireagent.github.io/opensemi/tags/photomask/"/>
+    
+    <category term="EUV lithography" scheme="https://blackfireagent.github.io/opensemi/tags/EUV-lithography/"/>
+    
+    <category term="AI integration" scheme="https://blackfireagent.github.io/opensemi/tags/AI-integration/"/>
+    
+    <category term="optical computing" scheme="https://blackfireagent.github.io/opensemi/tags/optical-computing/"/>
+    
+    <category term="perovskite" scheme="https://blackfireagent.github.io/opensemi/tags/perovskite/"/>
+    
+  </entry>
   
   <entry>
     <title>The AI PC- A New Category Poised to Reignite the PC Market</title>
@@ -48,6 +82,56 @@
     <category term="Neuromorphic Computing" scheme="https://blackfireagent.github.io/opensemi/tags/Neuromorphic-Computing/"/>
     
     <category term="Ethernet" scheme="https://blackfireagent.github.io/opensemi/tags/Ethernet/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>The Rise, Fall, and Rebirth of In-Circuit Emulation</title>
+    <link href="https://blackfireagent.github.io/opensemi/20251021_The-Rise,-Fall,-and-Rebirth-of-In-Circuit-Emulation/"/>
+    <id>https://blackfireagent.github.io/opensemi/20251021_The-Rise,-Fall,-and-Rebirth-of-In-Circuit-Emulation/</id>
+    <published>2025-10-20T22:00:00.000Z</published>
+    <updated>2025-10-21T19:03:02.635Z</updated>
+    
+    <content type="html"><![CDATA[<div style="display: flex; justify-content: center;">  <audio controls>    <source src="/opensemi/podcasts/20251021_device_newsletter_gemini-2.5-flash.mp3" type="audio/mpeg">    Your browser does not support the audio element.  </audio></div><h2 id="News"><a href="#News" class="headerlink" title="News"></a><a href="https://techxplore.com/news/2025-10-group-nvidia-blackrock-buying-aligned.html">News</a></h2><p><strong>Group including Nvidia, BlackRock buying Aligned Data Centers in deal worth about $40 billion</strong><br>A consortium featuring BlackRock, Nvidia, and Microsoft is set to acquire Aligned Data Centers in a substantial $40 billion deal. This strategic investment aims to bolster and expand critical next-generation cloud and artificial intelligence (AI) infrastructure. The acquisition addresses the burgeoning demand for robust computing resources and data center capacity fueled by the rapid growth of the AI sector. Aligned Data Centers brings a formidable portfolio of 50 campuses and over 5 gigawatts of operational and planned capacity across the U.S. and Latin America. As the inaugural transaction for the Artificial Intelligence Infrastructure Partnership (AIP), this initiative plans to mobilize $30 billion in initial equity capital, with potential to scale to $100 billion including debt, highlighting the immense capital flowing into AI infrastructure development.</p><p><img src="https://scx2.b-cdn.net/gfx/news/hires/2025/group-including-nvidia.jpg" alt="Group including Nvidia, BlackRock buying Aligned Data Centers in deal worth about $40 billion"></p><hr><h2 id="Launches"><a href="#Launches" class="headerlink" title="Launches"></a><a href="https://www.eetimes.com/athos-spins-out-of-mercedes-with-chiplet-concept-for-avs/">Launches</a></h2><p><strong>Athos Spins Out Of Mercedes With Chiplet Concept for AVs</strong><br>Athos Silicon has officially spun out of Mercedes-Benz, emerging from a five-year research project focused on creating functionally safe compute solutions for autonomous vehicles (AVs). Mercedes-Benz has provided a strategic investment, including substantial intellectual property, and will continue to collaborate on Athos’s mSoC reference design, Polaris. The Polaris architecture is designed with functional safety as a primary consideration, leveraging a chiplet-based approach that integrates three compute dies, a central cache, and an NPU, all sourced from third-party suppliers. A core innovation is Athos’s unique voting mechanism, which uses an odd number of chiplets (starting with three) to ensure continuous safety by monitoring for both software and hardware issues. This design promises enhanced performance and reliability at a lower cost, extending its applications beyond automotive to other autonomous systems like drones and robots.</p><p><img src="https://www.eetimes.com/wp-content/uploads/Mercedes-sq.jpg" alt="Athos Spins Out Of Mercedes With Chiplet Concept for AVs"></p><hr><h2 id="Charts"><a href="#Charts" class="headerlink" title="Charts"></a><a href="https://semiengineering.com/new-release-microelectronics-and-advanced-packaging-technologies-roadmap-2-0-src/">Charts</a></h2><p><strong>Microelectronics and Advanced Packaging Technologies Roadmap 2.0 (SRC)</strong><br>The Semiconductor Research Corporation (SRC) has unveiled its comprehensive Microelectronics and Advanced Packaging Technologies (MAPT) Roadmap 2.0. This updated industry-wide framework, which represents the first 3D semiconductor roadmap, incorporates contributions from over 370 experts across 132 organizations. Funded by the U.S. Department of Commerce’s NIST and developed to support the CHIPS Act, the roadmap provides a crucial strategic guide for the entire semiconductor supply chain. Notably, it includes a new chapter dedicated to digital twins and their applications, reflecting the evolving landscape of semiconductor design and manufacturing. The MAPT Roadmap 2.0 is an essential resource for guiding R&amp;D, investment, and collaborative efforts within the global semiconductor ecosystem.</p><p><img src="https://semiengineering.com/wp-content/uploads/2025/10/Screenshot-2025-10-14-at-12.56.47-PM.png" alt="Microelectronics and Advanced Packaging Technologies Roadmap 2.0. Source: Semiconductor Research Corporation"></p><hr><h2 id="Research"><a href="#Research" class="headerlink" title="Research"></a><a href="https://semiwiki.com/3dic/362188-cmos-2-0-is-advancing-semiconductor-scaling/">Research</a></h2><p><strong>CMOS 2.0 is Advancing Semiconductor Scaling</strong><br>Imec’s recent breakthroughs in wafer-to-wafer hybrid bonding and backside connectivity are pioneering the development of “CMOS 2.0,” a significant paradigm shift in chip design. CMOS 2.0 addresses the traditional limitations of CMOS scaling by segmenting System-on-Chip (SoC) designs into specialized functional tiers. Each tier is meticulously optimized for specific requirements, such as high-performance logic, dense memory, or superior power efficiency, through advanced system-technology co-optimization (STCO). This innovative approach leverages 3D interconnects and backside power delivery networks (BSPDNs) to enable ultra-dense connections and power distribution on both sides of the wafer. At VLSI 2025, Imec showcased impressive advancements, including 250nm pitch wafer-to-wafer hybrid bonding and 120nm pitch through-dielectric vias (TDVs). These technologies facilitate sophisticated heterogeneous stacking and enhance power efficiency by drastically reducing IR drops and decongesting frontside interconnects, which is critical for future mobile SoCs and AI accelerators.</p><p><img src="https://semiwiki.com/wp-content/uploads/2025/09/CMOS-2.0.jpg" alt="CMOS 2.0 is Advancing Semiconductor Scaling"></p><hr><h2 id="Insight"><a href="#Insight" class="headerlink" title="Insight"></a><a href="https://semiwiki.com/eda/synopsys/362661-the-rise-fall-and-rebirth-of-in-circuit-emulation-real-world-case-studies-part-2-of-2/">Insight</a></h2><p><strong>The Rise, Fall, and Rebirth of In-Circuit Emulation</strong><br>This in-depth article, featuring insights from Synopsys’s distinguished experts, chronicles the remarkable resurgence of in-circuit emulation (ICE) in system-level validation, largely driven by the evolution of third-generation speed adapters. Defying previous predictions of its obsolescence, modern ICE platforms, particularly those integrating Synopsys Speed Adapters and the System Validation Server (SVS), are proving indispensable for critical pre-silicon bug detection. Through compelling real-world case studies, the article demonstrates how high-fidelity ICE environments can uncover elusive RTL flaws, timing mismatches, and complex interoperability issues tied to low-level system behavior and physical layers (e.g., PCIe Gen5, UFS, Ethernet, MIPI sensors) that often escape virtual verification methods. By accurately simulating real-world operating conditions and rigorously enforcing design specifications, ICE significantly mitigates the risk of costly re-spins and accelerates time-to-tapeout, solidifying its role as an essential tool in the development of today’s increasingly complex semiconductor designs.</p><p><img src="https://semiwiki.com/wp-content/uploads/2025/10/The-Rise-Fall-and-Rebirth-of-In-Circuit-Emulation-real-world-case-studies-figure-1.png" alt="The Rise, Fall, and Rebirth of In-Circuit Emulation real world case studies figure 1"></p><hr><p>Stay connected for the latest innovations and breakthroughs shaping the future of the semiconductor industry!</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;div style=&quot;display: flex; justify-content: center;&quot;&gt;
+  &lt;audio controls&gt;
+    &lt;source src=&quot;/opensemi/podcasts/20251021_device_newsletter_gemi</summary>
+      
+    
+    
+    
+    <category term="Device" scheme="https://blackfireagent.github.io/opensemi/categories/Device/"/>
+    
+    
+    <category term="AI" scheme="https://blackfireagent.github.io/opensemi/tags/AI/"/>
+    
+    <category term="Advanced Packaging" scheme="https://blackfireagent.github.io/opensemi/tags/Advanced-Packaging/"/>
+    
+    <category term="Security" scheme="https://blackfireagent.github.io/opensemi/tags/Security/"/>
+    
+    <category term="Chiplets" scheme="https://blackfireagent.github.io/opensemi/tags/Chiplets/"/>
+    
+    <category term="EDA" scheme="https://blackfireagent.github.io/opensemi/tags/EDA/"/>
+    
+    <category term="LLMs" scheme="https://blackfireagent.github.io/opensemi/tags/LLMs/"/>
+    
+    <category term="Verification" scheme="https://blackfireagent.github.io/opensemi/tags/Verification/"/>
+    
+    <category term="Automotive" scheme="https://blackfireagent.github.io/opensemi/tags/Automotive/"/>
+    
+    <category term="Data Centers" scheme="https://blackfireagent.github.io/opensemi/tags/Data-Centers/"/>
+    
+    <category term="DRAM" scheme="https://blackfireagent.github.io/opensemi/tags/DRAM/"/>
+    
+    <category term="GaN" scheme="https://blackfireagent.github.io/opensemi/tags/GaN/"/>
+    
+    <category term="Sub-3nm" scheme="https://blackfireagent.github.io/opensemi/tags/Sub-3nm/"/>
+    
+    <category term="CMOS 2.0" scheme="https://blackfireagent.github.io/opensemi/tags/CMOS-2-0/"/>
     
   </entry>
   
@@ -627,70 +711,6 @@
     <category term="research" scheme="https://blackfireagent.github.io/opensemi/tags/research/"/>
     
     <category term="semiconductors" scheme="https://blackfireagent.github.io/opensemi/tags/semiconductors/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Oxygen Defects Help Unlock the Secret of Next-Generation Memory</title>
-    <link href="https://blackfireagent.github.io/opensemi/20250908_Oxygen-Defects-Help-Unlock-the-Secret-of-Next-Generation-Memory/"/>
-    <id>https://blackfireagent.github.io/opensemi/20250908_Oxygen-Defects-Help-Unlock-the-Secret-of-Next-Generation-Memory/</id>
-    <published>2025-09-07T22:00:00.000Z</published>
-    <updated>2025-09-08T04:13:21.868Z</updated>
-    
-    <content type="html"><![CDATA[<h2 id="News"><a href="#News" class="headerlink" title="News"></a><a href="https://www.semiconductor-digest.com/semi-reports-global-semiconductor-equipment-billings-increased-24-year-over-year-in-q2-2025/">News</a></h2><p><strong>SEMI Reports Global Semiconductor Equipment Billings Increased 24% Year</strong><br>SEMI has announced a significant 24% year-over-year increase in global semiconductor equipment billings, reaching $33.07 billion in Q2 2025. This growth is attributed to the surge in demand for advanced logic and HBM-related DRAM applications, showcasing the industry’s resilience and innovation capabilities amidst evolving market conditions.</p><p><img src="https://www.semiconductor-digest.com/wp-content/uploads/2025/09/vcsPRAsset_3390533_118175_f4d3d337-d058-45ad-8ae8-df8282b67288_0.png" alt="SEMI Report"></p><hr><h2 id="Launches"><a href="#Launches" class="headerlink" title="Launches"></a><a href="https://www.semiconductor-digest.com/discovery-unlocks-potential-of-miracle-material-for-future-electronics/">Launches</a></h2><p><strong>Discovery Unlocks Potential of “Miracle Material” for Future Electronics</strong><br>Researchers have made groundbreaking advancements in graphene, demonstrating Floquet effects for the first time, which could revolutionize the design of quantum materials. This discovery paves the way for developing future electronics, including sensors, displays, and quantum computing technologies, leveraging light to manipulate material properties.</p><p><img src="https://www.semiconductor-digest.com/wp-content/uploads/2019/02/Final-Logo-1.png" alt="Graphene Research"></p><hr><h2 id="Charts"><a href="#Charts" class="headerlink" title="Charts"></a><a href="https://www.semiconductor-digest.com/nx-group-outlines-strategic-roadmap-for-powering-indias-semiconductor-growth/">Charts</a></h2><p><strong>NX Group Outlines Strategic Roadmap for Powering India’s Semiconductor Growth</strong><br>The NX Group aims to triple its revenue in India by 2028, focusing on logistics to support the burgeoning semiconductor market projected to reach $109 billion by 2030. The company emphasizes the critical role of efficient logistics in enhancing India’s semiconductor ecosystem through strategic investments and infrastructure development.</p><p><img src="https://www.semiconductor-digest.com/wp-content/uploads/2019/02/Final-Logo-1.png" alt="NX Group Growth Strategy"></p><hr><h2 id="Research"><a href="#Research" class="headerlink" title="Research"></a><a href="https://techxplore.com/news/2025-09-oxygen-defects-secret-generation-memory.html">Research</a></h2><p><strong>Oxygen Defects Help Unlock the Secret of Next-Generation Memory</strong><br>A team from KAIST has clarified the operational principles of resistive random access memory (ReRAM), providing significant insights into the role of oxygen defects in memory functionality. This research is expected to guide the development of stable, high-performance, non-volatile memory devices, crucial for future semiconductor applications.</p><p><img src="https://scx2.b-cdn.net/gfx/news/2025/spatially-correlated-o.jpg" alt="ReRAM Research"></p><hr><h2 id="Insight"><a href="#Insight" class="headerlink" title="Insight"></a><a href="https://semiengineering.com/security-requirements-and-penalties-grow-for-chipmakers/">Insight</a></h2><p><strong>Security Requirements and Penalties Grow for Chipmakers</strong><br>The semiconductor industry faces increasing regulations pertaining to hardware security, necessitating compliance from manufacturers to ensure product resiliency against vulnerabilities. This shift in policy aims to protect data integrity and poses financial penalties for non-compliance, compelling companies to integrate robust security measures into their design and manufacturing processes.</p><p><img src="https://semiengineering.com/wp-content/uploads/Security-AdobeStock_328668955-01-29-25-scaled.jpeg" alt="Security Regulations"></p><hr><p>Stay with us for the latest news and developments in the semiconductor industry as we continue to explore the evolving landscape of technology and innovation.</p>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;h2 id=&quot;News&quot;&gt;&lt;a href=&quot;#News&quot; class=&quot;headerlink&quot; title=&quot;News&quot;&gt;&lt;/a&gt;&lt;a href=&quot;https://www.semiconductor-digest.com/semi-reports-global-semicond</summary>
-      
-    
-    
-    
-    <category term="Semiconductor" scheme="https://blackfireagent.github.io/opensemi/categories/Semiconductor/"/>
-    
-    
-    <category term="AI" scheme="https://blackfireagent.github.io/opensemi/tags/AI/"/>
-    
-    <category term="technology" scheme="https://blackfireagent.github.io/opensemi/tags/technology/"/>
-    
-    <category term="sustainability" scheme="https://blackfireagent.github.io/opensemi/tags/sustainability/"/>
-    
-    <category term="semiconductors" scheme="https://blackfireagent.github.io/opensemi/tags/semiconductors/"/>
-    
-    <category term="regulations" scheme="https://blackfireagent.github.io/opensemi/tags/regulations/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Cross-Node Scaling Potential of SOT-MRAM for Last-Level Caches</title>
-    <link href="https://blackfireagent.github.io/opensemi/20250905_Cross-Node-Scaling-Potential-of-SOT-MRAM-for-Last-Level-Caches/"/>
-    <id>https://blackfireagent.github.io/opensemi/20250905_Cross-Node-Scaling-Potential-of-SOT-MRAM-for-Last-Level-Caches/</id>
-    <published>2025-09-04T22:00:00.000Z</published>
-    <updated>2025-09-05T04:10:01.179Z</updated>
-    
-    <content type="html"><![CDATA[<h2 id="News"><a href="#News" class="headerlink" title="News"></a><a href="https://semiwiki.com/semiconductor-manufacturers/intel/361110-intels-ipu-e2200-redefining-data-center-infrastructure/">News</a></h2><p><strong>Intel’s IPU E2200 Redefining Data Center Infrastructure</strong><br>Intel has unveiled its second-generation Infrastructure Processing Unit (IPU) E2200, designed to offload infrastructure services from CPUs, thereby enhancing efficiency and security in data centers. The new architecture supports flexible deployment models, making it suitable for AI clusters and storage acceleration, while delivering up to 400 Gbps of networking throughput.</p><p><img src="https://semiwiki.com/wp-content/uploads/2025/09/Hot-Chips-Logo-2025-1.jpg" alt="Intel IPU E2200"></p><hr><h2 id="Launches"><a href="#Launches" class="headerlink" title="Launches"></a><a href="https://semiengineering.com/alchips-3dic-test-chip-a-leap-forward-for-ai-and-hpc-innovation/">Launches</a></h2><p><strong>Alchip’s 3DIC Test Chip: A Leap Forward for AI and HPC Innovation</strong><br>Alchip Technologies has successfully tape-out its 3D IC test chip, integrating a 3nm top die with a 5nm base die using TSMC’s SoIC-X packaging technology. This milestone validates Alchip’s advanced 3D IC ecosystem, addressing power density and thermal dissipation challenges crucial for AI and high-performance computing applications.</p><p><img src="https://semiwiki.com/wp-content/uploads/2025/08/Alchip-3D-IC-Test-Chip-TSMC-N2.jpg" alt="Alchip 3DIC Test Chip"></p><hr><h2 id="Charts"><a href="#Charts" class="headerlink" title="Charts"></a><a href="https://semiengineering.com/tools-models-and-system-support-for-pim-architectures-with-dram-focus-eth-zurich/">Charts</a></h2><p><strong>Tools, Models and System Support for PIM Architectures</strong><br>Researchers from ETH Zurich have published a technical paper outlining new methodologies and frameworks for Processing-in-Memory (PIM) architectures. The paper introduces tools like DAMOV and MIMDRAM, which aim to optimize memory-related data movement and programmability, enhancing overall system performance.</p><p><img src="https://semiengineering.com/wp-content/uploads/AdobeStock_164317986-AI-scaled.jpeg" alt="PIM Architectures"></p><hr><h2 id="Research"><a href="#Research" class="headerlink" title="Research"></a><a href="https://semiengineering.com/cross-node-scaling-potential-of-sot-mram-for-last-level-caches-imec/">Research</a></h2><p><strong>Cross-Node Scaling Potential of SOT-MRAM for Last-Level Caches</strong><br>A recent study from imec explores the scalability of SOT-MRAM for last-level caches, identifying challenges and proposing solutions to enhance bitcell area efficiency. The findings highlight the potential for SOT-MRAM to meet the demands of future technology nodes, particularly in heterogeneous system scaling.</p><p><img src="https://semiengineering.com/wp-content/uploads/AdobeStock_1104488381-03-26-2025-scaled.jpeg" alt="SOT-MRAM Scaling"></p><hr><h2 id="Insight"><a href="#Insight" class="headerlink" title="Insight"></a><a href="https://semiwiki.com/artificial-intelligence/359755-two-perspectives-on-automated-code-generation/">Insight</a></h2><p><strong>Two Perspectives on Automated Code Generation</strong><br>This article delves into the impact of GenAI applications on hardware design, discussing studies on automated code generation tools like CoPilot. Key insights reveal the potential benefits and challenges of AI-assisted programming, emphasizing the importance of human oversight in achieving optimal code quality.</p><p><img src="https://semiwiki.com/wp-content/uploads/2025/07/pair-programming.jpeg" alt="Automated Code Generation"></p><hr><p>Stay tuned for more updates as we continue to bring you the latest insights and innovations in the semiconductor industry!</p>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;h2 id=&quot;News&quot;&gt;&lt;a href=&quot;#News&quot; class=&quot;headerlink&quot; title=&quot;News&quot;&gt;&lt;/a&gt;&lt;a href=&quot;https://semiwiki.com/semiconductor-manufacturers/intel/361110-int</summary>
-      
-    
-    
-    
-    <category term="Machinelearning" scheme="https://blackfireagent.github.io/opensemi/categories/Machinelearning/"/>
-    
-    
-    <category term="AI" scheme="https://blackfireagent.github.io/opensemi/tags/AI/"/>
-    
-    <category term="innovation" scheme="https://blackfireagent.github.io/opensemi/tags/innovation/"/>
-    
-    <category term="semiconductors" scheme="https://blackfireagent.github.io/opensemi/tags/semiconductors/"/>
-    
-    <category term="memory" scheme="https://blackfireagent.github.io/opensemi/tags/memory/"/>
-    
-    <category term="architecture" scheme="https://blackfireagent.github.io/opensemi/tags/architecture/"/>
     
   </entry>
   

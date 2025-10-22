@@ -1,0 +1,500 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+
+  <!-- PACE Progress Bar START -->
+  
+    
+<script src="https://raw.githubusercontent.com/HubSpot/pace/v1.0.2/pace.min.js"></script>
+
+    
+<link rel="stylesheet" href="https://github.com/HubSpot/pace/raw/master/themes/orange/pace-theme-flash.css">
+
+  
+  
+
+  <!-- PACE Progress Bar START -->
+
+  
+  <title>the rise, fall, and rebirth of in-circuit emulation | opensemi</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+  
+    <meta name="keywords" content="Semiconductor, Lithography, Semiconductor Equipment" />
+  
+  
+  
+  
+  <meta name="description" content="Your browser does not support the audio element.        NewsGroup including Nvidia, BlackRock buying Aligned Data Centers in deal worth about $40 billionA consortium featuring BlackRock,">
+<meta property="og:type" content="article">
+<meta property="og:title" content="The Rise, Fall, and Rebirth of In-Circuit Emulation">
+<meta property="og:url" content="https://blackfireagent.github.io/opensemi/20251021_The-Rise,-Fall,-and-Rebirth-of-In-Circuit-Emulation/index.html">
+<meta property="og:site_name" content="opensemi">
+<meta property="og:description" content="Your browser does not support the audio element.        NewsGroup including Nvidia, BlackRock buying Aligned Data Centers in deal worth about $40 billionA consortium featuring BlackRock,">
+<meta property="og:locale" content="en_US">
+<meta property="og:image" content="https://blackfireagent.github.io/img/2025-10-21_21-02-36_8407.png">
+<meta property="article:published_time" content="2025-10-20T22:00:00.000Z">
+<meta property="article:modified_time" content="2025-10-21T19:03:02.635Z">
+<meta property="article:tag" content="AI">
+<meta property="article:tag" content="Advanced Packaging">
+<meta property="article:tag" content="Security">
+<meta property="article:tag" content="Chiplets">
+<meta property="article:tag" content="EDA">
+<meta property="article:tag" content="LLMs">
+<meta property="article:tag" content="Verification">
+<meta property="article:tag" content="Automotive">
+<meta property="article:tag" content="Data Centers">
+<meta property="article:tag" content="DRAM">
+<meta property="article:tag" content="GaN">
+<meta property="article:tag" content="Sub-3nm">
+<meta property="article:tag" content="CMOS 2.0">
+<meta name="twitter:card" content="summary">
+<meta name="twitter:image" content="https://blackfireagent.github.io/img/2025-10-21_21-02-36_8407.png">
+  
+  <link rel="icon" href="/opensemi/css/images/favicon-logo2.ico">
+  
+  <link href="https://fonts.googleapis.com/css?family=Open+Sans|Montserrat:700" rel="stylesheet" type="text/css">
+  <link href="https://fonts.googleapis.com/css?family=Roboto:400,300,300italic,400italic" rel="stylesheet" type="text/css">
+  <link href="https://cdn.bootcss.com/font-awesome/4.6.3/css/font-awesome.min.css" rel="stylesheet">
+  <style type="text/css">
+    @font-face{font-family:futura-pt;src:url(https://use.typekit.net/af/9749f0/00000000000000000001008f/27/l?subset_id=2&fvd=n5) format("woff2");font-weight:500;font-style:normal;}
+    @font-face{font-family:futura-pt;src:url(https://use.typekit.net/af/90cf9f/000000000000000000010091/27/l?subset_id=2&fvd=n7) format("woff2");font-weight:500;font-style:normal;}
+    @font-face{font-family:futura-pt;src:url(https://use.typekit.net/af/8a5494/000000000000000000013365/27/l?subset_id=2&fvd=n4) format("woff2");font-weight:lighter;font-style:normal;}
+    @font-face{font-family:futura-pt;src:url(https://use.typekit.net/af/d337d8/000000000000000000010095/27/l?subset_id=2&fvd=i4) format("woff2");font-weight:400;font-style:italic;}</style>
+    
+  <link rel="stylesheet" id="athemes-headings-fonts-css" href="//fonts.googleapis.com/css?family=Yanone+Kaffeesatz%3A200%2C300%2C400%2C700&amp;ver=4.6.1" type="text/css" media="all">
+  
+<link rel="stylesheet" href="/opensemi/css/style.css">
+
+
+  
+<script src="https://code.jquery.com/jquery-3.1.1.min.js"></script>
+
+
+  <!-- Bootstrap core CSS -->
+  <link rel="stylesheet" href="https://netdna.bootstrapcdn.com/bootstrap/3.0.2/css/bootstrap.min.css" >
+  <link rel="stylesheet" href="/opensemi/css/megabold.css" >
+  <link rel="stylesheet" href="/opensemi/css/glyphs.css" >
+  
+    <link rel="stylesheet" href="/opensemi/css/vdonate.css" >
+  
+
+  <!-- Custom CSS -->
+  
+<link rel="stylesheet" href="/opensemi/css/my.css">
+
+  <!-- Google Adsense -->
+<meta name="generator" content="Hexo 7.3.0"><link rel="alternate" href="/opensemi/atom.xml" title="opensemi" type="application/atom+xml">
+</head>
+
+<script>
+var themeMenus = {};
+
+  themeMenus["/opensemi/"] = "Home"; 
+
+  themeMenus["/opensemi/categories"] = "Categories"; 
+
+  themeMenus["/opensemi/about"] = "About"; 
+
+  themeMenus["/opensemi/subscribe"] = "subscribe"; 
+
+</script>
+
+
+
+
+  <body data-spy="scroll" data-target="#toc" data-offset="50">
+
+  
+  <header id="allheader" class="site-header" role="banner">
+  <div class="clearfix container">
+      <div class="site-branding">
+
+          <h1 class="site-title">
+            
+              <a href="/opensemi/" title="opensemi" rel="home"> opensemi </a>
+            
+          </h1>
+
+          
+      </div>
+      
+      <div id="ads-r" style="float: right;width: 64%;height: 90px!important;">
+        <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7436530442292220"
+            crossorigin="anonymous"></script>
+        <!-- banner -->
+        <ins class="adsbygoogle"
+            style="display:inline-block;width: 100%;height:90px"
+            data-ad-client="ca-pub-7436530442292220"
+            data-ad-slot="4541467627"></ins>
+        <script>
+            (adsbygoogle = window.adsbygoogle || []).push({});
+        </script>
+      </div>
+      
+      <nav id="main-navigation" class="main-navigation" role="navigation">
+        <a class="nav-open">Menu</a>
+        <a class="nav-close">Close</a>
+        <div class="clearfix sf-menu">
+
+          <ul id="main-nav" class="nmenu sf-js-enabled">
+                
+                  <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-1663"> <a class="" href="/opensemi/">Home</a> </li>
+                
+                  <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-1663"> <a class="" href="/opensemi/categories">Categories</a> </li>
+                
+                  <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-1663"> <a class="" href="/opensemi/about">About</a> </li>
+                
+                  <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-1663"> <a class="" href="/opensemi/subscribe">subscribe</a> </li>
+                
+                <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-1663" style="float: right;"><div id="search-form-wrap">
+    
+        <form class="search-form">
+            <label style="width: 75%;height: 50px;margin-bottom: 0px;">
+                <button type="search" class="search-field search-btn" style="height: 42px;" placeholder=" Search…" value="" name="s" title="Search for:"><i class="fa fa-search" style=""></i></button>
+            </label>
+        </form>
+        <div class="ins-search">
+    <div class="ins-search-mask"></div>
+    <div class="ins-search-container">
+        <div class="ins-input-wrapper">
+            <input type="text" class="ins-search-input" placeholder="Type something..."/>
+            <span class="ins-close ins-selectable"><i class="fa fa-times-circle"></i></span>
+        </div>
+        <div class="ins-section-wrapper">
+            <div class="ins-section-container"></div>
+        </div>
+    </div>
+</div>
+<script>
+(function (window) {
+    var INSIGHT_CONFIG = {
+        TRANSLATION: {
+            POSTS: 'Posts',
+            PAGES: 'Pages',
+            CATEGORIES: 'Categories',
+            TAGS: 'Tags',
+            UNTITLED: '(Untitled)',
+        },
+        ROOT_URL: '/opensemi/',
+        CONTENT_URL: '/opensemi/content.json',
+    };
+    window.INSIGHT_CONFIG = INSIGHT_CONFIG;
+})(window);
+</script>
+
+<script src="/opensemi/js/insight.js"></script>
+
+    
+    </div></li>
+          </ul>
+        </div>
+      </nav>
+  </div>
+</header>
+
+
+
+
+  <div id="container" style>
+    <div id="wrap">
+            
+      <div id="content" class="outer">
+        
+          <section id="main" style="float:none;"><article id="post-20251021_The-Rise,-Fall,-and-Rebirth-of-In-Circuit-Emulation" style="width: 66%; float:left;margin-bottom: 20px;" class="article article-type-post" itemscope itemprop="blogPost" >
+  <div id="articleInner" class="clearfix post-1016 post type-post status-publish format-standard has-post-thumbnail hentry category-template-2 category-uncategorized tag-codex tag-edge-case tag-featured-image tag-image tag-template">
+    
+<div class="article-gallery">
+  <div class="article-gallery-photos">
+    
+      <a class="article-gallery-img fancybox" href="/opensemi/img/2025-10-21_21-02-36_8407.png" rel="gallery_cmh2bew8m00ntxsvd8hh03jk4">
+        <img src="/opensemi/img/2025-10-21_21-02-36_8407.png" itemprop="image">
+      </a>
+    
+  </div>
+</div>
+
+    
+      
+        <header class="article-header m-page">
+          
+  
+    <h1 class="thumb" class="article-title" itemprop="name">
+      The Rise, Fall, and Rebirth of In-Circuit Emulation
+    </h1>
+  
+
+        </header>
+      
+    
+    
+      <div class="article-meta m-page">
+        
+	<i class="fa fa-calendar-plus-o" aria-hidden="true"></i>Posted on <a href="/opensemi/20251021_The-Rise,-Fall,-and-Rebirth-of-In-Circuit-Emulation/" class="article-date">
+		<time datetime="2025-10-20T22:00:00.000Z" itemprop="datePublished">October 21, 2025</time>
+	</a>
+
+        
+	<span id="busuanzi_container_page_pv">
+	  本文总阅读量<span id="busuanzi_value_page_pv"></span>次
+	</span>
+
+      </div>
+    
+    <div class="article-entry" itemprop="articleBody">
+      
+      
+        <div style="display: flex; justify-content: center;">
+  <audio controls>
+    <source src="/opensemi/podcasts/20251021_device_newsletter_gemini-2.5-flash.mp3" type="audio/mpeg">
+    Your browser does not support the audio element.
+  </audio>
+</div>
+
+
+
+<h2 id="News"><a href="#News" class="headerlink" title="News"></a><a target="_blank" rel="noopener" href="https://techxplore.com/news/2025-10-group-nvidia-blackrock-buying-aligned.html">News</a></h2><p><strong>Group including Nvidia, BlackRock buying Aligned Data Centers in deal worth about $40 billion</strong><br>A consortium featuring BlackRock, Nvidia, and Microsoft is set to acquire Aligned Data Centers in a substantial $40 billion deal. This strategic investment aims to bolster and expand critical next-generation cloud and artificial intelligence (AI) infrastructure. The acquisition addresses the burgeoning demand for robust computing resources and data center capacity fueled by the rapid growth of the AI sector. Aligned Data Centers brings a formidable portfolio of 50 campuses and over 5 gigawatts of operational and planned capacity across the U.S. and Latin America. As the inaugural transaction for the Artificial Intelligence Infrastructure Partnership (AIP), this initiative plans to mobilize $30 billion in initial equity capital, with potential to scale to $100 billion including debt, highlighting the immense capital flowing into AI infrastructure development.</p>
+<p><img src="https://scx2.b-cdn.net/gfx/news/hires/2025/group-including-nvidia.jpg" alt="Group including Nvidia, BlackRock buying Aligned Data Centers in deal worth about $40 billion"></p>
+<hr>
+<h2 id="Launches"><a href="#Launches" class="headerlink" title="Launches"></a><a target="_blank" rel="noopener" href="https://www.eetimes.com/athos-spins-out-of-mercedes-with-chiplet-concept-for-avs/">Launches</a></h2><p><strong>Athos Spins Out Of Mercedes With Chiplet Concept for AVs</strong><br>Athos Silicon has officially spun out of Mercedes-Benz, emerging from a five-year research project focused on creating functionally safe compute solutions for autonomous vehicles (AVs). Mercedes-Benz has provided a strategic investment, including substantial intellectual property, and will continue to collaborate on Athos’s mSoC reference design, Polaris. The Polaris architecture is designed with functional safety as a primary consideration, leveraging a chiplet-based approach that integrates three compute dies, a central cache, and an NPU, all sourced from third-party suppliers. A core innovation is Athos’s unique voting mechanism, which uses an odd number of chiplets (starting with three) to ensure continuous safety by monitoring for both software and hardware issues. This design promises enhanced performance and reliability at a lower cost, extending its applications beyond automotive to other autonomous systems like drones and robots.</p>
+<p><img src="https://www.eetimes.com/wp-content/uploads/Mercedes-sq.jpg" alt="Athos Spins Out Of Mercedes With Chiplet Concept for AVs"></p>
+<hr>
+<h2 id="Charts"><a href="#Charts" class="headerlink" title="Charts"></a><a target="_blank" rel="noopener" href="https://semiengineering.com/new-release-microelectronics-and-advanced-packaging-technologies-roadmap-2-0-src/">Charts</a></h2><p><strong>Microelectronics and Advanced Packaging Technologies Roadmap 2.0 (SRC)</strong><br>The Semiconductor Research Corporation (SRC) has unveiled its comprehensive Microelectronics and Advanced Packaging Technologies (MAPT) Roadmap 2.0. This updated industry-wide framework, which represents the first 3D semiconductor roadmap, incorporates contributions from over 370 experts across 132 organizations. Funded by the U.S. Department of Commerce’s NIST and developed to support the CHIPS Act, the roadmap provides a crucial strategic guide for the entire semiconductor supply chain. Notably, it includes a new chapter dedicated to digital twins and their applications, reflecting the evolving landscape of semiconductor design and manufacturing. The MAPT Roadmap 2.0 is an essential resource for guiding R&amp;D, investment, and collaborative efforts within the global semiconductor ecosystem.</p>
+<p><img src="https://semiengineering.com/wp-content/uploads/2025/10/Screenshot-2025-10-14-at-12.56.47-PM.png" alt="Microelectronics and Advanced Packaging Technologies Roadmap 2.0. Source: Semiconductor Research Corporation"></p>
+<hr>
+<h2 id="Research"><a href="#Research" class="headerlink" title="Research"></a><a target="_blank" rel="noopener" href="https://semiwiki.com/3dic/362188-cmos-2-0-is-advancing-semiconductor-scaling/">Research</a></h2><p><strong>CMOS 2.0 is Advancing Semiconductor Scaling</strong><br>Imec’s recent breakthroughs in wafer-to-wafer hybrid bonding and backside connectivity are pioneering the development of “CMOS 2.0,” a significant paradigm shift in chip design. CMOS 2.0 addresses the traditional limitations of CMOS scaling by segmenting System-on-Chip (SoC) designs into specialized functional tiers. Each tier is meticulously optimized for specific requirements, such as high-performance logic, dense memory, or superior power efficiency, through advanced system-technology co-optimization (STCO). This innovative approach leverages 3D interconnects and backside power delivery networks (BSPDNs) to enable ultra-dense connections and power distribution on both sides of the wafer. At VLSI 2025, Imec showcased impressive advancements, including 250nm pitch wafer-to-wafer hybrid bonding and 120nm pitch through-dielectric vias (TDVs). These technologies facilitate sophisticated heterogeneous stacking and enhance power efficiency by drastically reducing IR drops and decongesting frontside interconnects, which is critical for future mobile SoCs and AI accelerators.</p>
+<p><img src="https://semiwiki.com/wp-content/uploads/2025/09/CMOS-2.0.jpg" alt="CMOS 2.0 is Advancing Semiconductor Scaling"></p>
+<hr>
+<h2 id="Insight"><a href="#Insight" class="headerlink" title="Insight"></a><a target="_blank" rel="noopener" href="https://semiwiki.com/eda/synopsys/362661-the-rise-fall-and-rebirth-of-in-circuit-emulation-real-world-case-studies-part-2-of-2/">Insight</a></h2><p><strong>The Rise, Fall, and Rebirth of In-Circuit Emulation</strong><br>This in-depth article, featuring insights from Synopsys’s distinguished experts, chronicles the remarkable resurgence of in-circuit emulation (ICE) in system-level validation, largely driven by the evolution of third-generation speed adapters. Defying previous predictions of its obsolescence, modern ICE platforms, particularly those integrating Synopsys Speed Adapters and the System Validation Server (SVS), are proving indispensable for critical pre-silicon bug detection. Through compelling real-world case studies, the article demonstrates how high-fidelity ICE environments can uncover elusive RTL flaws, timing mismatches, and complex interoperability issues tied to low-level system behavior and physical layers (e.g., PCIe Gen5, UFS, Ethernet, MIPI sensors) that often escape virtual verification methods. By accurately simulating real-world operating conditions and rigorously enforcing design specifications, ICE significantly mitigates the risk of costly re-spins and accelerates time-to-tapeout, solidifying its role as an essential tool in the development of today’s increasingly complex semiconductor designs.</p>
+<p><img src="https://semiwiki.com/wp-content/uploads/2025/10/The-Rise-Fall-and-Rebirth-of-In-Circuit-Emulation-real-world-case-studies-figure-1.png" alt="The Rise, Fall, and Rebirth of In-Circuit Emulation real world case studies figure 1"></p>
+<hr>
+<p>Stay connected for the latest innovations and breakthroughs shaping the future of the semiconductor industry!</p>
+
+      
+    </div>
+    <footer class="entry-meta entry-footer">
+      
+	<span class="ico-folder"></span>
+    <a class="article-category-link" href="/opensemi/categories/Device/">Device</a>
+
+      
+  <span class="ico-tags"></span>
+  <ul class="article-tag-list" itemprop="keywords"><li class="article-tag-list-item"><a class="article-tag-list-link" href="/opensemi/tags/AI/" rel="tag">AI</a></li><li class="article-tag-list-item"><a class="article-tag-list-link" href="/opensemi/tags/Advanced-Packaging/" rel="tag">Advanced Packaging</a></li><li class="article-tag-list-item"><a class="article-tag-list-link" href="/opensemi/tags/Automotive/" rel="tag">Automotive</a></li><li class="article-tag-list-item"><a class="article-tag-list-link" href="/opensemi/tags/CMOS-2-0/" rel="tag">CMOS 2.0</a></li><li class="article-tag-list-item"><a class="article-tag-list-link" href="/opensemi/tags/Chiplets/" rel="tag">Chiplets</a></li><li class="article-tag-list-item"><a class="article-tag-list-link" href="/opensemi/tags/DRAM/" rel="tag">DRAM</a></li><li class="article-tag-list-item"><a class="article-tag-list-link" href="/opensemi/tags/Data-Centers/" rel="tag">Data Centers</a></li><li class="article-tag-list-item"><a class="article-tag-list-link" href="/opensemi/tags/EDA/" rel="tag">EDA</a></li><li class="article-tag-list-item"><a class="article-tag-list-link" href="/opensemi/tags/GaN/" rel="tag">GaN</a></li><li class="article-tag-list-item"><a class="article-tag-list-link" href="/opensemi/tags/LLMs/" rel="tag">LLMs</a></li><li class="article-tag-list-item"><a class="article-tag-list-link" href="/opensemi/tags/Security/" rel="tag">Security</a></li><li class="article-tag-list-item"><a class="article-tag-list-link" href="/opensemi/tags/Sub-3nm/" rel="tag">Sub-3nm</a></li><li class="article-tag-list-item"><a class="article-tag-list-link" href="/opensemi/tags/Verification/" rel="tag">Verification</a></li></ul>
+
+      
+        <div id="donation_div"></div>
+
+
+<script src="/opensemi/js/vdonate.js"></script>
+
+<script>
+var a = new Donate({
+  title: '如果觉得我的文章对您有用，请随意打赏。您的支持将鼓励我继续创作!', // 可选参数，打赏标题
+  btnText: 'Donate', // 可选参数，打赏按钮文字
+  el: document.getElementById('donation_div'),
+  wechatImage: '',
+  alipayImage: ''
+});
+</script>
+      
+            
+      
+    </footer>
+  </div>
+  
+    
+<nav id="article-nav">
+  
+    <a href="/opensemi/20251021_The-AI-PC--A-New-Category-Poised-to-Reignite-the-PC-Market/" id="article-nav-newer" class="article-nav-link-wrap">
+      <strong class="article-nav-caption">Newer</strong>
+      <div class="article-nav-title">
+        
+          The AI PC- A New Category Poised to Reignite the PC Market
+        
+      </div>
+    </a>
+  
+  
+    <a href="/opensemi/20251020_GlobalFoundries,-Infineon,-Silicon-Box,-STATS-ChipPAC,-and-TIER-IV-Join-imec-Automotive-Chiplet-Program/" id="article-nav-older" class="article-nav-link-wrap">
+      <strong class="article-nav-caption">Older</strong>
+      <div class="article-nav-title">GlobalFoundries, Infineon, Silicon Box, STATS ChipPAC, and TIER IV Join imec Automotive Chiplet Program</div>
+    </a>
+  
+</nav>
+
+  
+</article>
+
+<!-- Table of Contents -->
+
+  <aside id="sidebar">
+    <div id="toc" class="toc-article" style="overflow-y: scroll; max-width: 28%;">
+    <strong class="toc-title">Contents</strong>
+    
+      <ol class="nav"><li class="nav-item nav-level-2"><a class="nav-link" href="#News"><span class="nav-number">1.</span> <span class="nav-text">News</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#Launches"><span class="nav-number">2.</span> <span class="nav-text">Launches</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#Charts"><span class="nav-number">3.</span> <span class="nav-text">Charts</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#Research"><span class="nav-number">4.</span> <span class="nav-text">Research</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#Insight"><span class="nav-number">5.</span> <span class="nav-text">Insight</span></a></li></ol>
+    
+    </div>
+  </aside>
+</section>
+        
+      </div>
+      <footer id="footer" class="site-footer">
+  
+
+  <div class="clearfix container">
+      <div class="site-info">
+	      &copy; 2025 opensemi All Rights Reserved.
+          
+            <span id="busuanzi_container_site_uv">
+              本站访客数<span id="busuanzi_value_site_uv"></span>人次  
+              本站总访问量<span id="busuanzi_value_site_pv"></span>次
+            </span>
+          
+      </div>
+      <div class="site-credit">
+        Theme by <a href="#" target="_blank">MegaBolD</a>
+      </div>
+      <br>
+      
+      <table class="menu-footer" style="width: 200px;">
+        <thead>
+          <tr>
+            
+              <td><b>Links</b><br>
+                
+                  
+                  <a href="/opensemi/">Home</a>
+                  <br>
+                
+                  
+                  <a href="/opensemi/about/">About</a>
+                  <br>
+                
+              </td>
+            
+          </tr>
+        </thead>
+      </table>
+      
+  </div>
+</footer>
+
+
+<!-- min height -->
+
+<script>
+    var contentdiv = document.getElementById("content");
+
+    contentdiv.style.minHeight = document.body.offsetHeight - document.getElementById("allheader").offsetHeight - document.getElementById("footer").offsetHeight + "px";
+</script>
+
+<!-- Custome JS -->
+
+<script src="/opensemi/js/my.js"></script>
+
+    </div>
+    <!-- <nav id="mobile-nav">
+  
+    <a href="/opensemi/" class="mobile-nav-link">Home</a>
+  
+    <a href="/opensemi/categories" class="mobile-nav-link">Categories</a>
+  
+    <a href="/opensemi/about" class="mobile-nav-link">About</a>
+  
+    <a href="/opensemi/subscribe" class="mobile-nav-link">Subscribe</a>
+  
+</nav> -->
+    
+
+<!-- mathjax config similar to math.stackexchange -->
+
+<script type="text/x-mathjax-config">
+  MathJax.Hub.Config({
+    tex2jax: {
+      inlineMath: [ ['$','$'], ["\\(","\\)"] ],
+      processEscapes: true
+    }
+  });
+</script>
+
+<script type="text/x-mathjax-config">
+    MathJax.Hub.Config({
+      tex2jax: {
+        skipTags: ['script', 'noscript', 'style', 'textarea', 'pre', 'code']
+      }
+    });
+</script>
+
+<script type="text/x-mathjax-config">
+    MathJax.Hub.Queue(function() {
+        var all = MathJax.Hub.getAllJax(), i;
+        for(i=0; i < all.length; i += 1) {
+            all[i].SourceElement().parentNode.className += ' has-jax';
+        }
+    });
+</script>
+
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.4/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
+</script>
+
+
+
+  
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/2.1.5/jquery.fancybox.min.css">
+
+  
+<script src="https://cdnjs.cloudflare.com/ajax/libs/fancybox/2.1.5/jquery.fancybox.min.js"></script>
+
+
+
+
+<script src="/opensemi/js/scripts.js"></script>
+
+
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+
+
+<script src="/opensemi/js/main.js"></script>
+
+
+
+
+
+
+
+
+  <div style="display: none;">
+    <script src="https://s95.cnzz.com/z_stat.php?id=1260716016&web_id=1260716016" language="JavaScript"></script>
+  </div>
+
+
+
+	<script async src="https://dnqof95d40fo6.cloudfront.net/atw7f8.js">
+	</script>
+
+
+
+
+
+
+  </div>
+
+  <a id="rocket" href="#top" class=""></a>
+  <script type="text/javascript" src="/js/totop.js" async=""></script>
+<script type="text/x-mathjax-config">
+    MathJax.Hub.Config({
+        tex2jax: {
+            inlineMath: [ ["$","$"], ["\\(","\\)"] ],
+            skipTags: ['script', 'noscript', 'style', 'textarea', 'pre', 'code'],
+            processEscapes: true
+        }
+    });
+    MathJax.Hub.Queue(function() {
+        var all = MathJax.Hub.getAllJax();
+        for (var i = 0; i < all.length; ++i)
+            all[i].SourceElement().parentNode.className += ' has-jax';
+    });
+</script>
+<script src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+</body>
+</html>
