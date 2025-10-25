@@ -3,3 +3,200 @@ type your custom css here
 在本文件键入您的自定义CSS
 升级主题文件时请注意保护本文件，防止意外覆盖。
 */
+
+/* ============================================
+   RESPONSIVE IMAGE SIZING FOR LARGE SCREENS
+   ============================================ */
+.article-entry img {
+    max-width: 800px;
+    width: 100%;
+    height: auto;
+    display: block;
+    margin: 20px auto;
+}
+
+/* Keep smaller images at their natural size */
+.article-entry img[width="250"],
+.entry-thumbnail img {
+    max-width: 250px;
+}
+
+/* ============================================
+   INCREASE TEXT SIZE FOR BETTER READABILITY
+   ============================================ */
+.article-entry {
+    font-size: 18px;
+    line-height: 1.8;
+}
+
+.article-entry p {
+    font-size: 18px;
+    margin-bottom: 1.2em;
+}
+
+.article-entry h2 {
+    font-size: 28px;
+    margin-top: 1.5em;
+    margin-bottom: 0.8em;
+}
+
+.article-entry h3 {
+    font-size: 22px;
+    margin-top: 1.3em;
+    margin-bottom: 0.7em;
+}
+
+/* Table of Contents text size */
+#toc .nav {
+    font-size: 16px;
+    line-height: 1.6;
+}
+
+#toc .nav li {
+    margin-bottom: 8px;
+}
+
+#toc .nav a {
+    font-size: 16px;
+}
+
+.toc-title {
+    font-size: 20px;
+}
+
+/* ============================================
+   POST OUTLINE FEATURE - Simple Bullet List Style
+   ============================================ */
+.post-outline {
+    background: #fff;
+    padding: 0;
+    margin: 20px 0 30px 0;
+    border-bottom: 1px solid #eee;
+    padding-bottom: 15px;
+}
+
+.post-outline ul {
+    list-style: disc;
+    margin: 0 0 0 20px;
+    padding: 0;
+    line-height: 1.8;
+}
+
+.post-outline li {
+    padding: 4px 0;
+    color: #555;
+    font-size: 15px;
+}
+
+.outline-category {
+    font-weight: 600;
+    color: #333;
+    font-size: 15px;
+}
+
+.outline-title {
+    color: #555;
+    font-size: 15px;
+}
+
+/* Compact outline for homepage cards - replaces excerpt */
+.post-outline-compact {
+    background: #fff;
+    padding: 0 0 0 15px;  /* Left padding for separation from image */
+    margin: 0;
+    font-size: 14px;
+    line-height: 1.7;
+    min-height: 150px;  /* Consistent height across all cards */
+    display: flex;
+    flex-direction: column;
+}
+
+.post-outline-compact ul {
+    list-style: disc;
+    margin: 0 0 0 20px;
+    padding: 0;
+    flex: 1;  /* Takes up remaining space */
+}
+
+.post-outline-compact li {
+    padding: 3px 0;
+    font-size: 14px;
+    color: #555;
+}
+
+.post-outline-compact .outline-category {
+    font-weight: 600;
+    color: #333;
+    font-size: 14px;
+}
+
+.post-outline-compact .outline-title {
+    color: #555;
+    font-size: 14px;
+}
+
+/* Continue Reading button alignment */
+.article-more-link {
+    text-align: center;
+    margin: 15px 0 0 0;
+    padding: 0;
+    clear: both;
+}
+
+.article-more-link a {
+    display: inline-block;
+    padding: 8px 20px;
+    background: #f5f5f5;
+    color: #333;
+    text-decoration: none;
+    border-radius: 3px;
+    transition: background 0.2s;
+}
+
+.article-more-link a:hover {
+    background: #e0e0e0;
+}
+
+/* Entry summary container for consistent alignment */
+.entry-summary {
+    overflow: hidden;
+    min-height: 180px;  /* Consistent box height for all homepage cards */
+    display: flex;
+    flex-direction: column;
+}
+
+/* Ensure outline container fills available space */
+.entry-summary .post-outline-compact {
+    flex: 1;
+}
+
+/* ============================================
+   RESPONSIVE ADJUSTMENTS
+   ============================================ */
+@media screen and (max-width: 768px) {
+    .article-entry {
+        font-size: 16px;
+    }
+
+    .article-entry h2 {
+        font-size: 24px;
+    }
+
+    .article-entry h3 {
+        font-size: 20px;
+    }
+
+    #toc .nav,
+    #toc .nav a {
+        font-size: 14px;
+    }
+
+    .outline-category {
+        min-width: 80px;
+        font-size: 13px;
+    }
+
+    .outline-title {
+        font-size: 13px;
+    }
+}
