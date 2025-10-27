@@ -6,10 +6,44 @@
   <link href="https://blackfireagent.github.io/opensemi/atom.xml" rel="self"/>
   
   <link href="https://blackfireagent.github.io/opensemi/"/>
-  <updated>2025-10-24T18:38:51.535Z</updated>
+  <updated>2025-10-27T04:21:07.350Z</updated>
   <id>https://blackfireagent.github.io/opensemi/</id>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>NextSilicon Unveils Runtime-Reconfigurable Architecture for HPC</title>
+    <link href="https://blackfireagent.github.io/opensemi/20251027_NextSilicon-Unveils-Runtime-Reconfigurable-Architecture-for-HPC/"/>
+    <id>https://blackfireagent.github.io/opensemi/20251027_NextSilicon-Unveils-Runtime-Reconfigurable-Architecture-for-HPC/</id>
+    <published>2025-10-26T23:00:00.000Z</published>
+    <updated>2025-10-27T04:21:07.350Z</updated>
+    
+    <content type="html"><![CDATA[<div style="display: flex; justify-content: center;">  <audio controls>    <source src="/opensemi/podcasts/20251027_semiconductor_newsletter_gemini-2.5-flash.mp3" type="audio/mpeg">  </audio></div><h2 id="News"><a href="#News" class="headerlink" title="News"></a><a href="https://www.imec-int.com/en/articles/look-back-automotive-chiplet-forum-2025">News</a></h2><p><strong>Automotive Chiplet Forum 2025 Drives Collaboration for Next-Gen Vehicles</strong><br>The fall 2025 Automotive Chiplet Forum (ACF) in Heilbronn, Germany, highlighted a significant expansion of imec’s Automotive Chiplet Program (ACP). Key developments include:</p><ul><li>GlobalFoundries (GF) joined as a foundry partner, bringing advanced manufacturing capabilities and a global footprint.</li><li>Infineon, Silicon Box, STATS ChipPAC, and TIER IV (leader in autonomous driving) committed to participate, strengthening the ecosystem.</li><li>Discussions centered on the vision of building the “Airbus” of automotive high-performance computing (HPC) through chiplet-based platforms, reinforcing Europe’s leadership.</li><li>The event coincided with the inauguration of imec’s new Baden-Württemberg office, dedicated to automotive chiplet innovation.</li></ul><p>The forum emphasized that achieving digital sovereignty in automotive compute requires industry and government alignment on interoperable chiplets built on open standards.</p><p><img src="https://www.imec-int.com/sites/default/files/2025-10/ACF%20Fall%202025_0.jpg" alt="ACF Fall 2025"></p><hr><h2 id="Launches"><a href="#Launches" class="headerlink" title="Launches"></a><a href="https://www.eetimes.com/nextsilicon-details-runtime-reconfigurable-architecture/">Launches</a></h2><p><strong>NextSilicon Unveils Runtime-Reconfigurable Architecture for HPC</strong><br>NextSilicon, an HPC silicon startup, has detailed its runtime-reconfigurable hardware architecture and showcased impressive benchmark results for its Maverick2 chip, built on TSMC 5nm.</p><ul><li>The Maverick2 dataflow chip is designed to replace traditional CPUs and GPUs in supercomputers by reconfiguring during runtime to accelerate code bottlenecks.</li><li>Its smart software algorithm continuously monitors applications, identifies critical “hot paths,” and reconfigures the chip in nanoseconds.</li><li>The architecture leverages dataflow processing, dedicating most silicon area to compute blocks (ALUs), enabling more computation per clock cycle.</li><li>NextSilicon’s stack can run any existing code (C++, Fortran, Python, CUDA, etc.) out of the box, offering flexibility for AI models and novel mathematical operations.</li><li>Benchmarks show superior performance: 5.2 TB&#x2F;s bandwidth in Stream, 32.6 GUPS at 460W, 600 GFLOPS at 600W for HPCG (outperforming CPUs&#x2F;GPUs), and 40 gigapages&#x2F;s for PageRank (10x better than GPUs).</li><li>The company also unveiled test silicon for Arbel, a 10-wide RISC-V CPU aimed at enterprise-grade performance, comparable to Intel’s Lion Cove or AMD Zen 5.</li></ul><p><img src="https://www.eetimes.com/wp-content/uploads/Maverick2-X-board-sq.jpg" alt="Maverick2 X-board"></p><hr><h2 id="Charts"><a href="#Charts" class="headerlink" title="Charts"></a><a href="https://semiwiki.com/3dic/362862-chiplets-powering-the-next-generation-of-ai-systems/">Charts</a></h2><p><strong>Chiplets Poised for Explosive Growth, Fueling Next-Gen AI Systems</strong><br>Chiplets are rapidly becoming the cornerstone of advanced AI systems, projected to reach a substantial market value by 2035.</p><ul><li>The multi-die designs, which break down large SoC functions into smaller, reusable dies, are forecasted to become a <strong>$411 billion market by 2035</strong>.</li><li>This growth is driven by the fact that traditional SoC scaling can no longer meet the demanding compute and I&#x2F;O needs of modern AI workloads, making modular chiplets a crucial solution.</li><li>Interconnect performance, with UCIe (Universal Chiplet Interconnect Express) emerging as the preferred die-to-die standard, is critical for chiplet success.</li><li>Advanced packaging techniques, including 2.5D and 3D approaches, are central to integrating these chiplets, requiring early co-design to manage thermal, mechanical, and power integrity challenges.</li><li>Collaborations, such as that between Synopsys and Arm, are essential to streamline AI chip design, focusing on interoperability, reliability, and security within the evolving chiplet ecosystem.</li></ul><p><img src="https://semiwiki.com/wp-content/uploads/2025/10/Arm-Synopsys-at-Chiplet-Summit.png" alt="Arm Synopsys at Chiplet Summit"></p><hr><h2 id="Research"><a href="#Research" class="headerlink" title="Research"></a><a href="https://spectrum.ieee.org/diamond-thermal-conductivity">Research</a></h2><p><strong>Stanford Researchers Pioneer Low-Temperature Diamond for Advanced Chip Cooling</strong><br>Groundbreaking research from Stanford University has unveiled a method to grow polycrystalline diamond at low temperatures, offering a revolutionary solution for chip cooling.</p><ul><li>As transistors miniaturize and power densities soar, heat management becomes critical, with hot spots causing performance throttling and device degradation.</li><li>Diamond, a highly thermally conductive yet electrically insulating material, has been challenging to integrate due to high growth temperatures (over 1,000 °C).</li><li>Researchers achieved low-temperature growth (below 400 °C) by adding oxygen, which selectively etched away non-diamond carbon deposits, allowing large-grained polycrystalline diamond to form around devices.</li><li>A key discovery was the formation of a silicon carbide interlayer at the diamond-semiconductor boundary, acting as a “bridge” for phonons and significantly reducing thermal boundary resistance.</li><li>Initial tests on gallium-nitride (GaN) high-electron-mobility transistors (HEMTs) showed channel temperatures dropped by a remarkable 70 °C, boosting RF signal amplification fivefold.</li><li>This innovation holds immense potential for high-power CMOS chips and 3D-stacked architectures, where “thermal scaffolding” with diamond layers and pillars could extract heat efficiently from multiple layers.</li></ul><p><img src="https://spectrum.ieee.org/media-library/image.png?id=61766396&width=1200&height=600&coordinates=0,1048,0,1048" alt="Diamond Thermal Conductivity"></p><hr><h2 id="Insight"><a href="#Insight" class="headerlink" title="Insight"></a><a href="https://semiengineering.com/powering-efficiency-ai-transforms-ic-manufacturing-as-ics-fuel-ai/">Insight</a></h2><p><strong>AI Transforms IC Manufacturing While ICs Fuel AI: Key Takeaways from SEMICON West</strong><br>SEMICON West 2025 highlighted a virtuous cycle where AI is reshaping semiconductor manufacturing and design, while advanced ICs power the AI revolution. Industry leaders discussed the massive opportunities and challenges.</p><ul><li><strong>AI Factories &amp; Physical AI:</strong> Nvidia’s Timothy Costa emphasized $2 trillion opportunities in AI factories and physical AI, requiring innovation across semiconductor design, manufacturing, and AI. This includes accelerated design workloads, agentic AI for engineers, digital twins for fabs, and vision AI for defect detection.</li><li><strong>Digital Twins for Yield Optimization:</strong> Joseph Ervin of Lam Research showcased how fab-centric digital twins, leveraging virtual process modeling and machine learning, are crucial for rapidly boosting yield and shortening yield ramps in high-volume manufacturing, especially as process windows shrink.</li><li><strong>Sustainability &amp; Energy Efficiency:</strong> Executives from ASM, IBM Research, Merck KGaA, and TEL America stressed the urgent need to combine technology development with sustainability, addressing the immense power consumption of AI data centers. Materials innovation and integrated development processes are key to energy-efficient scaling.</li><li><strong>Democratizing Design with AI:</strong> Mukesh Khare from IBM Research highlighted the role of agentic AI and open ecosystems in democratizing chip design, aiming for a 50% improvement in productivity for complex chip design activities.</li><li><strong>Continuous Innovation:</strong> The discussions underscored a newfound drive to accelerate the development of materials, equipment, processes, and servers, while simultaneously improving operating efficiencies across the entire supply chain.</li></ul><p><img src="https://semiengineering.com/wp-content/uploads/2025/10/Screenshot-2025-10-22-at-3.20.21-PM.png" alt="SEMICON West 2025 Panel"></p><hr><p>Stay tuned for more cutting-edge developments and expert analysis shaping the semiconductor landscape!</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;div style=&quot;display: flex; justify-content: center;&quot;&gt;
+  &lt;audio controls&gt;
+    &lt;source src=&quot;/opensemi/podcasts/20251027_semiconductor_newslett</summary>
+      
+    
+    
+    
+    <category term="Semiconductor" scheme="https://blackfireagent.github.io/opensemi/categories/Semiconductor/"/>
+    
+    
+    <category term="AI" scheme="https://blackfireagent.github.io/opensemi/tags/AI/"/>
+    
+    <category term="Chiplets" scheme="https://blackfireagent.github.io/opensemi/tags/Chiplets/"/>
+    
+    <category term="Edge AI" scheme="https://blackfireagent.github.io/opensemi/tags/Edge-AI/"/>
+    
+    <category term="Advanced Materials" scheme="https://blackfireagent.github.io/opensemi/tags/Advanced-Materials/"/>
+    
+    <category term="Thermal Management" scheme="https://blackfireagent.github.io/opensemi/tags/Thermal-Management/"/>
+    
+  </entry>
   
   <entry>
     <title>NextSilicon Details Runtime Reconfigurable Architecture</title>
@@ -681,38 +715,6 @@
     <category term="semiconductors" scheme="https://blackfireagent.github.io/opensemi/tags/semiconductors/"/>
     
     <category term="security" scheme="https://blackfireagent.github.io/opensemi/tags/security/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Semicon India 2025- PM Modi Maps Vision To Target Global Chip Industry</title>
-    <link href="https://blackfireagent.github.io/opensemi/20250911_Semicon-India-2025--PM-Modi-Maps-Vision-To-Target-Global-Chip-Industry/"/>
-    <id>https://blackfireagent.github.io/opensemi/20250911_Semicon-India-2025--PM-Modi-Maps-Vision-To-Target-Global-Chip-Industry/</id>
-    <published>2025-09-10T22:00:00.000Z</published>
-    <updated>2025-09-11T04:08:43.360Z</updated>
-    
-    <content type="html"><![CDATA[<h2 id="News"><a href="#News" class="headerlink" title="News"></a><a href="https://www.eetimes.com/nvidia-specializes-gpu-for-first-stage-of-transformer-inference/">News</a></h2><p><strong>Nvidia Specializes GPU for First Stage of Transformer Inference</strong><br>At the AI Infra Summit, Nvidia unveiled its next-gen GPU, the Rubin-CPX, specifically engineered for transformer inference workloads. This new model promises to enhance performance in the context phase of data processing, offering up to 30 PFLOPS and tripling attention performance compared to previous generations. The investment in Nvidia’s orchestration software could see returns of up to $5 billion for token factories.</p><p><img src="https://www.eetimes.com/wp-content/uploads/Nvida-Rubin-CPX-sq.jpg" alt="Nvidia Rubin-CPX"></p><hr><h2 id="Launches"><a href="#Launches" class="headerlink" title="Launches"></a><a href="https://www.eetimes.com/arm-unveils-lumex-platform-boosting-ai-processing-at-edge/">Launches</a></h2><p><strong>Arm Unveils Lumex Platform, Boosting AI Processing at Edge</strong><br>Arm has launched its Lumex Compute Subsystem, aimed at enhancing on-device AI processing across consumer electronics. The platform integrates powerful CPUs and advanced GPUs to meet growing demands for real-time AI capabilities. With the new Scalable Matrix Extension, Arm’s CPUs now serve as primary AI accelerators, promising significant performance gains for mobile and consumer applications.</p><p><img src="https://www.eetimes.com/wp-content/uploads/Arm_Lumex_DevicesGroup.jpg" alt="Arm Lumex"></p><hr><h2 id="Charts"><a href="#Charts" class="headerlink" title="Charts"></a><a href="https://newsroom.lamresearch.com/what-is-advanced-packaging-semi-101?blog=true">Charts</a></h2><p><strong>What Is Advanced Packaging?</strong><br>Advanced packaging is becoming essential for the efficient manufacturing of next-gen chips. This market is projected to grow significantly, reaching $119.4 billion by 2032. Techniques like 3D integration and Chip on Wafer on Substrate (CoWoS) are crucial for enhancing performance while maintaining compact designs necessary for AI applications.</p><p><img src="https://newsroom.lamresearch.com/image/Lam_Dep_VECTOR_TEOS3D_Hero.jpg" alt="Advanced Packaging Overview"></p><hr><h2 id="Research"><a href="#Research" class="headerlink" title="Research"></a><a href="https://www.eetimes.com/semicon-india-2025-pm-modi-maps-vision-to-target-global-chip-industry/">Research</a></h2><p><strong>Semicon India 2025: PM Modi Maps Vision To Target Global Chip Industry</strong><br>At Semicon India 2025, Prime Minister Modi emphasized the importance of semiconductor innovation, unveiling the country’s first indigenous 32-bit microprocessor. The event saw multiple MoUs focused on establishing a robust semiconductor ecosystem in India, highlighting the shift towards designing domestic chips and fostering local talent in the semiconductor sector.</p><p><img src="https://www.eetimes.com/wp-content/uploads/image_9a9b51.png" alt="Semicon India 2025"></p><hr><h2 id="Insight"><a href="#Insight" class="headerlink" title="Insight"></a><a href="https://www.tel.com/news/topics/2025/20250905_001.html">Insight</a></h2><p><strong>Announcement of New Development Site in Bengaluru, India</strong><br>Tokyo Electron has established a new development site in Bengaluru aimed at advancing semiconductor technology and software development. This strategic move is part of TEL’s commitment to contributing to India’s growing semiconductor ecosystem and enhancing technological innovation through collaborations with local universities and institutions.</p><p><img src="https://www.tel.com/irta3a00000001ah-img/irta3a00000001ar.png" alt="TEL Bengaluru"></p><hr><p>Stay tuned for more updates and insights as we continue to track the evolving semiconductor landscape and its implications for the industry.</p>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;h2 id=&quot;News&quot;&gt;&lt;a href=&quot;#News&quot; class=&quot;headerlink&quot; title=&quot;News&quot;&gt;&lt;/a&gt;&lt;a href=&quot;https://www.eetimes.com/nvidia-specializes-gpu-for-first-stage-of</summary>
-      
-    
-    
-    
-    <category term="Etch" scheme="https://blackfireagent.github.io/opensemi/categories/Etch/"/>
-    
-    
-    <category term="AI" scheme="https://blackfireagent.github.io/opensemi/tags/AI/"/>
-    
-    <category term="innovation" scheme="https://blackfireagent.github.io/opensemi/tags/innovation/"/>
-    
-    <category term="semiconductors" scheme="https://blackfireagent.github.io/opensemi/tags/semiconductors/"/>
-    
-    <category term="advanced packaging" scheme="https://blackfireagent.github.io/opensemi/tags/advanced-packaging/"/>
-    
-    <category term="India" scheme="https://blackfireagent.github.io/opensemi/tags/India/"/>
     
   </entry>
   
