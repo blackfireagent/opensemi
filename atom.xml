@@ -6,10 +6,44 @@
   <link href="https://blackfireagent.github.io/opensemi/atom.xml" rel="self"/>
   
   <link href="https://blackfireagent.github.io/opensemi/"/>
-  <updated>2025-10-27T04:21:07.350Z</updated>
+  <updated>2025-10-28T05:19:53.485Z</updated>
   <id>https://blackfireagent.github.io/opensemi/</id>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>DeepOHeat-v1- Enhancing 3D-IC Thermal Simulation with Operator Learning</title>
+    <link href="https://blackfireagent.github.io/opensemi/20251028_DeepOHeat-v1--Enhancing-3D-IC-Thermal-Simulation-with-Operator-Learning/"/>
+    <id>https://blackfireagent.github.io/opensemi/20251028_DeepOHeat-v1--Enhancing-3D-IC-Thermal-Simulation-with-Operator-Learning/</id>
+    <published>2025-10-27T23:00:00.000Z</published>
+    <updated>2025-10-28T05:19:53.485Z</updated>
+    
+    <content type="html"><![CDATA[<div style="display: flex; justify-content: center;">  <audio controls>    <source src="/opensemi/podcasts/20251028_device_newsletter_gemini-2.5-flash.mp3" type="audio/mpeg">  </audio></div><h2 id="News"><a href="#News" class="headerlink" title="News"></a><a href="https://www.eetimes.com/lt-semiconductor-hon-young-partner-for-650v-to-3300v-sic-wafer-development/">News</a></h2><p><strong>L&amp;T Semiconductor and Hon Young Partner on High-Voltage SiC Wafer Development</strong></p><p>L&amp;T Semiconductor Technologies (LTSCT) and Hon Young Semiconductor (HYS) have announced a long-term partnership to jointly develop high-voltage silicon carbide (SiC) wafers, ranging from 650V to 3300V. This collaboration aims to meet the escalating demand for SiC devices in critical sectors.</p><ul><li>The partnership targets automotive (EVs), renewable energy (solar inverters), and industrial applications.</li><li>SiC wafers provide a base for high-voltage power devices like MOSFETs and SBDs, offering lower switching losses and improved thermal performance over traditional silicon.</li><li>LTSCT, a fabless company, will leverage HYS’s SiC wafer fabrication expertise to ensure supply reliability, competitive pricing, and accelerate product development.</li></ul><p><img src="https://www.eetimes.com/wp-content/uploads/power-modules-image-feature-image.jpg" alt="Power Modules"></p><hr><h2 id="Launches"><a href="#Launches" class="headerlink" title="Launches"></a><a href="https://semiwiki.com/artificial-intelligence/tekstart/362144-pioneering-edge-ai-tekstarts-newport-processor-ushers-in-a-new-era-of-efficient-intelligence/">Launches</a></h2><p><strong>TekStart Unveils Newport, a High-Performance, Ultra-Low-Power Edge AI Processor</strong></p><p>TekStart Group’s ChipStart division has launched Newport, a groundbreaking Edge AI processor designed to bring advanced AI inference directly to where data is generated, with remarkable power efficiency. Newport delivers 65 TOPS peak performance while consuming under 2 watts.</p><ul><li>The processor addresses critical Edge AI challenges by enabling ultra-low-power, on-device learning and real-time inference, significantly reducing dependency on cloud computing.</li><li>Its versatile architecture allows seamless integration into diverse applications such as surveillance, agriculture, wearables, and industrial automation, supporting adaptive AI capabilities.</li><li>Newport is poised to power the future of agentic AI systems—proactive, autonomous, targeted, and collaborative—without the energy overhead of traditional interconnects.</li></ul><p><img src="https://semiwiki.com/wp-content/uploads/2025/09/TekStart-Newport-Chip-SemiWiki-1200x554.jpg" alt="TekStart Newport Chip"></p><hr><h2 id="Charts"><a href="#Charts" class="headerlink" title="Charts"></a><a href="https://semiengineering.com/thermal-simulation-and-optimization-in-3d-ic-design-intel-ucsb-cadence/">Charts</a></h2><p><strong>DeepOHeat-v1: Enhancing 3D-IC Thermal Simulation with Operator Learning</strong></p><p>Researchers from Intel Corporation, University of California, Santa Barbara, and Cadence have published a new paper on DeepOHeat-v1, an enhanced physics-informed operator learning framework for fast and trustworthy thermal simulation and optimization in 3D-IC design.</p><ul><li>DeepOHeat-v1 achieves significant improvements:<ul><li><strong>1.25x and 6.29x reduction in error</strong> for multi-scale thermal patterns.</li><li><strong>62x training speedup and 31x GPU memory reduction</strong> using a separable training method.</li><li><strong>70.6x speedup</strong> for the entire thermal optimization process, effectively minimizing peak temperature through optimal placement of heat-generating components.</li></ul></li><li>The framework integrates Kolmogorov-Arnold Networks and provides a confidence score to evaluate result trustworthiness, ensuring high accuracy comparable to finite difference solvers.</li></ul><p><img src="https://semiengineering.com/wp-content/uploads/iStock-1441278907-11-29-23.jpeg" alt="3D-IC Thermal Simulation"></p><hr><h2 id="Research"><a href="#Research" class="headerlink" title="Research"></a><a href="https://techxplore.com/news/2025-10-memristor-ferroelectric-memory-energy-efficient.html">Research</a></h2><p><strong>Unified Memristor-Ferroelectric Memory for Energy-Efficient AI Training</strong></p><p>A research team from Université Grenoble Alpes, Université de Bordeaux, and Université Paris-Saclay has developed a novel memory device that unifies memristors and ferroelectric capacitors (FeCAPs) within a single stack. This hybrid approach promises significant advancements for energy-efficient training and implementation of AI systems.</p><ul><li>The memory combines the analog weight storage and energy efficiency during read operations of memristors, ideal for AI inference.</li><li>By integrating FeCAPs, it also offers rapid and low-energy updates, which are crucial for training machine learning algorithms and continuous learning in AI systems.</li><li>This breakthrough could enable more efficient edge AI, allowing AI algorithms to run directly on local hardware without heavy reliance on remote cloud servers.</li></ul><p><img src="https://scx2.b-cdn.net/gfx/news/hires/2025/a-unified-memristor-fe.jpg" alt="Unified Memristor-Ferroelectric Memory"></p><hr><h2 id="Insight"><a href="#Insight" class="headerlink" title="Insight"></a><a href="https://www.eetimes.com/physical-ai-needs-an-ecosystem/">Insight</a></h2><p><strong>The Growing Ecosystem Imperative for Physical AI (Robotics)</strong></p><p>Industry experts, including Anders Billesø Beck from Universal Robots and Paul Williamson from Arm, emphasize the critical need for a robust technology ecosystem to realize the full potential of “physical AI” or embodied AI in robotics. They highlight challenges and opportunities in this nascent field.</p><ul><li>AI is essential for “human-scale automation,” augmenting or replacing humans in variable tasks like logistics and complex assembly, which traditional engineering struggles with.</li><li>Functional safety for robotics is becoming increasingly complex with AI, requiring continuous innovation from silicon to ecosystem, with a focus on predictability and flexible safety capabilities.</li><li>A strong software ecosystem with commonality and interoperability is vital, allowing startups to focus on software innovation while leveraging established hardware infrastructure and support.</li></ul><p><img src="https://www.eetimes.com/wp-content/uploads/Universal-Robots-1-sq.jpg" alt="Universal Robots"></p><hr><p>Stay tuned for more cutting-edge developments shaping the future of semiconductors and intelligent systems.</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;div style=&quot;display: flex; justify-content: center;&quot;&gt;
+  &lt;audio controls&gt;
+    &lt;source src=&quot;/opensemi/podcasts/20251028_device_newsletter_gemi</summary>
+      
+    
+    
+    
+    <category term="Device" scheme="https://blackfireagent.github.io/opensemi/categories/Device/"/>
+    
+    
+    <category term="AI" scheme="https://blackfireagent.github.io/opensemi/tags/AI/"/>
+    
+    <category term="Edge AI" scheme="https://blackfireagent.github.io/opensemi/tags/Edge-AI/"/>
+    
+    <category term="SiC" scheme="https://blackfireagent.github.io/opensemi/tags/SiC/"/>
+    
+    <category term="Photonics" scheme="https://blackfireagent.github.io/opensemi/tags/Photonics/"/>
+    
+    <category term="3D-IC" scheme="https://blackfireagent.github.io/opensemi/tags/3D-IC/"/>
+    
+  </entry>
   
   <entry>
     <title>NextSilicon Unveils Runtime-Reconfigurable Architecture for HPC</title>
@@ -227,9 +261,9 @@
     
     <category term="market trends" scheme="https://blackfireagent.github.io/opensemi/tags/market-trends/"/>
     
-    <category term="RISC-V" scheme="https://blackfireagent.github.io/opensemi/tags/RISC-V/"/>
-    
     <category term="chiplets" scheme="https://blackfireagent.github.io/opensemi/tags/chiplets/"/>
+    
+    <category term="RISC-V" scheme="https://blackfireagent.github.io/opensemi/tags/RISC-V/"/>
     
     <category term="advanced packaging" scheme="https://blackfireagent.github.io/opensemi/tags/advanced-packaging/"/>
     
@@ -682,39 +716,6 @@
     <category term="innovation" scheme="https://blackfireagent.github.io/opensemi/tags/innovation/"/>
     
     <category term="semiconductor manufacturing" scheme="https://blackfireagent.github.io/opensemi/tags/semiconductor-manufacturing/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Compromising Spectre v2 HW Mitigations By Exploiting BPRC</title>
-    <link href="https://blackfireagent.github.io/opensemi/20250912_Compromising-Spectre-v2-HW-Mitigations-By-Exploiting-BPRC/"/>
-    <id>https://blackfireagent.github.io/opensemi/20250912_Compromising-Spectre-v2-HW-Mitigations-By-Exploiting-BPRC/</id>
-    <published>2025-09-11T22:00:00.000Z</published>
-    <updated>2025-09-12T04:11:01.679Z</updated>
-    
-    <content type="html"><![CDATA[<p>Stay tuned for more updates as we continue to explore the latest advancements in the semiconductor industry!</p>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;p&gt;Stay tuned for more updates as we continue to explore the latest advancements in the semiconductor industry!&lt;/p&gt;
-</summary>
-      
-    
-    
-    
-    <category term="Machinelearning" scheme="https://blackfireagent.github.io/opensemi/categories/Machinelearning/"/>
-    
-    
-    <category term="AI" scheme="https://blackfireagent.github.io/opensemi/tags/AI/"/>
-    
-    <category term="innovation" scheme="https://blackfireagent.github.io/opensemi/tags/innovation/"/>
-    
-    <category term="research" scheme="https://blackfireagent.github.io/opensemi/tags/research/"/>
-    
-    <category term="semiconductors" scheme="https://blackfireagent.github.io/opensemi/tags/semiconductors/"/>
-    
-    <category term="security" scheme="https://blackfireagent.github.io/opensemi/tags/security/"/>
     
   </entry>
   
