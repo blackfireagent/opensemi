@@ -6,10 +6,44 @@
   <link href="https://blackfireagent.github.io/opensemi/atom.xml" rel="self"/>
   
   <link href="https://blackfireagent.github.io/opensemi/"/>
-  <updated>2025-10-28T05:19:53.485Z</updated>
+  <updated>2025-10-30T05:13:36.112Z</updated>
   <id>https://blackfireagent.github.io/opensemi/</id>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>L&amp;T Semiconductor and Hon Young Partner for High-Voltage SiC Wafer Development</title>
+    <link href="https://blackfireagent.github.io/opensemi/20251030_L&amp;T-Semiconductor-and-Hon-Young-Partner-for-High-Voltage-SiC-Wafer-Development/"/>
+    <id>https://blackfireagent.github.io/opensemi/20251030_L&amp;T-Semiconductor-and-Hon-Young-Partner-for-High-Voltage-SiC-Wafer-Development/</id>
+    <published>2025-10-29T23:00:00.000Z</published>
+    <updated>2025-10-30T05:13:36.112Z</updated>
+    
+    <content type="html"><![CDATA[<div style="display: flex; justify-content: center;">  <audio controls>    <source src="/opensemi/podcasts/20251030_etch_newsletter_gemini-2.5-flash.mp3" type="audio/mpeg">  </audio></div><h2 id="News"><a href="#News" class="headerlink" title="News"></a><a href="https://newsroom.lamresearch.com/semiverse-solutions-preps-top-engineering-talent-for-whats-next?blog=true">News</a></h2><p><strong>Lam Research Tackles Engineer Shortage with Virtual Process Integration</strong><br>Lam Research is addressing the U.S. semiconductor engineer shortage by providing its SEMulator3D® modeling platform to educational institutions. This platform offers students virtual, hands-on experience in chip manufacturing, bridging the gap between theoretical knowledge and practical fab experience. It enables students to design, analyze, and optimize fabrication steps without physical wafers.</p><ul><li>SEMulator3D uses physics-based simulation to replicate fabrication processes like etch, deposition, and lithography.</li><li>It helps students understand the “why” behind process integration, fostering critical decision-making skills.</li><li>The platform runs on student laptops, ensuring accessibility for future semiconductor professionals globally.</li></ul><hr><h2 id="Launches"><a href="#Launches" class="headerlink" title="Launches"></a><a href="https://www.eetimes.com/lt-semiconductor-hon-young-partner-for-650v-to-3300v-sic-wafer-development/">Launches</a></h2><p><strong>L&amp;T Semiconductor and Hon Young Partner for High-Voltage SiC Wafer Development</strong><br>L&amp;T Semiconductor Technologies Ltd (LTSCT) has partnered with Hon Young Semiconductor (HYS) to develop high-voltage silicon carbide (SiC) wafers ranging from 650V to 3300V. This collaboration targets the growing demand for SiC devices in electric vehicles (EVs), renewable energy systems, and industrial applications, aiming to enhance energy efficiency through superior thermal performance and lower switching losses.</p><p><img src="https://www.eetimes.com/wp-content/uploads/power-modules-image-feature-image.jpg" alt="Power Modules"></p><ul><li>The partnership focuses on SiC wafers for power devices like SiC MOSFETs and Schottky barrier diodes.</li><li>SiC devices are critical for improving efficiency in EV chargers, solar inverters, and motor drives.</li><li>This collaboration seeks to ensure a stable supply and competitive pricing for global customers, fostering innovation and IP creation.</li></ul><hr><h2 id="Charts"><a href="#Charts" class="headerlink" title="Charts"></a><a href="https://www.yolegroup.com/news/power-sic-market-to-exceed-11-billion-by-2029-driven-by-evs-and-energy-transition/">Charts</a></h2><p><strong>Power SiC Market Poised for Significant Growth by 2029</strong><br>A recent analysis by Yole Group highlights the robust growth trajectory of the power SiC market, projecting it to exceed $11 billion by 2029. This substantial expansion is primarily fueled by increasing adoption in electric vehicles (EVs) and the broader energy transition. The report underscores the critical role of SiC technology in achieving higher efficiency and performance across various power electronics applications.</p><p><img src="https://www.yolegroup.com/wp-content/uploads/2024/02/Yole_SiC_2024_Fig1-1024x576.jpg" alt="Power SiC Market Forecast"></p><ul><li>The market growth is driven by rising demand for SiC in EV main inverters and industrial applications.</li><li>SiC penetration is expanding across automotive, industrial, and energy sectors due to efficiency benefits.</li><li>Forecasts indicate continued high growth rates, solidifying SiC’s position as a key enabling technology.</li></ul><hr><h2 id="Research"><a href="#Research" class="headerlink" title="Research"></a><a href="https://www.semiconductor-digest.com/manufacturing-strategies-for-stretchable-synaptic-transistors/">Research</a></h2><p><strong>Blueprint for Stretchable Synaptic Transistors Unveiled</strong><br>Researchers from Seoul National University have developed a comprehensive manufacturing “blueprint” for stretchable synaptic transistors, crucial for soft electronics. The review details how material selection, process flow (photopatterning, printing, lamination), and device architecture collectively determine the electro-mechanical stability and learning accuracy of these flexible devices, even under significant tensile strain.</p><ul><li>Key findings emphasize the importance of device architecture, with vertical organic transistors outperforming planar channels under deformation.</li><li>The insights advance soft neuromorphic hardware towards scalable, CMOS-compatible integration for on-skin wearables and bio-interactive prosthetics.</li><li>Challenges remain, including the need for ambipolar stretchable semiconductors and robust interfacial insulation for vertical stacking.</li></ul><hr><h2 id="Insight"><a href="#Insight" class="headerlink" title="Insight"></a><a href="https://www.eetimes.com/physical-ai-needs-an-ecosystem/">Insight</a></h2><p><strong>Physical AI and Robotics Demand a Robust Ecosystem for Future Growth</strong><br>Industry experts, including Anders Billesø Beck from Universal Robots and Paul Williamson from Arm, highlight the critical need for a comprehensive technology ecosystem to drive the success of “physical AI” or “embodied AI” in robotics. While humanoid robots capture imagination, the immediate focus is on collaborative robots (cobots) for industrial automation, addressing complex, variable tasks that benefit immensely from AI-driven flexibility and software updates.</p><p><img src="https://www.eetimes.com/wp-content/uploads/Universal-Robots-1-sq.jpg" alt="Universal Robots Cobot"></p><ul><li>AI enables cobots to handle high variability in tasks, accelerating automation in logistics and assembly.</li><li>Functional safety for AI-powered robotics is a significant challenge requiring innovation from silicon to ecosystem levels.</li><li>A strong partner ecosystem, including hardware peripherals and software plugins, is essential for integration and scaling AI deployments in robotics.</li></ul><hr><p>Stay tuned for more updates as the semiconductor industry continues to push the boundaries of innovation and shapes the future of technology.</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;div style=&quot;display: flex; justify-content: center;&quot;&gt;
+  &lt;audio controls&gt;
+    &lt;source src=&quot;/opensemi/podcasts/20251030_etch_newsletter_gemini</summary>
+      
+    
+    
+    
+    <category term="Etch" scheme="https://blackfireagent.github.io/opensemi/categories/Etch/"/>
+    
+    
+    <category term="AI" scheme="https://blackfireagent.github.io/opensemi/tags/AI/"/>
+    
+    <category term="Neuromorphic" scheme="https://blackfireagent.github.io/opensemi/tags/Neuromorphic/"/>
+    
+    <category term="SiC" scheme="https://blackfireagent.github.io/opensemi/tags/SiC/"/>
+    
+    <category term="Robotics" scheme="https://blackfireagent.github.io/opensemi/tags/Robotics/"/>
+    
+    <category term="STEM" scheme="https://blackfireagent.github.io/opensemi/tags/STEM/"/>
+    
+  </entry>
   
   <entry>
     <title>DeepOHeat-v1- Enhancing 3D-IC Thermal Simulation with Operator Learning</title>
@@ -148,46 +182,6 @@
   </entry>
   
   <entry>
-    <title>The AI PC- A New Category Poised to Reignite the PC Market</title>
-    <link href="https://blackfireagent.github.io/opensemi/20251021_The-AI-PC--A-New-Category-Poised-to-Reignite-the-PC-Market/"/>
-    <id>https://blackfireagent.github.io/opensemi/20251021_The-AI-PC--A-New-Category-Poised-to-Reignite-the-PC-Market/</id>
-    <published>2025-10-20T22:00:00.000Z</published>
-    <updated>2025-10-21T04:19:59.169Z</updated>
-    
-    <content type="html"><![CDATA[<div style="display: flex; justify-content: center;">  <audio controls>    <source src="/opensemi/podcasts/20251021_device_newsletter_gemini-2.5-flash.mp3" type="audio/mpeg">    Your browser does not support the audio element.  </audio></div><h2 id="News"><a href="#News" class="headerlink" title="News"></a><a href="https://www.eetimes.com/texas-instruments-on-its-path-to-95-in-house-manufacturing-by-2030/">News</a></h2><p><strong>Texas Instruments On Its Path to 95% In-House Manufacturing by 2030</strong><br>Texas Instruments (TI) is aggressively pursuing a strategy to increase its self-reliance in semiconductor production, aiming to grow its internal manufacturing capacity to over 95% by 2030. Stefan Bruder, President of TI EMEA and India, highlighted the company’s commitment to investing more than $60 billion in seven fabs across three U.S. mega-sites in Texas and Utah since 2021, including a significant $40 billion at its new 300mm site in Sherman, Texas. This initiative is designed to ensure geopolitically dependable capacity and supply chain resilience by enabling dual-flow capabilities across different global manufacturing locations. TI is also focusing on local raw material procurement to further enhance supply chain stability. The company’s AI strategy encompasses both power-efficient gallium nitride (GaN) products for data centers and embedded AI capabilities in edge devices, such as their C2000 microcontrollers for solar inverters, many of which are being developed in collaboration with its large R&amp;D hub in India.</p><p><img src="https://www.eetimes.com/wp-content/uploads/Low-cost-MCU-F28E120SC-and-F28E120SB-1.jpg" alt="Texas Instruments Low-cost MCU"></p><hr><h2 id="Launches"><a href="#Launches" class="headerlink" title="Launches"></a><a href="https://www.eetimes.com/broadcom-expands-ai-ethernet-offerings/">Launches</a></h2><p><strong>Broadcom Expands AI Ethernet Offerings with Tomahawk 6 CPO Switch and Thor Ultra NIC</strong><br>Broadcom Inc. is significantly enhancing its AI networking portfolio with the launch of its Tomahawk 6 – Davisson (TH6-Davisson) Co-Packaged Optics (CPO) Ethernet switch and the Thor Ultra 800G AI Ethernet Network Interface Card (NIC). The TH6-Davisson, Broadcom’s third-generation CPO Ethernet switch, doubles the bandwidth of existing CPO switches, delivering 102.4 Terabits per second of optically enabled switching capacity while improving power efficiency and traffic stability critical for large-scale AI clusters. This advancement addresses the exploding demand for optical interconnects in AI networks, driven by GPUs requiring substantially more optical bandwidth than traditional CPUs. Concurrently, the Thor Ultra 800G AI Ethernet NIC, now sampling, is the industry’s first to support a single 800G flow and adopts the Ultra Ethernet Consortium (UEC) specification. This enables advanced RDMA capabilities, including packet-level multipathing, out-of-order packet delivery, selective retransmit, and scalable congestion control, providing an open and efficient solution for interconnecting hundreds of thousands of XPUs in AI workloads.</p><p><img src="https://www.eetimes.com/wp-content/uploads/Broadcom-AInetworking-covercarousel.png" alt="Broadcom AI Networking"></p><hr><h2 id="Charts"><a href="#Charts" class="headerlink" title="Charts"></a><a href="https://semiwiki.com/artificial-intelligence/362815-the-ai-pc-a-new-category-poised-to-reignite-the-pc-market/">Charts</a></h2><p><strong>The AI PC: A New Category Poised to Reignite the PC Market</strong><br>The personal computing industry is experiencing its most significant transformation since the 1980s with the emergence of the AI PC, a category poised to reignite growth in a previously plateaued market. Defined by the integration of a dedicated Neural Processing Unit (NPU) or equivalent accelerator, AI PCs enable on-device machine learning, running large language models, generative tools, and real-time personalization locally. Apple has established an early lead by incorporating its Neural Engine into all M-series Macs since 2020, achieving seamless vertical integration across silicon, OS, and frameworks. While Intel and AMD are rapidly catching up with their NPU-equipped platforms, only about 30% of x86 PCs shipped in 2025 qualify as AI PCs. Gartner projects a substantial market surge, with AI PC shipments expected to reach approximately 114 million units in 2025, a 165% increase over 2024, representing over 40% of the total PC market. This shift reflects both corporate demand for efficiency tools and individual users’ desire for local AI capabilities, promising to redefine productivity and creativity in the digital era.</p><p><img src="https://semiwiki.com/wp-content/uploads/2025/10/Fig-1.jpg" alt="AI PC Shipments Chart"></p><hr><h2 id="Research"><a href="#Research" class="headerlink" title="Research"></a><a href="https://techxplore.com/news/2025-10-team-high-ultra-power-superconductive.html">Research</a></h2><p><strong>Team Develops High-Speed, Ultra-Low-Power Superconductive Neuron Device for Neuromorphic Computing</strong><br>Researchers have developed a novel superconductive neuron device that promises to advance large-scale, high-speed, and ultra-low-power neuromorphic network circuits. Published in <em>Neuromorphic Computing and Engineering</em>, this groundbreaking device employs digital processing using superconducting circuits that utilize magnetic flux quanta as signal carriers. This approach significantly eliminates variations in the characteristics of elemental circuits, a common challenge in hardware implementation of neuromorphic systems. The team’s compact design implements the Rectified Linear Unit (ReLU) activation function through frequency conversion, leveraging single flux quantum logic. A key advantage is its remarkable robustness against device variability, maintaining ideal input-output characteristics even with up to 20% parameter variations. This marks a substantial improvement over conventional analog-based neuron devices, which are highly sensitive to non-uniformity and often suffer from high power consumption and limited capacity. This innovation paves the way for scalable superconducting neural networks, offering a path to ultra-high-speed and energy-efficient AI applications.</p><p><img src="https://scx2.b-cdn.net/gfx/news/2025/team-develops-high-spe.jpg" alt="Superconductive Neuron Device"></p><hr><h2 id="Insight"><a href="#Insight" class="headerlink" title="Insight"></a><a href="https://semiwiki.com/events/362577-webinar-ip-design-considerations-for-real-time-edge-ai-systems/">Insight</a></h2><p><strong>Synopsys Webinar: IP Design Considerations for Real-Time Edge AI Systems</strong><br>A recent webinar presented by Synopsys, featuring Hezi Saar, Executive Director of Product Line Management for Mobile, Automotive, and Consumer IP, delved into the critical IP design considerations for real-time AI systems at the edge. Saar, drawing from over two decades of experience in the semiconductor industry, provided a comprehensive overview of how AI is driving semiconductor growth and the motivations behind shifting AI workloads from the cloud to edge devices. He highlighted that power efficiency is a crucial factor, with on-device (edge) AI demonstrating up to 200 times more efficiency compared to cloud-based solutions. The presentation explored the unique requirements for cost, performance, area, and power across a broad range of smart and connected edge devices. Saar also discussed the increasing quality of small models for edge AI, the role of AI companion chips, and the impact of multi-die approaches in addressing consumer demands for cost-effective products, emphasizing that this shift is driving the next innovation cycle in the industry.</p><p><img src="https://semiwiki.com/wp-content/uploads/2025/10/Webinar-%E2%80%93-IP-Design-Considerations-for-Real-Time-Edge-AI-Systems-1200x570.png" alt="Synopsys Webinar on Edge AI Systems"></p><hr><p>Stay tuned for more essential insights and updates as the semiconductor industry continues to innovate and redefine the future of technology!</p>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;div style=&quot;display: flex; justify-content: center;&quot;&gt;
-  &lt;audio controls&gt;
-    &lt;source src=&quot;/opensemi/podcasts/20251021_device_newsletter_gemi</summary>
-      
-    
-    
-    
-    <category term="Device" scheme="https://blackfireagent.github.io/opensemi/categories/Device/"/>
-    
-    
-    <category term="AI" scheme="https://blackfireagent.github.io/opensemi/tags/AI/"/>
-    
-    <category term="Advanced Packaging" scheme="https://blackfireagent.github.io/opensemi/tags/Advanced-Packaging/"/>
-    
-    <category term="Semiconductor Manufacturing" scheme="https://blackfireagent.github.io/opensemi/tags/Semiconductor-Manufacturing/"/>
-    
-    <category term="Chiplets" scheme="https://blackfireagent.github.io/opensemi/tags/Chiplets/"/>
-    
-    <category term="Machine Learning" scheme="https://blackfireagent.github.io/opensemi/tags/Machine-Learning/"/>
-    
-    <category term="Edge AI" scheme="https://blackfireagent.github.io/opensemi/tags/Edge-AI/"/>
-    
-    <category term="Neuromorphic Computing" scheme="https://blackfireagent.github.io/opensemi/tags/Neuromorphic-Computing/"/>
-    
-    <category term="Ethernet" scheme="https://blackfireagent.github.io/opensemi/tags/Ethernet/"/>
-    
-  </entry>
-  
-  <entry>
     <title>The Rise, Fall, and Rebirth of In-Circuit Emulation</title>
     <link href="https://blackfireagent.github.io/opensemi/20251021_The-Rise,-Fall,-and-Rebirth-of-In-Circuit-Emulation/"/>
     <id>https://blackfireagent.github.io/opensemi/20251021_The-Rise,-Fall,-and-Rebirth-of-In-Circuit-Emulation/</id>
@@ -219,8 +213,6 @@
     
     <category term="EDA" scheme="https://blackfireagent.github.io/opensemi/tags/EDA/"/>
     
-    <category term="LLMs" scheme="https://blackfireagent.github.io/opensemi/tags/LLMs/"/>
-    
     <category term="Verification" scheme="https://blackfireagent.github.io/opensemi/tags/Verification/"/>
     
     <category term="Automotive" scheme="https://blackfireagent.github.io/opensemi/tags/Automotive/"/>
@@ -234,6 +226,48 @@
     <category term="Sub-3nm" scheme="https://blackfireagent.github.io/opensemi/tags/Sub-3nm/"/>
     
     <category term="CMOS 2.0" scheme="https://blackfireagent.github.io/opensemi/tags/CMOS-2-0/"/>
+    
+    <category term="LLMs" scheme="https://blackfireagent.github.io/opensemi/tags/LLMs/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>The AI PC- A New Category Poised to Reignite the PC Market</title>
+    <link href="https://blackfireagent.github.io/opensemi/20251021_The-AI-PC--A-New-Category-Poised-to-Reignite-the-PC-Market/"/>
+    <id>https://blackfireagent.github.io/opensemi/20251021_The-AI-PC--A-New-Category-Poised-to-Reignite-the-PC-Market/</id>
+    <published>2025-10-20T22:00:00.000Z</published>
+    <updated>2025-10-21T04:19:59.169Z</updated>
+    
+    <content type="html"><![CDATA[<div style="display: flex; justify-content: center;">  <audio controls>    <source src="/opensemi/podcasts/20251021_device_newsletter_gemini-2.5-flash.mp3" type="audio/mpeg">    Your browser does not support the audio element.  </audio></div><h2 id="News"><a href="#News" class="headerlink" title="News"></a><a href="https://www.eetimes.com/texas-instruments-on-its-path-to-95-in-house-manufacturing-by-2030/">News</a></h2><p><strong>Texas Instruments On Its Path to 95% In-House Manufacturing by 2030</strong><br>Texas Instruments (TI) is aggressively pursuing a strategy to increase its self-reliance in semiconductor production, aiming to grow its internal manufacturing capacity to over 95% by 2030. Stefan Bruder, President of TI EMEA and India, highlighted the company’s commitment to investing more than $60 billion in seven fabs across three U.S. mega-sites in Texas and Utah since 2021, including a significant $40 billion at its new 300mm site in Sherman, Texas. This initiative is designed to ensure geopolitically dependable capacity and supply chain resilience by enabling dual-flow capabilities across different global manufacturing locations. TI is also focusing on local raw material procurement to further enhance supply chain stability. The company’s AI strategy encompasses both power-efficient gallium nitride (GaN) products for data centers and embedded AI capabilities in edge devices, such as their C2000 microcontrollers for solar inverters, many of which are being developed in collaboration with its large R&amp;D hub in India.</p><p><img src="https://www.eetimes.com/wp-content/uploads/Low-cost-MCU-F28E120SC-and-F28E120SB-1.jpg" alt="Texas Instruments Low-cost MCU"></p><hr><h2 id="Launches"><a href="#Launches" class="headerlink" title="Launches"></a><a href="https://www.eetimes.com/broadcom-expands-ai-ethernet-offerings/">Launches</a></h2><p><strong>Broadcom Expands AI Ethernet Offerings with Tomahawk 6 CPO Switch and Thor Ultra NIC</strong><br>Broadcom Inc. is significantly enhancing its AI networking portfolio with the launch of its Tomahawk 6 – Davisson (TH6-Davisson) Co-Packaged Optics (CPO) Ethernet switch and the Thor Ultra 800G AI Ethernet Network Interface Card (NIC). The TH6-Davisson, Broadcom’s third-generation CPO Ethernet switch, doubles the bandwidth of existing CPO switches, delivering 102.4 Terabits per second of optically enabled switching capacity while improving power efficiency and traffic stability critical for large-scale AI clusters. This advancement addresses the exploding demand for optical interconnects in AI networks, driven by GPUs requiring substantially more optical bandwidth than traditional CPUs. Concurrently, the Thor Ultra 800G AI Ethernet NIC, now sampling, is the industry’s first to support a single 800G flow and adopts the Ultra Ethernet Consortium (UEC) specification. This enables advanced RDMA capabilities, including packet-level multipathing, out-of-order packet delivery, selective retransmit, and scalable congestion control, providing an open and efficient solution for interconnecting hundreds of thousands of XPUs in AI workloads.</p><p><img src="https://www.eetimes.com/wp-content/uploads/Broadcom-AInetworking-covercarousel.png" alt="Broadcom AI Networking"></p><hr><h2 id="Charts"><a href="#Charts" class="headerlink" title="Charts"></a><a href="https://semiwiki.com/artificial-intelligence/362815-the-ai-pc-a-new-category-poised-to-reignite-the-pc-market/">Charts</a></h2><p><strong>The AI PC: A New Category Poised to Reignite the PC Market</strong><br>The personal computing industry is experiencing its most significant transformation since the 1980s with the emergence of the AI PC, a category poised to reignite growth in a previously plateaued market. Defined by the integration of a dedicated Neural Processing Unit (NPU) or equivalent accelerator, AI PCs enable on-device machine learning, running large language models, generative tools, and real-time personalization locally. Apple has established an early lead by incorporating its Neural Engine into all M-series Macs since 2020, achieving seamless vertical integration across silicon, OS, and frameworks. While Intel and AMD are rapidly catching up with their NPU-equipped platforms, only about 30% of x86 PCs shipped in 2025 qualify as AI PCs. Gartner projects a substantial market surge, with AI PC shipments expected to reach approximately 114 million units in 2025, a 165% increase over 2024, representing over 40% of the total PC market. This shift reflects both corporate demand for efficiency tools and individual users’ desire for local AI capabilities, promising to redefine productivity and creativity in the digital era.</p><p><img src="https://semiwiki.com/wp-content/uploads/2025/10/Fig-1.jpg" alt="AI PC Shipments Chart"></p><hr><h2 id="Research"><a href="#Research" class="headerlink" title="Research"></a><a href="https://techxplore.com/news/2025-10-team-high-ultra-power-superconductive.html">Research</a></h2><p><strong>Team Develops High-Speed, Ultra-Low-Power Superconductive Neuron Device for Neuromorphic Computing</strong><br>Researchers have developed a novel superconductive neuron device that promises to advance large-scale, high-speed, and ultra-low-power neuromorphic network circuits. Published in <em>Neuromorphic Computing and Engineering</em>, this groundbreaking device employs digital processing using superconducting circuits that utilize magnetic flux quanta as signal carriers. This approach significantly eliminates variations in the characteristics of elemental circuits, a common challenge in hardware implementation of neuromorphic systems. The team’s compact design implements the Rectified Linear Unit (ReLU) activation function through frequency conversion, leveraging single flux quantum logic. A key advantage is its remarkable robustness against device variability, maintaining ideal input-output characteristics even with up to 20% parameter variations. This marks a substantial improvement over conventional analog-based neuron devices, which are highly sensitive to non-uniformity and often suffer from high power consumption and limited capacity. This innovation paves the way for scalable superconducting neural networks, offering a path to ultra-high-speed and energy-efficient AI applications.</p><p><img src="https://scx2.b-cdn.net/gfx/news/2025/team-develops-high-spe.jpg" alt="Superconductive Neuron Device"></p><hr><h2 id="Insight"><a href="#Insight" class="headerlink" title="Insight"></a><a href="https://semiwiki.com/events/362577-webinar-ip-design-considerations-for-real-time-edge-ai-systems/">Insight</a></h2><p><strong>Synopsys Webinar: IP Design Considerations for Real-Time Edge AI Systems</strong><br>A recent webinar presented by Synopsys, featuring Hezi Saar, Executive Director of Product Line Management for Mobile, Automotive, and Consumer IP, delved into the critical IP design considerations for real-time AI systems at the edge. Saar, drawing from over two decades of experience in the semiconductor industry, provided a comprehensive overview of how AI is driving semiconductor growth and the motivations behind shifting AI workloads from the cloud to edge devices. He highlighted that power efficiency is a crucial factor, with on-device (edge) AI demonstrating up to 200 times more efficiency compared to cloud-based solutions. The presentation explored the unique requirements for cost, performance, area, and power across a broad range of smart and connected edge devices. Saar also discussed the increasing quality of small models for edge AI, the role of AI companion chips, and the impact of multi-die approaches in addressing consumer demands for cost-effective products, emphasizing that this shift is driving the next innovation cycle in the industry.</p><p><img src="https://semiwiki.com/wp-content/uploads/2025/10/Webinar-%E2%80%93-IP-Design-Considerations-for-Real-Time-Edge-AI-Systems-1200x570.png" alt="Synopsys Webinar on Edge AI Systems"></p><hr><p>Stay tuned for more essential insights and updates as the semiconductor industry continues to innovate and redefine the future of technology!</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;div style=&quot;display: flex; justify-content: center;&quot;&gt;
+  &lt;audio controls&gt;
+    &lt;source src=&quot;/opensemi/podcasts/20251021_device_newsletter_gemi</summary>
+      
+    
+    
+    
+    <category term="Device" scheme="https://blackfireagent.github.io/opensemi/categories/Device/"/>
+    
+    
+    <category term="AI" scheme="https://blackfireagent.github.io/opensemi/tags/AI/"/>
+    
+    <category term="Semiconductor Manufacturing" scheme="https://blackfireagent.github.io/opensemi/tags/Semiconductor-Manufacturing/"/>
+    
+    <category term="Advanced Packaging" scheme="https://blackfireagent.github.io/opensemi/tags/Advanced-Packaging/"/>
+    
+    <category term="Chiplets" scheme="https://blackfireagent.github.io/opensemi/tags/Chiplets/"/>
+    
+    <category term="Machine Learning" scheme="https://blackfireagent.github.io/opensemi/tags/Machine-Learning/"/>
+    
+    <category term="Edge AI" scheme="https://blackfireagent.github.io/opensemi/tags/Edge-AI/"/>
+    
+    <category term="Neuromorphic Computing" scheme="https://blackfireagent.github.io/opensemi/tags/Neuromorphic-Computing/"/>
+    
+    <category term="Ethernet" scheme="https://blackfireagent.github.io/opensemi/tags/Ethernet/"/>
     
   </entry>
   
@@ -261,19 +295,19 @@
     
     <category term="market trends" scheme="https://blackfireagent.github.io/opensemi/tags/market-trends/"/>
     
-    <category term="chiplets" scheme="https://blackfireagent.github.io/opensemi/tags/chiplets/"/>
-    
     <category term="RISC-V" scheme="https://blackfireagent.github.io/opensemi/tags/RISC-V/"/>
+    
+    <category term="chiplets" scheme="https://blackfireagent.github.io/opensemi/tags/chiplets/"/>
     
     <category term="advanced packaging" scheme="https://blackfireagent.github.io/opensemi/tags/advanced-packaging/"/>
     
     <category term="TSMC" scheme="https://blackfireagent.github.io/opensemi/tags/TSMC/"/>
     
+    <category term="LLMs" scheme="https://blackfireagent.github.io/opensemi/tags/LLMs/"/>
+    
     <category term="AI semiconductors" scheme="https://blackfireagent.github.io/opensemi/tags/AI-semiconductors/"/>
     
     <category term="processing-in-memory" scheme="https://blackfireagent.github.io/opensemi/tags/processing-in-memory/"/>
-    
-    <category term="LLMs" scheme="https://blackfireagent.github.io/opensemi/tags/LLMs/"/>
     
     <category term="data center cooling" scheme="https://blackfireagent.github.io/opensemi/tags/data-center-cooling/"/>
     
@@ -391,9 +425,9 @@
     
     <category term="AI" scheme="https://blackfireagent.github.io/opensemi/tags/AI/"/>
     
-    <category term="Advanced Packaging" scheme="https://blackfireagent.github.io/opensemi/tags/Advanced-Packaging/"/>
-    
     <category term="Semiconductor Manufacturing" scheme="https://blackfireagent.github.io/opensemi/tags/Semiconductor-Manufacturing/"/>
+    
+    <category term="Advanced Packaging" scheme="https://blackfireagent.github.io/opensemi/tags/Advanced-Packaging/"/>
     
     <category term="Innovation" scheme="https://blackfireagent.github.io/opensemi/tags/Innovation/"/>
     
@@ -688,34 +722,6 @@
     <category term="quantum computing" scheme="https://blackfireagent.github.io/opensemi/tags/quantum-computing/"/>
     
     <category term="memory" scheme="https://blackfireagent.github.io/opensemi/tags/memory/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>iDEAL Semiconductor Announces Polar Semiconductor as Manufacturing Partner for SuperQ Power Devices</title>
-    <link href="https://blackfireagent.github.io/opensemi/20250922_iDEAL-Semiconductor-Announces-Polar-Semiconductor-as-Manufacturing-Partner-for-SuperQ-Power-Devices/"/>
-    <id>https://blackfireagent.github.io/opensemi/20250922_iDEAL-Semiconductor-Announces-Polar-Semiconductor-as-Manufacturing-Partner-for-SuperQ-Power-Devices/</id>
-    <published>2025-09-21T22:00:00.000Z</published>
-    <updated>2025-09-22T04:16:09.313Z</updated>
-    
-    <content type="html"><![CDATA[<h2 id="News"><a href="#News" class="headerlink" title="News"></a><a href="https://spectrum.ieee.org/natcast-layoffs">News</a></h2><p><strong>Natcast to Lay Off Majority of Its Staff</strong><br>Natcast, the organization created to run the U.S. CHIPS &amp; Science Act’s National Semiconductor Technology Center, announced it would lay off most of its staff. This decision follows the U.S. Department of Commerce’s refusal to provide $7.4 billion in funding, which has raised concerns about the future of semiconductor research and innovation in the U.S.</p><p><img src="https://spectrum.ieee.org/media-library/image.jpg?id=61557640&width=1200&height=600&coordinates=0,250,0,250" alt="Natcast Layoffs"></p><hr><h2 id="Launches"><a href="#Launches" class="headerlink" title="Launches"></a><a href="https://www.semiconductor-digest.com/ideal-semiconductor-announces-polar-semiconductor-as-manufacturing-partner-for-superq-power-devices/">Launches</a></h2><p><strong>iDEAL Semiconductor Announces Polar Semiconductor as Manufacturing Partner for SuperQ Power Devices</strong><br>iDEAL Semiconductor has partnered with Polar Semiconductor to begin production of its innovative SuperQ silicon power devices, which promise significant efficiency improvements in high-voltage applications. This partnership highlights the growing trend toward domestic semiconductor manufacturing capabilities.</p><p><img src="https://www.semiconductor-digest.com/wp-content/uploads/2019/02/Final-Logo-1.png" alt="iDEAL Semiconductor"></p><hr><h2 id="Charts"><a href="#Charts" class="headerlink" title="Charts"></a><a href="https://www.semiconductor-digest.com/rising-copper-demand-in-semiconductors-drives-plating-chemicals-for-advanced-packaging-and-interconnects/">Charts</a></h2><p><strong>Rising Copper Demand in Semiconductors Drives Plating Chemicals for Advanced Packaging and Interconnects</strong><br>A recent report indicates that the global plating chemicals market is projected to reach $1.373 billion by 2025, driven by increasing interconnect densities in advanced logic and AI applications. The report details the shifting landscape of materials used in semiconductor packaging.</p><p><img src="https://www.semiconductor-digest.com/wp-content/uploads/2025/09/Screenshot-2025-09-09-at-12.23.28_PM.png" alt="Copper Demand Chart"></p><hr><h2 id="Research"><a href="#Research" class="headerlink" title="Research"></a><a href="https://techxplore.com/news/2025-09-magnetic-tunnel-junctions-mimic-synapse.html">Research</a></h2><p><strong>Magnetic Tunnel Junctions Mimic Synapse Behavior for Energy-Efficient Neuromorphic Computing</strong><br>Researchers have developed a new method using magnetic tunnel junctions (MTJs) that simulate synapse activity, offering a promising approach to neuromorphic computing. This innovation could lead to more energy-efficient architectures for AI systems, mimicking how the human brain processes information.</p><p><img src="https://scx2.b-cdn.net/gfx/news/hires/2025/new-approach-to-energy.jpg" alt="Neuromorphic Computing"></p><hr><h2 id="Insight"><a href="#Insight" class="headerlink" title="Insight"></a><a href="https://www.imec-int.com/en/articles/agentic-and-physical-ai-will-change-everything">Insight</a></h2><p><strong>Agentic AI and Physical AI Will Change Everything</strong><br>In a recent podcast, Axel Nackaerts from imec discussed the future of AI driven by hardware innovation. He emphasized the importance of designing flexible hardware capable of adapting to rapidly changing AI workloads. This shift could redefine industries such as healthcare, logistics, and manufacturing, showcasing the critical role of semiconductor technologies.</p><p><img src="https://www.imec-int.com/sites/default/files/2025-09/GettyImages-2210278635.jpg" alt="Hardware Innovation"></p><hr><p>Stay tuned for more updates as we continue to bring you the latest news and insights from the semiconductor industry!</p>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;h2 id=&quot;News&quot;&gt;&lt;a href=&quot;#News&quot; class=&quot;headerlink&quot; title=&quot;News&quot;&gt;&lt;/a&gt;&lt;a href=&quot;https://spectrum.ieee.org/natcast-layoffs&quot;&gt;News&lt;/a&gt;&lt;/h2&gt;&lt;p&gt;&lt;stron</summary>
-      
-    
-    
-    
-    <category term="Semiconductor" scheme="https://blackfireagent.github.io/opensemi/categories/Semiconductor/"/>
-    
-    
-    <category term="AI" scheme="https://blackfireagent.github.io/opensemi/tags/AI/"/>
-    
-    <category term="innovation" scheme="https://blackfireagent.github.io/opensemi/tags/innovation/"/>
-    
-    <category term="semiconductor manufacturing" scheme="https://blackfireagent.github.io/opensemi/tags/semiconductor-manufacturing/"/>
     
   </entry>
   
