@@ -4,6 +4,39 @@
   
     
     <entry>
+      <title>proteanTecs&#39; Real-Time Health Monitoring Prevents Semiconductor Failures</title>
+      <link href="/opensemi/20251104_proteanTecs&#39;-Real-Time-Health-Monitoring-Prevents-Semiconductor-Failures/"/>
+      <url>/opensemi/20251104_proteanTecs&#39;-Real-Time-Health-Monitoring-Prevents-Semiconductor-Failures/</url>
+      
+        <content type="html"><![CDATA[<div style="display: flex; justify-content: center;">  <audio controls>    <source src="/opensemi/podcasts/20251104_device_newsletter_gemini-2.5-flash.mp3" type="audio/mpeg">  </audio></div><h2 id="News"><a href="#News" class="headerlink" title="News"></a><a href="https://www.eetimes.com/intel-eyeing-ai-catchup-in-inference-with-sambanova-acquisition/">News</a></h2><p><strong>Intel Eyeing AI Catchup in Inference with SambaNova Acquisition</strong><br>Intel is reportedly in talks to acquire AI processor designer SambaNova as part of a strategic shift to bolster its AI roadmap, focusing heavily on inference workloads. This move comes after Intel canceled its Falcon Shores AI accelerator and announced the “Crescent Island” GPU for inference, aiming for a “system-level solution at rack scale.” SambaNova specializes in AI hardware and software stacks, particularly reconfigurable dataflow unit (RDU) chips optimized for large-scale inference by mapping neural network graphs directly into hardware, reducing memory movement overhead.</p><p><img src="https://www.eetimes.com/wp-content/uploads/AdobeStock_283632950_Editorial_Use_Only.jpeg" alt="Intel SambaNova Acquisition"></p><ul><li>Intel is pivoting its AI strategy towards inference workloads and full-stack solutions.</li><li>SambaNova’s RDU chips and expertise in inference systems could significantly enhance Intel’s AI offerings.</li><li>The potential acquisition highlights Intel’s renewed focus on the rapidly growing AI inference market.</li></ul><hr><h2 id="Launches"><a href="#Launches" class="headerlink" title="Launches"></a><a href="https://www.eetimes.com/could-ntts-low-power-chip-be-a-game-changer-for-drones/">Launches</a></h2><p><strong>NTT’s Low-Power Chip Revolutionizes Drone Object Detection</strong><br>NTT Research has unveiled a groundbreaking chip capable of real-time 4K video object detection at under 20W, a critical advancement for battery-powered aerial platforms like drones. Unlike conventional systems that downscale video, NTT’s chip processes 4K frames by dividing them into blocks, running parallel YOLO detection, and then fusing results with a holistic “overview” process. This maintains high-resolution accuracy while achieving remarkable power efficiency, enabling drones to detect objects farther away and classify them more accurately.</p><p><img src="https://www.eetimes.com/wp-content/uploads/Image-4-5.jpg" alt="NTT Drone Chip"></p><ul><li>The chip performs real-time 4K object detection under 20W, crucial for power-constrained drones.</li><li>It utilizes a unique block-processing and fusion method to maintain high resolution without downscaling.</li><li>Expected to be generally available in early 2026, it promises to enhance drone autonomy, swarming, and security by reducing reliance on external data links.</li></ul><hr><h2 id="Charts"><a href="#Charts" class="headerlink" title="Charts"></a><a href="https://semiengineering.com/mits-survey-on-accelerators-and-processors-for-inference-with-peak-performance-and-power-comparisons/">Charts</a></h2><p><strong>MIT Lincoln Lab Releases LAICS Survey on AI Accelerators and Processors</strong><br>The MIT Lincoln Laboratory Supercomputing Center has published an updated “Lincoln AI Computing Survey (LAICS) and Trends,” providing a multi-year analysis of commercial AI accelerators and processors. This survey compiles publicly announced peak performance and power consumption numbers, plotting them on scatter graphs to highlight market segments and trends. The latest update includes a new categorization of computing architectures, offering crucial insights into the evolving landscape of hardware for generative AI training and inference.</p><p><img src="https://semiengineering.com/wp-content/uploads/AdobeStock_309524207-scaled.jpeg" alt="MIT LAICS Survey"></p><ul><li>The LAICS survey offers a comprehensive overview of commercial AI accelerators’ performance and power.</li><li>It utilizes scatter graphs to visualize trends and differentiate market segments for AI hardware.</li><li>The updated survey includes new architectural categorizations relevant to GenAI.</li></ul><hr><h2 id="Research"><a href="#Research" class="headerlink" title="Research"></a><a href="https://techxplore.com/news/2025-10-neuromorphic-prototype-patterns-traditional-ai.html">Research</a></h2><p><strong>Neuromorphic Computer Prototype Learns Patterns with Fewer Computations</strong><br>Researchers at The University of Texas at Dallas, in collaboration with Everspin Technologies Inc. and Texas Instruments, have developed a small-scale neuromorphic computer prototype that significantly reduces training computations. This brain-inspired hardware integrates memory storage with processing, allowing it to perform AI tasks more efficiently and with lower power consumption than conventional AI systems. A key innovation is the use of magnetic tunnel junctions (MTJs) in networks, mimicking synaptic connections to adapt and learn patterns based on Hebb’s law.</p><p><img src="https://scx2.b-cdn.net/gfx/news/hires/2025/team-builds-computer-p.jpg" alt="Neuromorphic Prototype"></p><ul><li>The prototype achieves efficient pattern learning with substantially fewer training computations.</li><li>It integrates memory and processing, inspired by brain architecture, for greater AI efficiency.</li><li>Magnetic tunnel junctions (MTJs) are central to its design, enabling adaptive learning through varying conductivity.</li></ul><hr><h2 id="Insight"><a href="#Insight" class="headerlink" title="Insight"></a><a href="https://semiwiki.com/analytics/proteantecs/362580-failure-prevention-with-real-time-health-monitoring-a-proteantecs-innovation/">Insight</a></h2><p><strong>proteanTecs’ Real-Time Health Monitoring Prevents Semiconductor Failures</strong><br>At the 2025 TSMC OIP Forum, Noam Brousard of proteanTecs presented on “Failure Prevention with Real-Time Health Monitoring (RTHM™),” addressing the critical challenge of silent data corruption (SDC) in advanced semiconductor devices. As devices shrink and operate under intense AI workloads, traditional reliability methods fall short. RTHM provides continuous, high-coverage on-chip monitoring of performance-limiting paths using embedded Agents. It generates a “Performance Index” score, enabling proactive intervention before failures escalate, thereby safeguarding against SDC, functional failures, and system errors.</p><p><img src="https://semiwiki.com/wp-content/uploads/2025/10/proteanTecs-RTHM-OIP-2025-1200x615.jpg" alt="proteanTecs RTHM"></p><ul><li>SDC is a growing threat in nanoscale semiconductors and AI systems, leading to untraceable failures.</li><li>proteanTecs’ RTHM offers proactive, continuous on-chip monitoring to predict and avert failures.</li><li>The system uses a Performance Index to indicate proximity to failure, enabling timely mitigation and enhanced system reliability.</li></ul><hr><p>Stay tuned with us for the latest news and breakthroughs shaping the semiconductor landscape!</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> Device </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> Edge AI </tag>
+            
+            <tag> Neuromorphic Computing </tag>
+            
+            <tag> AI Acceleration </tag>
+            
+            <tag> Chiplet Systems </tag>
+            
+            <tag> Semiconductor Reliability </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>NVIDIA, South Korea Government and Industrial Giants Build AI Infrastructure and Ecosystem to Fuel Korea Innovation, Industries and Jobs</title>
       <link href="/opensemi/20251103_NVIDIA,-South-Korea-Government-and-Industrial-Giants-Build-AI-Infrastructure-and-Ecosystem-to-Fuel-Korea-Innovation,-Industries-and-Jobs/"/>
       <url>/opensemi/20251103_NVIDIA,-South-Korea-Government-and-Industrial-Giants-Build-AI-Infrastructure-and-Ecosystem-to-Fuel-Korea-Innovation,-Industries-and-Jobs/</url>
@@ -123,9 +156,9 @@
             
             <tag> Edge AI </tag>
             
-            <tag> Photonics </tag>
-            
             <tag> SiC </tag>
+            
+            <tag> Photonics </tag>
             
             <tag> 3D-IC </tag>
             
@@ -435,9 +468,9 @@
             
             <tag> AI </tag>
             
-            <tag> innovation </tag>
-            
             <tag> technology </tag>
+            
+            <tag> innovation </tag>
             
             <tag> semiconductors </tag>
             
@@ -687,9 +720,9 @@
             
             <tag> AI </tag>
             
-            <tag> semiconductors </tag>
-            
             <tag> RISC-V </tag>
+            
+            <tag> semiconductors </tag>
             
             <tag> memory design </tag>
             
@@ -881,9 +914,9 @@
             
             <tag> AI </tag>
             
-            <tag> innovation </tag>
-            
             <tag> technology </tag>
+            
+            <tag> innovation </tag>
             
             <tag> research </tag>
             
@@ -951,9 +984,9 @@
             
             <tag> semiconductors </tag>
             
-            <tag> architecture </tag>
-            
             <tag> memory </tag>
+            
+            <tag> architecture </tag>
             
         </tags>
       
@@ -980,9 +1013,9 @@
             
             <tag> market trends </tag>
             
-            <tag> innovation </tag>
-            
             <tag> technology </tag>
+            
+            <tag> innovation </tag>
             
             <tag> semiconductors </tag>
             
@@ -1042,9 +1075,9 @@
       
         <tags>
             
-            <tag> innovation </tag>
-            
             <tag> technology </tag>
+            
+            <tag> innovation </tag>
             
             <tag> sustainability </tag>
             
@@ -1238,9 +1271,9 @@
             
             <tag> SoC </tag>
             
-            <tag> architecture </tag>
-            
             <tag> memory </tag>
+            
+            <tag> architecture </tag>
             
         </tags>
       
@@ -1395,9 +1428,9 @@
             
             <tag> market trends </tag>
             
-            <tag> innovation </tag>
-            
             <tag> technology </tag>
+            
+            <tag> innovation </tag>
             
             <tag> semiconductors </tag>
             
@@ -1525,9 +1558,9 @@
             
             <tag> AI </tag>
             
-            <tag> semiconductors </tag>
-            
             <tag> RISC-V </tag>
+            
+            <tag> semiconductors </tag>
             
             <tag> EDA </tag>
             
@@ -1752,9 +1785,9 @@
             
             <tag> AI </tag>
             
-            <tag> innovation </tag>
-            
             <tag> technology </tag>
+            
+            <tag> innovation </tag>
             
             <tag> semiconductors </tag>
             
@@ -1814,9 +1847,9 @@
             
             <tag> AI </tag>
             
-            <tag> innovation </tag>
-            
             <tag> technology </tag>
+            
+            <tag> innovation </tag>
             
             <tag> research </tag>
             
@@ -1845,9 +1878,9 @@
       
         <tags>
             
-            <tag> innovation </tag>
-            
             <tag> technology </tag>
+            
+            <tag> innovation </tag>
             
             <tag> semiconductor </tag>
             
@@ -2010,9 +2043,9 @@
       
         <tags>
             
-            <tag> innovation </tag>
-            
             <tag> technology </tag>
+            
+            <tag> innovation </tag>
             
             <tag> semiconductors </tag>
             
@@ -2171,9 +2204,9 @@
       
         <tags>
             
-            <tag> innovation </tag>
-            
             <tag> technology </tag>
+            
+            <tag> innovation </tag>
             
             <tag> semiconductor </tag>
             
@@ -2204,9 +2237,9 @@
       
         <tags>
             
-            <tag> innovation </tag>
-            
             <tag> technology </tag>
+            
+            <tag> innovation </tag>
             
             <tag> semiconductor </tag>
             
@@ -2433,9 +2466,9 @@
             
             <tag> market trends </tag>
             
-            <tag> innovation </tag>
-            
             <tag> technology </tag>
+            
+            <tag> innovation </tag>
             
             <tag> semiconductors </tag>
             
@@ -2495,9 +2528,9 @@
       
         <tags>
             
-            <tag> Market Trends </tag>
-            
             <tag> Semiconductor Technology </tag>
+            
+            <tag> Market Trends </tag>
             
             <tag> EUV Lithography </tag>
             
@@ -2555,9 +2588,9 @@
       
         <tags>
             
-            <tag> innovation </tag>
-            
             <tag> technology </tag>
+            
+            <tag> innovation </tag>
             
             <tag> investment </tag>
             
@@ -2588,9 +2621,9 @@
       
         <tags>
             
-            <tag> innovation </tag>
-            
             <tag> technology </tag>
+            
+            <tag> innovation </tag>
             
             <tag> semiconductors </tag>
             
@@ -2683,9 +2716,9 @@
             
             <tag> AI </tag>
             
-            <tag> innovation </tag>
-            
             <tag> technology </tag>
+            
+            <tag> innovation </tag>
             
             <tag> manufacturing </tag>
             
@@ -2877,9 +2910,9 @@
             
             <tag> AI </tag>
             
-            <tag> innovation </tag>
-            
             <tag> technology </tag>
+            
+            <tag> innovation </tag>
             
             <tag> semiconductor industry </tag>
             
@@ -2939,9 +2972,9 @@
             
             <tag> AI </tag>
             
-            <tag> innovation </tag>
-            
             <tag> technology </tag>
+            
+            <tag> innovation </tag>
             
             <tag> legislation </tag>
             
@@ -3005,9 +3038,9 @@
             
             <tag> market trends </tag>
             
-            <tag> innovation </tag>
-            
             <tag> technology </tag>
+            
+            <tag> innovation </tag>
             
             <tag> semiconductor </tag>
             
@@ -3038,9 +3071,9 @@
             
             <tag> market trends </tag>
             
-            <tag> innovation </tag>
-            
             <tag> technology </tag>
+            
+            <tag> innovation </tag>
             
         </tags>
       
@@ -3065,13 +3098,13 @@
       
         <tags>
             
-            <tag> innovation </tag>
-            
             <tag> technology </tag>
             
-            <tag> semiconductor </tag>
+            <tag> innovation </tag>
             
             <tag> sustainability </tag>
+            
+            <tag> semiconductor </tag>
             
         </tags>
       
@@ -3098,11 +3131,11 @@
             
             <tag> AI </tag>
             
+            <tag> Market Trends </tag>
+            
             <tag> Semiconductor Manufacturing </tag>
             
             <tag> Research </tag>
-            
-            <tag> Market Trends </tag>
             
             <tag> Technology </tag>
             
@@ -3131,11 +3164,11 @@
             
             <tag> AI </tag>
             
-            <tag> Market Trends </tag>
-            
             <tag> Semiconductor Technology </tag>
             
             <tag> Chip Design </tag>
+            
+            <tag> Market Trends </tag>
             
         </tags>
       
@@ -3218,9 +3251,9 @@
       
         <tags>
             
-            <tag> AI </tag>
-            
             <tag> packaging </tag>
+            
+            <tag> AI </tag>
             
             <tag> semiconductor technology </tag>
             

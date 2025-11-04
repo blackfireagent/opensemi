@@ -6,10 +6,44 @@
   <link href="https://blackfireagent.github.io/opensemi/atom.xml" rel="self"/>
   
   <link href="https://blackfireagent.github.io/opensemi/"/>
-  <updated>2025-11-03T05:20:23.711Z</updated>
+  <updated>2025-11-04T05:18:23.422Z</updated>
   <id>https://blackfireagent.github.io/opensemi/</id>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>proteanTecs&#39; Real-Time Health Monitoring Prevents Semiconductor Failures</title>
+    <link href="https://blackfireagent.github.io/opensemi/20251104_proteanTecs&#39;-Real-Time-Health-Monitoring-Prevents-Semiconductor-Failures/"/>
+    <id>https://blackfireagent.github.io/opensemi/20251104_proteanTecs&#39;-Real-Time-Health-Monitoring-Prevents-Semiconductor-Failures/</id>
+    <published>2025-11-03T23:00:00.000Z</published>
+    <updated>2025-11-04T05:18:23.422Z</updated>
+    
+    <content type="html"><![CDATA[<div style="display: flex; justify-content: center;">  <audio controls>    <source src="/opensemi/podcasts/20251104_device_newsletter_gemini-2.5-flash.mp3" type="audio/mpeg">  </audio></div><h2 id="News"><a href="#News" class="headerlink" title="News"></a><a href="https://www.eetimes.com/intel-eyeing-ai-catchup-in-inference-with-sambanova-acquisition/">News</a></h2><p><strong>Intel Eyeing AI Catchup in Inference with SambaNova Acquisition</strong><br>Intel is reportedly in talks to acquire AI processor designer SambaNova as part of a strategic shift to bolster its AI roadmap, focusing heavily on inference workloads. This move comes after Intel canceled its Falcon Shores AI accelerator and announced the “Crescent Island” GPU for inference, aiming for a “system-level solution at rack scale.” SambaNova specializes in AI hardware and software stacks, particularly reconfigurable dataflow unit (RDU) chips optimized for large-scale inference by mapping neural network graphs directly into hardware, reducing memory movement overhead.</p><p><img src="https://www.eetimes.com/wp-content/uploads/AdobeStock_283632950_Editorial_Use_Only.jpeg" alt="Intel SambaNova Acquisition"></p><ul><li>Intel is pivoting its AI strategy towards inference workloads and full-stack solutions.</li><li>SambaNova’s RDU chips and expertise in inference systems could significantly enhance Intel’s AI offerings.</li><li>The potential acquisition highlights Intel’s renewed focus on the rapidly growing AI inference market.</li></ul><hr><h2 id="Launches"><a href="#Launches" class="headerlink" title="Launches"></a><a href="https://www.eetimes.com/could-ntts-low-power-chip-be-a-game-changer-for-drones/">Launches</a></h2><p><strong>NTT’s Low-Power Chip Revolutionizes Drone Object Detection</strong><br>NTT Research has unveiled a groundbreaking chip capable of real-time 4K video object detection at under 20W, a critical advancement for battery-powered aerial platforms like drones. Unlike conventional systems that downscale video, NTT’s chip processes 4K frames by dividing them into blocks, running parallel YOLO detection, and then fusing results with a holistic “overview” process. This maintains high-resolution accuracy while achieving remarkable power efficiency, enabling drones to detect objects farther away and classify them more accurately.</p><p><img src="https://www.eetimes.com/wp-content/uploads/Image-4-5.jpg" alt="NTT Drone Chip"></p><ul><li>The chip performs real-time 4K object detection under 20W, crucial for power-constrained drones.</li><li>It utilizes a unique block-processing and fusion method to maintain high resolution without downscaling.</li><li>Expected to be generally available in early 2026, it promises to enhance drone autonomy, swarming, and security by reducing reliance on external data links.</li></ul><hr><h2 id="Charts"><a href="#Charts" class="headerlink" title="Charts"></a><a href="https://semiengineering.com/mits-survey-on-accelerators-and-processors-for-inference-with-peak-performance-and-power-comparisons/">Charts</a></h2><p><strong>MIT Lincoln Lab Releases LAICS Survey on AI Accelerators and Processors</strong><br>The MIT Lincoln Laboratory Supercomputing Center has published an updated “Lincoln AI Computing Survey (LAICS) and Trends,” providing a multi-year analysis of commercial AI accelerators and processors. This survey compiles publicly announced peak performance and power consumption numbers, plotting them on scatter graphs to highlight market segments and trends. The latest update includes a new categorization of computing architectures, offering crucial insights into the evolving landscape of hardware for generative AI training and inference.</p><p><img src="https://semiengineering.com/wp-content/uploads/AdobeStock_309524207-scaled.jpeg" alt="MIT LAICS Survey"></p><ul><li>The LAICS survey offers a comprehensive overview of commercial AI accelerators’ performance and power.</li><li>It utilizes scatter graphs to visualize trends and differentiate market segments for AI hardware.</li><li>The updated survey includes new architectural categorizations relevant to GenAI.</li></ul><hr><h2 id="Research"><a href="#Research" class="headerlink" title="Research"></a><a href="https://techxplore.com/news/2025-10-neuromorphic-prototype-patterns-traditional-ai.html">Research</a></h2><p><strong>Neuromorphic Computer Prototype Learns Patterns with Fewer Computations</strong><br>Researchers at The University of Texas at Dallas, in collaboration with Everspin Technologies Inc. and Texas Instruments, have developed a small-scale neuromorphic computer prototype that significantly reduces training computations. This brain-inspired hardware integrates memory storage with processing, allowing it to perform AI tasks more efficiently and with lower power consumption than conventional AI systems. A key innovation is the use of magnetic tunnel junctions (MTJs) in networks, mimicking synaptic connections to adapt and learn patterns based on Hebb’s law.</p><p><img src="https://scx2.b-cdn.net/gfx/news/hires/2025/team-builds-computer-p.jpg" alt="Neuromorphic Prototype"></p><ul><li>The prototype achieves efficient pattern learning with substantially fewer training computations.</li><li>It integrates memory and processing, inspired by brain architecture, for greater AI efficiency.</li><li>Magnetic tunnel junctions (MTJs) are central to its design, enabling adaptive learning through varying conductivity.</li></ul><hr><h2 id="Insight"><a href="#Insight" class="headerlink" title="Insight"></a><a href="https://semiwiki.com/analytics/proteantecs/362580-failure-prevention-with-real-time-health-monitoring-a-proteantecs-innovation/">Insight</a></h2><p><strong>proteanTecs’ Real-Time Health Monitoring Prevents Semiconductor Failures</strong><br>At the 2025 TSMC OIP Forum, Noam Brousard of proteanTecs presented on “Failure Prevention with Real-Time Health Monitoring (RTHM™),” addressing the critical challenge of silent data corruption (SDC) in advanced semiconductor devices. As devices shrink and operate under intense AI workloads, traditional reliability methods fall short. RTHM provides continuous, high-coverage on-chip monitoring of performance-limiting paths using embedded Agents. It generates a “Performance Index” score, enabling proactive intervention before failures escalate, thereby safeguarding against SDC, functional failures, and system errors.</p><p><img src="https://semiwiki.com/wp-content/uploads/2025/10/proteanTecs-RTHM-OIP-2025-1200x615.jpg" alt="proteanTecs RTHM"></p><ul><li>SDC is a growing threat in nanoscale semiconductors and AI systems, leading to untraceable failures.</li><li>proteanTecs’ RTHM offers proactive, continuous on-chip monitoring to predict and avert failures.</li><li>The system uses a Performance Index to indicate proximity to failure, enabling timely mitigation and enhanced system reliability.</li></ul><hr><p>Stay tuned with us for the latest news and breakthroughs shaping the semiconductor landscape!</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;div style=&quot;display: flex; justify-content: center;&quot;&gt;
+  &lt;audio controls&gt;
+    &lt;source src=&quot;/opensemi/podcasts/20251104_device_newsletter_gemi</summary>
+      
+    
+    
+    
+    <category term="Device" scheme="https://blackfireagent.github.io/opensemi/categories/Device/"/>
+    
+    
+    <category term="Edge AI" scheme="https://blackfireagent.github.io/opensemi/tags/Edge-AI/"/>
+    
+    <category term="Neuromorphic Computing" scheme="https://blackfireagent.github.io/opensemi/tags/Neuromorphic-Computing/"/>
+    
+    <category term="AI Acceleration" scheme="https://blackfireagent.github.io/opensemi/tags/AI-Acceleration/"/>
+    
+    <category term="Chiplet Systems" scheme="https://blackfireagent.github.io/opensemi/tags/Chiplet-Systems/"/>
+    
+    <category term="Semiconductor Reliability" scheme="https://blackfireagent.github.io/opensemi/tags/Semiconductor-Reliability/"/>
+    
+  </entry>
   
   <entry>
     <title>NVIDIA, South Korea Government and Industrial Giants Build AI Infrastructure and Ecosystem to Fuel Korea Innovation, Industries and Jobs</title>
@@ -139,9 +173,9 @@
     
     <category term="Edge AI" scheme="https://blackfireagent.github.io/opensemi/tags/Edge-AI/"/>
     
-    <category term="Photonics" scheme="https://blackfireagent.github.io/opensemi/tags/Photonics/"/>
-    
     <category term="SiC" scheme="https://blackfireagent.github.io/opensemi/tags/SiC/"/>
+    
+    <category term="Photonics" scheme="https://blackfireagent.github.io/opensemi/tags/Photonics/"/>
     
     <category term="3D-IC" scheme="https://blackfireagent.github.io/opensemi/tags/3D-IC/"/>
     
@@ -459,9 +493,9 @@
     
     <category term="AI" scheme="https://blackfireagent.github.io/opensemi/tags/AI/"/>
     
-    <category term="innovation" scheme="https://blackfireagent.github.io/opensemi/tags/innovation/"/>
-    
     <category term="technology" scheme="https://blackfireagent.github.io/opensemi/tags/technology/"/>
+    
+    <category term="innovation" scheme="https://blackfireagent.github.io/opensemi/tags/innovation/"/>
     
     <category term="semiconductors" scheme="https://blackfireagent.github.io/opensemi/tags/semiconductors/"/>
     
@@ -692,40 +726,6 @@
     <category term="Quantum Computing" scheme="https://blackfireagent.github.io/opensemi/tags/Quantum-Computing/"/>
     
     <category term="Power Efficiency" scheme="https://blackfireagent.github.io/opensemi/tags/Power-Efficiency/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Cost-Effective, Orthogonal Approach to Resilient Memory Design</title>
-    <link href="https://blackfireagent.github.io/opensemi/20250926_Cost-Effective,-Orthogonal-Approach-to-Resilient-Memory-Design/"/>
-    <id>https://blackfireagent.github.io/opensemi/20250926_Cost-Effective,-Orthogonal-Approach-to-Resilient-Memory-Design/</id>
-    <published>2025-09-25T22:00:00.000Z</published>
-    <updated>2025-09-26T05:50:22.302Z</updated>
-    
-    <content type="html"><![CDATA[<div style="display: flex; justify-content: center;">  <audio controls>    <source src="/opensemi/podcasts/20250926_machinelearning_newsletter_gpt-4o-mini.mp3" type="audio/mpeg">    Your browser does not support the audio element.  </audio></div><h2 id="News"><a href="#News" class="headerlink" title="News"></a><a href="https://semiengineering.com/cost-effective-orthogonal-approach-to-resilient-memory-design-univ-of-central-florida-ut-san-antonio-rochester/">News</a></h2><p><strong>Cost-Effective, Orthogonal Approach to Resilient Memory Design</strong><br>A new paper from researchers at the University of Central Florida, UT San Antonio, and Rochester introduces SCREME, a scalable framework for resilient memory design. This approach challenges traditional Error Correction Codes (ECC) by proposing the use of cost-effective, lower-performance chips, which can help meet the growing demands for reliability in memory technology. The insights aim to optimize memory space utilization and enhance performance.</p><p><img src="https://semiengineering.com/wp-content/uploads/iStock-522782562-memory-03-25-24.jpeg?fit=1254,836&ssl=1" alt="Resilient Memory Design"></p><hr><h2 id="Launches"><a href="#Launches" class="headerlink" title="Launches"></a><a href="https://semiengineering.com/kan-acceleration-algorithm-hardware-co-design-approach-georgia-tech-national-tsing-hua-univ-tsmc/">Launches</a></h2><p><strong>KAN Acceleration: Algorithm Hardware Co-Design Approach</strong><br>Researchers from Georgia Tech, National Tsing Hua University, and TSMC have unveiled a new algorithm-hardware co-design framework for optimizing Kolmogorov-Arnold Networks (KAN). This innovative architecture enhances deep neural network capabilities while minimizing the need for extensive hardware resources. The paper details circuit-level optimizations that improve performance and reduce power consumption significantly, paving the way for large-scale KAN implementations.</p><p><img src="https://semiengineering.com/wp-content/uploads/AdobeStock_297039243-06-19-24.jpeg?fit=1200,675&ssl=1" alt="KAN Acceleration"></p><hr><h2 id="Charts"><a href="#Charts" class="headerlink" title="Charts"></a><a href="https://semiengineering.com/hw-sw-co-designed-system-with-3-core-optimization-pathways-for-long-context-agentic-llm-inference-cambridge-icl/">Charts</a></h2><p><strong>HW-SW Co-Designed System With 3 Core Optimization Pathways For Long-Context Agentic LLM Inference</strong><br>A new study from Cambridge and Imperial College London presents PLENA, a system designed to optimize long-context LLM inference. The research showcases a significant increase in hardware utilization and throughput when compared to existing accelerators, demonstrating the impact of innovative hardware-software co-design strategies on efficiency in AI applications.</p><p><img src="https://semiengineering.com/wp-content/uploads/AdobeStock_322782977-01-29-25-scaled.jpeg" alt="Long-Context LLM Inference"></p><hr><h2 id="Research"><a href="#Research" class="headerlink" title="Research"></a><a href="https://semiengineering.com/analog-plus-3d-optics-to-accelerate-ai-inference-and-combinatorial-optimization-microsoft-cambridge/">Research</a></h2><p><strong>Analog Plus 3D Optics to Accelerate AI Inference and Combinatorial Optimization</strong><br>Microsoft Research has published findings on an analog optical computer that integrates analog electronics with 3D optics for enhanced AI inference and optimization tasks. This innovative approach avoids traditional digital conversions, significantly improving energy efficiency. The research highlights case studies that demonstrate the potential of this technology to tackle complex AI and optimization challenges more sustainably.</p><p><img src="https://semiengineering.com/wp-content/uploads/AdobeStock_876124851-March-26-2025-scaled.jpeg" alt="Analog Optical Computer"></p><hr><h2 id="Insight"><a href="#Insight" class="headerlink" title="Insight"></a><a href="https://semiwiki.com/artificial-intelligence/361744-sifive-launches-second-generation-intelligence-family-of-risc-v-cores/">Insight</a></h2><p><strong>Generation Intelligence Family of RISC-V Cores Launched by SiFive</strong><br>SiFive’s launch of its second-generation Intelligence Family of RISC-V processor IP cores marks a significant advancement in AI processing. The new X100 series promises to outperform current competitors while focusing on low power requirements. The leadership team discusses the implications of these innovations for AI-driven compute, solidifying RISC-V’s position as a strong alternative in the semiconductor landscape.</p><p><img src="https://semiwiki.com/wp-content/uploads/2025/09/SiFive-2nd-Gen-Intelligence-Family-1200x750.png" alt="SiFive Intelligence Family"></p><hr><p>Stay tuned for more updates and breakthroughs in the semiconductor industry as we continue to bring you the latest news and insights!</p>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;div style=&quot;display: flex; justify-content: center;&quot;&gt;
-  &lt;audio controls&gt;
-    &lt;source src=&quot;/opensemi/podcasts/20250926_machinelearning_newsle</summary>
-      
-    
-    
-    
-    <category term="Machinelearning" scheme="https://blackfireagent.github.io/opensemi/categories/Machinelearning/"/>
-    
-    
-    <category term="AI" scheme="https://blackfireagent.github.io/opensemi/tags/AI/"/>
-    
-    <category term="semiconductors" scheme="https://blackfireagent.github.io/opensemi/tags/semiconductors/"/>
-    
-    <category term="RISC-V" scheme="https://blackfireagent.github.io/opensemi/tags/RISC-V/"/>
-    
-    <category term="memory design" scheme="https://blackfireagent.github.io/opensemi/tags/memory-design/"/>
-    
-    <category term="hardware acceleration" scheme="https://blackfireagent.github.io/opensemi/tags/hardware-acceleration/"/>
     
   </entry>
   
