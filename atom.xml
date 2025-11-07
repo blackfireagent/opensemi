@@ -6,10 +6,40 @@
   <link href="https://blackfireagent.github.io/opensemi/atom.xml" rel="self"/>
   
   <link href="https://blackfireagent.github.io/opensemi/"/>
-  <updated>2025-11-06T05:16:26.327Z</updated>
+  <updated>2025-11-07T05:20:50.414Z</updated>
   <id>https://blackfireagent.github.io/opensemi/</id>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Penn State and NIWC Develop Three-Terminal Memtransistors for Edge AI</title>
+    <link href="https://blackfireagent.github.io/opensemi/20251107_Penn-State-and-NIWC-Develop-Three-Terminal-Memtransistors-for-Edge-AI/"/>
+    <id>https://blackfireagent.github.io/opensemi/20251107_Penn-State-and-NIWC-Develop-Three-Terminal-Memtransistors-for-Edge-AI/</id>
+    <published>2025-11-06T23:00:00.000Z</published>
+    <updated>2025-11-07T05:20:50.414Z</updated>
+    
+    <content type="html"><![CDATA[<div style="display: flex; justify-content: center;">  <audio controls>    <source src="/opensemi/podcasts/20251107_machinelearning_newsletter_gemini-2.5-flash.mp3" type="audio/mpeg">  </audio></div><h2 id="News"><a href="#News" class="headerlink" title="News"></a><a href="https://semiwiki.com/semiconductor-manufacturers/intel/362972-intel-to-compete-with-broadcom-and-marvell-in-the-lucrative-asic-business/">News</a></h2><p><strong>Intel Enters Lucrative ASIC Business, Forms Central Engineering Group</strong><br>Intel is strategically entering the custom Application-Specific Integrated Circuit (ASIC) market, historically dominated by companies like Broadcom and Marvell. This move involves establishing a new Central Engineering Group to enhance engineering execution, leverage Intel’s x86 IP, and offer design services to external customers. The global ASIC market, valued at over $20 billion in 2025, is projected to double in five years due to demand from AI, edge computing, and 5G&#x2F;6G. Intel’s approach is to offer custom ASICs centered around Intel&#x2F;NVIDIA IP using Intel Foundry manufacturing and packaging.</p><ul><li>Intel forms a Central Engineering Group to spearhead a new ASIC and design services business.</li><li>Aims to leverage core x86 IP and Intel Foundry capabilities for purpose-built silicon.</li><li>Targets the rapidly growing $20B+ ASIC market, driven by AI and edge computing demand.</li></ul><p><img src="https://semiwiki.com/wp-content/uploads/2025/10/Lip-Bu-Tan-Intel-1200x675.jpg" alt="Intel&#39;s Lip-Bu Tan"></p><hr><h2 id="Launches"><a href="#Launches" class="headerlink" title="Launches"></a><a href="https://semiwiki.com/eda/363148-synopsys-and-nvidia-forge-ai-powered-future-for-chip-design-and-multiphysics-simulation/">Launches</a></h2><p><strong>Synopsys and NVIDIA Deepen Partnership for AI-Powered Chip Design</strong><br>Synopsys and NVIDIA are expanding their three-decade collaboration, integrating Synopsys’ software with NVIDIA’s agentic AI, GPU-accelerated computing, and AI-driven physics simulations. This partnership aims to revolutionize semiconductor design by transforming AI into a collaborative design partner. Key initiatives include fusing Synopsys’ AgentEngineer™ with NVIDIA’s NeMo Agent Toolkit for autonomous design flows and leveraging NVIDIA GPUs for up to 500x speedup in fluid simulations and 15x gains in atomistic simulations. This targets faster iterations, reduced energy consumption, and scalable simulations for advanced nodes and complex systems.</p><ul><li>Partnership integrates Synopsys’ tools with NVIDIA’s agentic AI, GPU-accelerated computing, and AI physics.</li><li>Aims to transform AI into a collaborative partner for autonomous design flows, enhancing productivity.</li><li>Promises significant performance speedups (e.g., 500x in fluid simulations) across EDA and simulation workloads.</li></ul><p><img src="https://semiwiki.com/wp-content/uploads/2025/11/Synopsys-Nvidia-Agentic-AI-2025-1200x662.jpg" alt="Synopsys Nvidia Agentic AI"></p><hr><h2 id="Charts"><a href="#Charts" class="headerlink" title="Charts"></a><a href="https://semiwiki.com/artificial-intelligence/362941-ai-rtl-generation-versus-ai-rtl-verification/">Charts</a></h2><p><strong>The High Cost of Verification: AI’s Untapped Potential</strong><br>Industry analysis consistently shows that over 50% of IC&#x2F;ASIC project time is dedicated to verification, requiring as many verification engineers as design engineers. Debugging alone accounts for a substantial 47% of this verification effort, making it a prime area for efficiency improvements. While AI-generated RTL currently sees an acceptance rate of only around 25%, indicating limitations in reliability and complexity, agentic AI approaches hold significant promise for enhancing verification processes, particularly in bug triage and root-cause analysis, where substantial ROI can be realized.</p><ul><li>Over 50% of IC&#x2F;ASIC project time is spent on verification, matching design time.</li><li>Debugging consumes 47% of all verification effort, presenting a major efficiency challenge.</li><li>Agentic AI offers significant ROI potential in bug triage and root-cause analysis for verification.</li></ul><p><img src="https://semiwiki.com/wp-content/uploads/2025/10/RTL-generation-vs-RTL-Verification.jpg" alt="RTL Generation vs. RTL Verification"></p><hr><h2 id="Research"><a href="#Research" class="headerlink" title="Research"></a><a href="https://semiengineering.com/three-terminal-memtransistors-for-decentralized-edge-applications-penn-state-niwc/">Research</a></h2><p><strong>Penn State and NIWC Develop Three-Terminal Memtransistors for Edge AI</strong><br>Researchers from Penn State University and Naval Information Warfare Center Pacific have developed large-scale crossbar arrays based on three-terminal MoS2 memtransistors. These novel devices are designed for efficient, low-power inference engines in edge AI applications. Unlike traditional memristive crossbars, these memtransistors can dynamically tune conductance via gate control, effectively resolving similar outputs and enhancing separability without retraining. The technology demonstrates high yield (&gt;92%), low write energies (~0.2 fJ), and projected retention exceeding three years, validating performance with MNIST digit classification.</p><ul><li>New MoS2 memtransistors offer dynamic conductance tuning via gate control for enhanced inference.</li><li>Achieve high yield (&gt;92%), low write energies (~0.2 fJ), and long retention (&gt;3 years).</li><li>Aims to improve separability in edge AI applications without costly retraining.</li></ul><p><img src="https://semiengineering.com/wp-content/uploads/Blue-AdobeStock_137033829-12-20.jpeg" alt="Decentralized Edge Applications"></p><hr><h2 id="Insight"><a href="#Insight" class="headerlink" title="Insight"></a><a href="https://semiwiki.com/artificial-intelligence/362678-a-compelling-differentiator-in-oem-product-design/">Insight</a></h2><p><strong>Redefining OEM Component Discovery with Interactive Digital Tools</strong><br>The semiconductor industry is seeing a shift in how component manufacturers engage with OEM hardware designers. A new approach emphasizes interactive digital tools and AI-powered chatbots to streamline component discovery, replacing cumbersome datasheet reviews. Manufacturers are offering interactive reference designs, allowing designers to experiment with parameters and view impacts on behavior directly. This “engineering outreach” provides access to schematics, PCB layouts, and BOMs, alongside supply chain and compliance information, fostering early design commitment and manufacturer stickiness before traditional sales engagement.</p><ul><li>New models use interactive tools and AI to simplify component discovery for OEMs.</li><li>Designers can experiment with virtual reference designs, schematics, and BOMs.</li><li>Aims to foster early design wins and manufacturer loyalty through enhanced digital engagement.</li></ul><p><img src="https://semiwiki.com/wp-content/uploads/2025/10/PartQuest.png" alt="PartQuest"></p><hr><p>Stay connected with us for the latest developments shaping the future of the semiconductor industry.</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;div style=&quot;display: flex; justify-content: center;&quot;&gt;
+  &lt;audio controls&gt;
+    &lt;source src=&quot;/opensemi/podcasts/20251107_machinelearning_newsle</summary>
+      
+    
+    
+    
+    <category term="Machinelearning" scheme="https://blackfireagent.github.io/opensemi/categories/Machinelearning/"/>
+    
+    
+    <category term="AI Chip Design" scheme="https://blackfireagent.github.io/opensemi/tags/AI-Chip-Design/"/>
+    
+    <category term="Advanced Memory" scheme="https://blackfireagent.github.io/opensemi/tags/Advanced-Memory/"/>
+    
+    <category term="Semiconductor Strategy" scheme="https://blackfireagent.github.io/opensemi/tags/Semiconductor-Strategy/"/>
+    
+  </entry>
   
   <entry>
     <title>TEL to Highlight Sustainability Through Digitization and AI at SEMICON Europa 2025</title>
@@ -383,9 +413,9 @@
     
     <category term="Advanced Packaging" scheme="https://blackfireagent.github.io/opensemi/tags/Advanced-Packaging/"/>
     
-    <category term="Security" scheme="https://blackfireagent.github.io/opensemi/tags/Security/"/>
-    
     <category term="Chiplets" scheme="https://blackfireagent.github.io/opensemi/tags/Chiplets/"/>
+    
+    <category term="Security" scheme="https://blackfireagent.github.io/opensemi/tags/Security/"/>
     
     <category term="EDA" scheme="https://blackfireagent.github.io/opensemi/tags/EDA/"/>
     
@@ -696,40 +726,6 @@
     <category term="Innovation" scheme="https://blackfireagent.github.io/opensemi/tags/Innovation/"/>
     
     <category term="Semiconductors" scheme="https://blackfireagent.github.io/opensemi/tags/Semiconductors/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Analog Bits Steps into the Spotlight at TSMC OIP</title>
-    <link href="https://blackfireagent.github.io/opensemi/20250930_Analog-Bits-Steps-into-the-Spotlight-at-TSMC-OIP/"/>
-    <id>https://blackfireagent.github.io/opensemi/20250930_Analog-Bits-Steps-into-the-Spotlight-at-TSMC-OIP/</id>
-    <published>2025-09-29T22:00:00.000Z</published>
-    <updated>2025-09-30T12:08:57.919Z</updated>
-    
-    <content type="html"><![CDATA[<div style="display: flex; justify-content: center;">  <audio controls>    <source src="/opensemi/podcasts/20250930_device_newsletter_gpt-4o-mini.mp3" type="audio/mpeg">    Your browser does not support the audio element.  </audio></div><h2 id="News"><a href="#News" class="headerlink" title="News"></a><a href="https://www.eetimes.com/ai-drives-pcie-aspirations/">News</a></h2><p><strong>AI Drives PCIe Aspirations</strong><br>As the PCI-SIG gears up for the upcoming PCIe 8.0, the focus shifts to enhancing data rates and addressing the needs of next-gen applications, particularly in AI and automotive sectors. PCIe 8.0 aims for a staggering 256 GT&#x2F;s, while PCIe 7.0 has already made strides with its 128 GT&#x2F;s, emphasizing low latency and improved power efficiency. The evolution of PCIe is crucial to maintain backward compatibility while catering to the rapid changes in technology needs.</p><p><img src="https://www.eetimes.com/wp-content/uploads/edac_fig17_hispeed_card_edge_connectors.jpg" alt="PCIe Aspirations"></p><hr><h2 id="Launches"><a href="#Launches" class="headerlink" title="Launches"></a><a href="https://semiwiki.com/ip/analog-bits/362122-analog-bits-steps-into-the-spotlight-at-tsmc-oip/">Launches</a></h2><p><strong>Analog Bits Steps into the Spotlight at TSMC OIP</strong><br>At the TSMC Open Innovation Platform Forum, Analog Bits introduced innovative IPs including LDOs and embedded clock LC PLLs, showcasing their capabilities on TSMC’s advanced N3P and N2P processes. Recognized as TSMC’s OIP Partner of the Year for the second consecutive year, Analog Bits highlighted the importance of power management in next-gen applications, especially for AI and automotive systems.</p><p><img src="https://semiwiki.com/wp-content/uploads/2025/09/Analog-Bits-Steps-into-the-Spotlight-at-TSMC-OIP-1200x535.png" alt="Analog Bits at TSMC"></p><hr><h2 id="Charts"><a href="#Charts" class="headerlink" title="Charts"></a><a href="https://www.eetimes.com/cybersecurity-expectations-peak-as-genai-lands-in-the-trough/">Charts</a></h2><p><strong>Cybersecurity Expectations Peak as GenAI Lands in the Trough</strong><br>Gartner’s Hype Cycle for Supply Chain Strategy illustrates the current state of technologies where supply chain cybersecurity has reached its peak, while generative AI is facing disillusionment. The complex integration of GenAI into existing systems raises significant cybersecurity concerns, indicating a challenging road ahead for its scalability and practicality in real-world applications.</p><p><img src="https://www.eetimes.com/wp-content/uploads/2024/10/cybersecurity.keyboard.jpg" alt="Cybersecurity Hype Cycle"></p><hr><h2 id="Research"><a href="#Research" class="headerlink" title="Research"></a><a href="https://semiwiki.com/ceo-interviews/361937-ceo-interview-with-jiadi-zhu-of-cdimension/">Research</a></h2><p><strong>CEO Interview with Jiadi Zhu of CDimension</strong><br>Jiadi Zhu, the CEO of CDimension, discusses the company’s revolutionary approach to semiconductor materials, focusing on 2D materials that promise to overcome silicon’s limitations. With a vision for the future of computing that includes enhancements in power efficiency and noise reduction for quantum computing, CDimension aims to redefine chip design and scalability in a rapidly evolving technology landscape.</p><p><img src="https://semiwiki.com/wp-content/uploads/2025/09/Jiadi-headshot-1200x800.jpg" alt="Jiadi Zhu"></p><hr><h2 id="Insight"><a href="#Insight" class="headerlink" title="Insight"></a><a href="https://semiwiki.com/artificial-intelligence/361705-arm-lumex-pushes-further-into-standalone-genai-on-mobile/">Insight</a></h2><p><strong>Arm Lumex Pushes Further into Standalone GenAI on Mobile</strong><br>Arm’s new Lumex platform illustrates a significant leap in mobile AI capabilities, allowing for robust on-device generative AI applications without relying on cloud infrastructure. The innovative CPU architecture and new core designs enable real-time interactions and efficient processing, marking a shift in how AI can be integrated into everyday mobile experiences.</p><p><img src="https://semiwiki.com/wp-content/uploads/2025/09/chatbot-on-Lumex-min-1200x643.png" alt="Arm Lumex"></p><hr><p>Stay tuned with us for the latest developments in the semiconductor industry, as we continue to bring you the most relevant news and insights!</p>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;div style=&quot;display: flex; justify-content: center;&quot;&gt;
-  &lt;audio controls&gt;
-    &lt;source src=&quot;/opensemi/podcasts/20250930_device_newsletter_gpt-</summary>
-      
-    
-    
-    
-    <category term="Device" scheme="https://blackfireagent.github.io/opensemi/categories/Device/"/>
-    
-    
-    <category term="AI" scheme="https://blackfireagent.github.io/opensemi/tags/AI/"/>
-    
-    <category term="innovation" scheme="https://blackfireagent.github.io/opensemi/tags/innovation/"/>
-    
-    <category term="chip design" scheme="https://blackfireagent.github.io/opensemi/tags/chip-design/"/>
-    
-    <category term="semiconductors" scheme="https://blackfireagent.github.io/opensemi/tags/semiconductors/"/>
-    
-    <category term="industry news" scheme="https://blackfireagent.github.io/opensemi/tags/industry-news/"/>
     
   </entry>
   

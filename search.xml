@@ -4,6 +4,35 @@
   
     
     <entry>
+      <title>Penn State and NIWC Develop Three-Terminal Memtransistors for Edge AI</title>
+      <link href="/opensemi/20251107_Penn-State-and-NIWC-Develop-Three-Terminal-Memtransistors-for-Edge-AI/"/>
+      <url>/opensemi/20251107_Penn-State-and-NIWC-Develop-Three-Terminal-Memtransistors-for-Edge-AI/</url>
+      
+        <content type="html"><![CDATA[<div style="display: flex; justify-content: center;">  <audio controls>    <source src="/opensemi/podcasts/20251107_machinelearning_newsletter_gemini-2.5-flash.mp3" type="audio/mpeg">  </audio></div><h2 id="News"><a href="#News" class="headerlink" title="News"></a><a href="https://semiwiki.com/semiconductor-manufacturers/intel/362972-intel-to-compete-with-broadcom-and-marvell-in-the-lucrative-asic-business/">News</a></h2><p><strong>Intel Enters Lucrative ASIC Business, Forms Central Engineering Group</strong><br>Intel is strategically entering the custom Application-Specific Integrated Circuit (ASIC) market, historically dominated by companies like Broadcom and Marvell. This move involves establishing a new Central Engineering Group to enhance engineering execution, leverage Intel’s x86 IP, and offer design services to external customers. The global ASIC market, valued at over $20 billion in 2025, is projected to double in five years due to demand from AI, edge computing, and 5G&#x2F;6G. Intel’s approach is to offer custom ASICs centered around Intel&#x2F;NVIDIA IP using Intel Foundry manufacturing and packaging.</p><ul><li>Intel forms a Central Engineering Group to spearhead a new ASIC and design services business.</li><li>Aims to leverage core x86 IP and Intel Foundry capabilities for purpose-built silicon.</li><li>Targets the rapidly growing $20B+ ASIC market, driven by AI and edge computing demand.</li></ul><p><img src="https://semiwiki.com/wp-content/uploads/2025/10/Lip-Bu-Tan-Intel-1200x675.jpg" alt="Intel&#39;s Lip-Bu Tan"></p><hr><h2 id="Launches"><a href="#Launches" class="headerlink" title="Launches"></a><a href="https://semiwiki.com/eda/363148-synopsys-and-nvidia-forge-ai-powered-future-for-chip-design-and-multiphysics-simulation/">Launches</a></h2><p><strong>Synopsys and NVIDIA Deepen Partnership for AI-Powered Chip Design</strong><br>Synopsys and NVIDIA are expanding their three-decade collaboration, integrating Synopsys’ software with NVIDIA’s agentic AI, GPU-accelerated computing, and AI-driven physics simulations. This partnership aims to revolutionize semiconductor design by transforming AI into a collaborative design partner. Key initiatives include fusing Synopsys’ AgentEngineer™ with NVIDIA’s NeMo Agent Toolkit for autonomous design flows and leveraging NVIDIA GPUs for up to 500x speedup in fluid simulations and 15x gains in atomistic simulations. This targets faster iterations, reduced energy consumption, and scalable simulations for advanced nodes and complex systems.</p><ul><li>Partnership integrates Synopsys’ tools with NVIDIA’s agentic AI, GPU-accelerated computing, and AI physics.</li><li>Aims to transform AI into a collaborative partner for autonomous design flows, enhancing productivity.</li><li>Promises significant performance speedups (e.g., 500x in fluid simulations) across EDA and simulation workloads.</li></ul><p><img src="https://semiwiki.com/wp-content/uploads/2025/11/Synopsys-Nvidia-Agentic-AI-2025-1200x662.jpg" alt="Synopsys Nvidia Agentic AI"></p><hr><h2 id="Charts"><a href="#Charts" class="headerlink" title="Charts"></a><a href="https://semiwiki.com/artificial-intelligence/362941-ai-rtl-generation-versus-ai-rtl-verification/">Charts</a></h2><p><strong>The High Cost of Verification: AI’s Untapped Potential</strong><br>Industry analysis consistently shows that over 50% of IC&#x2F;ASIC project time is dedicated to verification, requiring as many verification engineers as design engineers. Debugging alone accounts for a substantial 47% of this verification effort, making it a prime area for efficiency improvements. While AI-generated RTL currently sees an acceptance rate of only around 25%, indicating limitations in reliability and complexity, agentic AI approaches hold significant promise for enhancing verification processes, particularly in bug triage and root-cause analysis, where substantial ROI can be realized.</p><ul><li>Over 50% of IC&#x2F;ASIC project time is spent on verification, matching design time.</li><li>Debugging consumes 47% of all verification effort, presenting a major efficiency challenge.</li><li>Agentic AI offers significant ROI potential in bug triage and root-cause analysis for verification.</li></ul><p><img src="https://semiwiki.com/wp-content/uploads/2025/10/RTL-generation-vs-RTL-Verification.jpg" alt="RTL Generation vs. RTL Verification"></p><hr><h2 id="Research"><a href="#Research" class="headerlink" title="Research"></a><a href="https://semiengineering.com/three-terminal-memtransistors-for-decentralized-edge-applications-penn-state-niwc/">Research</a></h2><p><strong>Penn State and NIWC Develop Three-Terminal Memtransistors for Edge AI</strong><br>Researchers from Penn State University and Naval Information Warfare Center Pacific have developed large-scale crossbar arrays based on three-terminal MoS2 memtransistors. These novel devices are designed for efficient, low-power inference engines in edge AI applications. Unlike traditional memristive crossbars, these memtransistors can dynamically tune conductance via gate control, effectively resolving similar outputs and enhancing separability without retraining. The technology demonstrates high yield (&gt;92%), low write energies (~0.2 fJ), and projected retention exceeding three years, validating performance with MNIST digit classification.</p><ul><li>New MoS2 memtransistors offer dynamic conductance tuning via gate control for enhanced inference.</li><li>Achieve high yield (&gt;92%), low write energies (~0.2 fJ), and long retention (&gt;3 years).</li><li>Aims to improve separability in edge AI applications without costly retraining.</li></ul><p><img src="https://semiengineering.com/wp-content/uploads/Blue-AdobeStock_137033829-12-20.jpeg" alt="Decentralized Edge Applications"></p><hr><h2 id="Insight"><a href="#Insight" class="headerlink" title="Insight"></a><a href="https://semiwiki.com/artificial-intelligence/362678-a-compelling-differentiator-in-oem-product-design/">Insight</a></h2><p><strong>Redefining OEM Component Discovery with Interactive Digital Tools</strong><br>The semiconductor industry is seeing a shift in how component manufacturers engage with OEM hardware designers. A new approach emphasizes interactive digital tools and AI-powered chatbots to streamline component discovery, replacing cumbersome datasheet reviews. Manufacturers are offering interactive reference designs, allowing designers to experiment with parameters and view impacts on behavior directly. This “engineering outreach” provides access to schematics, PCB layouts, and BOMs, alongside supply chain and compliance information, fostering early design commitment and manufacturer stickiness before traditional sales engagement.</p><ul><li>New models use interactive tools and AI to simplify component discovery for OEMs.</li><li>Designers can experiment with virtual reference designs, schematics, and BOMs.</li><li>Aims to foster early design wins and manufacturer loyalty through enhanced digital engagement.</li></ul><p><img src="https://semiwiki.com/wp-content/uploads/2025/10/PartQuest.png" alt="PartQuest"></p><hr><p>Stay connected with us for the latest developments shaping the future of the semiconductor industry.</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> Machinelearning </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> AI Chip Design </tag>
+            
+            <tag> Advanced Memory </tag>
+            
+            <tag> Semiconductor Strategy </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>TEL to Highlight Sustainability Through Digitization and AI at SEMICON Europa 2025</title>
       <link href="/opensemi/20251106_TEL-to-Highlight-Sustainability-Through-Digitization-and-AI-at-SEMICON-Europa-2025/"/>
       <url>/opensemi/20251106_TEL-to-Highlight-Sustainability-Through-Digitization-and-AI-at-SEMICON-Europa-2025/</url>
@@ -360,9 +389,9 @@
             
             <tag> Advanced Packaging </tag>
             
-            <tag> Security </tag>
-            
             <tag> Chiplets </tag>
+            
+            <tag> Security </tag>
             
             <tag> EDA </tag>
             
@@ -2698,6 +2727,39 @@
     
     
     <entry>
+      <title>NSR-S636E ArF Immersion Scanner</title>
+      <link href="/opensemi/20250518_NSR-S636E-ArF-Immersion-Scanner/"/>
+      <url>/opensemi/20250518_NSR-S636E-ArF-Immersion-Scanner/</url>
+      
+        <content type="html"><![CDATA[<h2 id="News"><a href="#News" class="headerlink" title="News"></a><a href="https://spectrum.ieee.org/high-na-euv">News</a></h2><p><strong>This Machine Could Keep Moore’s Law on Track</strong><br>ASML is pioneering high-numerical-aperture EUV lithography, aiming for commercial deployment in 2025. This advancement is crucial for maintaining Moore’s Law by enabling the production of increasingly smaller chip features, essential for next-generation devices.</p><p><img src="https://spectrum.ieee.org/media-library/a-white-box-with-vertical-lines-dwarfs-two-people-in-white-coveralls.jpg?id=34683341&width=1200&height=899" alt="ASML lithography machine"></p><hr><h2 id="Launches"><a href="#Launches" class="headerlink" title="Launches"></a><a href="https://www.nikonprecision.com/nikon-releases-nsr-s636e-arf-immersion-scanner/">Launches</a></h2><p><strong>NSR-S636E ArF Immersion Scanner</strong><br>Nikon introduces its NSR-S636E ArF immersion scanner, the most productive lithography system in its history, designed for critical layers in semiconductor manufacturing. This system enhances overlay accuracy and throughput, catering to the needs of advanced 3D semiconductor devices.</p><p><img src="https://www.nikonprecision.com/wp-content/uploads/2023/12/NSR-S636E-Larger-ImageA-scaled-e1701819763953-1024x890.jpg" alt="Nikon NSR-S636E"></p><hr><h2 id="Charts"><a href="#Charts" class="headerlink" title="Charts"></a><a href="https://spectrum.ieee.org/transistor-density">Charts</a></h2><p><strong>The State of the Transistor in 3 Charts</strong><br>This article provides a comprehensive overview of the advancements in transistor technology over the past 75 years, emphasizing the exponential growth in transistor density and the ongoing miniaturization efforts critical for future semiconductor innovations.</p><p><img src="https://spectrum.ieee.org/media-library/a-photo-of-3-different-transistors.png?id=32153247&width=1200&height=844" alt="Transistor advancements"></p><hr><h2 id="Research"><a href="#Research" class="headerlink" title="Research"></a><a href="https://semiengineering.com/scalable-approach-for-fabricating-sub-10nm-nanogaps/">Research</a></h2><p><strong>Scalable Approach For Fabricating Sub-10nm Nanogaps</strong><br>Researchers have developed a progressive wafer-scale method for creating sub-10 nm nanogap structures, which promises significant advancements in semiconductor fabrication techniques, enhancing performance and scalability.</p><p><img src="https://semiengineering.com/wp-content/uploads/AdobeStock_416615461-01-29-25-scaled.jpeg" alt="Sub-10nm nanogaps"></p><hr><h2 id="Insight"><a href="#Insight" class="headerlink" title="Insight"></a><a href="https://phys.org/news/2023-12/method-fabricate-optical-devices-specifications.html">Insight</a></h2><p><strong>A New Method to Fabricate Optical Devices That More Closely Match Their Design Specifications</strong><br>MIT and the Chinese University of Hong Kong researchers have developed a machine learning-based digital simulator for photolithography that significantly enhances the precision of optical device manufacturing, paving the way for improved performance in applications ranging from mobile cameras to telecommunications.</p><p><img src="https://scx2.b-cdn.net/gfx/news/2023/method-enables-optical.jpg" alt="Optical device fabrication"></p><hr><p>Stay tuned for more updates as we continue to bring you the latest news and innovations in the semiconductor industry!</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> Lithography </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> innovation </tag>
+            
+            <tag> semiconductor </tag>
+            
+            <tag> lithography </tag>
+            
+            <tag> EUV </tag>
+            
+            <tag> optics </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>Safeguard power domain compatibility by finding missing level shifters</title>
       <link href="/opensemi/20250518_Safeguard-power-domain-compatibility-by-finding-missing-level-shifters/"/>
       <url>/opensemi/20250518_Safeguard-power-domain-compatibility-by-finding-missing-level-shifters/</url>
@@ -2723,39 +2785,6 @@
             <tag> manufacturing </tag>
             
             <tag> semiconductors </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>NSR-S636E ArF Immersion Scanner</title>
-      <link href="/opensemi/20250518_NSR-S636E-ArF-Immersion-Scanner/"/>
-      <url>/opensemi/20250518_NSR-S636E-ArF-Immersion-Scanner/</url>
-      
-        <content type="html"><![CDATA[<h2 id="News"><a href="#News" class="headerlink" title="News"></a><a href="https://spectrum.ieee.org/high-na-euv">News</a></h2><p><strong>This Machine Could Keep Moore’s Law on Track</strong><br>ASML is pioneering high-numerical-aperture EUV lithography, aiming for commercial deployment in 2025. This advancement is crucial for maintaining Moore’s Law by enabling the production of increasingly smaller chip features, essential for next-generation devices.</p><p><img src="https://spectrum.ieee.org/media-library/a-white-box-with-vertical-lines-dwarfs-two-people-in-white-coveralls.jpg?id=34683341&width=1200&height=899" alt="ASML lithography machine"></p><hr><h2 id="Launches"><a href="#Launches" class="headerlink" title="Launches"></a><a href="https://www.nikonprecision.com/nikon-releases-nsr-s636e-arf-immersion-scanner/">Launches</a></h2><p><strong>NSR-S636E ArF Immersion Scanner</strong><br>Nikon introduces its NSR-S636E ArF immersion scanner, the most productive lithography system in its history, designed for critical layers in semiconductor manufacturing. This system enhances overlay accuracy and throughput, catering to the needs of advanced 3D semiconductor devices.</p><p><img src="https://www.nikonprecision.com/wp-content/uploads/2023/12/NSR-S636E-Larger-ImageA-scaled-e1701819763953-1024x890.jpg" alt="Nikon NSR-S636E"></p><hr><h2 id="Charts"><a href="#Charts" class="headerlink" title="Charts"></a><a href="https://spectrum.ieee.org/transistor-density">Charts</a></h2><p><strong>The State of the Transistor in 3 Charts</strong><br>This article provides a comprehensive overview of the advancements in transistor technology over the past 75 years, emphasizing the exponential growth in transistor density and the ongoing miniaturization efforts critical for future semiconductor innovations.</p><p><img src="https://spectrum.ieee.org/media-library/a-photo-of-3-different-transistors.png?id=32153247&width=1200&height=844" alt="Transistor advancements"></p><hr><h2 id="Research"><a href="#Research" class="headerlink" title="Research"></a><a href="https://semiengineering.com/scalable-approach-for-fabricating-sub-10nm-nanogaps/">Research</a></h2><p><strong>Scalable Approach For Fabricating Sub-10nm Nanogaps</strong><br>Researchers have developed a progressive wafer-scale method for creating sub-10 nm nanogap structures, which promises significant advancements in semiconductor fabrication techniques, enhancing performance and scalability.</p><p><img src="https://semiengineering.com/wp-content/uploads/AdobeStock_416615461-01-29-25-scaled.jpeg" alt="Sub-10nm nanogaps"></p><hr><h2 id="Insight"><a href="#Insight" class="headerlink" title="Insight"></a><a href="https://phys.org/news/2023-12/method-fabricate-optical-devices-specifications.html">Insight</a></h2><p><strong>A New Method to Fabricate Optical Devices That More Closely Match Their Design Specifications</strong><br>MIT and the Chinese University of Hong Kong researchers have developed a machine learning-based digital simulator for photolithography that significantly enhances the precision of optical device manufacturing, paving the way for improved performance in applications ranging from mobile cameras to telecommunications.</p><p><img src="https://scx2.b-cdn.net/gfx/news/2023/method-enables-optical.jpg" alt="Optical device fabrication"></p><hr><p>Stay tuned for more updates as we continue to bring you the latest news and innovations in the semiconductor industry!</p>]]></content>
-      
-      
-      <categories>
-          
-          <category> Lithography </category>
-          
-      </categories>
-      
-      
-        <tags>
-            
-            <tag> innovation </tag>
-            
-            <tag> semiconductor </tag>
-            
-            <tag> EUV </tag>
-            
-            <tag> lithography </tag>
-            
-            <tag> optics </tag>
             
         </tags>
       
