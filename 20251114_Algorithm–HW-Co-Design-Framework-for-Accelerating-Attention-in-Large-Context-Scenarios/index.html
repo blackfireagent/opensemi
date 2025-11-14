@@ -1,0 +1,534 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+
+  <!-- PACE Progress Bar START -->
+  
+    
+<script src="https://raw.githubusercontent.com/HubSpot/pace/v1.0.2/pace.min.js"></script>
+
+    
+<link rel="stylesheet" href="https://github.com/HubSpot/pace/raw/master/themes/orange/pace-theme-flash.css">
+
+  
+  
+
+  <!-- PACE Progress Bar START -->
+
+  
+  <title>algorithm–hw co-design framework for accelerating attention in large-context scenarios | opensemi</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+  
+    <meta name="keywords" content="Semiconductor, Lithography, Semiconductor Equipment" />
+  
+  
+  
+  
+  <meta name="description" content="NewsTSMC Kumamoto: Pioneering Japan’s Semiconductor RevivalTSMC’s Kumamoto facility, operationalized through Japan Advanced Semiconductor Manufacturing (JASM), marks a strategic divers">
+<meta property="og:type" content="article">
+<meta property="og:title" content="Algorithm–HW Co-Design Framework for Accelerating Attention in Large-Context Scenarios">
+<meta property="og:url" content="https://blackfireagent.github.io/opensemi/20251114_Algorithm%E2%80%93HW-Co-Design-Framework-for-Accelerating-Attention-in-Large-Context-Scenarios/index.html">
+<meta property="og:site_name" content="opensemi">
+<meta property="og:description" content="NewsTSMC Kumamoto: Pioneering Japan’s Semiconductor RevivalTSMC’s Kumamoto facility, operationalized through Japan Advanced Semiconductor Manufacturing (JASM), marks a strategic divers">
+<meta property="og:locale" content="en_US">
+<meta property="og:image" content="https://blackfireagent.github.io/img/2025-11-14_06-17-41_7911.png">
+<meta property="article:published_time" content="2025-11-13T23:00:00.000Z">
+<meta property="article:modified_time" content="2025-11-14T05:17:57.376Z">
+<meta property="article:tag" content="Semiconductor Manufacturing">
+<meta property="article:tag" content="Chiplets">
+<meta property="article:tag" content="AI Acceleration">
+<meta property="article:tag" content="Photonic Computing">
+<meta property="article:tag" content="Advanced Verification">
+<meta name="twitter:card" content="summary">
+<meta name="twitter:image" content="https://blackfireagent.github.io/img/2025-11-14_06-17-41_7911.png">
+  
+  <link rel="icon" href="/opensemi/css/images/favicon-logo2.ico">
+  
+  <link href="https://fonts.googleapis.com/css?family=Open+Sans|Montserrat:700" rel="stylesheet" type="text/css">
+  <link href="https://fonts.googleapis.com/css?family=Roboto:400,300,300italic,400italic" rel="stylesheet" type="text/css">
+  <link href="https://cdn.bootcss.com/font-awesome/4.6.3/css/font-awesome.min.css" rel="stylesheet">
+  <style type="text/css">
+    @font-face{font-family:futura-pt;src:url(https://use.typekit.net/af/9749f0/00000000000000000001008f/27/l?subset_id=2&fvd=n5) format("woff2");font-weight:500;font-style:normal;}
+    @font-face{font-family:futura-pt;src:url(https://use.typekit.net/af/90cf9f/000000000000000000010091/27/l?subset_id=2&fvd=n7) format("woff2");font-weight:500;font-style:normal;}
+    @font-face{font-family:futura-pt;src:url(https://use.typekit.net/af/8a5494/000000000000000000013365/27/l?subset_id=2&fvd=n4) format("woff2");font-weight:lighter;font-style:normal;}
+    @font-face{font-family:futura-pt;src:url(https://use.typekit.net/af/d337d8/000000000000000000010095/27/l?subset_id=2&fvd=i4) format("woff2");font-weight:400;font-style:italic;}</style>
+    
+  <link rel="stylesheet" id="athemes-headings-fonts-css" href="//fonts.googleapis.com/css?family=Yanone+Kaffeesatz%3A200%2C300%2C400%2C700&amp;ver=4.6.1" type="text/css" media="all">
+  
+<link rel="stylesheet" href="/opensemi/css/style.css">
+
+
+  
+<script src="https://code.jquery.com/jquery-3.1.1.min.js"></script>
+
+
+  <!-- Bootstrap core CSS -->
+  <link rel="stylesheet" href="https://netdna.bootstrapcdn.com/bootstrap/3.0.2/css/bootstrap.min.css" >
+  <link rel="stylesheet" href="/opensemi/css/megabold.css" >
+  <link rel="stylesheet" href="/opensemi/css/glyphs.css" >
+  
+    <link rel="stylesheet" href="/opensemi/css/vdonate.css" >
+  
+
+  <!-- Custom CSS -->
+  
+<link rel="stylesheet" href="/opensemi/css/my.css">
+
+  <!-- Google Adsense -->
+<meta name="generator" content="Hexo 7.3.0"><link rel="alternate" href="/opensemi/atom.xml" title="opensemi" type="application/atom+xml">
+</head>
+
+<script>
+var themeMenus = {};
+
+  themeMenus["/opensemi/"] = "Home"; 
+
+  themeMenus["/opensemi/categories"] = "Categories"; 
+
+  themeMenus["/opensemi/about"] = "About"; 
+
+  themeMenus["/opensemi/subscribe"] = "subscribe"; 
+
+</script>
+
+
+
+
+  <body data-spy="scroll" data-target="#toc" data-offset="50">
+
+  
+  <header id="allheader" class="site-header" role="banner">
+  <div class="clearfix container">
+      <div class="site-branding">
+
+          <h1 class="site-title">
+            
+              <a href="/opensemi/" title="opensemi" rel="home"> opensemi </a>
+            
+          </h1>
+
+          
+      </div>
+      
+      <div id="ads-r" style="float: right;width: 64%;height: 90px!important;">
+        <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-7436530442292220"
+            crossorigin="anonymous"></script>
+        <!-- banner -->
+        <ins class="adsbygoogle"
+            style="display:inline-block;width: 100%;height:90px"
+            data-ad-client="ca-pub-7436530442292220"
+            data-ad-slot="4541467627"></ins>
+        <script>
+            (adsbygoogle = window.adsbygoogle || []).push({});
+        </script>
+      </div>
+      
+      <nav id="main-navigation" class="main-navigation" role="navigation">
+        <a class="nav-open">Menu</a>
+        <a class="nav-close">Close</a>
+        <div class="clearfix sf-menu">
+
+          <ul id="main-nav" class="nmenu sf-js-enabled">
+                
+                  <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-1663"> <a class="" href="/opensemi/">Home</a> </li>
+                
+                  <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-1663"> <a class="" href="/opensemi/categories">Categories</a> </li>
+                
+                  <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-1663"> <a class="" href="/opensemi/about">About</a> </li>
+                
+                  <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-1663"> <a class="" href="/opensemi/subscribe">subscribe</a> </li>
+                
+                <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-1663" style="float: right;"><div id="search-form-wrap">
+    
+        <form class="search-form">
+            <label style="width: 75%;height: 50px;margin-bottom: 0px;">
+                <button type="search" class="search-field search-btn" style="height: 42px;" placeholder=" Search…" value="" name="s" title="Search for:"><i class="fa fa-search" style=""></i></button>
+            </label>
+        </form>
+        <div class="ins-search">
+    <div class="ins-search-mask"></div>
+    <div class="ins-search-container">
+        <div class="ins-input-wrapper">
+            <input type="text" class="ins-search-input" placeholder="Type something..."/>
+            <span class="ins-close ins-selectable"><i class="fa fa-times-circle"></i></span>
+        </div>
+        <div class="ins-section-wrapper">
+            <div class="ins-section-container"></div>
+        </div>
+    </div>
+</div>
+<script>
+(function (window) {
+    var INSIGHT_CONFIG = {
+        TRANSLATION: {
+            POSTS: 'Posts',
+            PAGES: 'Pages',
+            CATEGORIES: 'Categories',
+            TAGS: 'Tags',
+            UNTITLED: '(Untitled)',
+        },
+        ROOT_URL: '/opensemi/',
+        CONTENT_URL: '/opensemi/content.json',
+    };
+    window.INSIGHT_CONFIG = INSIGHT_CONFIG;
+})(window);
+</script>
+
+<script src="/opensemi/js/insight.js"></script>
+
+    
+    </div></li>
+          </ul>
+        </div>
+      </nav>
+  </div>
+</header>
+
+
+
+
+  <div id="container" style>
+    <div id="wrap">
+            
+      <div id="content" class="outer">
+        
+          <section id="main" style="float:none;"><article id="post-20251114_Algorithm–HW-Co-Design-Framework-for-Accelerating-Attention-in-Large-Context-Scenarios" style="width: 66%; float:left;margin-bottom: 20px;" class="article article-type-post" itemscope itemprop="blogPost" >
+  <div id="articleInner" class="clearfix post-1016 post type-post status-publish format-standard has-post-thumbnail hentry category-template-2 category-uncategorized tag-codex tag-edge-case tag-featured-image tag-image tag-template">
+    
+<div class="article-gallery">
+  <div class="article-gallery-photos">
+    
+      <a class="article-gallery-img fancybox" href="/opensemi/img/2025-11-14_06-17-41_7911.png" rel="gallery_cmhyeq01g008f2gvd9u29a00h">
+        <img src="/opensemi/img/2025-11-14_06-17-41_7911.png" itemprop="image">
+      </a>
+    
+  </div>
+</div>
+
+    
+      
+        <header class="article-header m-page">
+          
+  
+    <h1 class="thumb" class="article-title" itemprop="name">
+      Algorithm–HW Co-Design Framework for Accelerating Attention in Large-Context Scenarios
+    </h1>
+  
+
+        </header>
+      
+    
+    
+      <div class="article-meta m-page">
+        
+	<i class="fa fa-calendar-plus-o" aria-hidden="true"></i>Posted on <a href="/opensemi/20251114_Algorithm%E2%80%93HW-Co-Design-Framework-for-Accelerating-Attention-in-Large-Context-Scenarios/" class="article-date">
+		<time datetime="2025-11-13T23:00:00.000Z" itemprop="datePublished">November 14, 2025</time>
+	</a>
+
+        
+	<span id="busuanzi_container_page_pv" style="display:none;">
+	  <span id="busuanzi_value_page_pv"></span>
+	</span>
+
+      </div>
+    
+
+    
+    
+      
+
+
+  
+    <!-- Full outline for single post view -->
+    <div class="post-outline">
+      <ul>
+        
+          <li><strong>News:</strong> TSMC Kumamoto: Pioneering Japan&#39;s Semiconductor Revival</li>
+        
+          <li><strong>Launches:</strong> Silicon Photonic Interconnected Chiplets With Computational Network And IMC For LLM Inference Acceleration</li>
+        
+          <li><strong>Charts:</strong> Lessons from the DeepChip Wars: What a Decade-old Debate Teaches Us About Tech Evolution</li>
+        
+          <li><strong>Research:</strong> Algorithm–HW Co-Design Framework for Accelerating Attention in Large-Context Scenarios</li>
+        
+          <li><strong>Insight:</strong> Adding Expertise to GenAI: An Insightful Study on Fine-tuning</li>
+        
+      </ul>
+    </div>
+  
+
+
+    
+
+    <div class="article-entry" itemprop="articleBody">
+      
+      
+        
+        <div style="display: flex; justify-content: center;">
+  <audio controls>
+    <source src="/opensemi/podcasts/20251114_machinelearning_newsletter_gemini-2.5-flash.mp3" type="audio/mpeg">
+  </audio>
+</div>
+
+
+
+<h2 id="News"><a href="#News" class="headerlink" title="News"></a><a target="_blank" rel="noopener" href="https://semiwiki.com/semiconductor-manufacturers/tsmc/363007-tsmc-kumamoto-pioneering-japans-semiconductor-revival/">News</a></h2><p><strong>TSMC Kumamoto: Pioneering Japan’s Semiconductor Revival</strong><br>TSMC’s Kumamoto facility, operationalized through Japan Advanced Semiconductor Manufacturing (JASM), marks a strategic diversification of its global manufacturing footprint, being its first dedicated wafer fab outside Taiwan, the U.S., and Europe. The facility focuses on mature process nodes (22&#x2F;28nm and 12&#x2F;16nm) crucial for automotive semiconductors, image sensors, and microcontrollers.</p>
+<p><img src="https://semiwiki.com/wp-content/uploads/2025/10/TSMC-Kumamoto-Fab-2.jpg" alt="TSMC Kumamoto Fab"></p>
+<ul>
+<li>TSMC’s strategic pivot with its Kumamoto fab diversifies manufacturing globally, bolstering supply chain resilience.</li>
+<li>The facility focuses on mature nodes, leveraging renewable energy and creating 2,400 jobs, to support key sectors like automotive and image sensors.</li>
+<li>Kumamoto significantly contributes to Japan’s “Semiconductor Revival Plan,” aiming to reclaim a share of global chip production, despite some infrastructure challenges for future expansions.</li>
+</ul>
+<hr>
+<h2 id="Launches"><a href="#Launches" class="headerlink" title="Launches"></a><a target="_blank" rel="noopener" href="https://semiengineering.com/silicon-photonic-interconnected-chiplets-with-computational-network-and-imc-for-llm-inference-acceleration-nus/">Launches</a></h2><p><strong>Silicon Photonic Interconnected Chiplets With Computational Network And IMC For LLM Inference Acceleration</strong><br>Researchers at the National University of Singapore have unveiled PICNIC, a 3D-stacked chiplet-based large language model (LLM) inference accelerator. PICNIC tackles critical communication bottlenecks by employing silicon photonic interconnections and non-volatile in-memory computing processing elements. This innovative architecture significantly enhances speed and efficiency for LLM inference.</p>
+<p><img src="https://semiengineering.com/wp-content/uploads/AdobeStock_280279152-05-21-scaled.jpeg" alt="Silicon Photonic Interconnected Chiplets"></p>
+<ul>
+<li>PICNIC is a novel 3D-stacked chiplet accelerator leveraging silicon photonics for efficient LLM inference.</li>
+<li>It integrates an Inter-PE Computational Network and in-memory computing to overcome communication bottlenecks in LLM processing.</li>
+<li>Simulation results indicate a substantial 3.95x speedup and 30x efficiency improvement over the Nvidia A100, with further scalability to rival the H100.</li>
+</ul>
+<hr>
+<h2 id="Charts"><a href="#Charts" class="headerlink" title="Charts"></a><a target="_blank" rel="noopener" href="https://semiwiki.com/eda/synopsys/363578-lessons-from-the-deepchip-wars-what-a-decade-old-debate-teaches-us-about-tech-evolution/">Charts</a></h2><p><strong>Lessons from the DeepChip Wars: What a Decade-old Debate Teaches Us About Tech Evolution</strong><br>A review of hardware-assisted verification (HAV) trends over the last decade reveals a dramatic evolution driven by soaring design complexity, embedded software growth, and the rise of AI workloads. Key shifts include a reversal of priorities from compile time to runtime performance, a move from multi-user parallelism to single, system-critical validation runs, and a transformation in debugging from waveform visibility to system-level insights. This evolution is summarized in a table showcasing the changing attributes of HAV systems.</p>
+<p><img src="https://semiwiki.com/wp-content/uploads/2025/11/Lessons-from-the-DeepChip-wars-Table.png" alt="Evolution of HAV Main Attributes"></p>
+<ul>
+<li>HAV priorities have shifted dramatically, favoring long runtime performance for complex software workloads over rapid compile times.</li>
+<li>The focus of capacity utilization transitioned from running many small jobs in parallel to executing single, system-critical validation runs for massive, multi-die architectures.</li>
+<li>Debugging techniques evolved from low-level waveform visibility to high-abstraction system-level analysis, utilizing software debuggers and protocol analyzers.</li>
+</ul>
+<hr>
+<h2 id="Research"><a href="#Research" class="headerlink" title="Research"></a><a target="_blank" rel="noopener" href="https://semiengineering.com/algorithm-hw-co-design-framework-for-accelerating-attention-in-large-context-scenarios-cornell/">Research</a></h2><p><strong>Algorithm–HW Co-Design Framework for Accelerating Attention in Large-Context Scenarios</strong><br>Cornell University researchers have introduced LongSight, an innovative algorithm-hardware co-design framework to accelerate the attention mechanism in large-context LLMs. LongSight utilizes a compute-enabled CXL memory device to offload the Key-Value (KV) cache storage and retrieval, effectively enabling state-of-the-art Llama models to support context lengths of up to 1 million tokens. This approach elevates the value of relatively low-cost LPDDR DRAM to that of high-end HBM.</p>
+<p><img src="https://semiengineering.com/wp-content/uploads/AdobeStock_571576869-wave-data-10-10-23.jpeg" alt="Wave Data Flow"></p>
+<ul>
+<li>LongSight accelerates large-context LLMs by offloading the critical KV cache to compute-enabled CXL memory.</li>
+<li>This framework allows LLMs to efficiently support context windows of up to 1 million tokens, enhancing output accuracy and personalization.</li>
+<li>It effectively leverages lower-cost LPDDR DRAM to function at high-end HBM capacities for LLM acceleration.</li>
+</ul>
+<hr>
+<h2 id="Insight"><a href="#Insight" class="headerlink" title="Insight"></a><a target="_blank" rel="noopener" href="https://semiwiki.com/artificial-intelligence/362807-adding-expertise-to-genai-an-insightful-study-on-fine-tuning/">Insight</a></h2><p><strong>Adding Expertise to GenAI: An Insightful Study on Fine-tuning</strong><br>An insightful analysis of a Microsoft study explores methods for fine-tuning pre-trained Generative AI models (like GPT-4) to embed specific expertise, such as knowledge of recent sporting events. The study compares token-based and fact-based approaches to supervised fine-tuning (SFT), concluding that fact-based training, which breaks down complex sentences into atomic facts, yields more uniform coverage and significantly improved accuracy. The article emphasizes the dynamic nature of fine-tuning, the critical role of expert review, and the ongoing challenge of achieving 100% model accuracy while mitigating issues like catastrophic forgetting.</p>
+<p><img src="https://semiwiki.com/wp-content/uploads/2025/11/AI-Model-Tuner.png" alt="AI Model Tuner"></p>
+<ul>
+<li>Fine-tuning GenAI models is crucial for embedding specific expertise and significantly enhancing response accuracy over base pre-trained models.</li>
+<li>Fact-based fine-tuning, by breaking down complex sentences into individual labels, demonstrates superior and more uniform coverage compared to token-based methods.</li>
+<li>Expert human review and careful label generation are vital for building confidence in enhanced models and preventing issues like “catastrophic forgetting.”</li>
+</ul>
+<hr>
+<p>Stay tuned for the latest updates shaping the semiconductor landscape!</p>
+
+      
+    </div>
+    <footer class="entry-meta entry-footer">
+      
+	<span class="ico-folder"></span>
+    <a class="article-category-link" href="/opensemi/categories/Machinelearning/">Machinelearning</a>
+
+      
+  <span class="ico-tags"></span>
+  <ul class="article-tag-list" itemprop="keywords"><li class="article-tag-list-item"><a class="article-tag-list-link" href="/opensemi/tags/AI-Acceleration/" rel="tag">AI Acceleration</a></li><li class="article-tag-list-item"><a class="article-tag-list-link" href="/opensemi/tags/Advanced-Verification/" rel="tag">Advanced Verification</a></li><li class="article-tag-list-item"><a class="article-tag-list-link" href="/opensemi/tags/Chiplets/" rel="tag">Chiplets</a></li><li class="article-tag-list-item"><a class="article-tag-list-link" href="/opensemi/tags/Photonic-Computing/" rel="tag">Photonic Computing</a></li><li class="article-tag-list-item"><a class="article-tag-list-link" href="/opensemi/tags/Semiconductor-Manufacturing/" rel="tag">Semiconductor Manufacturing</a></li></ul>
+
+      
+        <div id="donation_div"></div>
+
+
+<script src="/opensemi/js/vdonate.js"></script>
+
+<script>
+var a = new Donate({
+  title: '如果觉得我的文章对您有用，请随意打赏。您的支持将鼓励我继续创作!', // 可选参数，打赏标题
+  btnText: 'Donate', // 可选参数，打赏按钮文字
+  el: document.getElementById('donation_div'),
+  wechatImage: '',
+  alipayImage: ''
+});
+</script>
+      
+            
+      
+    </footer>
+  </div>
+  
+    
+<nav id="article-nav">
+  
+  
+    <a href="/opensemi/20251111_TSMC-Arizona-Begins-N4-Production,-Boosting-Domestic-Chip-Manufacturing/" id="article-nav-older" class="article-nav-link-wrap">
+      <strong class="article-nav-caption">Older</strong>
+      <div class="article-nav-title">TSMC Arizona Begins N4 Production, Boosting Domestic Chip Manufacturing</div>
+    </a>
+  
+</nav>
+
+  
+</article>
+
+<!-- Table of Contents -->
+
+  <aside id="sidebar">
+    <div id="toc" class="toc-article" style="overflow-y: scroll; max-width: 28%;">
+    <strong class="toc-title">Contents</strong>
+    
+      <ol class="nav"><li class="nav-item nav-level-2"><a class="nav-link" href="#News"><span class="nav-number">1.</span> <span class="nav-text">News</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#Launches"><span class="nav-number">2.</span> <span class="nav-text">Launches</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#Charts"><span class="nav-number">3.</span> <span class="nav-text">Charts</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#Research"><span class="nav-number">4.</span> <span class="nav-text">Research</span></a></li><li class="nav-item nav-level-2"><a class="nav-link" href="#Insight"><span class="nav-number">5.</span> <span class="nav-text">Insight</span></a></li></ol>
+    
+    </div>
+  </aside>
+</section>
+        
+      </div>
+      <footer id="footer" class="site-footer">
+  
+
+  <div class="clearfix container">
+      <div class="site-info">
+	      &copy; 2025 opensemi All Rights Reserved.
+          
+            <span id="busuanzi_container_site_uv">
+              本站访客数<span id="busuanzi_value_site_uv"></span>人次  
+              本站总访问量<span id="busuanzi_value_site_pv"></span>次
+            </span>
+          
+      </div>
+      <div class="site-credit">
+        Theme by <a href="#" target="_blank">MegaBolD</a>
+      </div>
+      <br>
+      
+      <table class="menu-footer" style="width: 200px;">
+        <thead>
+          <tr>
+            
+              <td><b>Links</b><br>
+                
+                  <a href="">Home</a>
+                  <br>
+                
+                  <a href="/about/">About</a>
+                  <br>
+                
+              </td>
+            
+          </tr>
+        </thead>
+      </table>
+      
+  </div>
+</footer>
+
+
+<!-- min height -->
+
+<script>
+    var contentdiv = document.getElementById("content");
+
+    contentdiv.style.minHeight = document.body.offsetHeight - document.getElementById("allheader").offsetHeight - document.getElementById("footer").offsetHeight + "px";
+</script>
+
+<!-- Custome JS -->
+
+<script src="/opensemi/js/my.js"></script>
+
+    </div>
+    <!-- <nav id="mobile-nav">
+  
+    <a href="/opensemi/" class="mobile-nav-link">Home</a>
+  
+    <a href="/opensemi/categories" class="mobile-nav-link">Categories</a>
+  
+    <a href="/opensemi/about" class="mobile-nav-link">About</a>
+  
+    <a href="/opensemi/subscribe" class="mobile-nav-link">Subscribe</a>
+  
+</nav> -->
+    
+
+<!-- mathjax config similar to math.stackexchange -->
+
+<script type="text/x-mathjax-config">
+  MathJax.Hub.Config({
+    tex2jax: {
+      inlineMath: [ ['$','$'], ["\\(","\\)"] ],
+      processEscapes: true
+    }
+  });
+</script>
+
+<script type="text/x-mathjax-config">
+    MathJax.Hub.Config({
+      tex2jax: {
+        skipTags: ['script', 'noscript', 'style', 'textarea', 'pre', 'code']
+      }
+    });
+</script>
+
+<script type="text/x-mathjax-config">
+    MathJax.Hub.Queue(function() {
+        var all = MathJax.Hub.getAllJax(), i;
+        for(i=0; i < all.length; i += 1) {
+            all[i].SourceElement().parentNode.className += ' has-jax';
+        }
+    });
+</script>
+
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.4/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
+</script>
+
+
+
+  
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/2.1.5/jquery.fancybox.min.css">
+
+  
+<script src="https://cdnjs.cloudflare.com/ajax/libs/fancybox/2.1.5/jquery.fancybox.min.js"></script>
+
+
+
+
+<script src="/opensemi/js/scripts.js"></script>
+
+
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+
+
+<script src="/opensemi/js/main.js"></script>
+
+
+
+
+
+
+
+
+  <div style="display: none;">
+    <script src="https://s95.cnzz.com/z_stat.php?id=1260716016&web_id=1260716016" language="JavaScript"></script>
+  </div>
+
+
+
+	<script async src="https://dnqof95d40fo6.cloudfront.net/atw7f8.js">
+	</script>
+
+
+
+
+
+
+  </div>
+
+  <a id="rocket" href="#top" class=""></a>
+  <script type="text/javascript" src="/js/totop.js" async=""></script>
+<script type="text/x-mathjax-config">
+    MathJax.Hub.Config({
+        tex2jax: {
+            inlineMath: [ ["$","$"], ["\\(","\\)"] ],
+            skipTags: ['script', 'noscript', 'style', 'textarea', 'pre', 'code'],
+            processEscapes: true
+        }
+    });
+    MathJax.Hub.Queue(function() {
+        var all = MathJax.Hub.getAllJax();
+        for (var i = 0; i < all.length; ++i)
+            all[i].SourceElement().parentNode.className += ' has-jax';
+    });
+</script>
+<script src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+</body>
+</html>

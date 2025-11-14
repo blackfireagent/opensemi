@@ -4,6 +4,39 @@
   
     
     <entry>
+      <title>Algorithm–HW Co-Design Framework for Accelerating Attention in Large-Context Scenarios</title>
+      <link href="/opensemi/20251114_Algorithm%E2%80%93HW-Co-Design-Framework-for-Accelerating-Attention-in-Large-Context-Scenarios/"/>
+      <url>/opensemi/20251114_Algorithm%E2%80%93HW-Co-Design-Framework-for-Accelerating-Attention-in-Large-Context-Scenarios/</url>
+      
+        <content type="html"><![CDATA[<div style="display: flex; justify-content: center;">  <audio controls>    <source src="/opensemi/podcasts/20251114_machinelearning_newsletter_gemini-2.5-flash.mp3" type="audio/mpeg">  </audio></div><h2 id="News"><a href="#News" class="headerlink" title="News"></a><a href="https://semiwiki.com/semiconductor-manufacturers/tsmc/363007-tsmc-kumamoto-pioneering-japans-semiconductor-revival/">News</a></h2><p><strong>TSMC Kumamoto: Pioneering Japan’s Semiconductor Revival</strong><br>TSMC’s Kumamoto facility, operationalized through Japan Advanced Semiconductor Manufacturing (JASM), marks a strategic diversification of its global manufacturing footprint, being its first dedicated wafer fab outside Taiwan, the U.S., and Europe. The facility focuses on mature process nodes (22&#x2F;28nm and 12&#x2F;16nm) crucial for automotive semiconductors, image sensors, and microcontrollers.</p><p><img src="https://semiwiki.com/wp-content/uploads/2025/10/TSMC-Kumamoto-Fab-2.jpg" alt="TSMC Kumamoto Fab"></p><ul><li>TSMC’s strategic pivot with its Kumamoto fab diversifies manufacturing globally, bolstering supply chain resilience.</li><li>The facility focuses on mature nodes, leveraging renewable energy and creating 2,400 jobs, to support key sectors like automotive and image sensors.</li><li>Kumamoto significantly contributes to Japan’s “Semiconductor Revival Plan,” aiming to reclaim a share of global chip production, despite some infrastructure challenges for future expansions.</li></ul><hr><h2 id="Launches"><a href="#Launches" class="headerlink" title="Launches"></a><a href="https://semiengineering.com/silicon-photonic-interconnected-chiplets-with-computational-network-and-imc-for-llm-inference-acceleration-nus/">Launches</a></h2><p><strong>Silicon Photonic Interconnected Chiplets With Computational Network And IMC For LLM Inference Acceleration</strong><br>Researchers at the National University of Singapore have unveiled PICNIC, a 3D-stacked chiplet-based large language model (LLM) inference accelerator. PICNIC tackles critical communication bottlenecks by employing silicon photonic interconnections and non-volatile in-memory computing processing elements. This innovative architecture significantly enhances speed and efficiency for LLM inference.</p><p><img src="https://semiengineering.com/wp-content/uploads/AdobeStock_280279152-05-21-scaled.jpeg" alt="Silicon Photonic Interconnected Chiplets"></p><ul><li>PICNIC is a novel 3D-stacked chiplet accelerator leveraging silicon photonics for efficient LLM inference.</li><li>It integrates an Inter-PE Computational Network and in-memory computing to overcome communication bottlenecks in LLM processing.</li><li>Simulation results indicate a substantial 3.95x speedup and 30x efficiency improvement over the Nvidia A100, with further scalability to rival the H100.</li></ul><hr><h2 id="Charts"><a href="#Charts" class="headerlink" title="Charts"></a><a href="https://semiwiki.com/eda/synopsys/363578-lessons-from-the-deepchip-wars-what-a-decade-old-debate-teaches-us-about-tech-evolution/">Charts</a></h2><p><strong>Lessons from the DeepChip Wars: What a Decade-old Debate Teaches Us About Tech Evolution</strong><br>A review of hardware-assisted verification (HAV) trends over the last decade reveals a dramatic evolution driven by soaring design complexity, embedded software growth, and the rise of AI workloads. Key shifts include a reversal of priorities from compile time to runtime performance, a move from multi-user parallelism to single, system-critical validation runs, and a transformation in debugging from waveform visibility to system-level insights. This evolution is summarized in a table showcasing the changing attributes of HAV systems.</p><p><img src="https://semiwiki.com/wp-content/uploads/2025/11/Lessons-from-the-DeepChip-wars-Table.png" alt="Evolution of HAV Main Attributes"></p><ul><li>HAV priorities have shifted dramatically, favoring long runtime performance for complex software workloads over rapid compile times.</li><li>The focus of capacity utilization transitioned from running many small jobs in parallel to executing single, system-critical validation runs for massive, multi-die architectures.</li><li>Debugging techniques evolved from low-level waveform visibility to high-abstraction system-level analysis, utilizing software debuggers and protocol analyzers.</li></ul><hr><h2 id="Research"><a href="#Research" class="headerlink" title="Research"></a><a href="https://semiengineering.com/algorithm-hw-co-design-framework-for-accelerating-attention-in-large-context-scenarios-cornell/">Research</a></h2><p><strong>Algorithm–HW Co-Design Framework for Accelerating Attention in Large-Context Scenarios</strong><br>Cornell University researchers have introduced LongSight, an innovative algorithm-hardware co-design framework to accelerate the attention mechanism in large-context LLMs. LongSight utilizes a compute-enabled CXL memory device to offload the Key-Value (KV) cache storage and retrieval, effectively enabling state-of-the-art Llama models to support context lengths of up to 1 million tokens. This approach elevates the value of relatively low-cost LPDDR DRAM to that of high-end HBM.</p><p><img src="https://semiengineering.com/wp-content/uploads/AdobeStock_571576869-wave-data-10-10-23.jpeg" alt="Wave Data Flow"></p><ul><li>LongSight accelerates large-context LLMs by offloading the critical KV cache to compute-enabled CXL memory.</li><li>This framework allows LLMs to efficiently support context windows of up to 1 million tokens, enhancing output accuracy and personalization.</li><li>It effectively leverages lower-cost LPDDR DRAM to function at high-end HBM capacities for LLM acceleration.</li></ul><hr><h2 id="Insight"><a href="#Insight" class="headerlink" title="Insight"></a><a href="https://semiwiki.com/artificial-intelligence/362807-adding-expertise-to-genai-an-insightful-study-on-fine-tuning/">Insight</a></h2><p><strong>Adding Expertise to GenAI: An Insightful Study on Fine-tuning</strong><br>An insightful analysis of a Microsoft study explores methods for fine-tuning pre-trained Generative AI models (like GPT-4) to embed specific expertise, such as knowledge of recent sporting events. The study compares token-based and fact-based approaches to supervised fine-tuning (SFT), concluding that fact-based training, which breaks down complex sentences into atomic facts, yields more uniform coverage and significantly improved accuracy. The article emphasizes the dynamic nature of fine-tuning, the critical role of expert review, and the ongoing challenge of achieving 100% model accuracy while mitigating issues like catastrophic forgetting.</p><p><img src="https://semiwiki.com/wp-content/uploads/2025/11/AI-Model-Tuner.png" alt="AI Model Tuner"></p><ul><li>Fine-tuning GenAI models is crucial for embedding specific expertise and significantly enhancing response accuracy over base pre-trained models.</li><li>Fact-based fine-tuning, by breaking down complex sentences into individual labels, demonstrates superior and more uniform coverage compared to token-based methods.</li><li>Expert human review and careful label generation are vital for building confidence in enhanced models and preventing issues like “catastrophic forgetting.”</li></ul><hr><p>Stay tuned for the latest updates shaping the semiconductor landscape!</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> Machinelearning </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> Semiconductor Manufacturing </tag>
+            
+            <tag> Chiplets </tag>
+            
+            <tag> AI Acceleration </tag>
+            
+            <tag> Photonic Computing </tag>
+            
+            <tag> Advanced Verification </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>TSMC Arizona Begins N4 Production, Boosting Domestic Chip Manufacturing</title>
       <link href="/opensemi/20251111_TSMC-Arizona-Begins-N4-Production,-Boosting-Domestic-Chip-Manufacturing/"/>
       <url>/opensemi/20251111_TSMC-Arizona-Begins-N4-Production,-Boosting-Domestic-Chip-Manufacturing/</url>
@@ -414,9 +447,9 @@
             
             <tag> AI </tag>
             
-            <tag> Semiconductor Manufacturing </tag>
-            
             <tag> Advanced Packaging </tag>
+            
+            <tag> Semiconductor Manufacturing </tag>
             
             <tag> Chiplets </tag>
             
@@ -502,9 +535,9 @@
             
             <tag> market trends </tag>
             
-            <tag> RISC-V </tag>
-            
             <tag> chiplets </tag>
+            
+            <tag> RISC-V </tag>
             
             <tag> advanced packaging </tag>
             
@@ -629,9 +662,9 @@
             
             <tag> AI </tag>
             
-            <tag> Semiconductor Manufacturing </tag>
-            
             <tag> Advanced Packaging </tag>
+            
+            <tag> Semiconductor Manufacturing </tag>
             
             <tag> Innovation </tag>
             
@@ -848,9 +881,9 @@
             
             <tag> AI </tag>
             
-            <tag> RISC-V </tag>
-            
             <tag> semiconductors </tag>
+            
+            <tag> RISC-V </tag>
             
             <tag> memory design </tag>
             
@@ -1686,9 +1719,9 @@
             
             <tag> AI </tag>
             
-            <tag> RISC-V </tag>
-            
             <tag> semiconductors </tag>
+            
+            <tag> RISC-V </tag>
             
             <tag> EDA </tag>
             

@@ -6,10 +6,44 @@
   <link href="https://blackfireagent.github.io/opensemi/atom.xml" rel="self"/>
   
   <link href="https://blackfireagent.github.io/opensemi/"/>
-  <updated>2025-11-11T05:22:40.956Z</updated>
+  <updated>2025-11-14T05:17:57.376Z</updated>
   <id>https://blackfireagent.github.io/opensemi/</id>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Algorithm–HW Co-Design Framework for Accelerating Attention in Large-Context Scenarios</title>
+    <link href="https://blackfireagent.github.io/opensemi/20251114_Algorithm%E2%80%93HW-Co-Design-Framework-for-Accelerating-Attention-in-Large-Context-Scenarios/"/>
+    <id>https://blackfireagent.github.io/opensemi/20251114_Algorithm%E2%80%93HW-Co-Design-Framework-for-Accelerating-Attention-in-Large-Context-Scenarios/</id>
+    <published>2025-11-13T23:00:00.000Z</published>
+    <updated>2025-11-14T05:17:57.376Z</updated>
+    
+    <content type="html"><![CDATA[<div style="display: flex; justify-content: center;">  <audio controls>    <source src="/opensemi/podcasts/20251114_machinelearning_newsletter_gemini-2.5-flash.mp3" type="audio/mpeg">  </audio></div><h2 id="News"><a href="#News" class="headerlink" title="News"></a><a href="https://semiwiki.com/semiconductor-manufacturers/tsmc/363007-tsmc-kumamoto-pioneering-japans-semiconductor-revival/">News</a></h2><p><strong>TSMC Kumamoto: Pioneering Japan’s Semiconductor Revival</strong><br>TSMC’s Kumamoto facility, operationalized through Japan Advanced Semiconductor Manufacturing (JASM), marks a strategic diversification of its global manufacturing footprint, being its first dedicated wafer fab outside Taiwan, the U.S., and Europe. The facility focuses on mature process nodes (22&#x2F;28nm and 12&#x2F;16nm) crucial for automotive semiconductors, image sensors, and microcontrollers.</p><p><img src="https://semiwiki.com/wp-content/uploads/2025/10/TSMC-Kumamoto-Fab-2.jpg" alt="TSMC Kumamoto Fab"></p><ul><li>TSMC’s strategic pivot with its Kumamoto fab diversifies manufacturing globally, bolstering supply chain resilience.</li><li>The facility focuses on mature nodes, leveraging renewable energy and creating 2,400 jobs, to support key sectors like automotive and image sensors.</li><li>Kumamoto significantly contributes to Japan’s “Semiconductor Revival Plan,” aiming to reclaim a share of global chip production, despite some infrastructure challenges for future expansions.</li></ul><hr><h2 id="Launches"><a href="#Launches" class="headerlink" title="Launches"></a><a href="https://semiengineering.com/silicon-photonic-interconnected-chiplets-with-computational-network-and-imc-for-llm-inference-acceleration-nus/">Launches</a></h2><p><strong>Silicon Photonic Interconnected Chiplets With Computational Network And IMC For LLM Inference Acceleration</strong><br>Researchers at the National University of Singapore have unveiled PICNIC, a 3D-stacked chiplet-based large language model (LLM) inference accelerator. PICNIC tackles critical communication bottlenecks by employing silicon photonic interconnections and non-volatile in-memory computing processing elements. This innovative architecture significantly enhances speed and efficiency for LLM inference.</p><p><img src="https://semiengineering.com/wp-content/uploads/AdobeStock_280279152-05-21-scaled.jpeg" alt="Silicon Photonic Interconnected Chiplets"></p><ul><li>PICNIC is a novel 3D-stacked chiplet accelerator leveraging silicon photonics for efficient LLM inference.</li><li>It integrates an Inter-PE Computational Network and in-memory computing to overcome communication bottlenecks in LLM processing.</li><li>Simulation results indicate a substantial 3.95x speedup and 30x efficiency improvement over the Nvidia A100, with further scalability to rival the H100.</li></ul><hr><h2 id="Charts"><a href="#Charts" class="headerlink" title="Charts"></a><a href="https://semiwiki.com/eda/synopsys/363578-lessons-from-the-deepchip-wars-what-a-decade-old-debate-teaches-us-about-tech-evolution/">Charts</a></h2><p><strong>Lessons from the DeepChip Wars: What a Decade-old Debate Teaches Us About Tech Evolution</strong><br>A review of hardware-assisted verification (HAV) trends over the last decade reveals a dramatic evolution driven by soaring design complexity, embedded software growth, and the rise of AI workloads. Key shifts include a reversal of priorities from compile time to runtime performance, a move from multi-user parallelism to single, system-critical validation runs, and a transformation in debugging from waveform visibility to system-level insights. This evolution is summarized in a table showcasing the changing attributes of HAV systems.</p><p><img src="https://semiwiki.com/wp-content/uploads/2025/11/Lessons-from-the-DeepChip-wars-Table.png" alt="Evolution of HAV Main Attributes"></p><ul><li>HAV priorities have shifted dramatically, favoring long runtime performance for complex software workloads over rapid compile times.</li><li>The focus of capacity utilization transitioned from running many small jobs in parallel to executing single, system-critical validation runs for massive, multi-die architectures.</li><li>Debugging techniques evolved from low-level waveform visibility to high-abstraction system-level analysis, utilizing software debuggers and protocol analyzers.</li></ul><hr><h2 id="Research"><a href="#Research" class="headerlink" title="Research"></a><a href="https://semiengineering.com/algorithm-hw-co-design-framework-for-accelerating-attention-in-large-context-scenarios-cornell/">Research</a></h2><p><strong>Algorithm–HW Co-Design Framework for Accelerating Attention in Large-Context Scenarios</strong><br>Cornell University researchers have introduced LongSight, an innovative algorithm-hardware co-design framework to accelerate the attention mechanism in large-context LLMs. LongSight utilizes a compute-enabled CXL memory device to offload the Key-Value (KV) cache storage and retrieval, effectively enabling state-of-the-art Llama models to support context lengths of up to 1 million tokens. This approach elevates the value of relatively low-cost LPDDR DRAM to that of high-end HBM.</p><p><img src="https://semiengineering.com/wp-content/uploads/AdobeStock_571576869-wave-data-10-10-23.jpeg" alt="Wave Data Flow"></p><ul><li>LongSight accelerates large-context LLMs by offloading the critical KV cache to compute-enabled CXL memory.</li><li>This framework allows LLMs to efficiently support context windows of up to 1 million tokens, enhancing output accuracy and personalization.</li><li>It effectively leverages lower-cost LPDDR DRAM to function at high-end HBM capacities for LLM acceleration.</li></ul><hr><h2 id="Insight"><a href="#Insight" class="headerlink" title="Insight"></a><a href="https://semiwiki.com/artificial-intelligence/362807-adding-expertise-to-genai-an-insightful-study-on-fine-tuning/">Insight</a></h2><p><strong>Adding Expertise to GenAI: An Insightful Study on Fine-tuning</strong><br>An insightful analysis of a Microsoft study explores methods for fine-tuning pre-trained Generative AI models (like GPT-4) to embed specific expertise, such as knowledge of recent sporting events. The study compares token-based and fact-based approaches to supervised fine-tuning (SFT), concluding that fact-based training, which breaks down complex sentences into atomic facts, yields more uniform coverage and significantly improved accuracy. The article emphasizes the dynamic nature of fine-tuning, the critical role of expert review, and the ongoing challenge of achieving 100% model accuracy while mitigating issues like catastrophic forgetting.</p><p><img src="https://semiwiki.com/wp-content/uploads/2025/11/AI-Model-Tuner.png" alt="AI Model Tuner"></p><ul><li>Fine-tuning GenAI models is crucial for embedding specific expertise and significantly enhancing response accuracy over base pre-trained models.</li><li>Fact-based fine-tuning, by breaking down complex sentences into individual labels, demonstrates superior and more uniform coverage compared to token-based methods.</li><li>Expert human review and careful label generation are vital for building confidence in enhanced models and preventing issues like “catastrophic forgetting.”</li></ul><hr><p>Stay tuned for the latest updates shaping the semiconductor landscape!</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;div style=&quot;display: flex; justify-content: center;&quot;&gt;
+  &lt;audio controls&gt;
+    &lt;source src=&quot;/opensemi/podcasts/20251114_machinelearning_newsle</summary>
+      
+    
+    
+    
+    <category term="Machinelearning" scheme="https://blackfireagent.github.io/opensemi/categories/Machinelearning/"/>
+    
+    
+    <category term="Semiconductor Manufacturing" scheme="https://blackfireagent.github.io/opensemi/tags/Semiconductor-Manufacturing/"/>
+    
+    <category term="Chiplets" scheme="https://blackfireagent.github.io/opensemi/tags/Chiplets/"/>
+    
+    <category term="AI Acceleration" scheme="https://blackfireagent.github.io/opensemi/tags/AI-Acceleration/"/>
+    
+    <category term="Photonic Computing" scheme="https://blackfireagent.github.io/opensemi/tags/Photonic-Computing/"/>
+    
+    <category term="Advanced Verification" scheme="https://blackfireagent.github.io/opensemi/tags/Advanced-Verification/"/>
+    
+  </entry>
   
   <entry>
     <title>TSMC Arizona Begins N4 Production, Boosting Domestic Chip Manufacturing</title>
@@ -439,9 +473,9 @@
     
     <category term="AI" scheme="https://blackfireagent.github.io/opensemi/tags/AI/"/>
     
-    <category term="Semiconductor Manufacturing" scheme="https://blackfireagent.github.io/opensemi/tags/Semiconductor-Manufacturing/"/>
-    
     <category term="Advanced Packaging" scheme="https://blackfireagent.github.io/opensemi/tags/Advanced-Packaging/"/>
+    
+    <category term="Semiconductor Manufacturing" scheme="https://blackfireagent.github.io/opensemi/tags/Semiconductor-Manufacturing/"/>
     
     <category term="Chiplets" scheme="https://blackfireagent.github.io/opensemi/tags/Chiplets/"/>
     
@@ -529,9 +563,9 @@
     
     <category term="market trends" scheme="https://blackfireagent.github.io/opensemi/tags/market-trends/"/>
     
-    <category term="RISC-V" scheme="https://blackfireagent.github.io/opensemi/tags/RISC-V/"/>
-    
     <category term="chiplets" scheme="https://blackfireagent.github.io/opensemi/tags/chiplets/"/>
+    
+    <category term="RISC-V" scheme="https://blackfireagent.github.io/opensemi/tags/RISC-V/"/>
     
     <category term="advanced packaging" scheme="https://blackfireagent.github.io/opensemi/tags/advanced-packaging/"/>
     
@@ -659,9 +693,9 @@
     
     <category term="AI" scheme="https://blackfireagent.github.io/opensemi/tags/AI/"/>
     
-    <category term="Semiconductor Manufacturing" scheme="https://blackfireagent.github.io/opensemi/tags/Semiconductor-Manufacturing/"/>
-    
     <category term="Advanced Packaging" scheme="https://blackfireagent.github.io/opensemi/tags/Advanced-Packaging/"/>
+    
+    <category term="Semiconductor Manufacturing" scheme="https://blackfireagent.github.io/opensemi/tags/Semiconductor-Manufacturing/"/>
     
     <category term="Innovation" scheme="https://blackfireagent.github.io/opensemi/tags/Innovation/"/>
     
@@ -698,38 +732,6 @@
     <category term="semiconductors" scheme="https://blackfireagent.github.io/opensemi/tags/semiconductors/"/>
     
     <category term="architecture" scheme="https://blackfireagent.github.io/opensemi/tags/architecture/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>Emerson Leverages AI to Address Complexity in Test and Measurement</title>
-    <link href="https://blackfireagent.github.io/opensemi/20251009_Emerson-Leverages-AI-to-Address-Complexity-in-Test-and-Measurement/"/>
-    <id>https://blackfireagent.github.io/opensemi/20251009_Emerson-Leverages-AI-to-Address-Complexity-in-Test-and-Measurement/</id>
-    <published>2025-10-08T22:00:00.000Z</published>
-    <updated>2025-10-09T04:11:32.751Z</updated>
-    
-    <content type="html"><![CDATA[<div style="display: flex; justify-content: center;">  <audio controls>    <source src="/opensemi/podcasts/20251009_etch_newsletter_gpt-4o-mini.mp3" type="audio/mpeg">    Your browser does not support the audio element.  </audio></div><h2 id="News"><a href="#News" class="headerlink" title="News"></a><a href="https://www.semiconductor-digest.com/qualcomm-to-acquire-arduino/">News</a></h2><p><strong>Qualcomm To Acquire Arduino</strong><br>Qualcomm Technologies announced its acquisition of Arduino, aiming to democratize access to edge computing and AI for developers worldwide. This acquisition follows Qualcomm’s earlier purchases of Edge Impulse and Foundries.io, expanding its reach to over 33 million active Arduino users. Arduino will maintain its independent brand and community spirit while enhancing its development tools, including the new Arduino UNO Q, designed for AI-powered solutions.</p><p><img src="https://www.eetimes.com/wp-content/uploads/Qualcomm-Arduino-Uno.jpeg" alt="Qualcomm Arduino"></p><hr><h2 id="Launches"><a href="#Launches" class="headerlink" title="Launches"></a><a href="https://www.semiconductor-digest.com/acm-research-unveils-ultra-ecdp-electrochemical-deplating-tool-for-compound-semiconductor-gold-etch-processes/">Launches</a></h2><p><strong>ACM Research Unveils Ultra ECDP Electrochemical Deplating Tool for Compound Semiconductor Gold Etch Processes</strong><br>ACM Research has launched the Ultra ECDP tool for electrochemical gold etching, specifically designed for compound semiconductor manufacturing. This innovative tool improves uniformity and surface finish while addressing challenges in gold etching. It is engineered for various substrates and is compatible with both 6-inch and 8-inch wafer platforms, supporting multiple manufacturing environments.</p><p><img src="https://www.semiconductor-digest.com/wp-content/uploads/2019/02/Final-Logo-1.png" alt="ACM Ultra ECDP Tool"></p><hr><h2 id="Charts"><a href="#Charts" class="headerlink" title="Charts"></a><a href="https://newsroom.lamresearch.com/fabtex-yield-optimizer-improves-processes-for-high-volume-manufacturing?blog=true">Charts</a></h2><p><strong>Volume Semiconductor Manufacturing Yield Improvement</strong><br>Lam Research has introduced the Fabtex™ Yield Optimizer, a groundbreaking software solution designed to enhance yield in high volume manufacturing (HVM) at fabs. Leveraging AI, machine learning, and virtual silicon digital twins, Fabtex significantly reduces process variability and time-to-market by identifying issues early in the manufacturing process. This innovative approach promises to enhance yield while minimizing wafer testing and waste.</p><p><img src="https://newsroom.lamresearch.com/image/Fabtex-Value-Proposition-REV-10-1C.jpg" alt="Yield Improvement Chart"></p><hr><h2 id="Research"><a href="#Research" class="headerlink" title="Research"></a><a href="https://www.semiconductor-digest.com/imec-achieves-new-milestones-in-single-patterning-high-na-euv-lithography-for-both-damascene-and-direct-metal-etch-metallization-processes/">Research</a></h2><p><strong>Imec Achieves New Milestones in Single Patterning High NA EUV Lithography</strong><br>At the 2025 SPIE Photomask Technology + EUV Lithography Conference, imec presented significant advancements in single print High NA EUV lithography. They achieved 20nm pitch line structures with a critical dimension of 13nm, essential for damascene metallization processes. These breakthroughs are poised to drive the semiconductor industry toward high volume manufacturing of sub-2nm logic technology, crucial for future innovations.</p><p><img src="https://www.semiconductor-digest.com/wp-content/uploads/2019/02/Final-Logo-1.png" alt="Imec Milestones"></p><hr><h2 id="Insight"><a href="#Insight" class="headerlink" title="Insight"></a><a href="https://www.eetimes.com/emerson-leverages-ai-to-address-complexity-in-test-and-measurement/">Insight</a></h2><p><strong>Emerson Leverages AI to Address Complexity in Test and Measurement</strong><br>At Publitek Connect 2025, Emerson unveiled its AI platform, Nigel, designed to simplify complex test and measurement workflows. This tool aids engineers in analyzing code and identifying hardware needs, improving efficiency in semiconductor testing. With a focus on integrating AI across its product lines, Emerson aims to enhance customer experience and adapt to the increasing complexity of modern semiconductor devices.</p><p><img src="https://www.eetimes.com/wp-content/uploads/emerson-expands-ai-capabilities-into-test-measurement-software-portfolio-en-us-11902676.jpg" alt="Emerson AI"></p><hr><p>Stay tuned for more updates as we continue to bring you the latest in the semiconductor industry!</p>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;div style=&quot;display: flex; justify-content: center;&quot;&gt;
-  &lt;audio controls&gt;
-    &lt;source src=&quot;/opensemi/podcasts/20251009_etch_newsletter_gpt-4o</summary>
-      
-    
-    
-    
-    <category term="Etch" scheme="https://blackfireagent.github.io/opensemi/categories/Etch/"/>
-    
-    
-    <category term="AI" scheme="https://blackfireagent.github.io/opensemi/tags/AI/"/>
-    
-    <category term="innovation" scheme="https://blackfireagent.github.io/opensemi/tags/innovation/"/>
-    
-    <category term="semiconductor" scheme="https://blackfireagent.github.io/opensemi/tags/semiconductor/"/>
-    
-    <category term="advanced packaging" scheme="https://blackfireagent.github.io/opensemi/tags/advanced-packaging/"/>
     
   </entry>
   
