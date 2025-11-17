@@ -6,10 +6,44 @@
   <link href="https://blackfireagent.github.io/opensemi/atom.xml" rel="self"/>
   
   <link href="https://blackfireagent.github.io/opensemi/"/>
-  <updated>2025-11-14T05:17:57.376Z</updated>
+  <updated>2025-11-17T05:19:35.562Z</updated>
   <id>https://blackfireagent.github.io/opensemi/</id>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>AI Chip Startup Tsavorite Emerges With $100 Million In Pre-Orders</title>
+    <link href="https://blackfireagent.github.io/opensemi/20251117_AI-Chip-Startup-Tsavorite-Emerges-With-$100-Million-In-Pre-Orders/"/>
+    <id>https://blackfireagent.github.io/opensemi/20251117_AI-Chip-Startup-Tsavorite-Emerges-With-$100-Million-In-Pre-Orders/</id>
+    <published>2025-11-16T23:00:00.000Z</published>
+    <updated>2025-11-17T05:19:35.562Z</updated>
+    
+    <content type="html"><![CDATA[<div style="display: flex; justify-content: center;">  <audio controls>    <source src="/opensemi/podcasts/20251117_semiconductor_newsletter_gemini-2.5-flash.mp3" type="audio/mpeg">  </audio></div><h2 id="News"><a href="#News" class="headerlink" title="News"></a><a href="https://spectrum.ieee.org/3d-heterogeneous-integration">News</a></h2><p><strong>3D Heterogeneous Integration Powers New DARPA Fab</strong><br>The Texas Institute for Electronics (TIE) in Austin is being transformed into the world’s only advanced packaging plant dedicated to 3D heterogeneous integration (3DHI). This initiative, part of DARPA’s Next-Generation Microelectronics Manufacturing (NGMM) program, aims to achieve a 100-fold performance boost by stacking chips made of diverse materials like gallium nitride and silicon carbide, not just silicon. This new fab will focus on prototyping and manufacturing these complex stacked chips in the U.S., mitigating the “lab-to-fab valley of death” for hardware startups.</p><p><img src="https://spectrum.ieee.org/media-library/image.jpg?id=62098318&width=1200&height=600&coordinates=0,306,0,174" alt="3D Heterogeneous Integration Fab"></p><ul><li><strong>DARPA-backed 3DHI Fab</strong>: Texas Institute for Electronics (TIE) is establishing a unique facility for advanced chip stacking using silicon and non-silicon materials.</li><li><strong>Performance Leap</strong>: Aims for a 100-fold performance increase over 2D integration by combining diverse materials.</li><li><strong>U.S. Manufacturing &amp; Innovation</strong>: Supports domestic prototyping and manufacturing of advanced chips, assisting startups in overcoming commercialization hurdles.</li></ul><hr><h2 id="Launches"><a href="#Launches" class="headerlink" title="Launches"></a><a href="https://www.eetimes.com/ai-chip-startup-tsavorite-emerges-with-100-million-in-pre-orders/">Launches</a></h2><p><strong>AI Chip Startup Tsavorite Emerges With $100 Million In Pre-Orders</strong><br>Tsavorite Scalable Intelligence, an AI chip startup, has exited stealth mode with $100 million in pre-orders and eight design-ins totaling $350 million. The company specializes in chiplet-based AI inference accelerators, featuring two proprietary chiplets (OmniFlex and SkyFlex) connected via its “MultiPlexus” fabric. This architecture is designed for high scalability and efficiency, offering unified memory and low latency for diverse applications from robotics to data centers. Tsavorite’s software stack, Taos, is CUDA-compatible and supports fine-tuning and reinforcement learning, aiming to provide a comprehensive solution for enterprise AI. Pre-production systems are expected by mid-2026.</p><p><img src="https://www.eetimes.com/wp-content/uploads/Robot_6d9e47.jpg" alt="AI Chip Startup Tsavorite"></p><ul><li><strong>Chiplet-Based AI Accelerators</strong>: Tsavorite’s Omni Processing Unit (OPU) chiplets use a proprietary MultiPlexus fabric for scalable, efficient AI inference.</li><li><strong>Unified Memory &amp; Low Latency</strong>: The architecture supports large-scale designs up to 8,000 OPUs with unified memory access and high-memory bandwidth.</li><li><strong>CUDA-Compatible Software</strong>: The Taos software stack is designed for seamless integration and also enables fine-tuning and reinforcement learning on the same hardware.</li></ul><hr><h2 id="Charts"><a href="#Charts" class="headerlink" title="Charts"></a><a href="https://semiengineering.com/new-rules-put-the-squeeze-on-semiconductor-gray-market/">Charts</a></h2><p><strong>New Rules Put The Squeeze On Semiconductor Gray Market</strong><br>The semiconductor industry is facing increased pressure to combat counterfeiting and ensure the authenticity of parts, driven by the shift towards chiplets, multi-die assemblies, and stringent government regulations. Digital certificates and immutable physical IDs are being pushed as solutions, but their widespread adoption has been hampered by inconsistent regulations and a lack of economic incentives. New government policies, like the U.S. CHIPS Act and EU’s Cyber Resilience Act, are now mandating infrastructure for traceability, making it a prerequisite for doing business in critical sectors. This global effort aims to create a “federated trust fabric” across the supply chain, moving beyond traditional quality control to verifiable provenance.</p><p><img src="https://semiengineering.com/wp-content/uploads/2025/11/Screenshot-2025-11-10-at-2.38.06-PM.png" alt="Global standards defining provenance, security, and interoperability"></p><ul><li><strong>Combating Counterfeiting</strong>: The industry is intensifying efforts against gray market semiconductors through digital certificates and physical IDs.</li><li><strong>Regulatory Driving Force</strong>: Government acts and policies are mandating traceability infrastructure, especially for HPC, defense, and critical infrastructure.</li><li><strong>Federated Trust Fabric</strong>: Aims to establish a global, verifiable, and interoperable semiconductor traceability framework to enhance supply chain security and unlock new economic intelligence.</li></ul><hr><h2 id="Research"><a href="#Research" class="headerlink" title="Research"></a><a href="https://www.semiconductor-digest.com/controlling-triple-quantum-dots-in-a-zinc-oxide-semiconductor/">Research</a></h2><p><strong>Controlling Triple Quantum Dots in a Zinc Oxide Semiconductor</strong><br>Researchers at Tohoku University’s WPI-AIMR have achieved a significant breakthrough in quantum computing by successfully creating and electrically controlling triple quantum dots in zinc oxide (ZnO). This advancement is crucial for scaling up qubit numbers, a major challenge for practical quantum computers. ZnO is favored for its good spin coherence and strong electron correlations. The team observed the quantum cellular automata (QCA) effect, where charge configurations influence neighboring dots, leading to simultaneous electron movement—a key mechanism for low-power quantum logic. This research expands the material options for quantum computing, bringing closer the realization of stable, scalable, and energy-efficient quantum devices.</p><p><img src="https://www.semiconductor-digest.com/wp-content/uploads/2019/02/Final-Logo-1.png" alt="Tohoku University Logo"></p><ul><li><strong>Quantum Dot Breakthrough</strong>: Successful creation and electrical control of triple quantum dots in zinc oxide (ZnO) for quantum computing.</li><li><strong>Scalability for Qubits</strong>: Addresses the critical need for a large number of controllable qubits for practical quantum computers.</li><li><strong>Quantum Cellular Automata (QCA) Effect</strong>: Observed a unique QCA effect in triple quantum dots, essential for low-power quantum logic operations.</li></ul><hr><h2 id="Insight"><a href="#Insight" class="headerlink" title="Insight"></a><a href="https://semiwiki.com/ceo-interviews/363573-ceo-interview-with-roy-barnes-of-tpc/">Insight</a></h2><p><strong>CEO Interview with Roy Barnes of TPC</strong><br>Roy Barnes, Group President of The Partner Companies (TPC), discussed the firm’s role in delivering precision manufacturing solutions, particularly through photochemical etching, to industries where failure is not an option, with a core focus on the semiconductor sector. TPC, comprising eleven specialty manufacturers, offers deep expertise in processes for ultra-precise thin metal parts and ceramic metallization. Barnes highlighted how TPC addresses complex engineering challenges, such as optimizing AlN heater assembly reliability, through collaborative problem-solving and rapid scaling. The company differentiates itself through an integrated manufacturing approach, leveraging adjacent technologies, and making significant investments in engineering and scaling capabilities to provide secure, IP-focused domestic solutions amid supply chain pressures.</p><p><img src="https://semiwiki.com/wp-content/uploads/2025/11/Roy-Barnes-Headshot.jpg" alt="Roy Barnes Headshot"></p><ul><li><strong>Precision Manufacturing Expertise</strong>: TPC specializes in photochemical etching and ceramic metallization for mission-critical semiconductor components.</li><li><strong>Collaborative Problem-Solving</strong>: Addresses complex engineering challenges, like AlN heater reliability, through process expertise and rapid production scaling.</li><li><strong>Integrated Domestic Solutions</strong>: Offers a differentiated approach with integrated manufacturing, adjacent technologies, and a focus on secure, IP-protected domestic supply chains to alleviate customer concerns.</li></ul><hr><p>Stay tuned with us for the latest news and breakthroughs shaping the future of the semiconductor industry.</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;div style=&quot;display: flex; justify-content: center;&quot;&gt;
+  &lt;audio controls&gt;
+    &lt;source src=&quot;/opensemi/podcasts/20251117_semiconductor_newslett</summary>
+      
+    
+    
+    
+    <category term="Semiconductor" scheme="https://blackfireagent.github.io/opensemi/categories/Semiconductor/"/>
+    
+    
+    <category term="AI" scheme="https://blackfireagent.github.io/opensemi/tags/AI/"/>
+    
+    <category term="Advanced Packaging" scheme="https://blackfireagent.github.io/opensemi/tags/Advanced-Packaging/"/>
+    
+    <category term="Chiplets" scheme="https://blackfireagent.github.io/opensemi/tags/Chiplets/"/>
+    
+    <category term="Quantum Computing" scheme="https://blackfireagent.github.io/opensemi/tags/Quantum-Computing/"/>
+    
+    <category term="Supply Chain Security" scheme="https://blackfireagent.github.io/opensemi/tags/Supply-Chain-Security/"/>
+    
+  </entry>
   
   <entry>
     <title>Algorithm–HW Co-Design Framework for Accelerating Attention in Large-Context Scenarios</title>
@@ -563,9 +597,9 @@
     
     <category term="market trends" scheme="https://blackfireagent.github.io/opensemi/tags/market-trends/"/>
     
-    <category term="chiplets" scheme="https://blackfireagent.github.io/opensemi/tags/chiplets/"/>
-    
     <category term="RISC-V" scheme="https://blackfireagent.github.io/opensemi/tags/RISC-V/"/>
+    
+    <category term="chiplets" scheme="https://blackfireagent.github.io/opensemi/tags/chiplets/"/>
     
     <category term="advanced packaging" scheme="https://blackfireagent.github.io/opensemi/tags/advanced-packaging/"/>
     
@@ -698,40 +732,6 @@
     <category term="Semiconductor Manufacturing" scheme="https://blackfireagent.github.io/opensemi/tags/Semiconductor-Manufacturing/"/>
     
     <category term="Innovation" scheme="https://blackfireagent.github.io/opensemi/tags/Innovation/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>CEO Interview with Howard Pakosh of TekStart</title>
-    <link href="https://blackfireagent.github.io/opensemi/20251010_CEO-Interview-with-Howard-Pakosh-of-TekStart/"/>
-    <id>https://blackfireagent.github.io/opensemi/20251010_CEO-Interview-with-Howard-Pakosh-of-TekStart/</id>
-    <published>2025-10-09T22:00:00.000Z</published>
-    <updated>2025-10-10T04:14:47.857Z</updated>
-    
-    <content type="html"><![CDATA[<div style="display: flex; justify-content: center;">  <audio controls>    <source src="/opensemi/podcasts/20251010_machinelearning_newsletter_gpt-4o-mini.mp3" type="audio/mpeg">    Your browser does not support the audio element.  </audio></div><h2 id="News"><a href="#News" class="headerlink" title="News"></a><a href="https://semiengineering.com/double-duty-logic-block-architecture-enabling-concurrent-lut-and-adder-chain-usage-nanyang-technological-univ-et-al/">News</a></h2><p><strong>Double Duty Logic Block Architecture Enabling Concurrent LUT and Adder Chain Usage</strong><br>A new technical paper from researchers at Nanyang Technological University and other institutions presents the “Double Duty” FPGA architecture, which allows for concurrent use of LUTs and adder chains. This innovation enhances arithmetic density in FPGAs, achieving significant area reductions without affecting critical path delay. The proposed architecture promises a 9.7% improvement in area-delay product, making it a significant advancement for FPGA applications. </p><p><img src="https://semiengineering.com/wp-content/uploads/AdobeStock_1104488381-03-26-2025-scaled.jpeg" alt="Double Duty FPGA Architecture"></p><hr><h2 id="Launches"><a href="#Launches" class="headerlink" title="Launches"></a><a href="https://semiwiki.com/events/362123-webinar-the-path-to-smaller-denser-and-faster-with-cpx-samtecs-co-packaged-copper-and-optics/">Launches</a></h2><p><strong>The path to smaller denser and faster</strong><br>Samtec is set to host a webinar discussing its new co-packaged copper (CPC) and co-packaged optics (CPO) solutions, termed CPX, which enable advanced speeds of 224 Gbps. This integration aims to enhance performance in data centers and AI systems, addressing the common narrative that “copper is dead.” The event will showcase how combining copper and optical technologies can optimize interconnect strategies.</p><p><img src="https://semiwiki.com/wp-content/uploads/2025/09/Webinar-%E2%80%93-The-Path-to-Smaller-Denser-and-Faster-with-CPX-Samtecs-Co-Packaged-Copper-and-Optics-1200x398.png" alt="Webinar on CPX Technology"></p><hr><h2 id="Charts"><a href="#Charts" class="headerlink" title="Charts"></a><a href="https://semiwiki.com/3dic/361970-ai-everywhere-in-the-chip-lifecycle-synopsys-at-ai-infra-summit-2025/">Charts</a></h2><p><strong>AI Everywhere in the Chip Lifecycle: Synopsys at AI Infra Summit</strong><br>Synopsys showcased an AI-driven ecosystem that integrates energy efficiency and accelerated design processes at the AI Infra Summit 2025. Key charts from the presentation illustrated how AI is now an end-to-end engine driving chip development, with the potential to reduce design times by up to 40% and improve energy efficiency amidst soaring AI workloads.</p><p><img src="https://semiwiki.com/wp-content/uploads/2025/09/Godwin-Talk-Summary-AI-Infra-Summit-2025-1200x750.png" alt="AI in Chip Lifecycle"></p><hr><h2 id="Research"><a href="#Research" class="headerlink" title="Research"></a><a href="https://semiengineering.com/in-sram-computing-architecture-tailored-for-cryptographic-acceleration-within-mcus-uc-riverside/">Research</a></h2><p><strong>In-SRAM Computing Architecture Tailored For Cryptographic Acceleration Within MCUs</strong><br>Researchers from UC Riverside have introduced CryptoSRAM, an innovative in-SRAM computing architecture that enhances cryptographic operations directly within microcontroller units (MCUs). This architecture reportedly achieves throughput improvements of up to 74× for AES encryption compared to traditional software implementations, addressing performance and energy costs in IoT devices.</p><p><img src="https://semiengineering.com/wp-content/uploads/Security-AdobeStock_328668955-01-29-25-scaled.jpeg" alt="CryptoSRAM Architecture"></p><hr><h2 id="Insight"><a href="#Insight" class="headerlink" title="Insight"></a><a href="https://semiwiki.com/artificial-intelligence/tekstart/361951-ceo-interview-with-howard-prakash-of-tekstart/">Insight</a></h2><p><strong>CEO Interview with Howard Pakosh of TekStart</strong><br>In this insightful interview, Howard Pakosh discusses how TekStart has transitioned into a venture builder focused on semiconductors and AI. He highlights the innovative solutions being developed, particularly through their ChipStart business unit, which addresses critical industry challenges like energy efficiency and supply chain fragility, particularly in Edge AI applications.</p><p><img src="https://semiwiki.com/wp-content/uploads/2025/09/HP_biopic_2-740x1200.jpg" alt="Howard Pakosh, CEO of TekStart"></p><hr><p>Stay tuned for more updates as we continue to bring you the latest innovations and trends in the semiconductor industry!</p>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;div style=&quot;display: flex; justify-content: center;&quot;&gt;
-  &lt;audio controls&gt;
-    &lt;source src=&quot;/opensemi/podcasts/20251010_machinelearning_newsle</summary>
-      
-    
-    
-    
-    <category term="Machinelearning" scheme="https://blackfireagent.github.io/opensemi/categories/Machinelearning/"/>
-    
-    
-    <category term="AI" scheme="https://blackfireagent.github.io/opensemi/tags/AI/"/>
-    
-    <category term="innovation" scheme="https://blackfireagent.github.io/opensemi/tags/innovation/"/>
-    
-    <category term="chip design" scheme="https://blackfireagent.github.io/opensemi/tags/chip-design/"/>
-    
-    <category term="semiconductors" scheme="https://blackfireagent.github.io/opensemi/tags/semiconductors/"/>
-    
-    <category term="architecture" scheme="https://blackfireagent.github.io/opensemi/tags/architecture/"/>
     
   </entry>
   
