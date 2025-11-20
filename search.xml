@@ -4,6 +4,39 @@
   
     
     <entry>
+      <title>Crypto Mining ASIC Goes Deep Sub-Threshold on 3 nm</title>
+      <link href="/opensemi/20251120_Crypto-Mining-ASIC-Goes-Deep-Sub-Threshold-on-3-nm/"/>
+      <url>/opensemi/20251120_Crypto-Mining-ASIC-Goes-Deep-Sub-Threshold-on-3-nm/</url>
+      
+        <content type="html"><![CDATA[<div style="display: flex; justify-content: center;">  <audio controls>    <source src="/opensemi/podcasts/20251120_etch_newsletter_gemini-2.5-flash.mp3" type="audio/mpeg">  </audio></div><h2 id="News"><a href="#News" class="headerlink" title="News"></a><a href="https://www.eetimes.com/ainekko-buys-esperanto-hardware-ip-open-sources-it/">News</a></h2><p><strong>Ainekko Buys Esperanto Hardware IP, Open-Sources It</strong><br>Open-source AI hardware and software startup Ainekko has acquired the IP and selected assets of AI chip startup Esperanto Technologies, including its chip designs, software tooling, and development framework. Ainekko plans to open-source Esperanto’s production-grade many-core RISC-V architecture, including RTL, reference designs, and development tools, with the goal of fostering community innovation and focusing on power-efficient edge AI applications.</p><p><img src="https://www.eetimes.com/wp-content/uploads/Esperanto-chip-sq_1e676f.jpg" alt="Esperanto chip"></p><ul><li>Ainekko acquires Esperanto’s RISC-V AI chip IP, making it open-source.</li><li>Aims to drive innovation for edge AI, robotics, and embedded devices.</li><li>Plans include a TSMC tapeout and future ASIC design services leveraging the open architecture.</li></ul><hr><h2 id="Launches"><a href="#Launches" class="headerlink" title="Launches"></a><a href="https://www.semiconductor-today.com/news_items/2013/JUL/PEKING_120713.html">Launches</a></h2><p><strong>Self-terminating recess etch produces nitride transistor with +3V threshold</strong><br>Researchers from Peking and Xidian universities have developed a self-terminating gate recess etch process that enables the production of aluminium gallium nitride (AlGaN) normally-off metal-oxide-semiconductor field-effect transistors (MOSFETs) with positive threshold voltages of up to +3.2V. This advancement is critical for high-frequency and high-power applications, leading to more reliable and energy-efficient devices by ensuring fail-safe operation.</p><p><img src="https://semiconductor-today.com/news_items/2013/JUL/13072pekingfigure1.jpg" alt="Log-scale transfer curve and gate leakage of fabricated device"></p><ul><li>New self-terminating gate recess etch process for AlGaN MOSFETs.</li><li>Achieves a high positive threshold voltage of +3.2V for reliable normally-off operation.</li><li>Enhances performance and power efficiency in high-frequency and high-power applications.</li></ul><hr><h2 id="Charts"><a href="#Charts" class="headerlink" title="Charts"></a><a href="https://newsroom.lamresearch.com/minimizing-voltage-loss-advanced-gaa-transistors?blog=true">Charts</a></h2><p><strong>Minimizing Voltage Loss and Boosting Yield in Advanced GAA Transistors</strong><br>A virtual study by Lam Research’s Semiverse Solutions team analyzed Gate-All-Around (GAA) devices using Backside Power Delivery Networks (BSPDN), comparing Direct Backside Contact (DBC) and Self-Aligned Backside Contact (SABC) architectures. The study, which includes process window contour diagrams, demonstrates that SABC significantly minimizes edge placement error (EPE) and over-etch variations, providing a much larger and more stable process window than DBC, thus promising higher yield for advanced logic nodes.</p><p><img src="/opensemi/img/semiconductor_future.png" alt="Advanced GAA Transistors"><br><em>(Refer to the original article for “Figure 2. Comparison of SABC and DBC process windows”)</em></p><ul><li>Virtual study compares SABC and DBC architectures for advanced GAA transistors with BSPDN.</li><li>SABC approach offers a significantly larger and more stable process window.</li><li>Minimizes EPE and over-etch variations, leading to higher yield for future logic device scaling.</li></ul><hr><h2 id="Research"><a href="#Research" class="headerlink" title="Research"></a><a href="https://www.eetimes.com/crypto-mining-asic-goes-deep-sub-threshold-on-3-nm/">Research</a></h2><p><strong>Crypto Mining ASIC Goes Deep Sub-Threshold on 3 nm</strong><br>Japanese company Triple-1 is taping out its Kamikaze III Bitcoin-mining ASIC on TSMC’s 3nm process, boasting a power efficiency of 10.45 J&#x2F;TH through proprietary sub-threshold design techniques. This groundbreaking approach, requiring custom cell design and manual routing, not only pushes the boundaries of power efficiency for crypto mining but also positions the company to develop future AI accelerator chips optimized for edge applications, leveraging its expertise in power management and distributed computing.</p><p><img src="https://www.eetimes.com/wp-content/uploads/Kamikaze-II.jpg" alt="Kamikaze-II"></p><ul><li>Triple-1’s Kamikaze III ASIC on TSMC 3nm achieves extreme power efficiency with proprietary sub-threshold design.</li><li>Highlights innovative custom cell design and manual routing for ultra-low voltage operation.</li><li>Explores a transition to AI accelerator chips for edge computing and distributed energy solutions.</li></ul><hr><h2 id="Insight"><a href="#Insight" class="headerlink" title="Insight"></a><a href="https://www.eetimes.com/d-wave-among-few-ramping-quantum-computer-sales/">Insight</a></h2><p><strong>D-Wave Among Few Ramping Quantum Computer Sales</strong><br>D-Wave’s Chief Development Officer Trevor Lanting discussed the company’s increasing sales of quantum annealing systems, including a significant installation at the Jülich Supercomputing Center for integration with Europe’s Jupiter exascale computer. Lanting provided key insights into D-Wave’s strategic pivot towards developing more challenging gate-model quantum technology, driven by critical innovations in error correction methodologies and fundamental qubit design, emphasizing the long-term vision for quantum applications.</p><p><img src="https://www.eetimes.com/wp-content/uploads/Advantage2-QPU.jpg" alt="Advantage2 QPU"></p><ul><li>D-Wave reports growing sales of its quantum annealing systems, including deployments for exascale supercomputer integration.</li><li>Outlines a strategic pivot to gate-model quantum technology, citing advancements in error correction and qubit design.</li><li>Leverages existing foundry partnerships for the development of both annealing and gate-based quantum processors.</li></ul><hr><p>Stay connected with us for the latest news and breakthroughs shaping the semiconductor landscape.</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> Etch </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> Quantum Computing </tag>
+            
+            <tag> GaN MOSFETs </tag>
+            
+            <tag> GAA Transistors </tag>
+            
+            <tag> AI Hardware </tag>
+            
+            <tag> Sub-threshold Design </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>Aniah Revolutionizes Electrical Verification in IC Design with OneCheck®</title>
       <link href="/opensemi/20251119_Aniah-Revolutionizes-Electrical-Verification-in-IC-Design-with-OneCheck%C2%AE/"/>
       <url>/opensemi/20251119_Aniah-Revolutionizes-Electrical-Verification-in-IC-Design-with-OneCheck%C2%AE/</url>
@@ -528,6 +561,45 @@
     
     
     <entry>
+      <title>The AI PC- A New Category Poised to Reignite the PC Market</title>
+      <link href="/opensemi/20251021_The-AI-PC--A-New-Category-Poised-to-Reignite-the-PC-Market/"/>
+      <url>/opensemi/20251021_The-AI-PC--A-New-Category-Poised-to-Reignite-the-PC-Market/</url>
+      
+        <content type="html"><![CDATA[<div style="display: flex; justify-content: center;">  <audio controls>    <source src="/opensemi/podcasts/20251021_device_newsletter_gemini-2.5-flash.mp3" type="audio/mpeg">    Your browser does not support the audio element.  </audio></div><h2 id="News"><a href="#News" class="headerlink" title="News"></a><a href="https://www.eetimes.com/texas-instruments-on-its-path-to-95-in-house-manufacturing-by-2030/">News</a></h2><p><strong>Texas Instruments On Its Path to 95% In-House Manufacturing by 2030</strong><br>Texas Instruments (TI) is aggressively pursuing a strategy to increase its self-reliance in semiconductor production, aiming to grow its internal manufacturing capacity to over 95% by 2030. Stefan Bruder, President of TI EMEA and India, highlighted the company’s commitment to investing more than $60 billion in seven fabs across three U.S. mega-sites in Texas and Utah since 2021, including a significant $40 billion at its new 300mm site in Sherman, Texas. This initiative is designed to ensure geopolitically dependable capacity and supply chain resilience by enabling dual-flow capabilities across different global manufacturing locations. TI is also focusing on local raw material procurement to further enhance supply chain stability. The company’s AI strategy encompasses both power-efficient gallium nitride (GaN) products for data centers and embedded AI capabilities in edge devices, such as their C2000 microcontrollers for solar inverters, many of which are being developed in collaboration with its large R&amp;D hub in India.</p><p><img src="https://www.eetimes.com/wp-content/uploads/Low-cost-MCU-F28E120SC-and-F28E120SB-1.jpg" alt="Texas Instruments Low-cost MCU"></p><hr><h2 id="Launches"><a href="#Launches" class="headerlink" title="Launches"></a><a href="https://www.eetimes.com/broadcom-expands-ai-ethernet-offerings/">Launches</a></h2><p><strong>Broadcom Expands AI Ethernet Offerings with Tomahawk 6 CPO Switch and Thor Ultra NIC</strong><br>Broadcom Inc. is significantly enhancing its AI networking portfolio with the launch of its Tomahawk 6 – Davisson (TH6-Davisson) Co-Packaged Optics (CPO) Ethernet switch and the Thor Ultra 800G AI Ethernet Network Interface Card (NIC). The TH6-Davisson, Broadcom’s third-generation CPO Ethernet switch, doubles the bandwidth of existing CPO switches, delivering 102.4 Terabits per second of optically enabled switching capacity while improving power efficiency and traffic stability critical for large-scale AI clusters. This advancement addresses the exploding demand for optical interconnects in AI networks, driven by GPUs requiring substantially more optical bandwidth than traditional CPUs. Concurrently, the Thor Ultra 800G AI Ethernet NIC, now sampling, is the industry’s first to support a single 800G flow and adopts the Ultra Ethernet Consortium (UEC) specification. This enables advanced RDMA capabilities, including packet-level multipathing, out-of-order packet delivery, selective retransmit, and scalable congestion control, providing an open and efficient solution for interconnecting hundreds of thousands of XPUs in AI workloads.</p><p><img src="https://www.eetimes.com/wp-content/uploads/Broadcom-AInetworking-covercarousel.png" alt="Broadcom AI Networking"></p><hr><h2 id="Charts"><a href="#Charts" class="headerlink" title="Charts"></a><a href="https://semiwiki.com/artificial-intelligence/362815-the-ai-pc-a-new-category-poised-to-reignite-the-pc-market/">Charts</a></h2><p><strong>The AI PC: A New Category Poised to Reignite the PC Market</strong><br>The personal computing industry is experiencing its most significant transformation since the 1980s with the emergence of the AI PC, a category poised to reignite growth in a previously plateaued market. Defined by the integration of a dedicated Neural Processing Unit (NPU) or equivalent accelerator, AI PCs enable on-device machine learning, running large language models, generative tools, and real-time personalization locally. Apple has established an early lead by incorporating its Neural Engine into all M-series Macs since 2020, achieving seamless vertical integration across silicon, OS, and frameworks. While Intel and AMD are rapidly catching up with their NPU-equipped platforms, only about 30% of x86 PCs shipped in 2025 qualify as AI PCs. Gartner projects a substantial market surge, with AI PC shipments expected to reach approximately 114 million units in 2025, a 165% increase over 2024, representing over 40% of the total PC market. This shift reflects both corporate demand for efficiency tools and individual users’ desire for local AI capabilities, promising to redefine productivity and creativity in the digital era.</p><p><img src="https://semiwiki.com/wp-content/uploads/2025/10/Fig-1.jpg" alt="AI PC Shipments Chart"></p><hr><h2 id="Research"><a href="#Research" class="headerlink" title="Research"></a><a href="https://techxplore.com/news/2025-10-team-high-ultra-power-superconductive.html">Research</a></h2><p><strong>Team Develops High-Speed, Ultra-Low-Power Superconductive Neuron Device for Neuromorphic Computing</strong><br>Researchers have developed a novel superconductive neuron device that promises to advance large-scale, high-speed, and ultra-low-power neuromorphic network circuits. Published in <em>Neuromorphic Computing and Engineering</em>, this groundbreaking device employs digital processing using superconducting circuits that utilize magnetic flux quanta as signal carriers. This approach significantly eliminates variations in the characteristics of elemental circuits, a common challenge in hardware implementation of neuromorphic systems. The team’s compact design implements the Rectified Linear Unit (ReLU) activation function through frequency conversion, leveraging single flux quantum logic. A key advantage is its remarkable robustness against device variability, maintaining ideal input-output characteristics even with up to 20% parameter variations. This marks a substantial improvement over conventional analog-based neuron devices, which are highly sensitive to non-uniformity and often suffer from high power consumption and limited capacity. This innovation paves the way for scalable superconducting neural networks, offering a path to ultra-high-speed and energy-efficient AI applications.</p><p><img src="https://scx2.b-cdn.net/gfx/news/2025/team-develops-high-spe.jpg" alt="Superconductive Neuron Device"></p><hr><h2 id="Insight"><a href="#Insight" class="headerlink" title="Insight"></a><a href="https://semiwiki.com/events/362577-webinar-ip-design-considerations-for-real-time-edge-ai-systems/">Insight</a></h2><p><strong>Synopsys Webinar: IP Design Considerations for Real-Time Edge AI Systems</strong><br>A recent webinar presented by Synopsys, featuring Hezi Saar, Executive Director of Product Line Management for Mobile, Automotive, and Consumer IP, delved into the critical IP design considerations for real-time AI systems at the edge. Saar, drawing from over two decades of experience in the semiconductor industry, provided a comprehensive overview of how AI is driving semiconductor growth and the motivations behind shifting AI workloads from the cloud to edge devices. He highlighted that power efficiency is a crucial factor, with on-device (edge) AI demonstrating up to 200 times more efficiency compared to cloud-based solutions. The presentation explored the unique requirements for cost, performance, area, and power across a broad range of smart and connected edge devices. Saar also discussed the increasing quality of small models for edge AI, the role of AI companion chips, and the impact of multi-die approaches in addressing consumer demands for cost-effective products, emphasizing that this shift is driving the next innovation cycle in the industry.</p><p><img src="https://semiwiki.com/wp-content/uploads/2025/10/Webinar-%E2%80%93-IP-Design-Considerations-for-Real-Time-Edge-AI-Systems-1200x570.png" alt="Synopsys Webinar on Edge AI Systems"></p><hr><p>Stay tuned for more essential insights and updates as the semiconductor industry continues to innovate and redefine the future of technology!</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> Device </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> AI </tag>
+            
+            <tag> Semiconductor Manufacturing </tag>
+            
+            <tag> Advanced Packaging </tag>
+            
+            <tag> Chiplets </tag>
+            
+            <tag> Machine Learning </tag>
+            
+            <tag> Edge AI </tag>
+            
+            <tag> Neuromorphic Computing </tag>
+            
+            <tag> Ethernet </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>The Rise, Fall, and Rebirth of In-Circuit Emulation</title>
       <link href="/opensemi/20251021_The-Rise,-Fall,-and-Rebirth-of-In-Circuit-Emulation/"/>
       <url>/opensemi/20251021_The-Rise,-Fall,-and-Rebirth-of-In-Circuit-Emulation/</url>
@@ -577,45 +649,6 @@
     
     
     <entry>
-      <title>The AI PC- A New Category Poised to Reignite the PC Market</title>
-      <link href="/opensemi/20251021_The-AI-PC--A-New-Category-Poised-to-Reignite-the-PC-Market/"/>
-      <url>/opensemi/20251021_The-AI-PC--A-New-Category-Poised-to-Reignite-the-PC-Market/</url>
-      
-        <content type="html"><![CDATA[<div style="display: flex; justify-content: center;">  <audio controls>    <source src="/opensemi/podcasts/20251021_device_newsletter_gemini-2.5-flash.mp3" type="audio/mpeg">    Your browser does not support the audio element.  </audio></div><h2 id="News"><a href="#News" class="headerlink" title="News"></a><a href="https://www.eetimes.com/texas-instruments-on-its-path-to-95-in-house-manufacturing-by-2030/">News</a></h2><p><strong>Texas Instruments On Its Path to 95% In-House Manufacturing by 2030</strong><br>Texas Instruments (TI) is aggressively pursuing a strategy to increase its self-reliance in semiconductor production, aiming to grow its internal manufacturing capacity to over 95% by 2030. Stefan Bruder, President of TI EMEA and India, highlighted the company’s commitment to investing more than $60 billion in seven fabs across three U.S. mega-sites in Texas and Utah since 2021, including a significant $40 billion at its new 300mm site in Sherman, Texas. This initiative is designed to ensure geopolitically dependable capacity and supply chain resilience by enabling dual-flow capabilities across different global manufacturing locations. TI is also focusing on local raw material procurement to further enhance supply chain stability. The company’s AI strategy encompasses both power-efficient gallium nitride (GaN) products for data centers and embedded AI capabilities in edge devices, such as their C2000 microcontrollers for solar inverters, many of which are being developed in collaboration with its large R&amp;D hub in India.</p><p><img src="https://www.eetimes.com/wp-content/uploads/Low-cost-MCU-F28E120SC-and-F28E120SB-1.jpg" alt="Texas Instruments Low-cost MCU"></p><hr><h2 id="Launches"><a href="#Launches" class="headerlink" title="Launches"></a><a href="https://www.eetimes.com/broadcom-expands-ai-ethernet-offerings/">Launches</a></h2><p><strong>Broadcom Expands AI Ethernet Offerings with Tomahawk 6 CPO Switch and Thor Ultra NIC</strong><br>Broadcom Inc. is significantly enhancing its AI networking portfolio with the launch of its Tomahawk 6 – Davisson (TH6-Davisson) Co-Packaged Optics (CPO) Ethernet switch and the Thor Ultra 800G AI Ethernet Network Interface Card (NIC). The TH6-Davisson, Broadcom’s third-generation CPO Ethernet switch, doubles the bandwidth of existing CPO switches, delivering 102.4 Terabits per second of optically enabled switching capacity while improving power efficiency and traffic stability critical for large-scale AI clusters. This advancement addresses the exploding demand for optical interconnects in AI networks, driven by GPUs requiring substantially more optical bandwidth than traditional CPUs. Concurrently, the Thor Ultra 800G AI Ethernet NIC, now sampling, is the industry’s first to support a single 800G flow and adopts the Ultra Ethernet Consortium (UEC) specification. This enables advanced RDMA capabilities, including packet-level multipathing, out-of-order packet delivery, selective retransmit, and scalable congestion control, providing an open and efficient solution for interconnecting hundreds of thousands of XPUs in AI workloads.</p><p><img src="https://www.eetimes.com/wp-content/uploads/Broadcom-AInetworking-covercarousel.png" alt="Broadcom AI Networking"></p><hr><h2 id="Charts"><a href="#Charts" class="headerlink" title="Charts"></a><a href="https://semiwiki.com/artificial-intelligence/362815-the-ai-pc-a-new-category-poised-to-reignite-the-pc-market/">Charts</a></h2><p><strong>The AI PC: A New Category Poised to Reignite the PC Market</strong><br>The personal computing industry is experiencing its most significant transformation since the 1980s with the emergence of the AI PC, a category poised to reignite growth in a previously plateaued market. Defined by the integration of a dedicated Neural Processing Unit (NPU) or equivalent accelerator, AI PCs enable on-device machine learning, running large language models, generative tools, and real-time personalization locally. Apple has established an early lead by incorporating its Neural Engine into all M-series Macs since 2020, achieving seamless vertical integration across silicon, OS, and frameworks. While Intel and AMD are rapidly catching up with their NPU-equipped platforms, only about 30% of x86 PCs shipped in 2025 qualify as AI PCs. Gartner projects a substantial market surge, with AI PC shipments expected to reach approximately 114 million units in 2025, a 165% increase over 2024, representing over 40% of the total PC market. This shift reflects both corporate demand for efficiency tools and individual users’ desire for local AI capabilities, promising to redefine productivity and creativity in the digital era.</p><p><img src="https://semiwiki.com/wp-content/uploads/2025/10/Fig-1.jpg" alt="AI PC Shipments Chart"></p><hr><h2 id="Research"><a href="#Research" class="headerlink" title="Research"></a><a href="https://techxplore.com/news/2025-10-team-high-ultra-power-superconductive.html">Research</a></h2><p><strong>Team Develops High-Speed, Ultra-Low-Power Superconductive Neuron Device for Neuromorphic Computing</strong><br>Researchers have developed a novel superconductive neuron device that promises to advance large-scale, high-speed, and ultra-low-power neuromorphic network circuits. Published in <em>Neuromorphic Computing and Engineering</em>, this groundbreaking device employs digital processing using superconducting circuits that utilize magnetic flux quanta as signal carriers. This approach significantly eliminates variations in the characteristics of elemental circuits, a common challenge in hardware implementation of neuromorphic systems. The team’s compact design implements the Rectified Linear Unit (ReLU) activation function through frequency conversion, leveraging single flux quantum logic. A key advantage is its remarkable robustness against device variability, maintaining ideal input-output characteristics even with up to 20% parameter variations. This marks a substantial improvement over conventional analog-based neuron devices, which are highly sensitive to non-uniformity and often suffer from high power consumption and limited capacity. This innovation paves the way for scalable superconducting neural networks, offering a path to ultra-high-speed and energy-efficient AI applications.</p><p><img src="https://scx2.b-cdn.net/gfx/news/2025/team-develops-high-spe.jpg" alt="Superconductive Neuron Device"></p><hr><h2 id="Insight"><a href="#Insight" class="headerlink" title="Insight"></a><a href="https://semiwiki.com/events/362577-webinar-ip-design-considerations-for-real-time-edge-ai-systems/">Insight</a></h2><p><strong>Synopsys Webinar: IP Design Considerations for Real-Time Edge AI Systems</strong><br>A recent webinar presented by Synopsys, featuring Hezi Saar, Executive Director of Product Line Management for Mobile, Automotive, and Consumer IP, delved into the critical IP design considerations for real-time AI systems at the edge. Saar, drawing from over two decades of experience in the semiconductor industry, provided a comprehensive overview of how AI is driving semiconductor growth and the motivations behind shifting AI workloads from the cloud to edge devices. He highlighted that power efficiency is a crucial factor, with on-device (edge) AI demonstrating up to 200 times more efficiency compared to cloud-based solutions. The presentation explored the unique requirements for cost, performance, area, and power across a broad range of smart and connected edge devices. Saar also discussed the increasing quality of small models for edge AI, the role of AI companion chips, and the impact of multi-die approaches in addressing consumer demands for cost-effective products, emphasizing that this shift is driving the next innovation cycle in the industry.</p><p><img src="https://semiwiki.com/wp-content/uploads/2025/10/Webinar-%E2%80%93-IP-Design-Considerations-for-Real-Time-Edge-AI-Systems-1200x570.png" alt="Synopsys Webinar on Edge AI Systems"></p><hr><p>Stay tuned for more essential insights and updates as the semiconductor industry continues to innovate and redefine the future of technology!</p>]]></content>
-      
-      
-      <categories>
-          
-          <category> Device </category>
-          
-      </categories>
-      
-      
-        <tags>
-            
-            <tag> AI </tag>
-            
-            <tag> Advanced Packaging </tag>
-            
-            <tag> Semiconductor Manufacturing </tag>
-            
-            <tag> Chiplets </tag>
-            
-            <tag> Machine Learning </tag>
-            
-            <tag> Edge AI </tag>
-            
-            <tag> Neuromorphic Computing </tag>
-            
-            <tag> Ethernet </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
       <title>GlobalFoundries, Infineon, Silicon Box, STATS ChipPAC, and TIER IV Join imec Automotive Chiplet Program</title>
       <link href="/opensemi/20251020_GlobalFoundries,-Infineon,-Silicon-Box,-STATS-ChipPAC,-and-TIER-IV-Join-imec-Automotive-Chiplet-Program/"/>
       <url>/opensemi/20251020_GlobalFoundries,-Infineon,-Silicon-Box,-STATS-ChipPAC,-and-TIER-IV-Join-imec-Automotive-Chiplet-Program/</url>
@@ -634,9 +667,9 @@
             
             <tag> market trends </tag>
             
-            <tag> chiplets </tag>
-            
             <tag> RISC-V </tag>
+            
+            <tag> chiplets </tag>
             
             <tag> advanced packaging </tag>
             
@@ -761,9 +794,9 @@
             
             <tag> AI </tag>
             
-            <tag> Advanced Packaging </tag>
-            
             <tag> Semiconductor Manufacturing </tag>
+            
+            <tag> Advanced Packaging </tag>
             
             <tag> Innovation </tag>
             
@@ -1529,9 +1562,9 @@
             
             <tag> semiconductor </tag>
             
-            <tag> memory </tag>
-            
             <tag> SoC </tag>
+            
+            <tag> memory </tag>
             
             <tag> architecture </tag>
             
@@ -2404,9 +2437,9 @@
             
             <tag> semiconductors </tag>
             
-            <tag> 3D printing </tag>
-            
             <tag> quantum technology </tag>
+            
+            <tag> 3D printing </tag>
             
         </tags>
       
@@ -2437,9 +2470,9 @@
             
             <tag> chip design </tag>
             
-            <tag> quantum technology </tag>
-            
             <tag> optical interconnects </tag>
+            
+            <tag> quantum technology </tag>
             
         </tags>
       
@@ -2788,9 +2821,9 @@
       
         <tags>
             
-            <tag> Semiconductor Technology </tag>
-            
             <tag> Market Trends </tag>
+            
+            <tag> Semiconductor Technology </tag>
             
             <tag> EUV Lithography </tag>
             
@@ -3393,9 +3426,9 @@
             
             <tag> Semiconductor Manufacturing </tag>
             
-            <tag> Market Trends </tag>
-            
             <tag> Research </tag>
+            
+            <tag> Market Trends </tag>
             
             <tag> Technology </tag>
             
@@ -3424,11 +3457,11 @@
             
             <tag> AI </tag>
             
+            <tag> Market Trends </tag>
+            
             <tag> Semiconductor Technology </tag>
             
             <tag> Chip Design </tag>
-            
-            <tag> Market Trends </tag>
             
         </tags>
       
