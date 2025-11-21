@@ -6,10 +6,44 @@
   <link href="https://blackfireagent.github.io/opensemi/atom.xml" rel="self"/>
   
   <link href="https://blackfireagent.github.io/opensemi/"/>
-  <updated>2025-11-20T05:13:43.993Z</updated>
+  <updated>2025-11-21T05:18:34.757Z</updated>
   <id>https://blackfireagent.github.io/opensemi/</id>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>ChipAgents AI Revolutionizes RTL Design and Verification with Autonomous Root Cause Analysis</title>
+    <link href="https://blackfireagent.github.io/opensemi/20251121_ChipAgents-AI-Revolutionizes-RTL-Design-and-Verification-with-Autonomous-Root-Cause-Analysis/"/>
+    <id>https://blackfireagent.github.io/opensemi/20251121_ChipAgents-AI-Revolutionizes-RTL-Design-and-Verification-with-Autonomous-Root-Cause-Analysis/</id>
+    <published>2025-11-20T23:00:00.000Z</published>
+    <updated>2025-11-21T05:18:34.757Z</updated>
+    
+    <content type="html"><![CDATA[<div style="display: flex; justify-content: center;">  <audio controls>    <source src="/opensemi/podcasts/20251121_machinelearning_newsletter_gemini-2.5-flash.mp3" type="audio/mpeg">  </audio></div><h2 id="News"><a href="#News" class="headerlink" title="News"></a><a href="https://semiwiki.com/artificial-intelligence/363814-arm-fcsa-and-the-journey-to-standardizing-open-chiplet-based-design/">News</a></h2><p><strong>Arm FCSA and the Journey to Standardizing Open Chiplet-Based Design</strong><br>Arm has donated its Foundation Chiplet System Architecture (FCSA) to the Open Compute Project (OCP), marking a significant step towards standardizing open chiplet-based designs. FCSA is an ISA-neutral initiative focused on addressing inter-chiplet communication challenges, particularly for AI-driven automotive and infrastructure applications. This move aims to enable a more modular and scalable approach to building complex, multi-die systems by defining standard interfaces like AMBA CHI C2C, allowing chiplets from various vendors to seamlessly interact.</p><p><img src="https://semiwiki.com/wp-content/uploads/2025/11/AI-driven-car.jpg" alt="AI-driven car"></p><hr><h2 id="Launches"><a href="#Launches" class="headerlink" title="Launches"></a><a href="https://semiwiki.com/artificial-intelligence/363689-i-have-seen-the-future/">Launches</a></h2><p><strong>ChipAgents AI Revolutionizes RTL Design and Verification with Autonomous Root Cause Analysis</strong><br>ChipAgents AI is pioneering an AI-native approach to Electronic Design Automation (EDA), targeting a 10x productivity improvement in RTL design and verification. A recent demonstration highlighted the system’s capability to autonomously identify and resolve design bugs in a complex PCIe Gen 3 design using natural language commands. The system completed a task that typically takes engineers dozens of hours in approximately 20 minutes, signaling a transformative shift towards AI-augmented design processes.</p><p><img src="https://semiwiki.com/wp-content/uploads/2025/11/I-Have-Seen-the-Future-with-ChipAgents-Autonomous-Root-Cause-Analysis-1200x555.png" alt="ChipAgents Autonomous Root Cause Analysis"></p><ul><li>AI-native EDA targets 10x productivity boost in RTL design&#x2F;verification.</li><li>Autonomous root cause analysis resolves complex bugs in minutes via natural language.</li><li>Demonstrates a significant leap towards AI-augmented design workflows.</li></ul><hr><h2 id="Charts"><a href="#Charts" class="headerlink" title="Charts"></a><a href="https://semiengineering.com/comparative-analysis-of-cfet-and-nsfet-architectures-tu-munich-indian-institute-of-tech/">Charts</a></h2><p><strong>Comparative Analysis of CFET and NSFET Architectures Reveals Performance and Area Gains</strong><br>A recent study from TU Munich and Indian Institute of Technology presents a comparative analysis of Complementary Field-Effect Transistor (CFET) and Nanosheet FET (NSFET) architectures, focusing on the impact of aging, self-heating, and parasitics on standard cell performance. The research highlights significant advantages of CFETs in advanced process nodes.</p><p><img src="https://semiengineering.com/wp-content/uploads/AdobeStock_322557739-01-29-25-scaled.jpeg" alt="Semiconductor architecture comparison"></p><ul><li>CFETs offer approximately 50% area savings at the standard cell level compared to NSFETs.</li><li>They demonstrate a 42% improvement in inverter propagation delay.</li><li>CFET SRAM cells provide area gain with faster and more stable write operations, indicating strong potential for high-performance applications.</li></ul><hr><h2 id="Research"><a href="#Research" class="headerlink" title="Research"></a><a href="https://semiengineering.com/study-of-compute-efficiency-and-density-of-3-photonic-computing-architectures-ibm-et-al/">Research</a></h2><p><strong>Study Highlights Compute Efficiency and Density of Integrated Photonic Computing Architectures</strong><br>Researchers from IBM Research – Europe, University of Heidelberg, and University of Münster have published a technical paper on the performance metrics of integrated photonic computing. The study provides a microarchitecture-level analysis of three prominent photonic computing architectures, taking into account both the optical circuits and the essential electronic peripheral circuitry required for optoelectronic and analog-to-digital conversions. It also demonstrates a heterogeneous photonic-electronic in-memory processing approach suitable for low-latency neural network inference, offering crucial insights into design aspects for enhancing compute efficiency and density.</p><p><img src="https://semiengineering.com/wp-content/uploads/AdobeStock_839148332-06-19-24-scaled.jpeg" alt="Photonic computing architecture"></p><hr><h2 id="Insight"><a href="#Insight" class="headerlink" title="Insight"></a><a href="https://semiwiki.com/semiconductor-services/363818-webinar-is-agentic-ai-the-future-of-eda/">Insight</a></h2><p><strong>Agentic AI Set to Transform EDA, Experts to Discuss Infrastructure and Future</strong><br>SemiWiki is hosting a pivotal webinar on December 4, 2025, titled “Is Agentic AI the Future for EDA — and What Does It Mean for EDA Infrastructure?”. Industry leaders from Cadence, NetApp, and AMD will convene to discuss how Agentic AI is poised to reshape chip design and verification. The session will cover the current state and future potential of Agentic AI, as well as the necessary infrastructure changes—including compute, storage, orchestration, and data management—to support AI-driven EDA workflows. The webinar promises practical guidance for semiconductor professionals navigating the shift towards autonomous, AI-augmented design processes.</p><p><img src="https://semiwiki.com/wp-content/uploads/2025/11/NetApp-Cadence-Webinar-Banner.jpg" alt="NetApp Cadence Webinar Banner"></p><ul><li>Webinar on Dec 4, 2025, addresses Agentic AI’s impact on EDA.</li><li>Experts from Cadence, NetApp, and AMD will discuss current state, future, and infrastructure needs.</li><li>Aims to provide practical guidance for adopting AI-driven design automation.</li></ul><hr><p>Stay tuned for more cutting-edge developments shaping the future of the semiconductor industry!</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;div style=&quot;display: flex; justify-content: center;&quot;&gt;
+  &lt;audio controls&gt;
+    &lt;source src=&quot;/opensemi/podcasts/20251121_machinelearning_newsle</summary>
+      
+    
+    
+    
+    <category term="Machinelearning" scheme="https://blackfireagent.github.io/opensemi/categories/Machinelearning/"/>
+    
+    
+    <category term="Chiplets" scheme="https://blackfireagent.github.io/opensemi/tags/Chiplets/"/>
+    
+    <category term="DRAM" scheme="https://blackfireagent.github.io/opensemi/tags/DRAM/"/>
+    
+    <category term="AI in EDA" scheme="https://blackfireagent.github.io/opensemi/tags/AI-in-EDA/"/>
+    
+    <category term="Photonic Computing" scheme="https://blackfireagent.github.io/opensemi/tags/Photonic-Computing/"/>
+    
+    <category term="Next-Gen FETs" scheme="https://blackfireagent.github.io/opensemi/tags/Next-Gen-FETs/"/>
+    
+  </entry>
   
   <entry>
     <title>Crypto Mining ASIC Goes Deep Sub-Threshold on 3 nm</title>
@@ -609,9 +643,9 @@
     
     <category term="AI" scheme="https://blackfireagent.github.io/opensemi/tags/AI/"/>
     
-    <category term="Semiconductor Manufacturing" scheme="https://blackfireagent.github.io/opensemi/tags/Semiconductor-Manufacturing/"/>
-    
     <category term="Advanced Packaging" scheme="https://blackfireagent.github.io/opensemi/tags/Advanced-Packaging/"/>
+    
+    <category term="Semiconductor Manufacturing" scheme="https://blackfireagent.github.io/opensemi/tags/Semiconductor-Manufacturing/"/>
     
     <category term="Chiplets" scheme="https://blackfireagent.github.io/opensemi/tags/Chiplets/"/>
     
@@ -672,68 +706,6 @@
     <category term="Sub-3nm" scheme="https://blackfireagent.github.io/opensemi/tags/Sub-3nm/"/>
     
     <category term="CMOS 2.0" scheme="https://blackfireagent.github.io/opensemi/tags/CMOS-2-0/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>GlobalFoundries, Infineon, Silicon Box, STATS ChipPAC, and TIER IV Join imec Automotive Chiplet Program</title>
-    <link href="https://blackfireagent.github.io/opensemi/20251020_GlobalFoundries,-Infineon,-Silicon-Box,-STATS-ChipPAC,-and-TIER-IV-Join-imec-Automotive-Chiplet-Program/"/>
-    <id>https://blackfireagent.github.io/opensemi/20251020_GlobalFoundries,-Infineon,-Silicon-Box,-STATS-ChipPAC,-and-TIER-IV-Join-imec-Automotive-Chiplet-Program/</id>
-    <published>2025-10-19T22:00:00.000Z</published>
-    <updated>2025-10-20T04:23:23.873Z</updated>
-    
-    <content type="html"><![CDATA[<div style="display: flex; justify-content: center;">  <audio controls>    <source src="/opensemi/podcasts/20251020_semiconductor_newsletter_gemini-2.5-flash.mp3" type="audio/mpeg">    Your browser does not support the audio element.  </audio></div><h2 id="News"><a href="#News" class="headerlink" title="News"></a><a href="https://www.imec-int.com/en/press/GlobalFoundries-Infineon-silicon-box-STATS-ChipPAC-TIER-IV-Join-imec-Automotive-Chiplet-Program">News</a></h2><p><strong>GlobalFoundries, Infineon, Silicon Box, STATS ChipPAC, and TIER IV Join imec Automotive Chiplet Program</strong><br>Imec has announced that leading industry players, including GlobalFoundries (GF), Infineon, Silicon Box, STATS ChipPAC, and Japanese autonomous driving technology developer TIER IV, have joined its Automotive Chiplet Program (ACP). This collaborative research initiative aims to accelerate the development and adoption of advanced chiplet architectures and packaging technologies specifically tailored for the stringent safety and reliability demands of the automotive sector. As vehicles increasingly evolve into high-performance, software-defined platforms, traditional monolithic chip designs face growing challenges. Chiplets offer a scalable, flexible, and cost-effective alternative. As a foundry partner, GF will contribute its advanced manufacturing capabilities and global fab footprint to support the development of automotive-ready, chiplet-based platforms and the qualification of critical interconnect technologies. This move highlights a significant industry collaboration to drive innovation in automotive semiconductors.</p><p><img src="https://www.imec-int.com/sites/default/files/2025-10/Header_AdobeStock_1557709119.jpg" alt="imec Automotive Chiplet Program"></p><hr><h2 id="Launches"><a href="#Launches" class="headerlink" title="Launches"></a><a href="https://www.eetimes.com/google-open-sources-npu-ip-synaptics-implements-it/">Launches</a></h2><p><strong>Google Open-Sources Coral NPU IP, Synaptics Implements It in Astra IoT SoCs</strong><br>Google Research has open-sourced its Coral NPU IP (previously codenamed Kelvin), a 4-way superscalar 32-bit RISC-V CPU, to foster growth in the edge AI ecosystem by mitigating fragmentation and bolstering security. Synaptics is the first company to implement this NPU in silicon, integrating it into its Astra SL2610 series of AI-enabled IoT device SoCs. Google’s initiative aims to provide an open-standards-based platform, offering flexibility and extensibility without requiring licensing fees. Synaptics’ Torq solution combines the Coral NPU with its proprietary T1 AI accelerator, supported by an open-source toolchain based on MLIR&#x2F;IREE. This development is set to simplify and accelerate the deployment of AI workloads across various IoT applications, from smart appliances to drones.</p><p><img src="https://www.eetimes.com/wp-content/uploads/Earbud.jpg" alt="Google Coral NPU Synaptics IoT Earbud"></p><hr><h2 id="Charts"><a href="#Charts" class="headerlink" title="Charts"></a><a href="https://techxplore.com/news/2025-10-taiwanese-chipmaker-tsmc-net-profit.html">Charts</a></h2><p><strong>Taiwanese chipmaker TSMC sees nearly 40% jump in its net profit thanks to the AI boom</strong><br>Taiwan Semiconductor Manufacturing Corp. (TSMC), the world’s leading semiconductor foundry, reported a remarkable financial performance for the July-September quarter. The company announced a record net profit of NT$452.3 billion ($15 billion), marking a nearly 40% year-on-year increase. This substantial surge in profitability is largely attributed to the unprecedented demand driven by the artificial intelligence (AI) boom. TSMC’s revenue also saw a significant 30% jump compared to the previous year, surpassing market expectations. The company continues to make substantial investments, including over $100 billion in the U.S. (with up to $40 billion at its new 300mm site in Sherman, Texas) and additional fabs in Japan, to ensure a geopolitically dependable and robust manufacturing capacity capable of meeting the “unyielding” global demand for its advanced semiconductor products, particularly those fueling the AI revolution.</p><p><img src="https://scx2.b-cdn.net/gfx/news/hires/2025/taiwanese-chipmaker-ts.jpg" alt="TSMC Net Profit"></p><hr><h2 id="Research"><a href="#Research" class="headerlink" title="Research"></a><a href="https://www.semiconductor-digest.com/kaist-develops-an-ai-semiconductor-brain-combining-transformers-intelligence-and-mambas-efficiency/">Research</a></h2><p><strong>KAIST Develops an AI Semiconductor Brain Combining Transformer’s Intelligence and Mamba’s Efficiency</strong><br>A joint research team, spearheaded by Professor Jongse Park from KAIST School of Computing, in collaboration with Georgia Institute of Technology and Uppsala University, has achieved a significant breakthrough in AI semiconductor technology. They developed “PIMBA,” a core AI semiconductor “brain” based on a novel hybrid Transformer and Mamba structure. This innovative design is implemented as a Processing-in-Memory (PIM) system, enabling direct computation within the memory itself. PIMBA addresses the critical challenges of escalating computational loads and memory demands in Large Language Models (LLMs) like GPT-4 and Llama. By minimizing data movement, PIMBA demonstrated a remarkable 4.1-fold increase in LLM inference speed and an average 2.2-fold reduction in power consumption compared to existing GPU systems, promising a new era for energy-efficient, high-performance AI processing. This research is scheduled for presentation at the 58th International Symposium on Microarchitecture (MICRO 2025).</p><p><img src="https://scx2.b-cdn.net/gfx/news/hires/2025/semiconductor-brain-co.jpg" alt="KAIST PIMBA AI Semiconductor"></p><hr><h2 id="Insight"><a href="#Insight" class="headerlink" title="Insight"></a><a href="https://semiwiki.com/ceo-interviews/362391-ceo-interview-with-dr-bernie-malouin-founder-of-jetcool-and-vp-of-flex-liquid-cooling/">Insight</a></h2><p><strong>CEO Interview with Dr. Bernie Malouin Founder of JetCool and VP of Flex Liquid Cooling</strong><br>In a recent interview, Dr. Bernie Malouin, Founder of JetCool and VP of Flex Liquid Cooling, provided key insights into the escalating challenges of thermal management for AI and High-Performance Computing (HPC) workloads. Malouin emphasized that traditional air cooling systems are increasingly struggling to keep pace with the unprecedented heat generated by modern CPUs and GPUs, leading to significant power and thermal constraints in data centers. JetCool, now a part of Flex, specializes in advanced direct-to-chip SmartPlate™ liquid cooling technology, which boasts over 20% better performance than conventional solutions by precisely targeting hot spots on silicon. The company offers vertically integrated, rack-level solutions that combine power distribution, liquid cooling, and system design, aiming to lower overall power consumption, drastically reduce water usage, and future-proof data center infrastructure against the rapid advancements in AI hardware.</p><p><img src="https://semiwiki.com/wp-content/uploads/2025/10/Bernie-Malouin_Headshot_JetCool.png" alt="Bernie Malouin JetCool Flex"></p><hr><p>Stay tuned for more updates as the semiconductor industry continues to push the boundaries of innovation and efficiency!</p>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;div style=&quot;display: flex; justify-content: center;&quot;&gt;
-  &lt;audio controls&gt;
-    &lt;source src=&quot;/opensemi/podcasts/20251020_semiconductor_newslett</summary>
-      
-    
-    
-    
-    <category term="Semiconductor" scheme="https://blackfireagent.github.io/opensemi/categories/Semiconductor/"/>
-    
-    
-    <category term="market trends" scheme="https://blackfireagent.github.io/opensemi/tags/market-trends/"/>
-    
-    <category term="RISC-V" scheme="https://blackfireagent.github.io/opensemi/tags/RISC-V/"/>
-    
-    <category term="chiplets" scheme="https://blackfireagent.github.io/opensemi/tags/chiplets/"/>
-    
-    <category term="advanced packaging" scheme="https://blackfireagent.github.io/opensemi/tags/advanced-packaging/"/>
-    
-    <category term="TSMC" scheme="https://blackfireagent.github.io/opensemi/tags/TSMC/"/>
-    
-    <category term="AI semiconductors" scheme="https://blackfireagent.github.io/opensemi/tags/AI-semiconductors/"/>
-    
-    <category term="processing-in-memory" scheme="https://blackfireagent.github.io/opensemi/tags/processing-in-memory/"/>
-    
-    <category term="LLMs" scheme="https://blackfireagent.github.io/opensemi/tags/LLMs/"/>
-    
-    <category term="data center cooling" scheme="https://blackfireagent.github.io/opensemi/tags/data-center-cooling/"/>
-    
-    <category term="liquid cooling" scheme="https://blackfireagent.github.io/opensemi/tags/liquid-cooling/"/>
-    
-    <category term="IoT" scheme="https://blackfireagent.github.io/opensemi/tags/IoT/"/>
-    
-    <category term="automotive electronics" scheme="https://blackfireagent.github.io/opensemi/tags/automotive-electronics/"/>
-    
-    <category term="GlobalFoundries" scheme="https://blackfireagent.github.io/opensemi/tags/GlobalFoundries/"/>
-    
-    <category term="imec" scheme="https://blackfireagent.github.io/opensemi/tags/imec/"/>
-    
-    <category term="Google" scheme="https://blackfireagent.github.io/opensemi/tags/Google/"/>
-    
-    <category term="Synaptics" scheme="https://blackfireagent.github.io/opensemi/tags/Synaptics/"/>
-    
-    <category term="KAIST" scheme="https://blackfireagent.github.io/opensemi/tags/KAIST/"/>
-    
-    <category term="Flex" scheme="https://blackfireagent.github.io/opensemi/tags/Flex/"/>
-    
-    <category term="JetCool" scheme="https://blackfireagent.github.io/opensemi/tags/JetCool/"/>
     
   </entry>
   
