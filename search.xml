@@ -4,6 +4,39 @@
   
     
     <entry>
+      <title>Imec.kelis- tool for AI datacenter design and optimization</title>
+      <link href="/opensemi/20251124_Imec.kelis--tool-for-AI-datacenter-design-and-optimization/"/>
+      <url>/opensemi/20251124_Imec.kelis--tool-for-AI-datacenter-design-and-optimization/</url>
+      
+        <content type="html"><![CDATA[<div style="display: flex; justify-content: center;">  <audio controls>    <source src="/opensemi/podcasts/20251124_semiconductor_newsletter_gemini-2.5-flash.mp3" type="audio/mpeg">  </audio></div><h2 id="News"><a href="#News" class="headerlink" title="News"></a><a href="https://www.eetimes.com/ainekko-buys-esperanto-hardware-ip-open-sources-it/">News</a></h2><p><strong>Ainekko Buys Esperanto Hardware IP, Open-Sources It</strong><br>Ainekko, an open-source AI hardware and software startup, has acquired the IP and select assets of AI chip startup Esperanto Technologies. This includes chip designs, software tooling, and development framework, which Ainekko plans to open-source.</p><p><img src="https://www.eetimes.com/wp-content/uploads/Esperanto-chip-sq_1e676f.jpg" alt="Esperanto chip"></p><ul><li>Ainekko will open-source Esperanto’s production-grade many-core RISC-V architecture for increased flexibility and community engagement.</li><li>The initiative targets edge AI applications where power efficiency is critical, rather than hyperscale data centers.</li><li>Ainekko plans its first silicon tapeout with eight Esperanto cores and MRAM, aiming for an intermediate 256-core design next.</li></ul><hr><h2 id="Launches"><a href="#Launches" class="headerlink" title="Launches"></a><a href="https://www.imec-int.com/en/press/imec-unveils-imeckelis-breakthrough-tool-ai-datacenter-design-and-optimization">Launches</a></h2><p><strong>Imec.kelis: tool for AI datacenter design and optimization</strong><br>Imec has launched imec.kelis, an analytical performance modeling tool designed to optimize the design of AI datacenters. This cutting-edge tool provides a fast, transparent, and validated framework for evaluating system performance across compute, communication, and memory subsystems, specifically tailored for large language model (LLM) training and inference workloads.</p><p><img src="https://www.imec-int.com/sites/default/files/2025-11/2023_IMEC_3D-Stack_Visual_v07_0.png" alt="Imec 3D Stack Visual"></p><ul><li>Imec.kelis offers an end-to-end framework for AI datacenter design, enabling architects to balance performance, sustainability, and cost.</li><li>It leverages imec’s expertise in system-level modeling and hardware-software co-design, with predictions validated on industry-standard platforms.</li><li>Key features include an LLM task-graph analyzer, a hierarchical roofline model, and an interactive dashboard for design space exploration, validated within a 12% error margin.</li></ul><hr><h2 id="Charts"><a href="#Charts" class="headerlink" title="Charts"></a><a href="https://semiwiki.com/semiconductor-services/363956-semiconductors-up-over-20-in-2025/">Charts</a></h2><p><strong>Semiconductors Up Over 20% in 2025</strong><br>The world semiconductor market reached a record $208 billion in Q3 2025, marking the first time it surpassed $200 billion. This represents a 15.8% increase from Q2 2025 and a 25.1% rise from Q3 2024, driven significantly by AI demand. Nvidia remained the top supplier with $57.0 billion in revenue.</p><p><img src="https://semiwiki.com/wp-content/uploads/2025/11/Semiconductors-Up-Over-20-in-2025-3.jpg" alt="Semiconductor Market Growth"></p><ul><li>The semiconductor market achieved a record $208 billion in Q3 2025, reflecting robust growth of over 20% year-over-year.</li><li>AI-driven demand, particularly for memory and AI accelerators, is identified as the primary catalyst for this strong market performance.</li><li>The market is projected to continue growing by 12% to 18% in 2026, with potential moderation in AI-dependent sectors and stronger growth in other segments like PCs and smartphones.</li></ul><hr><h2 id="Research"><a href="#Research" class="headerlink" title="Research"></a><a href="https://spectrum.ieee.org/quantum-sensors-2674296517">Research</a></h2><p><strong>Quantum Sensor Startup Seeks Flaws in 3D Chips</strong><br>EuQlid, a quantum technology startup, is developing a novel quantum sensor platform called QuMRI to non-destructively detect buried defects in 3D chips. This technology, based on artificial diamonds with nitrogen-vacancy (NV) centers, aims to quickly map current flows in deeply buried interconnects, potentially saving billions of dollars in manufacturing.</p><p><img src="https://spectrum.ieee.org/media-library/image.jpg?id=62202995&width=1200&height=600&coordinates=0,15,0,15" alt="Quantum sensors"></p><ul><li>QuMRI uses quantum sensors from artificial diamonds to precisely map current flows and detect defects in 3D stacked chips without damage.</li><li>The technology is significantly faster (100x) than X-ray inspection and offers similar precision to depths required by the semiconductor industry.</li><li>This innovation addresses critical challenges in 3D chip manufacturing by providing a non-destructive method for quality control, improving yield and reducing costs.</li></ul><hr><h2 id="Insight"><a href="#Insight" class="headerlink" title="Insight"></a><a href="https://semiengineering.com/the-future-for-formal-verification/">Insight</a></h2><p><strong>The Future For Formal Verification</strong><br>An expert panel discussed the evolving role of formal verification (FV) in the semiconductor industry, particularly with the advent of Agentic AI. The conversation highlighted FV’s potential to move beyond traditional functional verification, playing a crucial role in validating AI-generated designs, identifying unknown unknowns, and addressing challenges in security, functional safety, power, and thermal analysis.</p><p><img src="https://semiengineering.com/wp-content/uploads/AdobeStock_718179106-11-07-24-scaled.jpeg" alt="The Future For Formal Verification"></p><ul><li>Agentic AI is expected to transform EDA by generating design code and assertions, with formal verification essential for ensuring correctness and completeness.</li><li>Experts believe the industry is shifting towards natural language specifications, with LLMs assisting in translating these into machine-readable formats and SVA properties.</li><li>Beyond functional verification, FV is being applied to critical areas like security, power optimization (e.g., clock gating), functional safety (FuSa), and identifying worst-case performance scenarios.</li></ul><hr><p>Stay tuned for more essential updates as the semiconductor landscape continues to evolve with groundbreaking advancements and market shifts.</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> Semiconductor </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> AI </tag>
+            
+            <tag> Market Trends </tag>
+            
+            <tag> Neuromorphic </tag>
+            
+            <tag> EDA </tag>
+            
+            <tag> Hybrid Bonding </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>ChipAgents AI Revolutionizes RTL Design and Verification with Autonomous Root Cause Analysis</title>
       <link href="/opensemi/20251121_ChipAgents-AI-Revolutionizes-RTL-Design-and-Verification-with-Autonomous-Root-Cause-Analysis/"/>
       <url>/opensemi/20251121_ChipAgents-AI-Revolutionizes-RTL-Design-and-Verification-with-Autonomous-Root-Cause-Analysis/</url>
@@ -24,9 +57,9 @@
             
             <tag> DRAM </tag>
             
-            <tag> AI in EDA </tag>
-            
             <tag> Photonic Computing </tag>
+            
+            <tag> AI in EDA </tag>
             
             <tag> Next-Gen FETs </tag>
             
@@ -860,9 +893,9 @@
             
             <tag> innovation </tag>
             
-            <tag> semiconductors </tag>
-            
             <tag> chip design </tag>
+            
+            <tag> semiconductors </tag>
             
             <tag> architecture </tag>
             
@@ -986,9 +1019,9 @@
             
             <tag> innovation </tag>
             
-            <tag> semiconductors </tag>
-            
             <tag> chip design </tag>
+            
+            <tag> semiconductors </tag>
             
             <tag> industry news </tag>
             
@@ -1370,9 +1403,9 @@
             
             <tag> AI </tag>
             
-            <tag> semiconductors </tag>
-            
             <tag> chip design </tag>
+            
+            <tag> semiconductors </tag>
             
             <tag> 6G </tag>
             
@@ -1595,9 +1628,9 @@
             
             <tag> semiconductor </tag>
             
-            <tag> memory </tag>
-            
             <tag> SoC </tag>
+            
+            <tag> memory </tag>
             
             <tag> architecture </tag>
             
@@ -2338,9 +2371,9 @@
             
             <tag> AI </tag>
             
-            <tag> semiconductors </tag>
-            
             <tag> chip design </tag>
+            
+            <tag> semiconductors </tag>
             
             <tag> memory technology </tag>
             
@@ -2466,9 +2499,9 @@
             
             <tag> AI </tag>
             
-            <tag> semiconductors </tag>
-            
             <tag> chip design </tag>
+            
+            <tag> semiconductors </tag>
             
             <tag> quantum technology </tag>
             
@@ -2757,9 +2790,9 @@
             
             <tag> AI </tag>
             
-            <tag> semiconductors </tag>
-            
             <tag> photonics </tag>
+            
+            <tag> semiconductors </tag>
             
             <tag> memory technology </tag>
             
@@ -2825,9 +2858,9 @@
             
             <tag> innovation </tag>
             
-            <tag> semiconductors </tag>
-            
             <tag> chip design </tag>
+            
+            <tag> semiconductors </tag>
             
             <tag> supply chain </tag>
             
@@ -3577,9 +3610,9 @@
       
         <tags>
             
-            <tag> packaging </tag>
-            
             <tag> AI </tag>
+            
+            <tag> packaging </tag>
             
             <tag> semiconductor technology </tag>
             
