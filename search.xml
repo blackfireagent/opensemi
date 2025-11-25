@@ -4,6 +4,39 @@
   
     
     <entry>
+      <title>Intelligence Per Watt- Measuring Local Inference Viability for AI</title>
+      <link href="/opensemi/20251125_Intelligence-Per-Watt--Measuring-Local-Inference-Viability-for-AI/"/>
+      <url>/opensemi/20251125_Intelligence-Per-Watt--Measuring-Local-Inference-Viability-for-AI/</url>
+      
+        <content type="html"><![CDATA[<div style="display: flex; justify-content: center;">  <audio controls>    <source src="/opensemi/podcasts/20251125_device_newsletter_gemini-2.5-flash.mp3" type="audio/mpeg">  </audio></div><h2 id="News"><a href="#News" class="headerlink" title="News"></a><a href="https://www.eetimes.com/a-power-reshuffle-follows-gf-tsmc-gan-tie-up/">News</a></h2><p><strong>A Power Reshuffle Follows GF, TSMC GaN Tie-up</strong><br>GlobalFoundries (GF) has licensed TSMC’s 650-V and 80-V GaN power semiconductor manufacturing technologies as TSMC plans to phase out its GaN fabrication by July 31, 2027. This strategic partnership includes a new GaN foundry agreement with Navitas Semiconductor, a major GaN chip vendor, with development starting in early 2026. This move could significantly shift GaN supply chain operations to U.S. soil, supporting high-power applications for AI data centers, EVs, and grid infrastructures.</p><p><img src="https://www.eetimes.com/wp-content/uploads/Hero-image-3.jpg" alt="Power Reshuffle in GaN Market"></p><ul><li>GF licenses TSMC’s GaN manufacturing tech, aiming to become a U.S. GaN production hub.</li><li>Navitas Semiconductor, TSMC’s largest GaN customer, will transition production to GF.</li><li>The deal, supported by U.S. government funding, strengthens domestic GaN manufacturing for critical high-power applications.</li></ul><hr><h2 id="Launches"><a href="#Launches" class="headerlink" title="Launches"></a><a href="https://www.eetimes.com/applied-materials-besi-push-die-to-wafer-hybrid-bonding-toward-high-volume-manufacturing/">Launches</a></h2><p><strong>Applied Materials, BESI Push Die-to-Wafer Hybrid Bonding Toward High-Volume Manufacturing</strong><br>Applied Materials and BE Semiconductor Industries (BESI) have unveiled the Kinex system, the industry’s first high-volume–ready die-to-wafer hybrid bonding platform. This integrated system addresses critical scaling limits by enabling ultra-fine pitch interconnects for chiplets, crucial for next-generation AI accelerators with hundreds of dies and millions of I&#x2F;Os per square millimeter. The Kinex platform boasts high precision (100-nm alignment at 3 sigma) and throughput (1,600 die placements per hour), optimizing surface preparation and reducing defects in a compact, integrated flow.</p><p><img src="https://www.eetimes.com/wp-content/uploads/AdobeStock_868575540.jpeg" alt="High-Volume Die-to-Wafer Hybrid Bonding Platform"></p><ul><li>Introduces the first high-volume die-to-wafer hybrid bonding platform, Kinex, enabling advanced multi-chiplet packages.</li><li>Achieves 100-nm alignment accuracy and 1,600 die placements&#x2F;hour, with future plans for 50-nm accuracy.</li><li>Integrates the entire bonding flow on a single platform, significantly reducing queue times and contamination risks.</li></ul><hr><h2 id="Charts"><a href="#Charts" class="headerlink" title="Charts"></a><a href="https://semiengineering.com/intelligence-per-watt-measuring-local-inference-viability-studying-20-models-8-hw-accelerators-stanford-univ/">Charts</a></h2><p><strong>Intelligence Per Watt: Measuring Local Inference Viability for AI</strong><br>A Stanford University and Together AI study introduces “Intelligence per Watt (IPW)” as a metric to assess the capability and efficiency of local AI inference. Analyzing over 20 small Large Language Models (LLMs) and 8 hardware accelerators, the research reveals significant progress:</p><ul><li>Local LLMs can accurately answer 88.7% of single-turn chat and reasoning queries.</li><li>From 2023-2025, IPW improved 5.3x, and local query coverage increased from 23.2% to 71.3%.</li><li>Local accelerators achieve at least 1.4x lower IPW than cloud accelerators running identical models, indicating substantial optimization potential. These trends highlight the growing viability of local AI inference, which can redistribute demand from centralized cloud infrastructure and improve overall energy efficiency.</li></ul><p><img src="https://semiengineering.com/wp-content/uploads/AdobeStock_322782977-01-29-25-scaled.jpeg" alt="Measuring Intelligence Efficiency of Local AI"></p><hr><h2 id="Research"><a href="#Research" class="headerlink" title="Research"></a><a href="https://techxplore.com/news/2025-11-artificial-neuron-mimic-brain-major.html">Research</a></h2><p><strong>Artificial Neuron Can Mimic Different Parts of the Brain—A Major Step Toward Human-Like Robotics</strong><br>An international research team led by Loughborough University has developed a “transneuron,” a single artificial neuron capable of mimicking the behavior of various brain cells involved in vision, planning, and movement. Unlike fixed-task artificial neurons, this device demonstrates a remarkable level of flexibility by switching between distinct pulse patterns (steady, irregular, rapid bursts) with 70–100% accuracy, matching signals recorded from macaque monkeys. The transneuron utilizes a memristor to “remember” past signals and adjust its response, paving the way for energy-efficient, adaptive neuromorphic hardware and human-like robotics.</p><p><img src="https://scx2.b-cdn.net/gfx/news/2025/scientists-artificial.jpg" alt="Artificial Neuron Mimics Brain Activity"></p><ul><li>A single artificial “transneuron” can emulate the activity patterns of different brain regions (visual, motor, pre-motor cortex).</li><li>Uses a memristor to enable adaptive learning and respond to complex signal interactions.</li><li>Offers a path to energy-efficient, flexible neuromorphic systems for advanced AI and robotics.</li></ul><hr><h2 id="Insight"><a href="#Insight" class="headerlink" title="Insight"></a><a href="https://www.eetimes.com/darpa-quantum-benchmarking-taps-canadian-firms/">Insight</a></h2><p><strong>DARPA Quantum Benchmarking Taps Canadian Firms</strong><br>DARPA’s Quantum Benchmarking Initiative (QBI) has selected two Canadian firms, Photonic Inc. and Xanadu Quantum Technologies Inc., to advance to Stage B. The QBI aims to identify which quantum computing approaches can achieve utility-scale performance by 2033, balancing computational value with cost and real-world timelines. Photonic will focus on its Entanglement First architecture using optically linked silicon spin qubits, while Xanadu will present its fault-tolerant photonic quantum computer architecture. Stage B involves a year-long examination of their development, scaling, and cost-control strategies, with the potential for non-dilutive capital injection in Stage C to accelerate approved participants.</p><p><img src="https://www.eetimes.com/wp-content/uploads/CDNQuantumDARPA-covercarousel2.jpg" alt="Canadian Quantum Firms in DARPA Quantum Benchmarking Initiative"></p><ul><li>DARPA’s QBI advances Photonic and Xanadu to Stage B for utility-scale quantum computer assessment.</li><li>The initiative rigorously evaluates quantum modalities for practical application, cost-effectiveness, and real-world timelines by 2033.</li><li>Stage B focuses on development, scaling, and cost control, with potential future funding to accelerate quantum industry growth.</li></ul><hr><p>Stay connected with us for the most recent breakthroughs and strategic shifts defining the semiconductor landscape.</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> Device </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> AI </tag>
+            
+            <tag> Neuromorphic </tag>
+            
+            <tag> Quantum Computing </tag>
+            
+            <tag> GaN </tag>
+            
+            <tag> Hybrid Bonding </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>Imec.kelis- tool for AI datacenter design and optimization</title>
       <link href="/opensemi/20251124_Imec.kelis--tool-for-AI-datacenter-design-and-optimization/"/>
       <url>/opensemi/20251124_Imec.kelis--tool-for-AI-datacenter-design-and-optimization/</url>
@@ -3610,9 +3643,9 @@
       
         <tags>
             
-            <tag> AI </tag>
-            
             <tag> packaging </tag>
+            
+            <tag> AI </tag>
             
             <tag> semiconductor technology </tag>
             
