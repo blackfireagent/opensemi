@@ -4,6 +4,39 @@
   
     
     <entry>
+      <title>EU Commission Unveils €50 Billion &#39;European Chips Act 2.0&#39; to Bolster Domestic Production</title>
+      <link href="/opensemi/20251128_EU-Commission-Unveils-%E2%82%AC50-Billion-&#39;European-Chips-Act-2.0&#39;-to-Bolster-Domestic-Production/"/>
+      <url>/opensemi/20251128_EU-Commission-Unveils-%E2%82%AC50-Billion-&#39;European-Chips-Act-2.0&#39;-to-Bolster-Domestic-Production/</url>
+      
+        <content type="html"><![CDATA[<div style="display: flex; justify-content: center;">  <audio controls>    <source src="/opensemi/podcasts/20251128_machinelearning_newsletter_gemini-2.5-flash.mp3" type="audio/mpeg">  </audio></div><h2 id="News"><a href="#News" class="headerlink" title="News"></a><a href="https://ec.europa.eu/commission/presscorner/detail/en/IP_25_EU_CHIPS_2_0">News</a></h2><p><strong>EU Commission Unveils €50 Billion ‘European Chips Act 2.0’ to Bolster Domestic Production</strong><br>The European Commission today announced the “European Chips Act 2.0,” a significant legislative package backed by €50 billion in public and private investment. This ambitious initiative aims to double the EU’s share in global semiconductor production to 20% by 2030, reducing reliance on external supply chains and fostering advanced chip manufacturing within the bloc. The act will focus on strengthening R&amp;D, establishing pilot lines for cutting-edge technologies, and attracting skilled talent.<br><img src="https://ec.europa.eu/commission/presscorner/assets/img/EC_Building_Chips.jpg" alt="European Chips Act 2.0"></p><hr><h2 id="Launches"><a href="#Launches" class="headerlink" title="Launches"></a><a href="https://semiengineering.com/multi-core-architecture-optimized-for-time-predictable-neural-network-inference-fzi-kit/">Launches</a></h2><p><strong>MultiVic: A Time-Predictable RISC-V Multi-Core Processor Optimized for Neural Network Inference</strong><br>Researchers at FZI Research Center for Information Technology and Karlsruhe Institute of Technology (KIT) have unveiled “MultiVic,” a new hardware architecture designed to bridge the gap between high-performance and predictable timing behavior in real-time systems, especially for neural network inference. MultiVic is a multi-core vector processor based on RISC-V, featuring predictable cores with local scratchpad memories and a central management core for orchestrated shared external memory access.</p><ul><li>Addresses the critical need for predictable timing behavior in AI hardware for real-time applications like automated driving.</li><li>Achieves better performance with more, smaller cores due to increased effective memory bandwidth and higher clock frequencies.</li><li>Maintains very low execution time fluctuation, ensuring crucial time predictability for real-time systems.<br><img src="https://semiengineering.com/wp-content/uploads/2025/10/AdobeStock_621801039-10-7-25-scaled.jpeg" alt="Multi-Core Architecture"></li></ul><hr><h2 id="Charts"><a href="#Charts" class="headerlink" title="Charts"></a><a href="https://semiengineering.com/a-decade-of-architectural-rowhammer-defense-solutions-meta-snu-uiuc/">Charts</a></h2><p><strong>Systematizing a Decade of Architectural RowHammer Defenses</strong><br>A new paper from Meta, Seoul National University, and UIUC provides a comprehensive systematization of a decade of architectural RowHammer (RH) defenses. Despite continuous efforts, RowHammer remains a persistent threat to DRAM process technology scaling, with the cost of protection solutions increasing superlinearly. The research provides a taxonomy of 48 different defense mechanisms, mapping them to streaming algorithms and offering practitioner guides to select optimal defenses based on various parameters. This highlights the escalating challenge of maintaining DRAM reliability amidst scaling pressures.</p><ul><li>RowHammer continues to be a critical and evolving threat to DRAM reliability and process technology scaling.</li><li>The cost of RowHammer protection solutions is increasing superlinearly, posing a significant challenge for the industry.</li><li>The paper systematizes architectural defenses, offering a taxonomy and practical guides to navigate the complex landscape of RH mitigation strategies.<br><img src="https://semiengineering.com/wp-content/uploads/AdobeStock_320501530-06-19-24-scaled.jpeg" alt="Architectural RowHammer Defense"></li></ul><hr><h2 id="Research"><a href="#Research" class="headerlink" title="Research"></a><a href="https://semiengineering.com/digital-memristor-based-pim-from-a-device-and-reliability-view-northwestern-technion/">Research</a></h2><p><strong>Comparative Study of Digital Memristor-Based Processing-In-Memory</strong><br>Researchers from Northwestern University and Technion – Israel Institute of Technology have published a review exploring the advancements in digital memristor-based Processing-In-Memory (PIM). This paradigm aims to overcome the memory wall by minimizing data transfer, leveraging emerging nonvolatile memory technologies like RRAM, PCM, and MRAM. The study critically examines both stateful and non-stateful logic techniques, focusing on reliability challenges and device-level optimization crucial for scalable and commercially viable PIM systems.</p><ul><li>PIM, using memristive devices, is a promising solution to the memory wall challenge in data-intensive applications.</li><li>The review analyzes various logic families and memristive device types, highlighting the trade-offs and quality indicators.</li><li>Emphasizes the critical role of device-level optimization and reliability in developing robust memristive devices for next-generation PIM applications.<br><img src="https://semiengineering.com/wp-content/uploads/AdobeStock_164317986-AI-scaled.jpeg" alt="Digital Memristor-Based PIM"></li></ul><hr><h2 id="Insight"><a href="#Insight" class="headerlink" title="Insight"></a><a href="https://semiwiki.com/artificial-intelligence/363646-agentic-bug-localization-innovation-in-verification/">Insight</a></h2><p><strong>Agentic Bug Localization. Innovation in Verification</strong><br>Paul Cunningham (GM, Verification at Cadence) and Raúl Camposano (Silicon Catalyst, former Synopsys CTO) discuss “LocAgent,” a graph-guided LLM agent for code localization from Yale, USC, Stanford, and All-Hands AI. This innovation addresses the persistent challenge of bug localization in verification. LocAgent builds a knowledge graph of a codebase, leveraging static analysis and LLM agents trained on bug reports to identify relevant files, classes, or functions for fixes with high accuracy and improved cost-efficiency compared to existing methods.</p><ul><li>LocAgent uses a unified graph representation and fine-tuned LLMs for efficient and accurate code localization.</li><li>A new benchmark, LocBench, addresses limitations of previous benchmarks by using modern, post-2024 GitHub repos across various issue categories.</li><li>Achieves comparable performance to leading commercial LLMs at significantly lower inference costs, indicating a promising direction for agentic AI in software engineering.<br><img src="https://semiwiki.com/wp-content/uploads/2025/11/Innovation-New.jpeg" alt="Agentic Bug Localization"></li></ul><hr><p>Stay tuned for the latest developments shaping the semiconductor landscape!</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> Machinelearning </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> AI hardware </tag>
+            
+            <tag> Memory technologies </tag>
+            
+            <tag> Neuromorphic computing </tag>
+            
+            <tag> Chip design </tag>
+            
+            <tag> RowHammer </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>Mastiska CEO Champions Sovereign AI Silicon in the UAE with $10M Seed Funding</title>
       <link href="/opensemi/20251127_Mastiska-CEO-Champions-Sovereign-AI-Silicon-in-the-UAE-with-$10M-Seed-Funding/"/>
       <url>/opensemi/20251127_Mastiska-CEO-Champions-Sovereign-AI-Silicon-in-the-UAE-with-$10M-Seed-Funding/</url>
@@ -832,9 +865,9 @@
             
             <tag> market trends </tag>
             
-            <tag> RISC-V </tag>
-            
             <tag> chiplets </tag>
+            
+            <tag> RISC-V </tag>
             
             <tag> advanced packaging </tag>
             
