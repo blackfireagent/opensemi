@@ -199,7 +199,7 @@ var themeMenus = {};
 <div class="article-gallery">
   <div class="article-gallery-photos">
     
-      <a class="article-gallery-img fancybox" href="/opensemi/img/2025-05-16_06-11-14_3283.png" rel="gallery_cmiiev1df000vlwvd61d1hdr6">
+      <a class="article-gallery-img fancybox" href="/opensemi/img/2025-05-16_06-11-14_3283.png" rel="gallery_cmimpc2440015fwvd6e7s3a1a">
         <img src="/opensemi/img/2025-05-16_06-11-14_3283.png" itemprop="image">
       </a>
     
@@ -491,5 +491,20 @@ var a = new Donate({
 
   <a id="rocket" href="#top" class=""></a>
   <script type="text/javascript" src="/js/totop.js" async=""></script>
+<script type="text/x-mathjax-config">
+    MathJax.Hub.Config({
+        tex2jax: {
+            inlineMath: [ ["$","$"], ["\\(","\\)"] ],
+            skipTags: ['script', 'noscript', 'style', 'textarea', 'pre', 'code'],
+            processEscapes: true
+        }
+    });
+    MathJax.Hub.Queue(function() {
+        var all = MathJax.Hub.getAllJax();
+        for (var i = 0; i < all.length; ++i)
+            all[i].SourceElement().parentNode.className += ' has-jax';
+    });
+</script>
+<script src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
 </body>
 </html>
