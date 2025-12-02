@@ -4,6 +4,39 @@
   
     
     <entry>
+      <title>LLMs on Analog In-Memory Computing Based Hardware- Bridging the Efficiency Gap</title>
+      <link href="/opensemi/20251202_LLMs-on-Analog-In-Memory-Computing-Based-Hardware--Bridging-the-Efficiency-Gap/"/>
+      <url>/opensemi/20251202_LLMs-on-Analog-In-Memory-Computing-Based-Hardware--Bridging-the-Efficiency-Gap/</url>
+      
+        <content type="html"><![CDATA[<div style="display: flex; justify-content: center;">  <audio controls>    <source src="/opensemi/podcasts/20251202_device_newsletter_gemini-2.5-flash.mp3" type="audio/mpeg">  </audio></div><h2 id="News"><a href="#News" class="headerlink" title="News"></a><a href="https://www.eetimes.com/nvidia-invests-2-billion-in-synopsys-targeting-broader-engineering-design-market/">News</a></h2><p><strong>Nvidia Invests $2 Billion in Synopsys, Targeting Broader Engineering Design Market</strong><br>Nvidia’s $2 billion investment in Synopsys marks an expanded strategic partnership set to revolutionize engineering design across various industries, moving beyond traditional chip design.</p><p><img src="https://www.eetimes.com/wp-content/uploads/Jensen-Huang-Sassine-Ghazi-image-source_Synopsys.jpeg" alt="Jensen Huang and Sassine Ghazi"></p><ul><li>The collaboration integrates Nvidia’s AI and accelerated computing with Synopsys’ engineering solutions, aiming to accelerate design, simulation, and verification.</li><li>This partnership targets a “multi-trillion dollar ‘every product’ industry” by enabling sophisticated digital twins for product innovation and manufacturing.</li><li>Key initiatives include accelerating Synopsys’ applications with Nvidia CUDA-X, advancing agentic AI engineering, and connecting physical and digital worlds through digital twins.</li></ul><hr><h2 id="Launches"><a href="#Launches" class="headerlink" title="Launches"></a><a href="https://semiwiki.com/ceo-interviews/363888-ceo-interview-with-brandon-lucia-of-efficient-computer/">Launches</a></h2><p><strong>CEO Interview with Brandon Lucia of Efficient Computer: Electron E1 Processor Unveiled</strong><br>Efficient Computer, a startup founded by Carnegie Mellon researchers, has officially launched its Electron E1 processor, pioneering an energy-efficient general-purpose computing solution.</p><p><img src="https://semiwiki.com/wp-content/uploads/2025/11/square-3-1.png" alt="Efficient Computer&#39;s Electron E1 processor"></p><ul><li>The Electron E1 utilizes a novel spatial dataflow architecture designed to fundamentally eliminate energy waste inherent in traditional von Neumann computing designs.</li><li>It aims to address computing’s pervasive energy problem across a wide range of applications, from tiny far-edge systems to high-performance edge devices and data centers.</li><li>This processor enables efficient on-device computation for physical AI, robotics, industrial automation, and automotive sensors, reducing the need for costly cloud data backhaul.</li></ul><hr><h2 id="Charts"><a href="#Charts" class="headerlink" title="Charts"></a><a href="https://techxplore.com/news/2025-11-mexico-unveils-supercomputer-latin-america.html">Charts</a></h2><p><strong>Mexico Unveils Plans for Latin America’s Biggest Supercomputer</strong><br>Mexico announced its plan to construct Coatlicue, a supercomputer with an impressive processing capacity of 314 petaflops, positioning it as the most powerful in Latin America.</p><p><img src="https://scx2.b-cdn.net/gfx/news/hires/2025/mexico-unveils-plans-t.jpg" alt="Mexico&#39;s supercomputer plans"></p><ul><li>The supercomputer is intended for public use, focusing on solving critical national issues such as climate prediction, agricultural planning, and major infrastructure projects.</li><li>With a global race underway in high-performance computing, Coatlicue highlights Mexico’s commitment to leveraging advanced computing for societal benefit, though still a tier below exascale leaders like the US and Europe.</li><li>Construction is slated to begin in January, with an estimated cost of $326.6 million and a 24-month timeline for completion.</li></ul><hr><h2 id="Research"><a href="#Research" class="headerlink" title="Research"></a><a href="https://semiengineering.com/llms-on-analog-in-memory-computing-based-hardware-ibm-research-eth-zurich/">Research</a></h2><p><strong>LLMs on Analog In-Memory Computing Based Hardware: Bridging the Efficiency Gap</strong><br>Researchers from IBM and ETH Zurich have published a technical paper detailing a method for adapting Large Language Models (LLMs) for efficient execution on Analog In-Memory Computing (AIMC) hardware.</p><p><img src="https://semiengineering.com/wp-content/uploads/2016/09/brain.jpg" alt="Brain AI"></p><ul><li>The study introduces a general and scalable approach to enable LLMs to retain high performance on noisy, low-precision analog hardware, overcoming inherent AIMC challenges.</li><li>It demonstrates that state-of-the-art models can achieve performance comparable to 4-bit weight, 8-bit activation baselines despite analog noise and quantization constraints.</li><li>This breakthrough offers a promising path toward developing energy-efficient foundation models by bridging the critical gap between high-capacity LLMs and efficient analog hardware.</li></ul><hr><h2 id="Insight"><a href="#Insight" class="headerlink" title="Insight"></a><a href="https://semiwiki.com/ip/363509-mixel-company-update-2025/">Insight</a></h2><p><strong>Mixel Company Update 2025: Strategic Acquisition by Silvaco Group</strong><br>Mixel, a prominent provider of mixed-signal and MIPI interface IP, was acquired by Silvaco Group, Inc. earlier in 2025, marking a significant strategic integration within the semiconductor IP landscape.</p><p><img src="https://semiwiki.com/wp-content/uploads/2025/11/Mixel-Update-2025-SemiWiki.jpg" alt="Mixel Update 2025"></p><ul><li>The acquisition strengthens Silvaco’s semiconductor IP business by combining Mixel’s expertise in high-speed mixed-signal IP with Silvaco’s robust EDA tools and TCAD software.</li><li>The integrated entity is poised to enhance offerings in critical connectivity and interface IP areas, essential for next-generation chip design.</li><li>Future development will focus on IP solutions for advanced chiplet interconnects, AI-driven edge devices, and 3D system integration, aiming to streamline complex semiconductor workflows.</li></ul><hr><p>Stay connected with us for the latest news and innovations shaping the semiconductor industry.</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> Device </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> AI </tag>
+            
+            <tag> Chiplets </tag>
+            
+            <tag> EDA </tag>
+            
+            <tag> High-Performance Computing </tag>
+            
+            <tag> Energy Efficiency </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>Q.ANT Raises Series A, Debuts Second-Gen TFLN Photonic Chip</title>
       <link href="/opensemi/20251201_Q.ANT-Raises-Series-A,-Debuts-Second-Gen-TFLN-Photonic-Chip/"/>
       <url>/opensemi/20251201_Q.ANT-Raises-Series-A,-Debuts-Second-Gen-TFLN-Photonic-Chip/</url>
@@ -24,11 +57,11 @@
             
             <tag> Quantum Computing </tag>
             
+            <tag> Energy Efficiency </tag>
+            
             <tag> Advanced Manufacturing </tag>
             
             <tag> Semiconductor Supply Chain </tag>
-            
-            <tag> Energy Efficiency </tag>
             
         </tags>
       
@@ -1374,9 +1407,9 @@
             
             <tag> innovation </tag>
             
-            <tag> semiconductors </tag>
-            
             <tag> research </tag>
+            
+            <tag> semiconductors </tag>
             
             <tag> security </tag>
             
@@ -1442,9 +1475,9 @@
             
             <tag> innovation </tag>
             
-            <tag> semiconductors </tag>
-            
             <tag> research </tag>
+            
+            <tag> semiconductors </tag>
             
         </tags>
       
@@ -2020,9 +2053,9 @@
             
             <tag> innovation </tag>
             
-            <tag> semiconductors </tag>
-            
             <tag> research </tag>
+            
+            <tag> semiconductors </tag>
             
             <tag> startups </tag>
             
@@ -2117,9 +2150,9 @@
             
             <tag> innovation </tag>
             
-            <tag> semiconductors </tag>
-            
             <tag> research </tag>
+            
+            <tag> semiconductors </tag>
             
             <tag> lithography </tag>
             
@@ -2181,9 +2214,9 @@
             
             <tag> technology </tag>
             
-            <tag> semiconductors </tag>
-            
             <tag> research </tag>
+            
+            <tag> semiconductors </tag>
             
             <tag> electronics </tag>
             
@@ -2375,9 +2408,9 @@
             
             <tag> innovation </tag>
             
-            <tag> semiconductors </tag>
-            
             <tag> research </tag>
+            
+            <tag> semiconductors </tag>
             
         </tags>
       
@@ -2503,9 +2536,9 @@
             
             <tag> AI </tag>
             
-            <tag> semiconductors </tag>
-            
             <tag> research </tag>
+            
+            <tag> semiconductors </tag>
             
             <tag> advanced packaging </tag>
             
@@ -3052,9 +3085,9 @@
       
         <tags>
             
-            <tag> Market Trends </tag>
-            
             <tag> Semiconductor Technology </tag>
+            
+            <tag> Market Trends </tag>
             
             <tag> EUV Lithography </tag>
             
@@ -3655,11 +3688,11 @@
             
             <tag> AI </tag>
             
+            <tag> Market Trends </tag>
+            
             <tag> Semiconductor Manufacturing </tag>
             
             <tag> Research </tag>
-            
-            <tag> Market Trends </tag>
             
             <tag> Technology </tag>
             
@@ -3688,11 +3721,11 @@
             
             <tag> AI </tag>
             
-            <tag> Market Trends </tag>
-            
             <tag> Semiconductor Technology </tag>
             
             <tag> Chip Design </tag>
+            
+            <tag> Market Trends </tag>
             
         </tags>
       

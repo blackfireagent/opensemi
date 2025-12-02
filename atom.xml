@@ -6,10 +6,44 @@
   <link href="https://blackfireagent.github.io/opensemi/atom.xml" rel="self"/>
   
   <link href="https://blackfireagent.github.io/opensemi/"/>
-  <updated>2025-12-01T05:21:28.426Z</updated>
+  <updated>2025-12-02T05:18:57.377Z</updated>
   <id>https://blackfireagent.github.io/opensemi/</id>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>LLMs on Analog In-Memory Computing Based Hardware- Bridging the Efficiency Gap</title>
+    <link href="https://blackfireagent.github.io/opensemi/20251202_LLMs-on-Analog-In-Memory-Computing-Based-Hardware--Bridging-the-Efficiency-Gap/"/>
+    <id>https://blackfireagent.github.io/opensemi/20251202_LLMs-on-Analog-In-Memory-Computing-Based-Hardware--Bridging-the-Efficiency-Gap/</id>
+    <published>2025-12-01T23:00:00.000Z</published>
+    <updated>2025-12-02T05:18:57.377Z</updated>
+    
+    <content type="html"><![CDATA[<div style="display: flex; justify-content: center;">  <audio controls>    <source src="/opensemi/podcasts/20251202_device_newsletter_gemini-2.5-flash.mp3" type="audio/mpeg">  </audio></div><h2 id="News"><a href="#News" class="headerlink" title="News"></a><a href="https://www.eetimes.com/nvidia-invests-2-billion-in-synopsys-targeting-broader-engineering-design-market/">News</a></h2><p><strong>Nvidia Invests $2 Billion in Synopsys, Targeting Broader Engineering Design Market</strong><br>Nvidia’s $2 billion investment in Synopsys marks an expanded strategic partnership set to revolutionize engineering design across various industries, moving beyond traditional chip design.</p><p><img src="https://www.eetimes.com/wp-content/uploads/Jensen-Huang-Sassine-Ghazi-image-source_Synopsys.jpeg" alt="Jensen Huang and Sassine Ghazi"></p><ul><li>The collaboration integrates Nvidia’s AI and accelerated computing with Synopsys’ engineering solutions, aiming to accelerate design, simulation, and verification.</li><li>This partnership targets a “multi-trillion dollar ‘every product’ industry” by enabling sophisticated digital twins for product innovation and manufacturing.</li><li>Key initiatives include accelerating Synopsys’ applications with Nvidia CUDA-X, advancing agentic AI engineering, and connecting physical and digital worlds through digital twins.</li></ul><hr><h2 id="Launches"><a href="#Launches" class="headerlink" title="Launches"></a><a href="https://semiwiki.com/ceo-interviews/363888-ceo-interview-with-brandon-lucia-of-efficient-computer/">Launches</a></h2><p><strong>CEO Interview with Brandon Lucia of Efficient Computer: Electron E1 Processor Unveiled</strong><br>Efficient Computer, a startup founded by Carnegie Mellon researchers, has officially launched its Electron E1 processor, pioneering an energy-efficient general-purpose computing solution.</p><p><img src="https://semiwiki.com/wp-content/uploads/2025/11/square-3-1.png" alt="Efficient Computer&#39;s Electron E1 processor"></p><ul><li>The Electron E1 utilizes a novel spatial dataflow architecture designed to fundamentally eliminate energy waste inherent in traditional von Neumann computing designs.</li><li>It aims to address computing’s pervasive energy problem across a wide range of applications, from tiny far-edge systems to high-performance edge devices and data centers.</li><li>This processor enables efficient on-device computation for physical AI, robotics, industrial automation, and automotive sensors, reducing the need for costly cloud data backhaul.</li></ul><hr><h2 id="Charts"><a href="#Charts" class="headerlink" title="Charts"></a><a href="https://techxplore.com/news/2025-11-mexico-unveils-supercomputer-latin-america.html">Charts</a></h2><p><strong>Mexico Unveils Plans for Latin America’s Biggest Supercomputer</strong><br>Mexico announced its plan to construct Coatlicue, a supercomputer with an impressive processing capacity of 314 petaflops, positioning it as the most powerful in Latin America.</p><p><img src="https://scx2.b-cdn.net/gfx/news/hires/2025/mexico-unveils-plans-t.jpg" alt="Mexico&#39;s supercomputer plans"></p><ul><li>The supercomputer is intended for public use, focusing on solving critical national issues such as climate prediction, agricultural planning, and major infrastructure projects.</li><li>With a global race underway in high-performance computing, Coatlicue highlights Mexico’s commitment to leveraging advanced computing for societal benefit, though still a tier below exascale leaders like the US and Europe.</li><li>Construction is slated to begin in January, with an estimated cost of $326.6 million and a 24-month timeline for completion.</li></ul><hr><h2 id="Research"><a href="#Research" class="headerlink" title="Research"></a><a href="https://semiengineering.com/llms-on-analog-in-memory-computing-based-hardware-ibm-research-eth-zurich/">Research</a></h2><p><strong>LLMs on Analog In-Memory Computing Based Hardware: Bridging the Efficiency Gap</strong><br>Researchers from IBM and ETH Zurich have published a technical paper detailing a method for adapting Large Language Models (LLMs) for efficient execution on Analog In-Memory Computing (AIMC) hardware.</p><p><img src="https://semiengineering.com/wp-content/uploads/2016/09/brain.jpg" alt="Brain AI"></p><ul><li>The study introduces a general and scalable approach to enable LLMs to retain high performance on noisy, low-precision analog hardware, overcoming inherent AIMC challenges.</li><li>It demonstrates that state-of-the-art models can achieve performance comparable to 4-bit weight, 8-bit activation baselines despite analog noise and quantization constraints.</li><li>This breakthrough offers a promising path toward developing energy-efficient foundation models by bridging the critical gap between high-capacity LLMs and efficient analog hardware.</li></ul><hr><h2 id="Insight"><a href="#Insight" class="headerlink" title="Insight"></a><a href="https://semiwiki.com/ip/363509-mixel-company-update-2025/">Insight</a></h2><p><strong>Mixel Company Update 2025: Strategic Acquisition by Silvaco Group</strong><br>Mixel, a prominent provider of mixed-signal and MIPI interface IP, was acquired by Silvaco Group, Inc. earlier in 2025, marking a significant strategic integration within the semiconductor IP landscape.</p><p><img src="https://semiwiki.com/wp-content/uploads/2025/11/Mixel-Update-2025-SemiWiki.jpg" alt="Mixel Update 2025"></p><ul><li>The acquisition strengthens Silvaco’s semiconductor IP business by combining Mixel’s expertise in high-speed mixed-signal IP with Silvaco’s robust EDA tools and TCAD software.</li><li>The integrated entity is poised to enhance offerings in critical connectivity and interface IP areas, essential for next-generation chip design.</li><li>Future development will focus on IP solutions for advanced chiplet interconnects, AI-driven edge devices, and 3D system integration, aiming to streamline complex semiconductor workflows.</li></ul><hr><p>Stay connected with us for the latest news and innovations shaping the semiconductor industry.</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;div style=&quot;display: flex; justify-content: center;&quot;&gt;
+  &lt;audio controls&gt;
+    &lt;source src=&quot;/opensemi/podcasts/20251202_device_newsletter_gemi</summary>
+      
+    
+    
+    
+    <category term="Device" scheme="https://blackfireagent.github.io/opensemi/categories/Device/"/>
+    
+    
+    <category term="AI" scheme="https://blackfireagent.github.io/opensemi/tags/AI/"/>
+    
+    <category term="Chiplets" scheme="https://blackfireagent.github.io/opensemi/tags/Chiplets/"/>
+    
+    <category term="EDA" scheme="https://blackfireagent.github.io/opensemi/tags/EDA/"/>
+    
+    <category term="High-Performance Computing" scheme="https://blackfireagent.github.io/opensemi/tags/High-Performance-Computing/"/>
+    
+    <category term="Energy Efficiency" scheme="https://blackfireagent.github.io/opensemi/tags/Energy-Efficiency/"/>
+    
+  </entry>
   
   <entry>
     <title>Q.ANT Raises Series A, Debuts Second-Gen TFLN Photonic Chip</title>
@@ -37,11 +71,11 @@
     
     <category term="Quantum Computing" scheme="https://blackfireagent.github.io/opensemi/tags/Quantum-Computing/"/>
     
+    <category term="Energy Efficiency" scheme="https://blackfireagent.github.io/opensemi/tags/Energy-Efficiency/"/>
+    
     <category term="Advanced Manufacturing" scheme="https://blackfireagent.github.io/opensemi/tags/Advanced-Manufacturing/"/>
     
     <category term="Semiconductor Supply Chain" scheme="https://blackfireagent.github.io/opensemi/tags/Semiconductor-Supply-Chain/"/>
-    
-    <category term="Energy Efficiency" scheme="https://blackfireagent.github.io/opensemi/tags/Energy-Efficiency/"/>
     
   </entry>
   
@@ -650,40 +684,6 @@
     <category term="AI acceleration" scheme="https://blackfireagent.github.io/opensemi/tags/AI-acceleration/"/>
     
     <category term="FeRAM" scheme="https://blackfireagent.github.io/opensemi/tags/FeRAM/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>L&amp;T Semiconductor and Hon Young Partner for High-Voltage SiC Wafer Development</title>
-    <link href="https://blackfireagent.github.io/opensemi/20251030_L&amp;T-Semiconductor-and-Hon-Young-Partner-for-High-Voltage-SiC-Wafer-Development/"/>
-    <id>https://blackfireagent.github.io/opensemi/20251030_L&amp;T-Semiconductor-and-Hon-Young-Partner-for-High-Voltage-SiC-Wafer-Development/</id>
-    <published>2025-10-29T23:00:00.000Z</published>
-    <updated>2025-10-30T05:13:36.112Z</updated>
-    
-    <content type="html"><![CDATA[<div style="display: flex; justify-content: center;">  <audio controls>    <source src="/opensemi/podcasts/20251030_etch_newsletter_gemini-2.5-flash.mp3" type="audio/mpeg">  </audio></div><h2 id="News"><a href="#News" class="headerlink" title="News"></a><a href="https://newsroom.lamresearch.com/semiverse-solutions-preps-top-engineering-talent-for-whats-next?blog=true">News</a></h2><p><strong>Lam Research Tackles Engineer Shortage with Virtual Process Integration</strong><br>Lam Research is addressing the U.S. semiconductor engineer shortage by providing its SEMulator3D® modeling platform to educational institutions. This platform offers students virtual, hands-on experience in chip manufacturing, bridging the gap between theoretical knowledge and practical fab experience. It enables students to design, analyze, and optimize fabrication steps without physical wafers.</p><ul><li>SEMulator3D uses physics-based simulation to replicate fabrication processes like etch, deposition, and lithography.</li><li>It helps students understand the “why” behind process integration, fostering critical decision-making skills.</li><li>The platform runs on student laptops, ensuring accessibility for future semiconductor professionals globally.</li></ul><hr><h2 id="Launches"><a href="#Launches" class="headerlink" title="Launches"></a><a href="https://www.eetimes.com/lt-semiconductor-hon-young-partner-for-650v-to-3300v-sic-wafer-development/">Launches</a></h2><p><strong>L&amp;T Semiconductor and Hon Young Partner for High-Voltage SiC Wafer Development</strong><br>L&amp;T Semiconductor Technologies Ltd (LTSCT) has partnered with Hon Young Semiconductor (HYS) to develop high-voltage silicon carbide (SiC) wafers ranging from 650V to 3300V. This collaboration targets the growing demand for SiC devices in electric vehicles (EVs), renewable energy systems, and industrial applications, aiming to enhance energy efficiency through superior thermal performance and lower switching losses.</p><p><img src="https://www.eetimes.com/wp-content/uploads/power-modules-image-feature-image.jpg" alt="Power Modules"></p><ul><li>The partnership focuses on SiC wafers for power devices like SiC MOSFETs and Schottky barrier diodes.</li><li>SiC devices are critical for improving efficiency in EV chargers, solar inverters, and motor drives.</li><li>This collaboration seeks to ensure a stable supply and competitive pricing for global customers, fostering innovation and IP creation.</li></ul><hr><h2 id="Charts"><a href="#Charts" class="headerlink" title="Charts"></a><a href="https://www.yolegroup.com/news/power-sic-market-to-exceed-11-billion-by-2029-driven-by-evs-and-energy-transition/">Charts</a></h2><p><strong>Power SiC Market Poised for Significant Growth by 2029</strong><br>A recent analysis by Yole Group highlights the robust growth trajectory of the power SiC market, projecting it to exceed $11 billion by 2029. This substantial expansion is primarily fueled by increasing adoption in electric vehicles (EVs) and the broader energy transition. The report underscores the critical role of SiC technology in achieving higher efficiency and performance across various power electronics applications.</p><p><img src="https://www.yolegroup.com/wp-content/uploads/2024/02/Yole_SiC_2024_Fig1-1024x576.jpg" alt="Power SiC Market Forecast"></p><ul><li>The market growth is driven by rising demand for SiC in EV main inverters and industrial applications.</li><li>SiC penetration is expanding across automotive, industrial, and energy sectors due to efficiency benefits.</li><li>Forecasts indicate continued high growth rates, solidifying SiC’s position as a key enabling technology.</li></ul><hr><h2 id="Research"><a href="#Research" class="headerlink" title="Research"></a><a href="https://www.semiconductor-digest.com/manufacturing-strategies-for-stretchable-synaptic-transistors/">Research</a></h2><p><strong>Blueprint for Stretchable Synaptic Transistors Unveiled</strong><br>Researchers from Seoul National University have developed a comprehensive manufacturing “blueprint” for stretchable synaptic transistors, crucial for soft electronics. The review details how material selection, process flow (photopatterning, printing, lamination), and device architecture collectively determine the electro-mechanical stability and learning accuracy of these flexible devices, even under significant tensile strain.</p><ul><li>Key findings emphasize the importance of device architecture, with vertical organic transistors outperforming planar channels under deformation.</li><li>The insights advance soft neuromorphic hardware towards scalable, CMOS-compatible integration for on-skin wearables and bio-interactive prosthetics.</li><li>Challenges remain, including the need for ambipolar stretchable semiconductors and robust interfacial insulation for vertical stacking.</li></ul><hr><h2 id="Insight"><a href="#Insight" class="headerlink" title="Insight"></a><a href="https://www.eetimes.com/physical-ai-needs-an-ecosystem/">Insight</a></h2><p><strong>Physical AI and Robotics Demand a Robust Ecosystem for Future Growth</strong><br>Industry experts, including Anders Billesø Beck from Universal Robots and Paul Williamson from Arm, highlight the critical need for a comprehensive technology ecosystem to drive the success of “physical AI” or “embodied AI” in robotics. While humanoid robots capture imagination, the immediate focus is on collaborative robots (cobots) for industrial automation, addressing complex, variable tasks that benefit immensely from AI-driven flexibility and software updates.</p><p><img src="https://www.eetimes.com/wp-content/uploads/Universal-Robots-1-sq.jpg" alt="Universal Robots Cobot"></p><ul><li>AI enables cobots to handle high variability in tasks, accelerating automation in logistics and assembly.</li><li>Functional safety for AI-powered robotics is a significant challenge requiring innovation from silicon to ecosystem levels.</li><li>A strong partner ecosystem, including hardware peripherals and software plugins, is essential for integration and scaling AI deployments in robotics.</li></ul><hr><p>Stay tuned for more updates as the semiconductor industry continues to push the boundaries of innovation and shapes the future of technology.</p>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;div style=&quot;display: flex; justify-content: center;&quot;&gt;
-  &lt;audio controls&gt;
-    &lt;source src=&quot;/opensemi/podcasts/20251030_etch_newsletter_gemini</summary>
-      
-    
-    
-    
-    <category term="Etch" scheme="https://blackfireagent.github.io/opensemi/categories/Etch/"/>
-    
-    
-    <category term="AI" scheme="https://blackfireagent.github.io/opensemi/tags/AI/"/>
-    
-    <category term="Neuromorphic" scheme="https://blackfireagent.github.io/opensemi/tags/Neuromorphic/"/>
-    
-    <category term="SiC" scheme="https://blackfireagent.github.io/opensemi/tags/SiC/"/>
-    
-    <category term="Robotics" scheme="https://blackfireagent.github.io/opensemi/tags/Robotics/"/>
-    
-    <category term="STEM" scheme="https://blackfireagent.github.io/opensemi/tags/STEM/"/>
     
   </entry>
   
