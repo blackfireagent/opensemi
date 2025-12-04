@@ -6,10 +6,44 @@
   <link href="https://blackfireagent.github.io/opensemi/atom.xml" rel="self"/>
   
   <link href="https://blackfireagent.github.io/opensemi/"/>
-  <updated>2025-12-02T05:18:57.377Z</updated>
+  <updated>2025-12-04T05:13:01.854Z</updated>
   <id>https://blackfireagent.github.io/opensemi/</id>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Nagoya University Develops 0.3mm Ultra-Thin Loop Heat Pipe for Chip Cooling</title>
+    <link href="https://blackfireagent.github.io/opensemi/20251204_Nagoya-University-Develops-0.3mm-Ultra-Thin-Loop-Heat-Pipe-for-Chip-Cooling/"/>
+    <id>https://blackfireagent.github.io/opensemi/20251204_Nagoya-University-Develops-0.3mm-Ultra-Thin-Loop-Heat-Pipe-for-Chip-Cooling/</id>
+    <published>2025-12-03T23:00:00.000Z</published>
+    <updated>2025-12-04T05:13:01.854Z</updated>
+    
+    <content type="html"><![CDATA[<div style="display: flex; justify-content: center;">  <audio controls>    <source src="/opensemi/podcasts/20251204_etch_newsletter_gemini-2.5-flash.mp3" type="audio/mpeg">  </audio></div><h2 id="News"><a href="#News" class="headerlink" title="News"></a><a href="https://www.eetimes.com/the-rare-earth-chokepoint/">News</a></h2><p><strong>China’s Rare Earth Export Controls Escalate Geopolitical Tensions</strong><br>China has expanded export controls on Rare Earth Elements (REEs), implementing a 0.1% threshold for products containing Chinese-sourced REEs, requiring export licenses. This strategic move weaponizes China’s near-monopoly on REE processing and high-performance permanent magnet manufacturing (controlling 85-95% globally), aiming to counter tariffs and technology controls from the U.S. The new regulations pose a significant threat to global defense, AI, and green transition sectors, prompting aggressive responses from the U.S., EU, and Japan to diversify and secure their critical mineral supply chains. This development signals a shift away from purely cost-efficient supply chains for strategic materials.</p><p><img src="https://www.eetimes.com/wp-content/uploads/Rareearthoxides.jpg" alt="Rare earth oxides"></p><ul><li>China’s new REE export controls weaponize its processing dominance.</li><li>Threatens semiconductor, defense, and EV industries globally.</li><li>Sparks urgent diversification efforts from the U.S., EU, and Japan.</li></ul><hr><h2 id="Launches"><a href="#Launches" class="headerlink" title="Launches"></a><a href="https://www.eetimes.com/sub-millimeter-heat-pipe-offers-chip-cooling-potential/">Launches</a></h2><p><strong>Nagoya University Develops 0.3mm Ultra-Thin Loop Heat Pipe for Chip Cooling</strong><br>Researchers at Nagoya University have developed an innovative 0.3mm thick ultra-thin loop heat pipe (UTLHP) capable of transporting 10W of heat. This passive, closed-loop system uses water as a cooling agent within thin copper channels, achieving a thermal conductivity approximately 45x higher than copper and 10x higher than graphite sheets. Designed for small, thin applications like smartphones, the UTLHP offers a significant advancement in managing rising heat dissipation from high-performance ICs by efficiently moving heat away from the source to a more manageable system-level area.</p><p><img src="https://www.eetimes.com/wp-content/uploads/AdobeStock_1776412310.jpeg" alt="Millimeter Heat Pipe"></p><ul><li>New 0.3mm UTLHP offers 45x thermal conductivity of copper.</li><li>Capable of 10W heat dissipation for thin electronic devices.</li><li>Addresses critical thermal management challenges in compact ICs.</li></ul><hr><h2 id="Charts"><a href="#Charts" class="headerlink" title="Charts"></a><a href="https://www.eetimes.com/how-are-monopolies-formed-in-the-generative-ai-hardware-ecosystem/">Charts</a></h2><p><strong>The Generative AI Hardware Ecosystem: A Landscape of Monopolies</strong><br>The generative AI hardware ecosystem is characterized by the formidable dominance of four key players. Nvidia captures over 90% of the AI training chip market, while TSMC manufactures over 90% of advanced AI chips (5nm and below). ASML provides the essential extreme ultraviolet (EUV) lithography systems, and SK Hynix commands over 70% of the high-bandwidth memory (HBM) market. This interdependent network creates significant barriers to entry for new competitors and raises concerns about stifled innovation and geopolitical risks, particularly due to manufacturing centralization at TSMC. While challengers are emerging, the deeply rooted positions of these companies remain critical for current AI progress.</p><p><img src="https://www.eetimes.com/wp-content/uploads/Monopoly-e1759427213520.jpg" alt="AI Hardware Monopolies"></p><ul><li>Nvidia, TSMC, ASML, and SK Hynix form a de facto vertical monopoly in AI hardware.</li><li>Their dominance stems from technological leads and proprietary ecosystems (e.g., CUDA).</li><li>Centralization poses geopolitical risks and challenges for new entrants.</li></ul><hr><h2 id="Research"><a href="#Research" class="headerlink" title="Research"></a><a href="https://www.eetimes.com/how-europe-can-lead-the-green-electronics-transition/">Research</a></h2><p><strong>Europe’s Green Electronics Transition: Pathways to Sustainable Design</strong><br>Europe is at the forefront of efforts to transition to green electronics, driven by regulations such as the Eco-design for Sustainable Products Regulation and the Critical Raw Materials Act. The industry is actively exploring various sustainable design pathways, including novel substrates (e.g., mycelium, paper, bio-based polymers), alternative conductive materials (like zinc, magnesium, and biodegradable carbon), and additive manufacturing techniques (e.g., inkjet, roll-to-roll printing). Hybrid electronics, which combine sustainable components with more conventional silicon-based systems, are emerging as an interim solution. Early applications in agriculture and logistics demonstrate the potential for biodegradable sensors and smart tags, though challenges remain in achieving cost-competitiveness, performance parity, and standardization.</p><p><img src="https://www.eetimes.com/wp-content/uploads/2023/10/EE-Times-Europe_Q4_Greener-Electronics_Enerpoly_Shutterstock.jpg" alt="Green Electronics"></p><ul><li>Europe champions green electronics with new regulations.</li><li>Research focuses on sustainable materials, additive manufacturing, and hybrid designs.</li><li>Early applications in agriculture and logistics show promise for biodegradability.</li></ul><hr><h2 id="Insight"><a href="#Insight" class="headerlink" title="Insight"></a><a href="https://www.eetimes.com/tariffs-will-not-solve-americas-copper-problem-smarter-recycling-will/">Insight</a></h2><p><strong>U.S. Copper Tariffs: Why Recycling is the Smarter Path to Independence</strong><br>The Trump administration’s 50% tariff on semi-finished copper imports aims to strengthen U.S. copper production, but experts argue it will not solve America’s fundamental copper problem. Domestic PCB manufacturers are significantly impacted, paying duties on copper that is etched away during production (up to 60%), leading to a 10-30% increase in manufacturing costs. The U.S. currently lacks the domestic facilities needed for recovering and reprocessing copper from manufacturing waste and end-of-life electronics, forcing a continued reliance on offshore smelters. A more effective and industrially sensible approach, it is argued, involves a national strategy focused on establishing secondary copper smelting, consistent waste classification frameworks, and incentives for domestic recovery and specialized production, rather than tariffs alone.</p><p><img src="https://www.eetimes.com/wp-content/uploads/copper-traces-PCB.jpeg" alt="Copper Traces on PCB"></p><ul><li>U.S. copper tariffs burden domestic PCB manufacturers.</li><li>Lack of domestic recycling infrastructure forces reliance on foreign processing.</li><li>Smarter recycling and a national recovery strategy are vital for copper independence.</li></ul><hr><p>Stay connected with us for the latest news and in-depth analyses shaping the semiconductor industry’s dynamic future.</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;div style=&quot;display: flex; justify-content: center;&quot;&gt;
+  &lt;audio controls&gt;
+    &lt;source src=&quot;/opensemi/podcasts/20251204_etch_newsletter_gemini</summary>
+      
+    
+    
+    
+    <category term="Etch" scheme="https://blackfireagent.github.io/opensemi/categories/Etch/"/>
+    
+    
+    <category term="AI hardware" scheme="https://blackfireagent.github.io/opensemi/tags/AI-hardware/"/>
+    
+    <category term="semiconductor supply chain" scheme="https://blackfireagent.github.io/opensemi/tags/semiconductor-supply-chain/"/>
+    
+    <category term="rare earths" scheme="https://blackfireagent.github.io/opensemi/tags/rare-earths/"/>
+    
+    <category term="green electronics" scheme="https://blackfireagent.github.io/opensemi/tags/green-electronics/"/>
+    
+    <category term="chip cooling" scheme="https://blackfireagent.github.io/opensemi/tags/chip-cooling/"/>
+    
+  </entry>
   
   <entry>
     <title>LLMs on Analog In-Memory Computing Based Hardware- Bridging the Efficiency Gap</title>
@@ -39,9 +73,9 @@
     
     <category term="EDA" scheme="https://blackfireagent.github.io/opensemi/tags/EDA/"/>
     
-    <category term="High-Performance Computing" scheme="https://blackfireagent.github.io/opensemi/tags/High-Performance-Computing/"/>
-    
     <category term="Energy Efficiency" scheme="https://blackfireagent.github.io/opensemi/tags/Energy-Efficiency/"/>
+    
+    <category term="High-Performance Computing" scheme="https://blackfireagent.github.io/opensemi/tags/High-Performance-Computing/"/>
     
   </entry>
   
@@ -71,11 +105,11 @@
     
     <category term="Quantum Computing" scheme="https://blackfireagent.github.io/opensemi/tags/Quantum-Computing/"/>
     
-    <category term="Energy Efficiency" scheme="https://blackfireagent.github.io/opensemi/tags/Energy-Efficiency/"/>
-    
     <category term="Advanced Manufacturing" scheme="https://blackfireagent.github.io/opensemi/tags/Advanced-Manufacturing/"/>
     
     <category term="Semiconductor Supply Chain" scheme="https://blackfireagent.github.io/opensemi/tags/Semiconductor-Supply-Chain/"/>
+    
+    <category term="Energy Efficiency" scheme="https://blackfireagent.github.io/opensemi/tags/Energy-Efficiency/"/>
     
   </entry>
   
@@ -650,40 +684,6 @@
     <category term="GaN" scheme="https://blackfireagent.github.io/opensemi/tags/GaN/"/>
     
     <category term="Photonics" scheme="https://blackfireagent.github.io/opensemi/tags/Photonics/"/>
-    
-  </entry>
-  
-  <entry>
-    <title>VSORA- Inference Acceleration from the Ground Up</title>
-    <link href="https://blackfireagent.github.io/opensemi/20251031_VSORA--Inference-Acceleration-from-the-Ground-Up/"/>
-    <id>https://blackfireagent.github.io/opensemi/20251031_VSORA--Inference-Acceleration-from-the-Ground-Up/</id>
-    <published>2025-10-30T23:00:00.000Z</published>
-    <updated>2025-10-31T05:18:51.194Z</updated>
-    
-    <content type="html"><![CDATA[<div style="display: flex; justify-content: center;">  <audio controls>    <source src="/opensemi/podcasts/20251031_machinelearning_newsletter_gemini-2.5-flash.mp3" type="audio/mpeg">  </audio></div><h2 id="News"><a href="#News" class="headerlink" title="News"></a><a href="https://semiwiki.com/3dic/362862-chiplets-powering-the-next-generation-of-ai-systems/">News</a></h2><p><strong>Chiplets: Powering the Next Generation of AI Systems</strong><br>The semiconductor industry is rapidly shifting towards modular multi-die designs, with chiplets projected to become a $411 billion market by 2035. This paradigm allows for dividing large SoC functions into smaller, reusable dies, integrated into a single system-in-package (SiP) to overcome traditional SoC scaling limits. Critical to this evolution are interconnect standards like UCIe and advanced packaging techniques (2.5D and 3D). Collaboration between industry leaders like Synopsys and Arm is crucial, simplifying AI chip design by focusing on interoperability, reliability, and security within evolving chiplet ecosystems.</p><p><img src="https://semiwiki.com/wp-content/uploads/2025/10/Arm-Synopsys-at-Chiplet-Summit.png" alt="Arm Synopsys at Chiplet Summit"></p><ul><li>Chiplets are set to be a $411 billion market by 2035, driven by AI’s compute and I&#x2F;O demands.</li><li>UCIe is emerging as the preferred die-to-die interconnect standard, alongside advanced packaging techniques.</li><li>Industry collaboration, such as between Synopsys and Arm, is vital for streamlining AI chip design and ensuring interoperability.</li></ul><hr><h2 id="Launches"><a href="#Launches" class="headerlink" title="Launches"></a><a href="https://semiwiki.com/artificial-intelligence/363023-inference-acceleration-from-the-ground-up/">Launches</a></h2><p><strong>VSORA: Inference Acceleration from the Ground Up</strong><br>VSORA has engineered a novel architecture specifically for AI inference, delivering near-theoretical performance in latency, throughput, and energy efficiency for both datacenters and the edge. This fifth-generation architecture tackles the “memory wall” by employing a unified memory stage with a massive SRAM array, ensuring single-clock access to 16 million registers per core. Each core integrates 64K multi-dimensional MAC units and DSP cores, with dynamic numerical precision. The design leverages a chiplet architecture, allowing scalable configurations like the Jotunn8 for datacenters (3,200 TFLOPS FP8) and Tyr configurations for edge AI. This approach achieves processing efficiencies exceeding 50% and double the performance-per-watt of comparable solutions, simplifying development through a CUDA-free compilation flow.</p><p><img src="https://semiwiki.com/wp-content/uploads/2025/10/VSORA-AI-CHip.png" alt="VSORA AI Chip"></p><ul><li>VSORA’s new architecture achieves near-theoretical AI inference performance by eliminating the “memory wall” with a unified SRAM array.</li><li>Each core features 16 million registers and high-throughput MAC units, supporting flexible tensor operations and dynamic precision.</li><li>Chiplet-based scalability enables configurations for both datacenter (Jotunn8) and edge AI, offering significant power efficiency gains.</li></ul><hr><h2 id="Charts"><a href="#Charts" class="headerlink" title="Charts"></a><a href="https://semiengineering.com/understanding-and-mitigating-column-based-read-disturbance-in-dram-chips-eth-zurich-cispa/">Charts</a></h2><p><strong>Understanding and Mitigating Column-Based Read Disturbance in DRAM Chips</strong><br>Researchers at ETH Zurich and CISPA have identified and characterized a new widespread read disturbance phenomenon called “ColumnDisturb” in commodity DRAM chips. Unlike previous disturbances, ColumnDisturb can affect cells across multiple DRAM subarrays by repeatedly opening or keeping an aggressor row open, inducing bitflips in cells sharing the same columns. Experimental results from 216 DDR4 and 4 HBM2 chips show that this issue affects all major manufacturers and worsens as DRAM technology scales down, with the minimum time to induce a bitflip reducing by up to 5.06x. This trend suggests ColumnDisturb will pose significant challenges for future DRAM chips, impacting refresh mechanisms and data reliability.</p><p><img src="https://semiengineering.com/wp-content/uploads/AdobeStock_362074973-security-07-23-scaled.jpeg" alt="Security Image"></p><ul><li>A new “ColumnDisturb” read disturbance affects DRAM cells across multiple subarrays, causing bitflips.</li><li>This phenomenon worsens with DRAM technology scaling, reducing the time to induce bitflips by up to 5.06x.</li><li>ColumnDisturb poses significant reliability challenges for future DRAM designs and refresh mechanisms.</li></ul><hr><h2 id="Research"><a href="#Research" class="headerlink" title="Research"></a><a href="https://semiengineering.com/utilizing-chiplet-locality-for-efficient-memory-mapping-in-mcm-gpus-etri-sungkyunkwan-univ/">Research</a></h2><p><strong>Utilizing Chiplet-Locality For Efficient Memory Mapping In MCM GPUs (ETRI, Sungkyunkwan Univ.)</strong><br>Researchers from ETRI and Sungkyunkwan University have introduced CLAP (Chiplet-Locality Aware Paging), a novel approach to enhance memory mapping efficiency in Multi-Chip Module (MCM) GPUs. MCM designs introduce memory system non-uniformity when threads access remote chiplet resources, which is sensitive to page size. CLAP addresses this by determining the optimal page size for each application, leveraging the observation that GPU applications exhibit “chiplet-locality”—specific groups of pages primarily accessed by the same chiplet. By pre-organizing these local page groups into contiguous physical frames within the accessing chiplet, CLAP creates regions that function like large pages with merged TLB entries, delivering up to a 19.2% performance improvement over previous paging schemes.</p><p><img src="https://semiengineering.com/wp-content/uploads/AdobeStock_278047901-05-25-scaled.jpeg" alt="Adobe Stock Image"></p><ul><li>CLAP optimizes memory mapping in MCM GPUs by identifying and exploiting “chiplet-locality.”</li><li>It dynamically determines suitable page sizes for applications, consolidating local page groups for efficient access.</li><li>This approach improves performance by up to 19.2% by delivering the benefits of large pages without compromising locality.</li></ul><hr><h2 id="Insight"><a href="#Insight" class="headerlink" title="Insight"></a><a href="https://semiwiki.com/artificial-intelligence/362468-emulator-like-simulation-acceleration-on-gpus-innovation-in-verification/">Insight</a></h2><p><strong>Like Simulation Acceleration on GPUs. Innovation in Verification</strong><br>A new paper titled “GEM: GPU-Accelerated Emulator-Inspired RTL Simulation” by Peking University and NVIDIA introduces a novel method to accelerate logic simulation on GPUs, addressing previous challenges with GPU architectures. Paul Cunningham (GM, Verification at Cadence) highlights Cadence’s continued investment in this area, noting that GEM’s intelligent partitioning and bit-packed structure enable efficient execution on NVIDIA’s SIMT machines. Raúl Camposano (Silicon Catalyst, former Synopsys CTO) praises GEM’s innovations, particularly its “boomerang executor layer” for intra-block efficiency and multi-stage RepCut partitioning for scalability, achieving up to 9x speed-up over leading commercial simulators. While currently lacking features like 4-state logic and multi-GPU support, GEM’s open-source, software-only approach represents a significant step forward in verification efficiency.</p><p><img src="https://semiwiki.com/wp-content/uploads/2025/10/Innovation-New.jpeg" alt="Innovation New"></p><ul><li>GEM utilizes a new GPU-accelerated approach for RTL simulation, inspired by FPGA emulators.</li><li>It achieves up to 9x speed-up over commercial simulators by optimizing logic execution for GPU architectures.</li><li>Industry leaders recognize its potential for verification efficiency, despite current limitations in full commercial feature parity.</li></ul><hr><p>Stay connected with us for the most pivotal advancements shaping the future of the semiconductor landscape!</p>]]></content>
-    
-    
-      
-      
-    <summary type="html">&lt;div style=&quot;display: flex; justify-content: center;&quot;&gt;
-  &lt;audio controls&gt;
-    &lt;source src=&quot;/opensemi/podcasts/20251031_machinelearning_newsle</summary>
-      
-    
-    
-    
-    <category term="Machinelearning" scheme="https://blackfireagent.github.io/opensemi/categories/Machinelearning/"/>
-    
-    
-    <category term="Chiplets" scheme="https://blackfireagent.github.io/opensemi/tags/Chiplets/"/>
-    
-    <category term="DRAM" scheme="https://blackfireagent.github.io/opensemi/tags/DRAM/"/>
-    
-    <category term="Thermal Management" scheme="https://blackfireagent.github.io/opensemi/tags/Thermal-Management/"/>
-    
-    <category term="AI acceleration" scheme="https://blackfireagent.github.io/opensemi/tags/AI-acceleration/"/>
-    
-    <category term="FeRAM" scheme="https://blackfireagent.github.io/opensemi/tags/FeRAM/"/>
     
   </entry>
   
