@@ -4,6 +4,39 @@
   
     
     <entry>
+      <title>Synopsys + NVIDIA = The New Moore’s Law</title>
+      <link href="/opensemi/20251205_Synopsys-+-NVIDIA-=-The-New-Moore%E2%80%99s-Law/"/>
+      <url>/opensemi/20251205_Synopsys-+-NVIDIA-=-The-New-Moore%E2%80%99s-Law/</url>
+      
+        <content type="html"><![CDATA[<div style="display: flex; justify-content: center;">  <audio controls>    <source src="/opensemi/podcasts/20251205_machinelearning_newsletter_gemini-2.5-flash.mp3" type="audio/mpeg">  </audio></div><h2 id="News"><a href="#News" class="headerlink" title="News"></a><a href="https://semiwiki.com/eda/synopsys/364177-synopsys-nvidia-the-new-moores-law/">News</a></h2><p><strong>Synopsys + NVIDIA &#x3D; The New Moore’s Law</strong><br>NVIDIA and Synopsys have forged a landmark multi-year strategic partnership, backed by a significant $2 billion investment from NVIDIA, aimed at revolutionizing chip design. This collaboration integrates NVIDIA’s GPU-accelerated computing platform with Synopsys’ leading electronic design automation (EDA) and IP portfolio. The goal is to dramatically accelerate chip design cycles, reduce power consumption, and enable the next generation of AI, automotive, and high-performance computing silicon. Key initiatives include a unified, cloud-native design environment, a new AI-driven EDA suite dubbed “Synopsys.ai Copilot,” and an open “NVIDIA-Synopsys Foundry Design Kit” for 2nm and Intel 18A process nodes. This alliance is poised to significantly reduce tapeout times, potentially from months to weeks, marking a pivotal shift in EDA.</p><ul><li>NVIDIA’s $2 billion investment fuses GPU acceleration with Synopsys’ EDA tools.</li><li>Aims for 10-50x faster design speeds and reduced power consumption for AI and HPC.</li><li>Introduces Synopsys.ai Copilot and an open NVIDIA-Synopsys Foundry Design Kit.</li></ul><p><img src="https://semiwiki.com/wp-content/uploads/2025/12/Synopsys-NVIDIA-The-New-Moores-Law-2-1200x689.jpg" alt="Synopsys-NVIDIA The New Moore&#39;s Law"></p><hr><h2 id="Launches"><a href="#Launches" class="headerlink" title="Launches"></a><a href="https://semiwiki.com/artificial-intelligence/363881-an-assistant-to-ease-your-transition-to-pss/">Launches</a></h2><p><strong>An Assistant to Ease Your Transition to PSS</strong><br>Siemens EDA has launched Questa One’s Portable Stimulus Assist, a new GenAI-powered tool designed to streamline the adoption of the Portable Stimulus Specification (PSS) for verification engineers. Recognizing that PSS offers a more abstract and productive approach to defining verification intent compared to traditional UVM, this assistant leverages natural language prompts to guide users in building their own PSS models. This innovation aims to bridge the learning curve for engineers already familiar with UVM, facilitating a smoother transition to PSS. The article emphasizes that GenAI’s strength lies in enhancing engineering productivity by making complex flows more accessible, rather than entirely overhauling them.</p><ul><li>Questa One’s Portable Stimulus Assist uses GenAI to guide engineers in PSS model creation.</li><li>Aims to enhance verification productivity by simplifying the transition from UVM to PSS.</li><li>Leverages GenAI for practical, incremental advances in complex EDA flows.</li></ul><p><img src="https://semiwiki.com/wp-content/uploads/2025/11/PSS-Assistant-min.png" alt="PSS Assistant"></p><hr><h2 id="Charts"><a href="#Charts" class="headerlink" title="Charts"></a><a href="https://www.idc.com/getdoc.jsp?containerId=prUS51314924">Charts</a></h2><p><strong>Global Semiconductor Market to Grow by 16.0% in 2024 to Reach $611 Billion, Driven by AI and Memory, According to IDC</strong><br>Recent analysis by IDC forecasts a significant rebound in the global semiconductor market, anticipating a robust 16.0% growth in 2024, pushing the market size to an estimated $611 billion. This strong resurgence is primarily attributed to surging demand from the Artificial Intelligence (AI) sector and a concurrent recovery in memory markets. The report highlights that this momentum is expected to continue into 2025, fueled by sustained investments in advanced computing infrastructure and the widespread deployment of AI across various industries. This forecast underscores AI’s pivotal role in shaping future semiconductor demand and driving innovation within the industry.</p><ul><li>Global semiconductor market expected to grow 16.0% in 2024, reaching $611 billion.</li><li>Growth primarily driven by robust demand from AI and a recovering memory market.</li><li>Indicates AI’s critical role in future semiconductor market expansion and innovation.</li></ul><p><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Worldwide_Semiconductor_Sales.svg/1200px-Worldwide_Semiconductor_Sales.svg.png" alt="Worldwide Semiconductor Sales Trend"></p><hr><h2 id="Research"><a href="#Research" class="headerlink" title="Research"></a><a href="https://semiengineering.com/llms-on-analog-in-memory-computing-based-hardware-ibm-research-eth-zurich/">Research</a></h2><p><strong>LLMs on Analog In-Memory Computing Based Hardware (IBM Research, ETH Zurich)</strong><br>Researchers from IBM Research and ETH Zurich have unveiled a groundbreaking technical paper introducing “Analog Foundation Models,” a novel approach to enable efficient execution of Large Language Models (LLMs) on Analog In-Memory Computing (AIMC) hardware. AIMC holds immense promise for improving speed and power efficiency in neural network inference but has traditionally faced hurdles with noisy computations and stringent quantization constraints. This work presents a general and scalable methodology that successfully adapts state-of-the-art LLMs, such as Phi-3-mini-4k-instruct and Llama-3.2-1B-Instruct, to maintain performance comparable to 4-bit weight, 8-bit activation baselines, even amidst analog noise. This breakthrough bridges the critical gap between high-capacity LLMs and energy-efficient analog hardware, paving the way for more sustainable AI applications.</p><ul><li>Introduces “Analog Foundation Models” for efficient LLM execution on AIMC hardware.</li><li>Addresses challenges of noise and quantization in AIMC, retaining high LLM performance.</li><li>Paves the way for energy-efficient foundation models and sustainable AI.</li></ul><p><img src="https://semiengineering.com/wp-content/uploads/2016/09/brain.jpg" alt="Brain Image"></p><hr><h2 id="Insight"><a href="#Insight" class="headerlink" title="Insight"></a><a href="https://semiwiki.com/artificial-intelligence/363943-we-need-to-turn-specs-into-oracles-for-agentic-verification/">Insight</a></h2><p><strong>We Need to Turn Specs into Oracles for Agentic Verification</strong><br>This insightful piece advocates for leveraging the advanced natural language understanding capabilities of Large Language Models (LLMs) to transform design specifications into “oracles” for agentic verification. Drawing on expertise from Shelly Henry (CEO of MooresLab), the article highlights the inherent limitations of current specifications, which often suffer from incompleteness, inconsistencies, and ambiguities, leading to verification errors. The proposed methodology involves an LLM-based agent that can digest evolving specifications, generate clarifying questions, and systematically refine verification requirements—potentially incorporating complex diagrams like timing or FSM charts. This shift aims to establish a central, robust source of truth for design intent, significantly reducing verification errors and enhancing the overall efficiency of agentic verification flows.</p><ul><li>Advocates using LLMs to transform design specifications into “oracles” for verification.</li><li>Addresses spec incompleteness, inconsistencies, and ambiguities in current design flows.</li><li>LLM agents can refine specs, generate verification requirements, and enhance agentic verification efficiency.</li></ul><p><img src="https://semiwiki.com/wp-content/uploads/2025/11/Spec-as-an-oracle-min.png" alt="Spec as an oracle"></p><hr><p>Stay tuned for more essential updates and analysis shaping the future of the semiconductor industry.</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> Machinelearning </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> AI </tag>
+            
+            <tag> Chip Design </tag>
+            
+            <tag> EDA </tag>
+            
+            <tag> Verification </tag>
+            
+            <tag> Memory Architectures </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>Nagoya University Develops 0.3mm Ultra-Thin Loop Heat Pipe for Chip Cooling</title>
       <link href="/opensemi/20251204_Nagoya-University-Develops-0.3mm-Ultra-Thin-Loop-Heat-Pipe-for-Chip-Cooling/"/>
       <url>/opensemi/20251204_Nagoya-University-Develops-0.3mm-Ultra-Thin-Loop-Heat-Pipe-for-Chip-Cooling/</url>
@@ -964,9 +997,9 @@
             
             <tag> market trends </tag>
             
-            <tag> RISC-V </tag>
-            
             <tag> chiplets </tag>
+            
+            <tag> RISC-V </tag>
             
             <tag> advanced packaging </tag>
             
@@ -3255,39 +3288,6 @@
     
     
     <entry>
-      <title>Safeguard power domain compatibility by finding missing level shifters</title>
-      <link href="/opensemi/20250518_Safeguard-power-domain-compatibility-by-finding-missing-level-shifters/"/>
-      <url>/opensemi/20250518_Safeguard-power-domain-compatibility-by-finding-missing-level-shifters/</url>
-      
-        <content type="html"><![CDATA[<h2 id="News"><a href="#News" class="headerlink" title="News"></a><a href="https://www.semiconductor-digest.com/renesas-partners-with-indian-government-to-drive-innovation-through-startups-and-industry-academia-collaboration/">News</a></h2><p><strong>Renesas Partners with Indian Government to Drive Innovation Through Startups and Industry</strong><br>Renesas Electronics Corporation has announced a partnership with the Indian government aimed at supporting local startups and academic institutions in VLSI and embedded semiconductor systems. This initiative is part of Renesas’ broader strategy to deepen its market presence in India, with ambitious plans to generate over 10% of its global revenue from the region by 2030.</p><p><img src="https://www.semiconductor-digest.com/wp-content/uploads/2025/05/unnamed.jpg" alt="Renesas Partnership"></p><hr><h2 id="Launches"><a href="#Launches" class="headerlink" title="Launches"></a><a href="https://www.semiconductor-digest.com/curvilinear-technology-a-game-changer-for-the-logic-technology-roadmap/">Launches</a></h2><p><strong>Curvilinear Technology: A Game Changer for the Logic Technology Roadmap</strong><br>Imec has introduced curvilinear design techniques in optical proximity correction (OPC) and mask writing, which promise to reduce errors and improve the process window for advanced semiconductor manufacturing. This innovative approach is expected to enhance chip performance while reducing costs in future semiconductor nodes.</p><p><img src="https://www.semiconductor-digest.com/wp-content/uploads/2025/05/Figure-8-Wafer-level-printing.jpg" alt="Curvilinear Technology"></p><hr><h2 id="Charts"><a href="#Charts" class="headerlink" title="Charts"></a><a href="https://semiwiki.com/events/355791-webinar-achieving-seamless-1-6-tbps-interoperability-with-samtec-and-synopsys/">Charts</a></h2><p><strong>Achieving 1.6 Tbps Interoperability</strong><br>A recent webinar explored the critical role of 224G SerDes technology in achieving high-speed data transfers, essential for supporting AI workloads. The discussion highlighted the required interoperability testing and the evolving needs for system design in the semiconductor industry.</p><p><img src="https://semiwiki.com/wp-content/uploads/2025/05/Webinar-Achieving-Seamless-1.6-Tbps-Interoperability-with-Samtec-and-Synopsys.png" alt="Webinar on Interoperability"></p><hr><h2 id="Research"><a href="#Research" class="headerlink" title="Research"></a><a href="https://techxplore.com/news/2025-05-strategy-fabricate-highly-thin-tin.html">Research</a></h2><p><strong>A new strategy to fabricate highly performing thin-film tin perovskite transistors</strong><br>Researchers at Pohang University have developed a novel approach to create high-performance p-channel thin-film transistors using tin-halide perovskites. Their method utilizes vapor deposition techniques, achieving excellent mobility and stability, potentially paving the way for broader applications in semiconductor technology.</p><p><img src="https://scx2.b-cdn.net/gfx/news/hires/2025/a-new-strategy-to-fabr-1.jpg" alt="Tin Perovskite Transistors"></p><hr><h2 id="Insight"><a href="#Insight" class="headerlink" title="Insight"></a><a href="https://semiwiki.com/eda/355809-safeguard-power-domain-compatibility-by-finding-missing-level-shifters/">Insight</a></h2><p><strong>Safeguard power domain compatibility by finding missing level shifters</strong><br>An insightful article discusses the critical role of level shifters in mixed signal design and their impact on signal integrity and device performance. With advanced EDA tools, designers can identify potential issues early in the design phase, ensuring reliable operation in integrated circuits.</p><p><img src="https://semiwiki.com/wp-content/uploads/2025/05/fig1-missing-level-shifters-1200x676.jpg" alt="Level Shifters"></p><hr><p>Stay tuned for more updates on the latest advancements and trends in the semiconductor industry!</p>]]></content>
-      
-      
-      <categories>
-          
-          <category> Semiconductor </category>
-          
-      </categories>
-      
-      
-        <tags>
-            
-            <tag> AI </tag>
-            
-            <tag> technology </tag>
-            
-            <tag> innovation </tag>
-            
-            <tag> manufacturing </tag>
-            
-            <tag> semiconductors </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
       <title>NSR-S636E ArF Immersion Scanner</title>
       <link href="/opensemi/20250518_NSR-S636E-ArF-Immersion-Scanner/"/>
       <url>/opensemi/20250518_NSR-S636E-ArF-Immersion-Scanner/</url>
@@ -3313,6 +3313,39 @@
             <tag> EUV </tag>
             
             <tag> optics </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>Safeguard power domain compatibility by finding missing level shifters</title>
+      <link href="/opensemi/20250518_Safeguard-power-domain-compatibility-by-finding-missing-level-shifters/"/>
+      <url>/opensemi/20250518_Safeguard-power-domain-compatibility-by-finding-missing-level-shifters/</url>
+      
+        <content type="html"><![CDATA[<h2 id="News"><a href="#News" class="headerlink" title="News"></a><a href="https://www.semiconductor-digest.com/renesas-partners-with-indian-government-to-drive-innovation-through-startups-and-industry-academia-collaboration/">News</a></h2><p><strong>Renesas Partners with Indian Government to Drive Innovation Through Startups and Industry</strong><br>Renesas Electronics Corporation has announced a partnership with the Indian government aimed at supporting local startups and academic institutions in VLSI and embedded semiconductor systems. This initiative is part of Renesas’ broader strategy to deepen its market presence in India, with ambitious plans to generate over 10% of its global revenue from the region by 2030.</p><p><img src="https://www.semiconductor-digest.com/wp-content/uploads/2025/05/unnamed.jpg" alt="Renesas Partnership"></p><hr><h2 id="Launches"><a href="#Launches" class="headerlink" title="Launches"></a><a href="https://www.semiconductor-digest.com/curvilinear-technology-a-game-changer-for-the-logic-technology-roadmap/">Launches</a></h2><p><strong>Curvilinear Technology: A Game Changer for the Logic Technology Roadmap</strong><br>Imec has introduced curvilinear design techniques in optical proximity correction (OPC) and mask writing, which promise to reduce errors and improve the process window for advanced semiconductor manufacturing. This innovative approach is expected to enhance chip performance while reducing costs in future semiconductor nodes.</p><p><img src="https://www.semiconductor-digest.com/wp-content/uploads/2025/05/Figure-8-Wafer-level-printing.jpg" alt="Curvilinear Technology"></p><hr><h2 id="Charts"><a href="#Charts" class="headerlink" title="Charts"></a><a href="https://semiwiki.com/events/355791-webinar-achieving-seamless-1-6-tbps-interoperability-with-samtec-and-synopsys/">Charts</a></h2><p><strong>Achieving 1.6 Tbps Interoperability</strong><br>A recent webinar explored the critical role of 224G SerDes technology in achieving high-speed data transfers, essential for supporting AI workloads. The discussion highlighted the required interoperability testing and the evolving needs for system design in the semiconductor industry.</p><p><img src="https://semiwiki.com/wp-content/uploads/2025/05/Webinar-Achieving-Seamless-1.6-Tbps-Interoperability-with-Samtec-and-Synopsys.png" alt="Webinar on Interoperability"></p><hr><h2 id="Research"><a href="#Research" class="headerlink" title="Research"></a><a href="https://techxplore.com/news/2025-05-strategy-fabricate-highly-thin-tin.html">Research</a></h2><p><strong>A new strategy to fabricate highly performing thin-film tin perovskite transistors</strong><br>Researchers at Pohang University have developed a novel approach to create high-performance p-channel thin-film transistors using tin-halide perovskites. Their method utilizes vapor deposition techniques, achieving excellent mobility and stability, potentially paving the way for broader applications in semiconductor technology.</p><p><img src="https://scx2.b-cdn.net/gfx/news/hires/2025/a-new-strategy-to-fabr-1.jpg" alt="Tin Perovskite Transistors"></p><hr><h2 id="Insight"><a href="#Insight" class="headerlink" title="Insight"></a><a href="https://semiwiki.com/eda/355809-safeguard-power-domain-compatibility-by-finding-missing-level-shifters/">Insight</a></h2><p><strong>Safeguard power domain compatibility by finding missing level shifters</strong><br>An insightful article discusses the critical role of level shifters in mixed signal design and their impact on signal integrity and device performance. With advanced EDA tools, designers can identify potential issues early in the design phase, ensuring reliable operation in integrated circuits.</p><p><img src="https://semiwiki.com/wp-content/uploads/2025/05/fig1-missing-level-shifters-1200x676.jpg" alt="Level Shifters"></p><hr><p>Stay tuned for more updates on the latest advancements and trends in the semiconductor industry!</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> Semiconductor </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> AI </tag>
+            
+            <tag> technology </tag>
+            
+            <tag> innovation </tag>
+            
+            <tag> manufacturing </tag>
+            
+            <tag> semiconductors </tag>
             
         </tags>
       
@@ -3721,9 +3754,9 @@
             
             <tag> AI </tag>
             
-            <tag> Semiconductor Manufacturing </tag>
-            
             <tag> Market Trends </tag>
+            
+            <tag> Semiconductor Manufacturing </tag>
             
             <tag> Research </tag>
             
